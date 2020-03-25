@@ -17,10 +17,11 @@ git rebase "${remote_name}/${main_branch}"
 
 npm install drive-db
 npm install node-fetch
+npm install moment
 
+node sheet-to-json_raw_data.js
 node sheet-to-json.js
 node sheet-to-json_travel_history.js
-node sheet-to-json_raw_data.js
 node raw_data-to-state_district_wise_data.js
 node sheet-to-json_faq.js
 node sheet-to-json_websitedata.js

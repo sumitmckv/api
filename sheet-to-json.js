@@ -1,6 +1,8 @@
 
 const fs = require('fs');
 const drive = require("drive-db");
+let moment = require("moment");
+const rawData = require('./raw_data');
 
 const SHEET = "1nzXUdaIWC84QipdVGUKTiCSc5xntBbpMpzLm6Si33zk";
 const SHEET_STATEWISE_TAB = "ovd0hzm"
@@ -33,6 +35,7 @@ async function fetchData() {
     mergedData = { ...mergedData, ...obj };
   });
 
+  mergedData.statewise = mergedData.statewise.map(data => Object.assign(data, {delta: getDelta(data.state)}));
   return mergedData;
 }
 
@@ -50,12 +53,37 @@ function sortObjByKey(value) {
     value;
 }
 
+function getDelta(state) {
+  return  rawData.raw_data.reduce((stat, row) => {
+    let stateName = row.detectedstate;
+    let isToday = moment().isSame(moment(row.dateannounced, "DD-MM-YYYY"), "day");
+    if (stateName && (stateName === state || state === "Total") && isToday) {
+      let currentStatus = row.currentstatus;
+      if (currentStatus) {
+        stat.confirmed += 1;
+        switch (currentStatus) {
+          case "Hospitalized":
+            stat.active += 1;
+            break;
+          case "Recovered":
+            stat.recovered += 1;
+            break;
+          case "Deceased":
+            stat.deaths += 1;
+            break;
+        }
+      }
+    }
+    return stat;
+  }, {active: 0, confirmed: 0, deaths: 0, recovered: 0});
+}
+
 async function writeData(data) {
   const fileContent = JSON.stringify(sortObjByKey(data),null,"\t");
   if (!fs.existsSync(dir)){
     fs.mkdirSync(dir);
   }
-  return await fs.writeFileSync(dir+filename, fileContent);;
+  return await fs.writeFileSync(dir+filename, fileContent);
 }
 
 async function task() {
