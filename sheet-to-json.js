@@ -72,6 +72,8 @@ function getDelta(state) {
             stat.deaths += 1;
             break;
         }
+      } else {
+        console.error("Current status is empty in sheet for patient:", row.patientnumber);
       }
     }
     return stat;
