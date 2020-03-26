@@ -2,8 +2,8 @@
   "Kerala": {
     "districtData": {
       "Thrissur": {
-        "active": 1,
-        "confirmed": 3,
+        "active": 3,
+        "confirmed": 5,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 2
@@ -16,8 +16,8 @@
         "recovered": 1
       },
       "Kasaragod": {
-        "active": 38,
-        "confirmed": 39,
+        "active": 47,
+        "confirmed": 48,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 1
@@ -30,8 +30,8 @@
         "recovered": 0
       },
       "Kannur": {
-        "active": 13,
-        "confirmed": 14,
+        "active": 22,
+        "confirmed": 23,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 1
@@ -58,15 +58,15 @@
         "recovered": 1
       },
       "Idukki": {
-        "active": 2,
-        "confirmed": 2,
+        "active": 3,
+        "confirmed": 3,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0
       },
       "Malappuram": {
-        "active": 5,
-        "confirmed": 5,
+        "active": 8,
+        "confirmed": 8,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0
@@ -78,9 +78,9 @@
         "lastupdatedtime": "",
         "recovered": 0
       },
-      "Unknown": {
-        "active": 3,
-        "confirmed": 3,
+      "Thiruvanathapuram": {
+        "active": 1,
+        "confirmed": 1,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0
@@ -92,9 +92,9 @@
         "lastupdatedtime": "",
         "recovered": 0
       },
-      "Kasargod": {
-        "active": 4,
-        "confirmed": 4,
+      "Wayanad": {
+        "active": 1,
+        "confirmed": 1,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0
@@ -110,10 +110,10 @@
         "lastupdatedtime": "",
         "recovered": 1
       },
-      "Unknown": {
-        "active": 25,
-        "confirmed": 26,
-        "deaths": 0,
+      "South West Delhi": {
+        "active": 2,
+        "confirmed": 3,
+        "deaths": 1,
         "lastupdatedtime": "",
         "recovered": 0
       },
@@ -124,16 +124,37 @@
         "lastupdatedtime": "",
         "recovered": 1
       },
-      "South West Delhi": {
-        "active": 1,
-        "confirmed": 2,
-        "deaths": 1,
+      "Unknown": {
+        "active": 20,
+        "confirmed": 21,
+        "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0
       },
       "Delhi": {
-        "active": 5,
-        "confirmed": 5,
+        "active": 7,
+        "confirmed": 7,
+        "deaths": 0,
+        "lastupdatedtime": "",
+        "recovered": 0
+      },
+      "North East Delhi": {
+        "active": 1,
+        "confirmed": 1,
+        "deaths": 0,
+        "lastupdatedtime": "",
+        "recovered": 0
+      },
+      "North West Delhi": {
+        "active": 1,
+        "confirmed": 1,
+        "deaths": 0,
+        "lastupdatedtime": "",
+        "recovered": 0
+      },
+      "North Delhi": {
+        "active": 1,
+        "confirmed": 1,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0
@@ -143,8 +164,8 @@
   "Telangana": {
     "districtData": {
       "Hyderabad": {
-        "active": 31,
-        "confirmed": 32,
+        "active": 34,
+        "confirmed": 35,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 1
@@ -170,7 +191,7 @@
         "lastupdatedtime": "",
         "recovered": 0
       },
-      "Unknown": {
+      "Medchal": {
         "active": 1,
         "confirmed": 1,
         "deaths": 0,
@@ -182,36 +203,36 @@
   "Rajasthan": {
     "districtData": {
       "Jaipur": {
-        "active": 7,
-        "confirmed": 10,
+        "active": 8,
+        "confirmed": 11,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 3
       },
       "Jhunjhunu": {
-        "active": 5,
-        "confirmed": 5,
+        "active": 6,
+        "confirmed": 6,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0
       },
       "Bhilwara": {
-        "active": 12,
-        "confirmed": 12,
+        "active": 15,
+        "confirmed": 15,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0
       },
       "Jodhpur": {
-        "active": 3,
-        "confirmed": 3,
+        "active": 4,
+        "confirmed": 4,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0
       },
       "Unknown": {
-        "active": 6,
-        "confirmed": 6,
+        "active": 2,
+        "confirmed": 2,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0
@@ -242,8 +263,8 @@
         "recovered": 0
       },
       "Panipat": {
-        "active": 2,
-        "confirmed": 2,
+        "active": 3,
+        "confirmed": 3,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0
@@ -274,18 +295,18 @@
   "Uttar Pradesh": {
     "districtData": {
       "Agra": {
-        "active": 7,
-        "confirmed": 7,
-        "deaths": 0,
-        "lastupdatedtime": "",
-        "recovered": 0
-      },
-      "Unknown": {
         "active": 8,
         "confirmed": 9,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 1
+      },
+      "Unknown": {
+        "active": 2,
+        "confirmed": 2,
+        "deaths": 0,
+        "lastupdatedtime": "",
+        "recovered": 0
       },
       "Ghaziabad": {
         "active": 2,
@@ -295,15 +316,15 @@
         "recovered": 1
       },
       "Lucknow": {
-        "active": 4,
-        "confirmed": 4,
+        "active": 8,
+        "confirmed": 8,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0
       },
       "Gautam Buddh Nagar": {
-        "active": 8,
-        "confirmed": 8,
+        "active": 11,
+        "confirmed": 11,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0
@@ -316,6 +337,13 @@
         "recovered": 0
       },
       "Moradabad": {
+        "active": 1,
+        "confirmed": 1,
+        "deaths": 0,
+        "lastupdatedtime": "",
+        "recovered": 0
+      },
+      "Varanasi": {
         "active": 1,
         "confirmed": 1,
         "deaths": 0,
@@ -337,6 +365,13 @@
         "recovered": 0
       },
       "Jaunpur": {
+        "active": 1,
+        "confirmed": 1,
+        "deaths": 0,
+        "lastupdatedtime": "",
+        "recovered": 0
+      },
+      "Baghpat": {
         "active": 1,
         "confirmed": 1,
         "deaths": 0,
@@ -366,22 +401,15 @@
   "Tamil Nadu": {
     "districtData": {
       "Chennai": {
-        "active": 10,
-        "confirmed": 11,
+        "active": 12,
+        "confirmed": 13,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 1
       },
-      "Unknown": {
-        "active": 4,
-        "confirmed": 4,
-        "deaths": 0,
-        "lastupdatedtime": "",
-        "recovered": 0
-      },
       "Erode": {
-        "active": 2,
-        "confirmed": 2,
+        "active": 3,
+        "confirmed": 3,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0
@@ -420,6 +448,20 @@
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0
+      },
+      "Ranipet": {
+        "active": 1,
+        "confirmed": 1,
+        "deaths": 0,
+        "lastupdatedtime": "",
+        "recovered": 0
+      },
+      "Trichy": {
+        "active": 1,
+        "confirmed": 1,
+        "deaths": 0,
+        "lastupdatedtime": "",
+        "recovered": 0
       }
     }
   },
@@ -440,8 +482,8 @@
         "recovered": 0
       },
       "Srinagar": {
-        "active": 3,
-        "confirmed": 3,
+        "active": 5,
+        "confirmed": 5,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0
@@ -458,8 +500,8 @@
   "Karnataka": {
     "districtData": {
       "Bengaluru": {
-        "active": 30,
-        "confirmed": 33,
+        "active": 32,
+        "confirmed": 35,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 3
@@ -480,14 +522,14 @@
       },
       "Chikkaballapura": {
         "active": 3,
-        "confirmed": 3,
-        "deaths": 0,
+        "confirmed": 4,
+        "deaths": 1,
         "lastupdatedtime": "",
         "recovered": 0
       },
       "Mysuru": {
-        "active": 2,
-        "confirmed": 2,
+        "active": 3,
+        "confirmed": 3,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0
@@ -539,8 +581,8 @@
   "Maharashtra": {
     "districtData": {
       "Pune": {
-        "active": 24,
-        "confirmed": 24,
+        "active": 25,
+        "confirmed": 25,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0
@@ -560,8 +602,8 @@
         "recovered": 0
       },
       "Thane": {
-        "active": 2,
-        "confirmed": 2,
+        "active": 4,
+        "confirmed": 4,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0
@@ -574,8 +616,8 @@
         "recovered": 0
       },
       "Yavatmal": {
-        "active": 2,
-        "confirmed": 2,
+        "active": 3,
+        "confirmed": 3,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0
@@ -588,8 +630,8 @@
         "recovered": 0
       },
       "Unknown": {
-        "active": 77,
-        "confirmed": 78,
+        "active": 64,
+        "confirmed": 65,
         "deaths": 1,
         "lastupdatedtime": "",
         "recovered": 0
@@ -597,6 +639,20 @@
       "Ratnagiri": {
         "active": 1,
         "confirmed": 1,
+        "deaths": 0,
+        "lastupdatedtime": "",
+        "recovered": 0
+      },
+      "Ahmednagar": {
+        "active": 1,
+        "confirmed": 1,
+        "deaths": 0,
+        "lastupdatedtime": "",
+        "recovered": 0
+      },
+      "Sangli": {
+        "active": 9,
+        "confirmed": 9,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0
@@ -620,8 +676,8 @@
         "recovered": 0
       },
       "Shaheed Bhagat Singh Nagar": {
-        "active": 14,
-        "confirmed": 15,
+        "active": 15,
+        "confirmed": 16,
         "deaths": 1,
         "lastupdatedtime": "",
         "recovered": 0
@@ -641,8 +697,8 @@
         "recovered": 0
       },
       "Jalandhar": {
-        "active": 3,
-        "confirmed": 3,
+        "active": 4,
+        "confirmed": 4,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0
@@ -680,8 +736,8 @@
         "recovered": 0
       },
       "Visakhapatnam": {
-        "active": 2,
-        "confirmed": 2,
+        "active": 3,
+        "confirmed": 3,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0
@@ -694,27 +750,13 @@
         "recovered": 0
       },
       "Krishna": {
-        "active": 1,
-        "confirmed": 1,
-        "deaths": 0,
-        "lastupdatedtime": "",
-        "recovered": 0
-      },
-      "Vishakhapatnam": {
-        "active": 1,
-        "confirmed": 1,
+        "active": 2,
+        "confirmed": 2,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0
       },
       "Chitoor": {
-        "active": 1,
-        "confirmed": 1,
-        "deaths": 0,
-        "lastupdatedtime": "",
-        "recovered": 0
-      },
-      "Vijayawada": {
         "active": 1,
         "confirmed": 1,
         "deaths": 0,
@@ -732,9 +774,16 @@
   },
   "Uttarakhand": {
     "districtData": {
+      "Dehradun": {
+        "active": 3,
+        "confirmed": 3,
+        "deaths": 0,
+        "lastupdatedtime": "",
+        "recovered": 0
+      },
       "Unknown": {
-        "active": 4,
-        "confirmed": 4,
+        "active": 1,
+        "confirmed": 1,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0
@@ -751,8 +800,15 @@
   "Odisha": {
     "districtData": {
       "Unknown": {
-        "active": 2,
-        "confirmed": 2,
+        "active": 1,
+        "confirmed": 1,
+        "deaths": 0,
+        "lastupdatedtime": "",
+        "recovered": 0
+      },
+      "Khordha": {
+        "active": 1,
+        "confirmed": 1,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0
@@ -774,8 +830,8 @@
     "districtData": {
       "Kolkata": {
         "active": 4,
-        "confirmed": 4,
-        "deaths": 0,
+        "confirmed": 5,
+        "deaths": 1,
         "lastupdatedtime": "",
         "recovered": 0
       },
@@ -790,13 +846,6 @@
         "active": 1,
         "confirmed": 1,
         "deaths": 0,
-        "lastupdatedtime": "",
-        "recovered": 0
-      },
-      "North Kolkata": {
-        "active": 0,
-        "confirmed": 1,
-        "deaths": 1,
         "lastupdatedtime": "",
         "recovered": 0
       }
@@ -815,6 +864,20 @@
   },
   "Chhattisgarh": {
     "districtData": {
+      "Raipur": {
+        "active": 2,
+        "confirmed": 2,
+        "deaths": 0,
+        "lastupdatedtime": "",
+        "recovered": 0
+      },
+      "Rajnandgaon": {
+        "active": 1,
+        "confirmed": 1,
+        "deaths": 0,
+        "lastupdatedtime": "",
+        "recovered": 0
+      },
       "Unknown": {
         "active": 3,
         "confirmed": 3,
@@ -869,8 +932,8 @@
         "recovered": 0
       },
       "Unknown": {
-        "active": 2,
-        "confirmed": 2,
+        "active": 7,
+        "confirmed": 7,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0
@@ -891,8 +954,8 @@
   "Madhya Pradesh": {
     "districtData": {
       "Jabalpur": {
-        "active": 5,
-        "confirmed": 5,
+        "active": 6,
+        "confirmed": 6,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0
@@ -904,10 +967,17 @@
         "lastupdatedtime": "",
         "recovered": 0
       },
-      "Unknown": {
-        "active": 11,
-        "confirmed": 11,
+      "Indore": {
+        "active": 9,
+        "confirmed": 9,
         "deaths": 0,
+        "lastupdatedtime": "",
+        "recovered": 0
+      },
+      "Ujjain": {
+        "active": 0,
+        "confirmed": 1,
+        "deaths": 1,
         "lastupdatedtime": "",
         "recovered": 0
       },
@@ -942,6 +1012,13 @@
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0
+      },
+      "Unknown": {
+        "active": 2,
+        "confirmed": 2,
+        "deaths": 0,
+        "lastupdatedtime": "",
+        "recovered": 0
       }
     }
   },
@@ -969,7 +1046,7 @@
   },
   "Goa": {
     "districtData": {
-      "Goa": {
+      "North Goa": {
         "active": 3,
         "confirmed": 3,
         "deaths": 0,
@@ -978,11 +1055,11 @@
       }
     }
   },
-  "Unknown": {
+  "Andaman and Nicobar Islands": {
     "districtData": {
       "Unknown": {
-        "active": 0,
-        "confirmed": 48,
+        "active": 1,
+        "confirmed": 1,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0
