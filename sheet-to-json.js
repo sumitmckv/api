@@ -56,7 +56,7 @@ function sortObjByKey(value) {
 function getDelta(state) {
   return  rawData.raw_data.reduce((stat, row) => {
     let stateName = row.detectedstate;
-    let isToday = moment().isSame(moment(row.dateannounced, "DD-MM-YYYY"), "day");
+    let isToday = moment().utcOffset(330).isSame(moment(row.dateannounced, "DD-MM-YYYY"), "day");
     if (stateName && (stateName === state || state === "Total") && isToday) {
       let currentStatus = row.currentstatus;
       if (currentStatus) {
