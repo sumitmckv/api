@@ -1,7 +1,7 @@
 {
 	"factoids": [
 		{
-			"banner": " Don't Hoard groceries and essentials. Please ensure that people who are in need don't face a shortage because of you! ",
+			"banner": "Don't Hoard groceries and essentials. Please ensure that people who are in need don't face a shortage because of you! ",
 			"id": "1",
 			"numberoftimes": "2"
 		},
@@ -73,6 +73,31 @@
 		{
 			"banner": "If you have any queries, reach out to your district administration or doctors! ",
 			"id": "15",
+			"numberoftimes": "1"
+		},
+		{
+			"banner": "Wash your hands with soap and water often. Keep the virus at bay.",
+			"id": "16",
+			"numberoftimes": "1"
+		},
+		{
+			"banner": "The hot weather will not stop the virus! You can! Stay home, stay safe.",
+			"id": "17",
+			"numberoftimes": "1"
+		},
+		{
+			"banner": "Help the medical fraternity by staying at home! ",
+			"id": "18",
+			"numberoftimes": "1"
+		},
+		{
+			"banner": "Avoid going out during the lockdown. Help break the chain of spread.",
+			"id": "19",
+			"numberoftimes": "1"
+		},
+		{
+			"banner": "Call up your loved ones during the lockdown, support each other through these times.",
+			"id": "20",
 			"numberoftimes": "1"
 		}
 	]
