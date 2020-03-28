@@ -1,17 +1,7 @@
-
-const fs = require('fs');
-const drive = require("drive-db");
-let moment = require("moment");
+const moment = require("moment");
 const rawData = require('./raw_data');
-
-const SHEET = "1nzXUdaIWC84QipdVGUKTiCSc5xntBbpMpzLm6Si33zk";
-const SHEET_STATEWISE_TAB = "ovd0hzm"
-const SHEET_CASES_TIME_SERIES_TAB = "o6emnqt"
-const SHEET_KEY_VALUES_TAB = "owlnkho"
-const SHEET_Tested_Numbers_ICMR_Data = "ozg9iqq"
-
-const dir='./'
-const filename = '/data.json'
+const { fetchData, writeData } = require("./lib");
+const { SHEET, SHEET_STATEWISE_TAB, SHEET_CASES_TIME_SERIES_TAB, SHEET_KEY_VALUES_TAB, SHEET_Tested_Numbers_ICMR_Data, FILE_DATA } = require("./lib/constants");
 
 const tabs = {
   statewise: SHEET_STATEWISE_TAB,
@@ -19,39 +9,6 @@ const tabs = {
   key_values: SHEET_KEY_VALUES_TAB,
   tested:SHEET_Tested_Numbers_ICMR_Data,
 };
-
-async function fetchData() {
-  const data = await Promise.all(
-    Object.keys(tabs).map(async tab => {
-      return {
-        [tab]: await drive({ sheet: SHEET, tab: tabs[tab] })
-      };
-    })
-    );
-
-  let mergedData = {};
-
-  data.forEach(obj => {
-    mergedData = { ...mergedData, ...obj };
-  });
-
-  mergedData.statewise = mergedData.statewise.map(data => Object.assign(data, {delta: getDelta(data.state)}));
-  return mergedData;
-}
-
-function sortObjByKey(value) {
-  return (typeof value === 'object') ?
-    (Array.isArray(value) ?
-      value.map(sortObjByKey) :
-      Object.keys(value).sort().reduce(
-        (o, key) => {
-          const v = value[key];
-          o[key] = sortObjByKey(v);
-          return o;
-        }, {})
-    ) :
-    value;
-}
 
 function getDelta(state) {
   return  rawData.raw_data.reduce((stat, row) => {
@@ -80,30 +37,19 @@ function getDelta(state) {
   }, {active: 0, confirmed: 0, deaths: 0, recovered: 0});
 }
 
-async function writeData(data) {
-  const fileContent = JSON.stringify(sortObjByKey(data),null,"\t");
-  if (!fs.existsSync(dir)){
-    fs.mkdirSync(dir);
-  }
-  return await fs.writeFileSync(dir+filename, fileContent);
-}
-
 async function task() {
-  console.log("Fetching data from sheets...");
-  const data = await fetchData();
-  console.log("Writing data to json file...");
-  await writeData(data);
-  console.log("Opertion completed!");
+  console.log(`Fetching data from sheets: ${SHEET}...`);
+  let data = await fetchData({ sheet: SHEET, tabs });
+  data.statewise = data.statewise.map(data => Object.assign(data, {delta: getDelta(data.state)}));
+  console.log(`Writing data to json file: ${FILE_DATA}...`);
+  await writeData({file: FILE_DATA, data});
+  console.log("Operation completed!");
 }
 
-
-async function main() {
+(async function main() {
   console.log("Running task on start...");
   await task();
   console.log("Created Json File With Updated Contents");
-
-}
-
-main();
+})();
 
 // source https://github.com/reustle/covid19japan/blob/master/scripts/cache-spreadsheet-data/cache-sheet.js , and made the changes accordingly
