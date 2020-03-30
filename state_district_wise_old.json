@@ -756,7 +756,7 @@
         }
       },
       "Unknown": {
-        "confirmed": 41,
+        "confirmed": 59,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1052,6 +1052,13 @@
         "delta": {
           "confirmed": 0
         }
+      },
+      "Korba": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
       }
     }
   },
@@ -1321,7 +1328,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 271,
+        "confirmed": 252,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
