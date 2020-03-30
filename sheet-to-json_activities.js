@@ -6,14 +6,18 @@ const { FILE_ACTIVITIES } = require("./lib/constants");
 const normalizeDistrictData = (data) => {
     let result = [];
     Object.keys(data).forEach(state => {
-        let districtData = data[state].districtData;
-        Object.keys(districtData).forEach((district) => {
-            result.push({
-                id: `${state.toUpperCase()}_${district.toUpperCase()}`,
-                name: `${district}, ${state}`,
-                confirmed: districtData[district].confirmed
+        if (!isUnknown(state)) {
+            let districtData = data[state].districtData;
+            Object.keys(districtData).forEach((district) => {
+                if (!isUnknown(district)) {
+                    result.push({
+                        id: `${state.toUpperCase()}_${district.toUpperCase()}`,
+                        name: `${district}, ${state}`,
+                        confirmed: districtData[district].confirmed
+                    });
+                }
             });
-        });
+        }
     });
     return result;
 };
@@ -41,6 +45,8 @@ const districtWiseActivities = () => {
     });
     return activities;
 };
+
+const isUnknown = (name) => name.toLowerCase() === "unknown";
 
 async function task() {
     console.log(`Getting activities...`);
