@@ -1,0 +1,25 @@
+{
+	"districtWise": [
+		{
+			"id": "RAJASTHAN_JAIPUR",
+			"lastUpdatedTime": "Mar 30, 2020 11:18 PM",
+			"message": "8 new confirmed cases in Jaipur, Rajasthan"
+		},
+		{
+			"id": "RAJASTHAN_JODHPUR",
+			"lastUpdatedTime": "Mar 30, 2020 11:18 PM",
+			"message": "1 new confirmed case in Jodhpur, Rajasthan"
+		},
+		{
+			"id": "RAJASTHAN_ALWAR",
+			"lastUpdatedTime": "Mar 30, 2020 11:18 PM",
+			"message": "1 new confirmed case in Alwar, Rajasthan"
+		},
+		{
+			"id": "KARNATAKA_BALLARI",
+			"lastUpdatedTime": "Mar 30, 2020 11:18 PM",
+			"message": "3 new confirmed cases in Ballari, Karnataka"
+		}
+	],
+	"timestamp": 1585590489
+}
