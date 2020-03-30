@@ -1088,6 +1088,7 @@
 	"tested": [
 		{
 			"source": "Press_Release_ICMR_13March2020.pdf",
+			"testsconductedbyprivatelabs": "",
 			"totalindividualstested": "5900",
 			"totalpositivecases": "78",
 			"totalsamplestested": "6500",
@@ -1095,6 +1096,7 @@
 		},
 		{
 			"source": "ICMR_website_update_18March_6PM_IST.pdf",
+			"testsconductedbyprivatelabs": "",
 			"totalindividualstested": "12235",
 			"totalpositivecases": "150",
 			"totalsamplestested": "13125",
@@ -1102,6 +1104,7 @@
 		},
 		{
 			"source": "ICMR_website_update_19March_10AM_IST_V2.pdf",
+			"testsconductedbyprivatelabs": "",
 			"totalindividualstested": "12426",
 			"totalpositivecases": "168",
 			"totalsamplestested": "13316",
@@ -1109,6 +1112,7 @@
 		},
 		{
 			"source": "ICMR_website_update_19March_6PM_IST.pdf",
+			"testsconductedbyprivatelabs": "",
 			"totalindividualstested": "13285",
 			"totalpositivecases": "182",
 			"totalsamplestested": "14175",
@@ -1116,6 +1120,7 @@
 		},
 		{
 			"source": "ICMR_website_update_20March_10AM_IST.pdf",
+			"testsconductedbyprivatelabs": "",
 			"totalindividualstested": "13486",
 			"totalpositivecases": "206",
 			"totalsamplestested": "14376",
@@ -1123,6 +1128,7 @@
 		},
 		{
 			"source": "ICMR_website_update_20March_6PM_IST.pdf",
+			"testsconductedbyprivatelabs": "",
 			"totalindividualstested": "14514",
 			"totalpositivecases": "236",
 			"totalsamplestested": "15404",
@@ -1130,6 +1136,7 @@
 		},
 		{
 			"source": "ICMR_website_update_21March_10AM_IST.pdf",
+			"testsconductedbyprivatelabs": "",
 			"totalindividualstested": "14811",
 			"totalpositivecases": "271",
 			"totalsamplestested": "15701",
@@ -1137,6 +1144,7 @@
 		},
 		{
 			"source": "ICMR_website_update_21March_6PM_IST.pdf",
+			"testsconductedbyprivatelabs": "",
 			"totalindividualstested": "16021",
 			"totalpositivecases": "315",
 			"totalsamplestested": "16911",
@@ -1144,6 +1152,7 @@
 		},
 		{
 			"source": "ICMR_website_update_22March_10AM_IST.pdf",
+			"testsconductedbyprivatelabs": "",
 			"totalindividualstested": "16109",
 			"totalpositivecases": "341",
 			"totalsamplestested": "16999",
@@ -1151,6 +1160,7 @@
 		},
 		{
 			"source": "ICMR_website_update_22March_6PM_IST.pdf",
+			"testsconductedbyprivatelabs": "",
 			"totalindividualstested": "17237",
 			"totalpositivecases": "396",
 			"totalsamplestested": "18127",
@@ -1158,6 +1168,7 @@
 		},
 		{
 			"source": "ICMR_website_update_23March_10AM_IST.pdf",
+			"testsconductedbyprivatelabs": "",
 			"totalindividualstested": "17493",
 			"totalpositivecases": "415",
 			"totalsamplestested": "18383",
@@ -1165,6 +1176,7 @@
 		},
 		{
 			"source": "ICMR_website_update_23March_8PM_IST.pdf",
+			"testsconductedbyprivatelabs": "",
 			"totalindividualstested": "19817",
 			"totalpositivecases": "471",
 			"totalsamplestested": "20707",
@@ -1172,6 +1184,7 @@
 		},
 		{
 			"source": "ICMR_website_update_24March_10AM_IST.pdf",
+			"testsconductedbyprivatelabs": "",
 			"totalindividualstested": "19974",
 			"totalpositivecases": "482",
 			"totalsamplestested": "20864",
@@ -1179,6 +1192,7 @@
 		},
 		{
 			"source": "ICMR_website_update_24March_8PM_IST.pdf",
+			"testsconductedbyprivatelabs": "",
 			"totalindividualstested": "21804",
 			"totalpositivecases": "536",
 			"totalsamplestested": "22694",
@@ -1186,6 +1200,7 @@
 		},
 		{
 			"source": "ICMR_website_update_25March_10AM_IST.pdf",
+			"testsconductedbyprivatelabs": "",
 			"totalindividualstested": "22038",
 			"totalpositivecases": "539",
 			"totalsamplestested": "22928",
@@ -1193,6 +1208,7 @@
 		},
 		{
 			"source": "ICMR_website_update_25March_8PM_IST.pdf",
+			"testsconductedbyprivatelabs": "",
 			"totalindividualstested": "24254",
 			"totalpositivecases": "581",
 			"totalsamplestested": "25144",
@@ -1200,6 +1216,7 @@
 		},
 		{
 			"source": "",
+			"testsconductedbyprivatelabs": "",
 			"totalindividualstested": "",
 			"totalpositivecases": "",
 			"totalsamplestested": "",
@@ -1207,6 +1224,7 @@
 		},
 		{
 			"source": "",
+			"testsconductedbyprivatelabs": "",
 			"totalindividualstested": "",
 			"totalpositivecases": "",
 			"totalsamplestested": "",
@@ -1214,6 +1232,7 @@
 		},
 		{
 			"source": "ICMR_website_update_27March_9AM_IST.pdf",
+			"testsconductedbyprivatelabs": "",
 			"totalindividualstested": "26798",
 			"totalpositivecases": "691",
 			"totalsamplestested": "27688",
@@ -1221,9 +1240,10 @@
 		},
 		{
 			"source": "",
+			"testsconductedbyprivatelabs": "1334",
 			"totalindividualstested": "",
 			"totalpositivecases": "",
-			"totalsamplestested": "",
+			"totalsamplestested": "38442",
 			"updatetimestamp": "30/3/2020"
 		}
 	]

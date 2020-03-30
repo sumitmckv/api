@@ -206,10 +206,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 25,
+        "confirmed": 32,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 7
         }
       }
     }
@@ -217,10 +217,10 @@
   "Rajasthan": {
     "districtData": {
       "Jaipur": {
-        "confirmed": 13,
+        "confirmed": 21,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 2
+          "confirmed": 10
         }
       },
       "Jhunjhunu": {
@@ -238,10 +238,10 @@
         }
       },
       "Jodhpur": {
-        "confirmed": 11,
+        "confirmed": 12,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 7
+          "confirmed": 8
         }
       },
       "Unknown": {
@@ -263,6 +263,13 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      "Alwar": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
         }
       }
     }
@@ -673,6 +680,13 @@
         "delta": {
           "confirmed": 0
         }
+      },
+      "Ballari": {
+        "confirmed": 3,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 3
+        }
       }
     }
   },
@@ -830,10 +844,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 4,
+        "confirmed": 6,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 3
         }
       },
       "Ludhiana": {
@@ -1300,6 +1314,17 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 1
+        }
+      }
+    }
+  },
+  "Unknown": {
+    "districtData": {
+      "Unknown": {
+        "confirmed": 271,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
         }
       }
     }
