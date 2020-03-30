@@ -1,7 +1,9 @@
+const moment = require("moment");
+const fs = require("fs");
 const districtWise = require("./state_district_wise");
 const districtWiseOld = require("./state_district_wise_old");
 const { writeData } = require("./lib");
-const { FILE_ACTIVITIES } = require("./lib/constants");
+const { DIR, FILE_ACTIVITIES } = require("./lib/constants");
 
 const normalizeDistrictData = (data) => {
     let result = [];
@@ -28,16 +30,17 @@ const districtWiseActivities = () => {
     let activities = [];
     districtData.forEach(district => {
         const districtOld = districtDataOld.find(d => d.id === district.id);
+        const lastUpdatedTime = moment().utcOffset(330).format("lll");
         if (!districtOld) {
             activities.push({
-                id: district.id,
+                id: district.id, lastUpdatedTime,
                 message: `${district.confirmed} new confirmed ${district.confirmed > 1 ? 'cases' : 'case'} in ${district.name}`
             });
         } else {
             const diff = district.confirmed - districtOld.confirmed;
             if (diff > 0) {
                 activities.push({
-                    id: district.id,
+                    id: district.id, lastUpdatedTime,
                     message: `${diff} new confirmed ${diff > 1 ? 'cases' : 'case'} in ${district.name}`
                 });
             }
@@ -46,13 +49,43 @@ const districtWiseActivities = () => {
     return activities;
 };
 
+const mergeActivities = (newActivity) => {
+    let mergedActivities = {};
+    if (fs.existsSync(DIR + FILE_ACTIVITIES)) {
+       let activity = require(`.${FILE_ACTIVITIES}`);
+       if (activity && Array.isArray(activity.districtWise)) {
+           let activities = activity.districtWise;
+           if (!moment().utcOffset(330).isSame(moment.unix(activity.timestamp), "day")) {
+               // remove previous day activities
+               activities = [];
+               delete activity.timestamp;
+           }
+           newActivity.forEach(aNew => {
+               if (activities.some(a => a.id === aNew.id)) {
+                   activities = activities.filter(a => a.id !== aNew.id);
+               }
+               activities.unshift(aNew);
+           });
+           mergedActivities.districtWise = activities;
+           mergedActivities.timestamp = activity.timestamp;
+       }
+    }
+
+    return {
+        timestamp: mergedActivities.timestamp || moment().utcOffset(330).unix(),
+        districtWise: mergedActivities.districtWise || newActivity
+    };
+};
+
 const isUnknown = (name) => name.toLowerCase() === "unknown";
 
 async function task() {
     console.log(`Getting activities...`);
     let data = districtWiseActivities();
+    console.log(`Merging activities...`);
+    let mergedData = mergeActivities(data);
     console.log(`Writing data to json file: ${FILE_ACTIVITIES}...`);
-    await writeData({file: FILE_ACTIVITIES, data: { districtWise: data }});
+    await writeData({ file: FILE_ACTIVITIES, data: mergedData });
     console.log("Operation completed!");
 }
 
