@@ -1,4 +1,10 @@
 {
-	"districtWise": [],
+	"districtWise": [
+		{
+			"id": "CHHATTISGARH_KORBA",
+			"lastUpdatedTime": "Mar 31, 2020 12:25 AM",
+			"message": "1 new confirmed case in Korba, Chhattisgarh"
+		}
+	],
 	"timestamp": 1585593321
 }

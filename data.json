@@ -543,18 +543,18 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "189",
+			"confirmeddelta": "208",
 			"counterforautotimeupdate": "645",
 			"deceaseddelta": "16",
-			"lastupdatedtime": "30/03/2020 23:57:24",
+			"lastupdatedtime": "31/03/2020 00:22:24",
 			"recovereddelta": "35",
 			"statesdelta": "0"
 		}
 	],
 	"statewise": [
 		{
-			"active": "1148",
-			"confirmed": "1328",
+			"active": "1167",
+			"confirmed": "1347",
 			"deaths": "43",
 			"delta": {
 				"active": 0,
@@ -562,13 +562,13 @@
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "30/03/2020 23:57:24",
+			"lastupdatedtime": "31/03/2020 00:22:24",
 			"recovered": "137",
 			"state": "Total"
 		},
 		{
-			"active": "171",
-			"confirmed": "220",
+			"active": "189",
+			"confirmed": "238",
 			"deaths": "10",
 			"delta": {
 				"active": 0,
@@ -576,7 +576,7 @@
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "30/03/2020 21:47:25",
+			"lastupdatedtime": "31/03/2020 00:22:25",
 			"recovered": "39",
 			"state": "Maharashtra"
 		},
@@ -833,8 +833,8 @@
 			"state": "Chandigarh"
 		},
 		{
-			"active": "7",
-			"confirmed": "7",
+			"active": "8",
+			"confirmed": "8",
 			"deaths": "0",
 			"delta": {
 				"active": 0,
