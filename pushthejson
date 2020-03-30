@@ -26,8 +26,9 @@ cp state_district_wise.json state_district_wise_old.json
 node raw_data-to-state_district_wise_data.js
 node sheet-to-json_faq.js
 node sheet-to-json_websitedata.js
+node sheet-to-json_activities.js
 
-git add state_wise_raw.json data.json travel_history.json raw_data.json state_district_wise.json state_district_wise_old.json faq.json website_data.json website_data.json
+git add state_wise_raw.json data.json travel_history.json raw_data.json state_district_wise.json state_district_wise_old.json faq.json website_data.json website_data.json activities.json
 set +e  # Grep succeeds with nonzero exit codes to show results.
 git status | grep 'new file\|modified'
 if [ $? -eq 0 ]
