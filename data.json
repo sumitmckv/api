@@ -555,7 +555,7 @@
 			"confirmeddelta": "0",
 			"counterforautotimeupdate": "645",
 			"deceaseddelta": "0",
-			"lastupdatedtime": "31/03/2020 00:22:24",
+			"lastupdatedtime": "31/03/2020 05:02:24",
 			"recovereddelta": "0",
 			"statesdelta": "0"
 		}
@@ -571,7 +571,7 @@
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "31/03/2020 00:22:24",
+			"lastupdatedtime": "31/03/2020 05:02:24",
 			"recovered": "137",
 			"state": "Total"
 		},
@@ -669,7 +669,7 @@
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "30/03/2020 19:12:25",
+			"lastupdatedtime": "31/03/2020 05:02:24",
 			"recovered": "3",
 			"state": "Gujarat"
 		},
