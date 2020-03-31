@@ -1278,6 +1278,13 @@
         "delta": {
           "confirmed": 0
         }
+      },
+      "Gopalganj": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
+        }
       }
     }
   },
@@ -1349,7 +1356,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 238,
+        "confirmed": 237,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
