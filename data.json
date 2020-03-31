@@ -554,7 +554,7 @@
 		{
 			"confirmeddelta": "0",
 			"counterforautotimeupdate": "645",
-			"deceaseddelta": "0",
+			"deceaseddelta": "1",
 			"lastupdatedtime": "31/03/2020 06:17:24",
 			"recovereddelta": "1",
 			"statesdelta": "0"
@@ -562,9 +562,9 @@
 	],
 	"statewise": [
 		{
-			"active": "1166",
+			"active": "1165",
 			"confirmed": "1347",
-			"deaths": "43",
+			"deaths": "44",
 			"delta": {
 				"active": 0,
 				"confirmed": 0,
@@ -590,9 +590,9 @@
 			"state": "Maharashtra"
 		},
 		{
-			"active": "213",
+			"active": "212",
 			"confirmed": "234",
-			"deaths": "1",
+			"deaths": "2",
 			"delta": {
 				"active": 0,
 				"confirmed": 0,
