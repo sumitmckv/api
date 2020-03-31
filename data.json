@@ -554,24 +554,24 @@
 		{
 			"confirmeddelta": "0",
 			"counterforautotimeupdate": "645",
-			"deceaseddelta": "1",
-			"lastupdatedtime": "31/03/2020 09:07:24",
+			"deceaseddelta": "2",
+			"lastupdatedtime": "31/03/2020 09:47:24",
 			"recovereddelta": "1",
 			"statesdelta": "0"
 		}
 	],
 	"statewise": [
 		{
-			"active": "1165",
+			"active": "1164",
 			"confirmed": "1347",
-			"deaths": "44",
+			"deaths": "45",
 			"delta": {
 				"active": 0,
 				"confirmed": 0,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "31/03/2020 09:07:24",
+			"lastupdatedtime": "31/03/2020 09:47:24",
 			"recovered": "138",
 			"state": "Total"
 		},
@@ -772,16 +772,16 @@
 			"state": "Andhra Pradesh"
 		},
 		{
-			"active": "20",
+			"active": "19",
 			"confirmed": "22",
-			"deaths": "2",
+			"deaths": "3",
 			"delta": {
 				"active": 0,
 				"confirmed": 0,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "30/03/2020 19:00:41",
+			"lastupdatedtime": "31/03/2020 09:47:26",
 			"recovered": "0",
 			"state": "West Bengal"
 		},
