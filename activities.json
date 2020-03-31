@@ -1,6 +1,26 @@
 {
 	"districtWise": [
 		{
+			"id": "RAJASTHAN_DUNGARPUR",
+			"lastUpdatedTime": "Mar 31, 2020 10:02 AM",
+			"message": "1 new confirmed case in Dungarpur, Rajasthan"
+		},
+		{
+			"id": "RAJASTHAN_AJMER",
+			"lastUpdatedTime": "Mar 31, 2020 10:02 AM",
+			"message": "1 new confirmed case in Ajmer, Rajasthan"
+		},
+		{
+			"id": "RAJASTHAN_JHUNJHUNU",
+			"lastUpdatedTime": "Mar 31, 2020 10:02 AM",
+			"message": "1 new confirmed case in Jhunjhunu, Rajasthan"
+		},
+		{
+			"id": "RAJASTHAN_JAIPUR",
+			"lastUpdatedTime": "Mar 31, 2020 10:02 AM",
+			"message": "1 new confirmed case in Jaipur, Rajasthan"
+		},
+		{
 			"id": "MAHARASHTRA_BULDANA",
 			"lastUpdatedTime": "Mar 31, 2020 9:56 AM",
 			"message": "2 new confirmed cases in Buldana, Maharashtra"

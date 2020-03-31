@@ -217,14 +217,14 @@
   "Rajasthan": {
     "districtData": {
       "Jaipur": {
-        "confirmed": 21,
+        "confirmed": 22,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Jhunjhunu": {
-        "confirmed": 7,
+        "confirmed": 8,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -259,10 +259,10 @@
         }
       },
       "Ajmer": {
-        "confirmed": 4,
+        "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Alwar": {
@@ -270,6 +270,13 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      "Dungarpur": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
         }
       }
     }
@@ -1335,7 +1342,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 247,
+        "confirmed": 243,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
