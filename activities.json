@@ -1,22 +1,17 @@
 {
 	"districtWise": [
-		[
-			{
-				"lastUpdatedTime": "Mar 31, 2020 11:12 AM",
-				"message": "1 new confirmed case in Ahmadabad, Gujarat"
-			},
-			{
-				"lastUpdatedTime": "Mar 31, 2020 11:12 AM",
-				"message": "1 new confirmed case in Gandhinagar, Gujarat"
-			}
-		],
-		[],
-		[
-			{
-				"lastUpdatedTime": "Mar 31, 2020 10:58 AM",
-				"message": "1 new confirmed case in Gopalganj, Bihar"
-			}
-		]
+		{
+			"lastUpdatedTime": "Mar 31, 2020 11:12 AM",
+			"message": "1 new confirmed case in Ahmadabad, Gujarat"
+		},
+		{
+			"lastUpdatedTime": "Mar 31, 2020 11:12 AM",
+			"message": "1 new confirmed case in Gandhinagar, Gujarat"
+		},
+		{
+			"lastUpdatedTime": "Mar 31, 2020 10:58 AM",
+			"message": "1 new confirmed case in Gopalganj, Bihar"
+		}
 	],
 	"timestamp": 1585593321
 }
