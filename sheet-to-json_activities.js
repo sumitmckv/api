@@ -61,8 +61,7 @@ const mergeActivities = (newActivity) => {
                activities = [];
                delete activity.timestamp;
            }
-           newActivity.forEach(aNew => activities.unshift(aNew));
-           mergedActivities.districtWise = activities;
+           mergedActivities.districtWise = [newActivity, ...activities];
            mergedActivities.timestamp = activity.timestamp;
        }
     }
