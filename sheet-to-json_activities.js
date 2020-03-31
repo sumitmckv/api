@@ -34,14 +34,14 @@ const districtWiseActivities = () => {
         const lastUpdatedTime = moment().utcOffset(330).format("lll");
         if (!districtOld) {
             activities.push({
-                id, lastUpdatedTime,
+                lastUpdatedTime,
                 message: `${confirmed} new confirmed ${confirmed > 1 ? 'cases' : 'case'} in ${name}`
             });
         } else {
             const diff = confirmed - districtOld.confirmed;
             if (diff > 0) {
                 activities.push({
-                    id, lastUpdatedTime,
+                    lastUpdatedTime,
                     message: `${diff} new confirmed ${diff > 1 ? 'cases' : 'case'} in ${name}`
                 });
             }
@@ -61,12 +61,7 @@ const mergeActivities = (newActivity) => {
                activities = [];
                delete activity.timestamp;
            }
-           newActivity.forEach(aNew => {
-               const isSameActivity = activities.some(a => a.id === aNew.id && a.message === aNew.message);
-               if (!isSameActivity) {
-                   activities.unshift(aNew);
-               }
-           });
+           newActivity.forEach(aNew => activities.unshift(aNew));
            mergedActivities.districtWise = activities;
            mergedActivities.timestamp = activity.timestamp;
        }
