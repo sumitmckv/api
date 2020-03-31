@@ -227,7 +227,7 @@
         "confirmed": 8,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Bhilwara": {
@@ -344,7 +344,7 @@
         }
       },
       "Unknown": {
-        "confirmed": 33,
+        "confirmed": 32,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -418,6 +418,13 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      "Bareilly": {
+        "confirmed": 6,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 5
         }
       }
     }
@@ -1342,7 +1349,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 243,
+        "confirmed": 238,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0

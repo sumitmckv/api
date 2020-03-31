@@ -1,6 +1,11 @@
 {
 	"districtWise": [
 		{
+			"id": "UTTAR PRADESH_BAREILLY",
+			"lastUpdatedTime": "Mar 31, 2020 10:37 AM",
+			"message": "6 new confirmed cases in Bareilly, Uttar Pradesh"
+		},
+		{
 			"id": "RAJASTHAN_DUNGARPUR",
 			"lastUpdatedTime": "Mar 31, 2020 10:02 AM",
 			"message": "1 new confirmed case in Dungarpur, Rajasthan"
