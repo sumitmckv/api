@@ -29,19 +29,20 @@ const districtWiseActivities = () => {
     const districtDataOld = normalizeDistrictData(districtWiseOld);
     let activities = [];
     districtData.forEach(district => {
-        const districtOld = districtDataOld.find(d => d.id === district.id);
+        const { id, name, confirmed } = district;
+        const districtOld = districtDataOld.find(d => d.id === id);
         const lastUpdatedTime = moment().utcOffset(330).format("lll");
         if (!districtOld) {
             activities.push({
-                id: district.id, lastUpdatedTime,
-                message: `${district.confirmed} new confirmed ${district.confirmed > 1 ? 'cases' : 'case'} in ${district.name}`
+                id, lastUpdatedTime,
+                message: `${confirmed} new confirmed ${confirmed > 1 ? 'cases' : 'case'} in ${name}`
             });
         } else {
-            const diff = district.confirmed - districtOld.confirmed;
+            const diff = confirmed - districtOld.confirmed;
             if (diff > 0) {
                 activities.push({
-                    id: district.id, lastUpdatedTime,
-                    message: `${diff} new confirmed ${diff > 1 ? 'cases' : 'case'} in ${district.name}`
+                    id, lastUpdatedTime,
+                    message: `${diff} new confirmed ${diff > 1 ? 'cases' : 'case'} in ${name}`
                 });
             }
         }
@@ -61,10 +62,10 @@ const mergeActivities = (newActivity) => {
                delete activity.timestamp;
            }
            newActivity.forEach(aNew => {
-               if (activities.some(a => a.id === aNew.id)) {
-                   activities = activities.filter(a => a.id !== aNew.id);
+               const isSameActivity = activities.some(a => a.id === aNew.id && a.message === aNew.message);
+               if (!isSameActivity) {
+                   activities.unshift(aNew);
                }
-               activities.unshift(aNew);
            });
            mergedActivities.districtWise = activities;
            mergedActivities.timestamp = activity.timestamp;
