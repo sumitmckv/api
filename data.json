@@ -552,7 +552,7 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "15",
+			"confirmeddelta": "18",
 			"counterforautotimeupdate": "645",
 			"deceaseddelta": "3",
 			"lastupdatedtime": "31/03/2020 10:47:27",
@@ -562,12 +562,12 @@
 	],
 	"statewise": [
 		{
-			"active": "1178",
-			"confirmed": "1362",
+			"active": "1181",
+			"confirmed": "1365",
 			"deaths": "46",
 			"delta": {
-				"active": 15,
-				"confirmed": 15,
+				"active": 18,
+				"confirmed": 18,
 				"deaths": 0,
 				"recovered": 0
 			},
@@ -674,12 +674,12 @@
 			"state": "Telangana"
 		},
 		{
-			"active": "61",
-			"confirmed": "70",
+			"active": "64",
+			"confirmed": "73",
 			"deaths": "6",
 			"delta": {
-				"active": 0,
-				"confirmed": 0,
+				"active": 3,
+				"confirmed": 3,
 				"deaths": 0,
 				"recovered": 0
 			},
