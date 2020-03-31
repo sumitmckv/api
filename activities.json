@@ -1,6 +1,21 @@
 {
 	"districtWise": [
 		{
+			"id": "MAHARASHTRA_BULDANA",
+			"lastUpdatedTime": "Mar 31, 2020 9:56 AM",
+			"message": "2 new confirmed cases in Buldana, Maharashtra"
+		},
+		{
+			"id": "MAHARASHTRA_MUMBAI",
+			"lastUpdatedTime": "Mar 31, 2020 9:56 AM",
+			"message": "1 new confirmed case in Mumbai, Maharashtra"
+		},
+		{
+			"id": "MAHARASHTRA_PUNE",
+			"lastUpdatedTime": "Mar 31, 2020 9:56 AM",
+			"message": "2 new confirmed cases in Pune, Maharashtra"
+		},
+		{
 			"id": "CHHATTISGARH_KORBA",
 			"lastUpdatedTime": "Mar 31, 2020 12:25 AM",
 			"message": "1 new confirmed case in Korba, Chhattisgarh"
