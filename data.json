@@ -564,7 +564,7 @@
 			"confirmeddelta": "281",
 			"counterforautotimeupdate": "645",
 			"deceaseddelta": "4",
-			"lastupdatedtime": "01/04/2020 19:47:24",
+			"lastupdatedtime": "01/04/2020 19:52:25",
 			"recovereddelta": "17",
 			"statesdelta": "0"
 		}
@@ -580,7 +580,7 @@
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "01/04/2020 19:47:24",
+			"lastupdatedtime": "01/04/2020 19:52:25",
 			"recovered": "167",
 			"state": "Total"
 		},
@@ -888,7 +888,7 @@
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "01/04/2020 10:37:32",
+			"lastupdatedtime": "01/04/2020 19:52:26",
 			"recovered": "39",
 			"state": "Maharashtra"
 		},
