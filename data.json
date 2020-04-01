@@ -681,15 +681,26 @@
 			"totalconfirmed": "1635",
 			"totaldeceased": "49",
 			"totalrecovered": "150"
+		},
+		{
+			"dailyconfirmed": "379",
+			"dailydeceased": "7",
+			"dailyrecovered": "19",
+			"date": "01 April ",
+			"death": "8",
+			"rec": "9",
+			"totalconfirmed": "2014",
+			"totaldeceased": "56",
+			"totalrecovered": "169"
 		}
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "379",
+			"confirmeddelta": "0",
 			"counterforautotimeupdate": "645",
-			"deceaseddelta": "7",
+			"deceaseddelta": "0",
 			"lastupdatedtime": "02/04/2020 00:02:26",
-			"recovereddelta": "19",
+			"recovereddelta": "0",
 			"statesdelta": "0"
 		}
 	],
