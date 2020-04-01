@@ -3007,7 +3007,7 @@
 			"agebracket": "18",
 			"backupnotes": "Travel history to United Kingdom (quarantined)",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "17/03/2020",
 			"detectedcity": "Kolkata",
 			"detecteddistrict": "Kolkata",
@@ -3019,7 +3019,7 @@
 			"patientnumber": "144",
 			"source1": "https://twitter.com/PTI_News/status/1239951825765158912",
 			"source2": "https://twitter.com/ANI/status/1239953388248260608",
-			"source3": "",
+			"source3": "https://docs.google.com/spreadsheets/u/2/d/e/2PACX-1vT8DIINUZ5LAEnmfJb-cbzi5kr4cX9RjKgEqTAyHbq46dDyoWxhnKkGitKwGHbpEE_QNHqQHd9-UWy3/pubhtml#",
 			"statepatientnumber": "",
 			"statuschangedate": "17/03/2020",
 			"typeoftransmission": "Imported"
@@ -5422,7 +5422,7 @@
 			"agebracket": "23",
 			"backupnotes": "Returned from Scotland via Mumbai",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "21/03/2020",
 			"detectedcity": "Habra",
 			"detecteddistrict": "North 24 Parganas",
@@ -5434,7 +5434,7 @@
 			"patientnumber": "259",
 			"source1": "https://twitter.com/PTI_News/status/1241210183553921024",
 			"source2": "https://twitter.com/ANI/status/1241299591036686336",
-			"source3": "",
+			"source3": "https://docs.google.com/spreadsheets/u/2/d/e/2PACX-1vT8DIINUZ5LAEnmfJb-cbzi5kr4cX9RjKgEqTAyHbq46dDyoWxhnKkGitKwGHbpEE_QNHqQHd9-UWy3/pubhtml#",
 			"statepatientnumber": "",
 			"statuschangedate": "21/03/2020",
 			"typeoftransmission": "Imported"
@@ -8191,7 +8191,7 @@
 			"typeoftransmission": "Local"
 		},
 		{
-			"agebracket": "",
+			"agebracket": "48",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "P200",
 			"currentstatus": "Hospitalized",
