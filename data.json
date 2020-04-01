@@ -765,6 +765,20 @@
 			"state": "Delhi"
 		},
 		{
+			"active": "117",
+			"confirmed": "120",
+			"deaths": "0",
+			"delta": {
+				"active": 27,
+				"confirmed": 27,
+				"deaths": 0,
+				"recovered": 0
+			},
+			"lastupdatedtime": "01/04/2020 18:17:27",
+			"recovered": "3",
+			"state": "Rajasthan"
+		},
+		{
 			"active": "97",
 			"confirmed": "116",
 			"deaths": "2",
@@ -777,6 +791,20 @@
 			"lastupdatedtime": "01/04/2020 18:17:29",
 			"recovered": "17",
 			"state": "Uttar Pradesh"
+		},
+		{
+			"active": "109",
+			"confirmed": "111",
+			"deaths": "0",
+			"delta": {
+				"active": 67,
+				"confirmed": 67,
+				"deaths": 0,
+				"recovered": 0
+			},
+			"lastupdatedtime": "01/04/2020 22:22:28",
+			"recovered": "2",
+			"state": "Andhra Pradesh"
 		},
 		{
 			"active": "98",
@@ -793,20 +821,6 @@
 			"state": "Karnataka"
 		},
 		{
-			"active": "117",
-			"confirmed": "120",
-			"deaths": "0",
-			"delta": {
-				"active": 27,
-				"confirmed": 27,
-				"deaths": 0,
-				"recovered": 0
-			},
-			"lastupdatedtime": "01/04/2020 18:17:27",
-			"recovered": "3",
-			"state": "Rajasthan"
-		},
-		{
 			"active": "77",
 			"confirmed": "97",
 			"deaths": "6",
@@ -819,20 +833,6 @@
 			"lastupdatedtime": "01/04/2020 16:12:28",
 			"recovered": "14",
 			"state": "Telangana"
-		},
-		{
-			"active": "109",
-			"confirmed": "111",
-			"deaths": "0",
-			"delta": {
-				"active": 67,
-				"confirmed": 67,
-				"deaths": 0,
-				"recovered": 0
-			},
-			"lastupdatedtime": "01/04/2020 22:22:28",
-			"recovered": "2",
-			"state": "Andhra Pradesh"
 		},
 		{
 			"active": "76",
@@ -961,6 +961,20 @@
 			"state": "Ladakh"
 		},
 		{
+			"active": "13",
+			"confirmed": "13",
+			"deaths": "0",
+			"delta": {
+				"active": 12,
+				"confirmed": 12,
+				"deaths": 0,
+				"recovered": 0
+			},
+			"lastupdatedtime": "01/04/2020 21:12:26",
+			"recovered": "0",
+			"state": "Assam"
+		},
+		{
 			"active": "10",
 			"confirmed": "10",
 			"deaths": "0",
@@ -1001,20 +1015,6 @@
 			"lastupdatedtime": "30/03/2020 06:27:24",
 			"recovered": "2",
 			"state": "Uttarakhand"
-		},
-		{
-			"active": "13",
-			"confirmed": "13",
-			"deaths": "0",
-			"delta": {
-				"active": 12,
-				"confirmed": 12,
-				"deaths": 0,
-				"recovered": 0
-			},
-			"lastupdatedtime": "01/04/2020 21:12:26",
-			"recovered": "0",
-			"state": "Assam"
 		},
 		{
 			"active": "5",
