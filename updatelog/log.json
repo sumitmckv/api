@@ -1,9 +1,5 @@
 [
   {
-    "update": "3 new cases in Haryana\n",
-    "timestamp": 1585660172326
-  },
-  {
     "update": "7 new cases in Kerala\n",
     "timestamp": 1585660599732
   },
@@ -198,5 +194,9 @@
   {
     "update": "1 new case in Uttar Pradesh\n",
     "timestamp": 1585765617
+  },
+  {
+    "update": "1 death in Maharashtra\n",
+    "timestamp": 1585765987
   }
 ]
