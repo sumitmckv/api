@@ -550,18 +550,18 @@
 			"totalrecovered": "137"
 		},
 		{
-			"dailyconfirmed": "328",
+			"dailyconfirmed": "278",
 			"dailydeceased": "6",
 			"dailyrecovered": "13",
 			"date": "31 March ",
-			"totalconfirmed": "1675",
+			"totalconfirmed": "1625",
 			"totaldeceased": "49",
 			"totalrecovered": "150"
 		}
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "276",
+			"confirmeddelta": "326",
 			"counterforautotimeupdate": "645",
 			"deceaseddelta": "4",
 			"lastupdatedtime": "01/04/2020 20:02:26",
@@ -575,8 +575,8 @@
 			"confirmed": "1951",
 			"deaths": "53",
 			"delta": {
-				"active": 276,
-				"confirmed": 276,
+				"active": 326,
+				"confirmed": 326,
 				"deaths": 0,
 				"recovered": 0
 			},
@@ -645,8 +645,8 @@
 			"confirmed": "24",
 			"deaths": "1",
 			"delta": {
-				"active": 2,
-				"confirmed": 2,
+				"active": 3,
+				"confirmed": 3,
 				"deaths": 0,
 				"recovered": 0
 			},
@@ -715,8 +715,8 @@
 			"confirmed": "152",
 			"deaths": "2",
 			"delta": {
-				"active": 3,
-				"confirmed": 3,
+				"active": 32,
+				"confirmed": 32,
 				"deaths": 0,
 				"recovered": 0
 			},
@@ -743,8 +743,8 @@
 			"confirmed": "87",
 			"deaths": "6",
 			"delta": {
-				"active": 8,
-				"confirmed": 8,
+				"active": 13,
+				"confirmed": 13,
 				"deaths": 0,
 				"recovered": 0
 			},
@@ -813,8 +813,8 @@
 			"confirmed": "110",
 			"deaths": "3",
 			"delta": {
-				"active": 4,
-				"confirmed": 4,
+				"active": 9,
+				"confirmed": 9,
 				"deaths": 0,
 				"recovered": 0
 			},
@@ -1093,8 +1093,8 @@
 			"confirmed": "37",
 			"deaths": "6",
 			"delta": {
-				"active": 0,
-				"confirmed": 0,
+				"active": 10,
+				"confirmed": 10,
 				"deaths": 0,
 				"recovered": 0
 			},
