@@ -1100,10 +1100,10 @@
         }
       },
       "Ahmadabad": {
-        "confirmed": 22,
+        "confirmed": 23,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Vadodara": {
@@ -1114,10 +1114,10 @@
         }
       },
       "Gandhinagar": {
-        "confirmed": 7,
+        "confirmed": 8,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Kachchh": {
@@ -1128,10 +1128,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 9,
+        "confirmed": 10,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Mahesana": {
@@ -1356,7 +1356,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 237,
+        "confirmed": 234,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0

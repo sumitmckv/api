@@ -1,17 +1,229 @@
 {
 	"districtWise": [
 		{
-			"lastUpdatedTime": "Mar 31, 2020 11:12 AM",
-			"message": "1 new confirmed case in Ahmadabad, Gujarat"
+			"lastUpdatedTime": "Apr 1, 2020 4:49 PM",
+			"message": "1 new confirmed case in Thrissur, Kerala"
 		},
 		{
-			"lastUpdatedTime": "Mar 31, 2020 11:12 AM",
-			"message": "1 new confirmed case in Gandhinagar, Gujarat"
+			"lastUpdatedTime": "Apr 1, 2020 4:49 PM",
+			"message": "2 new confirmed cases in Kasaragod, Kerala"
 		},
 		{
-			"lastUpdatedTime": "Mar 31, 2020 10:58 AM",
-			"message": "1 new confirmed case in Gopalganj, Bihar"
+			"lastUpdatedTime": "Apr 1, 2020 4:49 PM",
+			"message": "1 new confirmed case in Kannur, Kerala"
+		},
+		{
+			"lastUpdatedTime": "Apr 1, 2020 4:49 PM",
+			"message": "2 new confirmed cases in Thiruvananthapuram, Kerala"
+		},
+		{
+			"lastUpdatedTime": "Apr 1, 2020 4:49 PM",
+			"message": "1 new confirmed case in Kollam, Kerala"
+		},
+		{
+			"lastUpdatedTime": "Apr 1, 2020 4:49 PM",
+			"message": "2 new confirmed cases in New Delhi, Delhi"
+		},
+		{
+			"lastUpdatedTime": "Apr 1, 2020 4:49 PM",
+			"message": "24 new confirmed cases in South Delhi, Delhi"
+		},
+		{
+			"lastUpdatedTime": "Apr 1, 2020 4:49 PM",
+			"message": "13 new confirmed cases in Jaipur, Rajasthan"
+		},
+		{
+			"lastUpdatedTime": "Apr 1, 2020 4:49 PM",
+			"message": "3 new confirmed cases in Sirsa, Haryana"
+		},
+		{
+			"lastUpdatedTime": "Apr 1, 2020 4:49 PM",
+			"message": "4 new confirmed cases in Gautam Buddha Nagar, Uttar Pradesh"
+		},
+		{
+			"lastUpdatedTime": "Apr 1, 2020 4:49 PM",
+			"message": "5 new confirmed cases in Chennai, Tamil Nadu"
+		},
+		{
+			"lastUpdatedTime": "Apr 1, 2020 4:49 PM",
+			"message": "22 new confirmed cases in Tirunelveli, Tamil Nadu"
+		},
+		{
+			"lastUpdatedTime": "Apr 1, 2020 4:49 PM",
+			"message": "2 new confirmed cases in Madurai, Tamil Nadu"
+		},
+		{
+			"lastUpdatedTime": "Apr 1, 2020 4:49 PM",
+			"message": "1 new confirmed case in Tiruvannamalai, Tamil Nadu"
+		},
+		{
+			"lastUpdatedTime": "Apr 1, 2020 4:49 PM",
+			"message": "3 new confirmed cases in Viluppuram, Tamil Nadu"
+		},
+		{
+			"lastUpdatedTime": "Apr 1, 2020 4:49 PM",
+			"message": "18 new confirmed cases in Namakkal, Tamil Nadu"
+		},
+		{
+			"lastUpdatedTime": "Apr 1, 2020 4:49 PM",
+			"message": "5 new confirmed cases in Kanniyakumari, Tamil Nadu"
+		},
+		{
+			"lastUpdatedTime": "Apr 1, 2020 4:49 PM",
+			"message": "1 new confirmed case in Thoothukkudi, Tamil Nadu"
+		},
+		{
+			"lastUpdatedTime": "Apr 1, 2020 4:49 PM",
+			"message": "5 new confirmed cases in Bengaluru, Karnataka"
+		},
+		{
+			"lastUpdatedTime": "Apr 1, 2020 4:49 PM",
+			"message": "1 new confirmed case in Kalaburagi, Karnataka"
+		},
+		{
+			"lastUpdatedTime": "Apr 1, 2020 4:49 PM",
+			"message": "1 new confirmed case in Chikkaballapura, Karnataka"
+		},
+		{
+			"lastUpdatedTime": "Apr 1, 2020 4:49 PM",
+			"message": "5 new confirmed cases in Mysuru, Karnataka"
+		},
+		{
+			"lastUpdatedTime": "Apr 1, 2020 4:49 PM",
+			"message": "1 new confirmed case in Uttara Kannada, Karnataka"
+		},
+		{
+			"lastUpdatedTime": "Apr 1, 2020 4:49 PM",
+			"message": "1 new confirmed case in Dakshina Kannada, Karnataka"
+		},
+		{
+			"lastUpdatedTime": "Apr 1, 2020 4:49 PM",
+			"message": "3 new confirmed cases in Pune, Maharashtra"
+		},
+		{
+			"lastUpdatedTime": "Apr 1, 2020 4:49 PM",
+			"message": "20 new confirmed cases in Mumbai, Maharashtra"
+		},
+		{
+			"lastUpdatedTime": "Apr 1, 2020 4:49 PM",
+			"message": "5 new confirmed cases in Ahmadnagar, Maharashtra"
+		},
+		{
+			"lastUpdatedTime": "Apr 1, 2020 4:49 PM",
+			"message": "3 new confirmed cases in S.A.S. Nagar, Punjab"
+		},
+		{
+			"lastUpdatedTime": "Apr 1, 2020 4:49 PM",
+			"message": "1 new confirmed case in Ludhiana, Punjab"
+		},
+		{
+			"lastUpdatedTime": "Apr 1, 2020 4:49 PM",
+			"message": "2 new confirmed cases in S.P.S. Nellore, Andhra Pradesh"
+		},
+		{
+			"lastUpdatedTime": "Apr 1, 2020 4:49 PM",
+			"message": "12 new confirmed cases in Prakasam, Andhra Pradesh"
+		},
+		{
+			"lastUpdatedTime": "Apr 1, 2020 4:49 PM",
+			"message": "5 new confirmed cases in Visakhapatnam, Andhra Pradesh"
+		},
+		{
+			"lastUpdatedTime": "Apr 1, 2020 4:49 PM",
+			"message": "3 new confirmed cases in East Godavari, Andhra Pradesh"
+		},
+		{
+			"lastUpdatedTime": "Apr 1, 2020 4:49 PM",
+			"message": "2 new confirmed cases in Krishna, Andhra Pradesh"
+		},
+		{
+			"lastUpdatedTime": "Apr 1, 2020 4:49 PM",
+			"message": "5 new confirmed cases in Chittoor, Andhra Pradesh"
+		},
+		{
+			"lastUpdatedTime": "Apr 1, 2020 4:49 PM",
+			"message": "5 new confirmed cases in Guntur, Andhra Pradesh"
+		},
+		{
+			"lastUpdatedTime": "Apr 1, 2020 4:49 PM",
+			"message": "2 new confirmed cases in Anantapur, Andhra Pradesh"
+		},
+		{
+			"lastUpdatedTime": "Apr 1, 2020 4:49 PM",
+			"message": "13 new confirmed cases in West Godavari, Andhra Pradesh"
+		},
+		{
+			"lastUpdatedTime": "Apr 1, 2020 4:49 PM",
+			"message": "15 new confirmed cases in Y.S.R., Andhra Pradesh"
+		},
+		{
+			"lastUpdatedTime": "Apr 1, 2020 4:49 PM",
+			"message": "1 new confirmed case in Bhadrak, Odisha"
+		},
+		{
+			"lastUpdatedTime": "Apr 1, 2020 4:49 PM",
+			"message": "2 new confirmed cases in Puducherry, Puducherry"
+		},
+		{
+			"lastUpdatedTime": "Apr 1, 2020 4:49 PM",
+			"message": "2 new confirmed cases in North 24 Parganas, West Bengal"
+		},
+		{
+			"lastUpdatedTime": "Apr 1, 2020 4:49 PM",
+			"message": "3 new confirmed cases in Medinipur East, West Bengal"
+		},
+		{
+			"lastUpdatedTime": "Apr 1, 2020 4:49 PM",
+			"message": "1 new confirmed case in Howrah, West Bengal"
+		},
+		{
+			"lastUpdatedTime": "Apr 1, 2020 4:49 PM",
+			"message": "1 new confirmed case in South 24 Parganas, West Bengal"
+		},
+		{
+			"lastUpdatedTime": "Apr 1, 2020 4:49 PM",
+			"message": "2 new confirmed cases in Chandigarh, Chandigarh"
+		},
+		{
+			"lastUpdatedTime": "Apr 1, 2020 4:49 PM",
+			"message": "1 new confirmed case in Surat, Gujarat"
+		},
+		{
+			"lastUpdatedTime": "Apr 1, 2020 4:49 PM",
+			"message": "8 new confirmed cases in Ahmadabad, Gujarat"
+		},
+		{
+			"lastUpdatedTime": "Apr 1, 2020 4:49 PM",
+			"message": "36 new confirmed cases in Indore, Madhya Pradesh"
+		},
+		{
+			"lastUpdatedTime": "Apr 1, 2020 4:49 PM",
+			"message": "4 new confirmed cases in Siwan, Bihar"
+		},
+		{
+			"lastUpdatedTime": "Apr 1, 2020 4:49 PM",
+			"message": "1 new confirmed case in Nalanda, Bihar"
+		},
+		{
+			"lastUpdatedTime": "Apr 1, 2020 4:49 PM",
+			"message": "1 new confirmed case in Gaya, Bihar"
+		},
+		{
+			"lastUpdatedTime": "Apr 1, 2020 4:49 PM",
+			"message": "1 new confirmed case in Begusarai, Bihar"
+		},
+		{
+			"lastUpdatedTime": "Apr 1, 2020 4:49 PM",
+			"message": "1 new confirmed case in Ranchi, Jharkhand"
+		},
+		{
+			"lastUpdatedTime": "Apr 1, 2020 4:49 PM",
+			"message": "1 new confirmed case in Cachar, Assam"
+		},
+		{
+			"lastUpdatedTime": "Apr 1, 2020 4:49 PM",
+			"message": "4 new confirmed cases in Kamrup Metropolitan, Assam"
 		}
 	],
-	"timestamp": 1585593321
+	"timestamp": 1585739975
 }
