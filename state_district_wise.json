@@ -1434,7 +1434,7 @@
         }
       },
       "Gaya": {
-        "confirmed": 1,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1546,7 +1546,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 82,
+        "confirmed": 81,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0

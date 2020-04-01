@@ -550,11 +550,11 @@
 			"totalrecovered": "137"
 		},
 		{
-			"dailyconfirmed": "288",
+			"dailyconfirmed": "289",
 			"dailydeceased": "6",
 			"dailyrecovered": "13",
 			"date": "31 March ",
-			"totalconfirmed": "1635",
+			"totalconfirmed": "1636",
 			"totaldeceased": "49",
 			"totalrecovered": "150"
 		}
@@ -563,7 +563,7 @@
 		{
 			"confirmeddelta": "281",
 			"counterforautotimeupdate": "645",
-			"deceaseddelta": "1",
+			"deceaseddelta": "4",
 			"lastupdatedtime": "01/04/2020 19:02:24",
 			"recovereddelta": "15",
 			"statesdelta": "0"
@@ -571,9 +571,9 @@
 	],
 	"statewise": [
 		{
-			"active": "1701",
-			"confirmed": "1916",
-			"deaths": "50",
+			"active": "1699",
+			"confirmed": "1917",
+			"deaths": "53",
 			"delta": {
 				"active": 281,
 				"confirmed": 281,
@@ -641,8 +641,8 @@
 			"state": "Assam"
 		},
 		{
-			"active": "22",
-			"confirmed": "23",
+			"active": "23",
+			"confirmed": "24",
 			"deaths": "1",
 			"delta": {
 				"active": 2,
@@ -1089,9 +1089,9 @@
 			"state": "Uttarakhand"
 		},
 		{
-			"active": "31",
+			"active": "28",
 			"confirmed": "37",
-			"deaths": "3",
+			"deaths": "6",
 			"delta": {
 				"active": 0,
 				"confirmed": 0,
