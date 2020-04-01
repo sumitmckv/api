@@ -283,10 +283,10 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 20,
+        "confirmed": 22,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       {
@@ -413,10 +413,10 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 31,
+        "confirmed": 43,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 12
         }
       },
       {
@@ -680,6 +680,14 @@
       {
         "district": "Thoothukkudi",
         "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      {
+        "district": "Unknown",
+        "confirmed": 110,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1733,7 +1741,7 @@
     "districtData": [
       {
         "district": "Unknown",
-        "confirmed": 247,
+        "confirmed": 123,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0

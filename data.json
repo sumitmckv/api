@@ -561,26 +561,26 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "126",
+			"confirmeddelta": "250",
 			"counterforautotimeupdate": "645",
 			"deceaseddelta": "4",
-			"lastupdatedtime": "01/04/2020 17:17:25",
+			"lastupdatedtime": "01/04/2020 18:17:24",
 			"recovereddelta": "5",
 			"statesdelta": "0"
 		}
 	],
 	"statewise": [
 		{
-			"active": "1543",
-			"confirmed": "1751",
+			"active": "1667",
+			"confirmed": "1875",
 			"deaths": "53",
 			"delta": {
-				"active": 126,
-				"confirmed": 126,
+				"active": 139,
+				"confirmed": 139,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "01/04/2020 17:17:25",
+			"lastupdatedtime": "01/04/2020 18:17:24",
 			"recovered": "155",
 			"state": "Total"
 		},
@@ -991,16 +991,16 @@
 			"state": "Punjab"
 		},
 		{
-			"active": "103",
-			"confirmed": "106",
+			"active": "105",
+			"confirmed": "108",
 			"deaths": "0",
 			"delta": {
-				"active": 13,
-				"confirmed": 13,
+				"active": 14,
+				"confirmed": 14,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "01/04/2020 15:37:25",
+			"lastupdatedtime": "01/04/2020 18:17:27",
 			"recovered": "3",
 			"state": "Rajasthan"
 		},
@@ -1019,8 +1019,8 @@
 			"state": "Sikkim"
 		},
 		{
-			"active": "117",
-			"confirmed": "124",
+			"active": "227",
+			"confirmed": "234",
 			"deaths": "1",
 			"delta": {
 				"active": 0,
@@ -1028,7 +1028,7 @@
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "31/03/2020 19:52:32",
+			"lastupdatedtime": "01/04/2020 18:17:28",
 			"recovered": "6",
 			"state": "Tamil Nadu"
 		},
@@ -1061,16 +1061,16 @@
 			"state": "Tripura"
 		},
 		{
-			"active": "86",
-			"confirmed": "104",
+			"active": "98",
+			"confirmed": "116",
 			"deaths": "1",
 			"delta": {
-				"active": 0,
-				"confirmed": 0,
+				"active": 12,
+				"confirmed": 12,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "01/04/2020 13:37:25",
+			"lastupdatedtime": "01/04/2020 18:17:29",
 			"recovered": "17",
 			"state": "Uttar Pradesh"
 		},
