@@ -561,7 +561,7 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "274",
+			"confirmeddelta": "281",
 			"counterforautotimeupdate": "645",
 			"deceaseddelta": "4",
 			"lastupdatedtime": "01/04/2020 18:17:24",
@@ -571,12 +571,12 @@
 	],
 	"statewise": [
 		{
-			"active": "1691",
-			"confirmed": "1899",
+			"active": "1698",
+			"confirmed": "1906",
 			"deaths": "53",
 			"delta": {
-				"active": 274,
-				"confirmed": 274,
+				"active": 281,
+				"confirmed": 281,
 				"deaths": 0,
 				"recovered": 0
 			},
@@ -781,12 +781,12 @@
 			"state": "Himachal Pradesh"
 		},
 		{
-			"active": "52",
-			"confirmed": "55",
+			"active": "59",
+			"confirmed": "62",
 			"deaths": "2",
 			"delta": {
-				"active": 0,
-				"confirmed": 0,
+				"active": 7,
+				"confirmed": 7,
 				"deaths": 0,
 				"recovered": 0
 			},

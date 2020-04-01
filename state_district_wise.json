@@ -464,38 +464,38 @@
   "Tamil Nadu": {
     "districtData": {
       "Kancheepuram": {
-        "confirmed": 1,
+        "confirmed": 3,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Chennai": {
-        "confirmed": 28,
+        "confirmed": 29,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Erode": {
-        "confirmed": 19,
+        "confirmed": 21,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Coimbatore": {
-        "confirmed": 5,
+        "confirmed": 33,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 28
         }
       },
       "Tirunelveli": {
-        "confirmed": 23,
+        "confirmed": 29,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 6
         }
       },
       "Tiruppur": {
@@ -506,10 +506,10 @@
         }
       },
       "Madurai": {
-        "confirmed": 6,
+        "confirmed": 15,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 9
         }
       },
       "Salem": {
@@ -555,17 +555,17 @@
         }
       },
       "Karur": {
-        "confirmed": 1,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Tiruvannamalai": {
-        "confirmed": 1,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Viluppuram": {
@@ -596,11 +596,39 @@
           "confirmed": 0
         }
       },
-      "Unknown": {
-        "confirmed": 110,
+      "Theni": {
+        "confirmed": 20,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 110
+          "confirmed": 20
+        }
+      },
+      "Dindigul": {
+        "confirmed": 17,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 17
+        }
+      },
+      "Sivaganga": {
+        "confirmed": 5,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 5
+        }
+      },
+      "Thiruvarur": {
+        "confirmed": 2,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 2
+        }
+      },
+      "Unknown": {
+        "confirmed": 16,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 16
         }
       }
     }
@@ -629,10 +657,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 12,
+        "confirmed": 19,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 7
         }
       },
       "Rajouri": {
@@ -1511,7 +1539,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 99,
+        "confirmed": 92,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
