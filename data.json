@@ -685,7 +685,7 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "378",
+			"confirmeddelta": "379",
 			"counterforautotimeupdate": "645",
 			"deceaseddelta": "6",
 			"lastupdatedtime": "01/04/2020 23:42:24",
@@ -695,12 +695,12 @@
 	],
 	"statewise": [
 		{
-			"active": "1789",
-			"confirmed": "2013",
+			"active": "1790",
+			"confirmed": "2014",
 			"deaths": "55",
 			"delta": {
-				"active": 378,
-				"confirmed": 378,
+				"active": 379,
+				"confirmed": 379,
 				"deaths": 0,
 				"recovered": 0
 			},
@@ -779,12 +779,12 @@
 			"state": "Rajasthan"
 		},
 		{
-			"active": "97",
-			"confirmed": "116",
+			"active": "98",
+			"confirmed": "117",
 			"deaths": "2",
 			"delta": {
-				"active": 12,
-				"confirmed": 12,
+				"active": 13,
+				"confirmed": 13,
 				"deaths": 0,
 				"recovered": 0
 			},

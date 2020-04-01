@@ -445,10 +445,10 @@
       },
       {
         "district": "Lucknow",
-        "confirmed": 8,
+        "confirmed": 9,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -1821,7 +1821,7 @@
     "districtData": [
       {
         "district": "Unknown",
-        "confirmed": 27,
+        "confirmed": 26,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
