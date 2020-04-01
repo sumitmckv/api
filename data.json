@@ -561,7 +561,7 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "331",
+			"confirmeddelta": "339",
 			"counterforautotimeupdate": "645",
 			"deceaseddelta": "6",
 			"lastupdatedtime": "01/04/2020 20:27:25",
@@ -571,12 +571,12 @@
 	],
 	"statewise": [
 		{
-			"active": "1742",
-			"confirmed": "1966",
+			"active": "1750",
+			"confirmed": "1974",
 			"deaths": "55",
 			"delta": {
-				"active": 331,
-				"confirmed": 331,
+				"active": 339,
+				"confirmed": 339,
 				"deaths": 0,
 				"recovered": 0
 			},
@@ -879,12 +879,12 @@
 			"state": "Uttarakhand"
 		},
 		{
-			"active": "5",
-			"confirmed": "5",
+			"active": "13",
+			"confirmed": "13",
 			"deaths": "0",
 			"delta": {
-				"active": 4,
-				"confirmed": 4,
+				"active": 12,
+				"confirmed": 12,
 				"deaths": 0,
 				"recovered": 0
 			},
