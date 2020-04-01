@@ -801,7 +801,7 @@
     "districtData": [
       {
         "district": "Bengaluru",
-        "confirmed": 45,
+        "confirmed": 47,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 1
@@ -833,7 +833,7 @@
       },
       {
         "district": "Mysuru",
-        "confirmed": 17,
+        "confirmed": 19,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 3
@@ -857,7 +857,7 @@
       },
       {
         "district": "Dakshina Kannada",
-        "confirmed": 7,
+        "confirmed": 8,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -942,10 +942,10 @@
       },
       {
         "district": "Ahmadnagar",
-        "confirmed": 11,
+        "confirmed": 8,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 5
+          "confirmed": 0
         }
       },
       {
@@ -982,7 +982,7 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 72,
+        "confirmed": 70,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1467,7 +1467,7 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 10,
+        "confirmed": 15,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1781,7 +1781,7 @@
     "districtData": [
       {
         "district": "Unknown",
-        "confirmed": 52,
+        "confirmed": 42,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0

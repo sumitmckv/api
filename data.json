@@ -550,37 +550,37 @@
 			"totalrecovered": "137"
 		},
 		{
-			"dailyconfirmed": "318",
+			"dailyconfirmed": "328",
 			"dailydeceased": "6",
 			"dailyrecovered": "13",
 			"date": "31 March ",
-			"totalconfirmed": "1665",
+			"totalconfirmed": "1675",
 			"totaldeceased": "49",
 			"totalrecovered": "150"
 		}
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "281",
+			"confirmeddelta": "276",
 			"counterforautotimeupdate": "645",
 			"deceaseddelta": "4",
-			"lastupdatedtime": "01/04/2020 19:52:25",
+			"lastupdatedtime": "01/04/2020 20:02:26",
 			"recovereddelta": "17",
 			"statesdelta": "0"
 		}
 	],
 	"statewise": [
 		{
-			"active": "1726",
-			"confirmed": "1946",
+			"active": "1731",
+			"confirmed": "1951",
 			"deaths": "53",
 			"delta": {
-				"active": 281,
-				"confirmed": 281,
+				"active": 276,
+				"confirmed": 276,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "01/04/2020 19:52:25",
+			"lastupdatedtime": "01/04/2020 20:02:26",
 			"recovered": "167",
 			"state": "Total"
 		},
@@ -739,8 +739,8 @@
 			"state": "Goa"
 		},
 		{
-			"active": "71",
-			"confirmed": "82",
+			"active": "76",
+			"confirmed": "87",
 			"deaths": "6",
 			"delta": {
 				"active": 8,
@@ -748,7 +748,7 @@
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "31/03/2020 11:12:26",
+			"lastupdatedtime": "01/04/2020 20:02:30",
 			"recovered": "5",
 			"state": "Gujarat"
 		},
@@ -809,8 +809,8 @@
 			"state": "Jharkhand"
 		},
 		{
-			"active": "93",
-			"confirmed": "105",
+			"active": "98",
+			"confirmed": "110",
 			"deaths": "3",
 			"delta": {
 				"active": 4,
@@ -818,7 +818,7 @@
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "01/04/2020 13:57:24",
+			"lastupdatedtime": "01/04/2020 20:02:34",
 			"recovered": "9",
 			"state": "Karnataka"
 		},
@@ -879,16 +879,16 @@
 			"state": "Madhya Pradesh"
 		},
 		{
-			"active": "274",
-			"confirmed": "325",
+			"active": "269",
+			"confirmed": "320",
 			"deaths": "12",
 			"delta": {
-				"active": 23,
-				"confirmed": 23,
+				"active": 18,
+				"confirmed": 18,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "01/04/2020 19:52:26",
+			"lastupdatedtime": "01/04/2020 20:02:37",
 			"recovered": "39",
 			"state": "Maharashtra"
 		},
