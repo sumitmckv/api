@@ -550,11 +550,11 @@
 			"totalrecovered": "137"
 		},
 		{
-			"dailyconfirmed": "289",
+			"dailyconfirmed": "318",
 			"dailydeceased": "6",
 			"dailyrecovered": "13",
 			"date": "31 March ",
-			"totalconfirmed": "1636",
+			"totalconfirmed": "1665",
 			"totaldeceased": "49",
 			"totalrecovered": "150"
 		}
@@ -564,15 +564,15 @@
 			"confirmeddelta": "281",
 			"counterforautotimeupdate": "645",
 			"deceaseddelta": "4",
-			"lastupdatedtime": "01/04/2020 19:27:24",
+			"lastupdatedtime": "01/04/2020 19:47:24",
 			"recovereddelta": "17",
 			"statesdelta": "0"
 		}
 	],
 	"statewise": [
 		{
-			"active": "1697",
-			"confirmed": "1917",
+			"active": "1726",
+			"confirmed": "1946",
 			"deaths": "53",
 			"delta": {
 				"active": 281,
@@ -580,7 +580,7 @@
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "01/04/2020 19:27:24",
+			"lastupdatedtime": "01/04/2020 19:47:24",
 			"recovered": "167",
 			"state": "Total"
 		},
@@ -711,8 +711,8 @@
 			"state": "Daman and Diu"
 		},
 		{
-			"active": "115",
-			"confirmed": "123",
+			"active": "144",
+			"confirmed": "152",
 			"deaths": "2",
 			"delta": {
 				"active": 3,
@@ -720,7 +720,7 @@
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "01/04/2020 10:37:39",
+			"lastupdatedtime": "01/04/2020 19:47:26",
 			"recovered": "6",
 			"state": "Delhi"
 		},
