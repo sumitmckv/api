@@ -550,11 +550,11 @@
 			"totalrecovered": "137"
 		},
 		{
-			"dailyconfirmed": "277",
+			"dailyconfirmed": "278",
 			"dailydeceased": "6",
 			"dailyrecovered": "13",
 			"date": "31 March ",
-			"totalconfirmed": "1624",
+			"totalconfirmed": "1625",
 			"totaldeceased": "49",
 			"totalrecovered": "150"
 		}
@@ -564,15 +564,15 @@
 			"confirmeddelta": "126",
 			"counterforautotimeupdate": "645",
 			"deceaseddelta": "4",
-			"lastupdatedtime": "01/04/2020 16:57:24",
+			"lastupdatedtime": "01/04/2020 17:17:25",
 			"recovereddelta": "5",
 			"statesdelta": "0"
 		}
 	],
 	"statewise": [
 		{
-			"active": "1542",
-			"confirmed": "1750",
+			"active": "1543",
+			"confirmed": "1751",
 			"deaths": "53",
 			"delta": {
 				"active": 126,
@@ -580,7 +580,7 @@
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "01/04/2020 16:57:24",
+			"lastupdatedtime": "01/04/2020 17:17:25",
 			"recovered": "155",
 			"state": "Total"
 		},
@@ -977,8 +977,8 @@
 			"state": "Puducherry"
 		},
 		{
-			"active": "40",
-			"confirmed": "45",
+			"active": "41",
+			"confirmed": "46",
 			"deaths": "4",
 			"delta": {
 				"active": 4,
@@ -986,7 +986,7 @@
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "01/04/2020 14:07:27",
+			"lastupdatedtime": "01/04/2020 17:17:28",
 			"recovered": "1",
 			"state": "Punjab"
 		},
