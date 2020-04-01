@@ -563,7 +563,7 @@
 		{
 			"confirmeddelta": "331",
 			"counterforautotimeupdate": "645",
-			"deceaseddelta": "5",
+			"deceaseddelta": "6",
 			"lastupdatedtime": "01/04/2020 20:27:25",
 			"recovereddelta": "18",
 			"statesdelta": "0"
@@ -571,9 +571,9 @@
 	],
 	"statewise": [
 		{
-			"active": "1744",
+			"active": "1743",
 			"confirmed": "1966",
-			"deaths": "54",
+			"deaths": "55",
 			"delta": {
 				"active": 331,
 				"confirmed": 331,
@@ -1061,9 +1061,9 @@
 			"state": "Tripura"
 		},
 		{
-			"active": "98",
+			"active": "97",
 			"confirmed": "116",
-			"deaths": "1",
+			"deaths": "2",
 			"delta": {
 				"active": 12,
 				"confirmed": 12,
