@@ -1,9 +1,5 @@
 [
   {
-    "update": "-1 deaths in West Bengal\n",
-    "timestamp": 1585656927331
-  },
-  {
     "update": "1 new case in West Bengal\n1 new case in Jharkhand\n",
     "timestamp": 1585657443873
   },
@@ -198,5 +194,9 @@
   {
     "update": "12 new cases in Rajasthan\n",
     "timestamp": 1585760417
+  },
+  {
+    "update": "2 new cases in Chandigarh\n",
+    "timestamp": 1585761607
   }
 ]
