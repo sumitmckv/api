@@ -534,10 +534,10 @@
         }
       },
       "Chengalpattu": {
-        "confirmed": 1,
+        "confirmed": 8,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 7
         }
       },
       "Thanjavur": {
@@ -590,10 +590,10 @@
         }
       },
       "Thoothukkudi": {
-        "confirmed": 1,
+        "confirmed": 3,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Theni": {
@@ -617,18 +617,18 @@
           "confirmed": 5
         }
       },
+      "Tirupathur": {
+        "confirmed": 7,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 7
+        }
+      },
       "Thiruvarur": {
         "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 2
-        }
-      },
-      "Unknown": {
-        "confirmed": 16,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 16
         }
       }
     }

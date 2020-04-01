@@ -550,18 +550,18 @@
 			"totalrecovered": "137"
 		},
 		{
-			"dailyconfirmed": "278",
+			"dailyconfirmed": "289",
 			"dailydeceased": "6",
 			"dailyrecovered": "13",
 			"date": "31 March ",
-			"totalconfirmed": "1625",
+			"totalconfirmed": "1636",
 			"totaldeceased": "49",
 			"totalrecovered": "150"
 		}
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "281",
+			"confirmeddelta": "270",
 			"counterforautotimeupdate": "645",
 			"deceaseddelta": "4",
 			"lastupdatedtime": "01/04/2020 18:17:24",
