@@ -2839,7 +2839,7 @@
 			"agebracket": "67",
 			"backupnotes": "Travel history to Dubai",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "17/03/2020",
 			"detectedcity": "Bengaluru",
 			"detecteddistrict": "Bengaluru",
@@ -2853,7 +2853,7 @@
 			"source2": "",
 			"source3": "",
 			"statepatientnumber": "KA-P11",
-			"statuschangedate": "30/03/2020",
+			"statuschangedate": "01/04/2020",
 			"typeoftransmission": "Imported"
 		},
 		{
@@ -36060,7 +36060,7 @@
 		{
 			"agebracket": "33",
 			"backupnotes": "",
-			"contractedfromwhichpatientsuspected": "P1721",
+			"contractedfromwhichpatientsuspected": "P1716",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "01/04/2020",
 			"detectedcity": "",
@@ -40932,7 +40932,7 @@
 		{
 			"agebracket": "63",
 			"backupnotes": "",
-			"contractedfromwhichpatientsuspected": "",
+			"contractedfromwhichpatientsuspected": "P689",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "31/03/2020",
 			"detectedcity": "",
@@ -40953,7 +40953,7 @@
 		{
 			"agebracket": "27",
 			"backupnotes": "",
-			"contractedfromwhichpatientsuspected": "",
+			"contractedfromwhichpatientsuspected": "P689",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "31/03/2020",
 			"detectedcity": "",
