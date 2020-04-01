@@ -18,17 +18,22 @@ git rebase "${remote_name}/${main_branch}"
 npm install drive-db
 npm install node-fetch
 npm install moment
+npm install moment-timezone
+
+cp ./data.json ./data_prev.json
 
 node sheet-to-json_raw_data.js
 node sheet-to-json.js
 node sheet-to-json_travel_history.js
-cp state_district_wise.json state_district_wise_old.json
 node raw_data-to-state_district_wise_data.js
 node sheet-to-json_faq.js
 node sheet-to-json_websitedata.js
-node sheet-to-json_activities.js
+node sheet-to-json_datewisedelta.js
+node generate_activity_log.js ${BOT_TOKEN}
 
-git add state_wise_raw.json data.json travel_history.json raw_data.json state_district_wise.json state_district_wise_old.json faq.json website_data.json website_data.json activities.json
+rm ./data_prev.json
+
+git add updatelog/ *.json
 set +e  # Grep succeeds with nonzero exit codes to show results.
 git status | grep 'new file\|modified'
 if [ $? -eq 0 ]

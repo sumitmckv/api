@@ -10,12 +10,11 @@ A volunteer-driven API for COVID-19 stats & patient tracing in India (Unofficial
 | State-district-wise                                   | https://api.covid19india.org/state_district_wise.json |
 | Travel history                                        | https://api.covid19india.org/travel_history.json      |
 | Raw data                                              | https://api.covid19india.org/raw_data.json            |
-| Activities                                            | https://api.covid19india.org/activities.json          |
+| States Daily changes                                  | https://api.covid19india.org/states_daily.json        |
 
 ## Projects Using This API
 
 - [INDIA COVID-19 TRACKER](https://www.covid19india.org/) (Visualization)
-- [API Covid 19 India](https://github.com/amodm/api-covid19-in) (API)
 
 ## Quick Links
 

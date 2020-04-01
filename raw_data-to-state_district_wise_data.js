@@ -48,6 +48,19 @@ try {
   
   }, {});
 
+  let stateDistrictWiseDataV2 = Object.keys(StateDistrictWiseData).map(state => {
+    let districtData = StateDistrictWiseData[state].districtData;
+    return {
+      state,
+      districtData: Object.keys(districtData).map(district => {
+        let {confirmed, lastupdatedtime, delta} = districtData[district];
+        return { district, confirmed, lastupdatedtime, delta };
+      })
+    }
+  });
+
+  console.log(stateDistrictWiseDataV2);
+
   fs.writeFileSync('state_district_wise.json', JSON.stringify(StateDistrictWiseData, null, 2));
   console.log('Starting district wise data processing ...done');
 } catch(err) {
