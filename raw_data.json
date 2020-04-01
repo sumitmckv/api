@@ -8194,7 +8194,7 @@
 			"agebracket": "48",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "P200",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "22/03/2020",
 			"detectedcity": "Kolkata",
 			"detecteddistrict": "Kolkata",
@@ -8212,7 +8212,7 @@
 			"typeoftransmission": "Local"
 		},
 		{
-			"agebracket": "",
+			"agebracket": "47",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "P200",
 			"currentstatus": "Hospitalized",
@@ -8233,7 +8233,7 @@
 			"typeoftransmission": "Local"
 		},
 		{
-			"agebracket": "",
+			"agebracket": "20",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "P200",
 			"currentstatus": "Hospitalized",
