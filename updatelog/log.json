@@ -1,9 +1,5 @@
 [
   {
-    "update": "1 new case in West Bengal\n1 new case in Jharkhand\n",
-    "timestamp": 1585657443873
-  },
-  {
     "update": "2 recoveries in Tamil Nadu\n",
     "timestamp": 1585659010306
   },
@@ -198,5 +194,9 @@
   {
     "update": "2 new cases in Chandigarh\n",
     "timestamp": 1585761607
+  },
+  {
+    "update": "1 new case in Odisha\n",
+    "timestamp": 1585764799
   }
 ]
