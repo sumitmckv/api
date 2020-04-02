@@ -1006,10 +1006,10 @@
       },
       {
         "district": "Ahmadnagar",
-        "confirmed": 17,
+        "confirmed": 19,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 9
+          "confirmed": 11
         }
       },
       {
@@ -1106,14 +1106,6 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 1
-        }
-      },
-      {
-        "district": "Ahmadabad",
-        "confirmed": 2,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 2
         }
       }
     ]
