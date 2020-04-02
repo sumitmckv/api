@@ -16,10 +16,10 @@
         }
       },
       "Kasaragod": {
-        "confirmed": 121,
+        "confirmed": 129,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 8
         }
       },
       "Pathanamthitta": {
@@ -97,6 +97,13 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      "Unknown": {
+        "confirmed": 13,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 13
         }
       }
     }
@@ -340,10 +347,10 @@
         }
       },
       "Ambala": {
-        "confirmed": 1,
+        "confirmed": 3,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Sirsa": {
@@ -365,13 +372,6 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 1
-        }
-      },
-      "Unknown": {
-        "confirmed": 2,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 2
         }
       }
     }
@@ -657,6 +657,13 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      "Unknown": {
+        "confirmed": 75,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 75
         }
       }
     }
@@ -1079,10 +1086,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 45,
+        "confirmed": 48,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 21
+          "confirmed": 24
         }
       }
     }
@@ -1620,7 +1627,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 21,
+        "confirmed": 132,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0

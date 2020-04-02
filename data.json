@@ -696,26 +696,26 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "137",
+			"confirmeddelta": "236",
 			"counterforautotimeupdate": "645",
 			"deceaseddelta": "10",
-			"lastupdatedtime": "02/04/2020 18:02:24",
+			"lastupdatedtime": "02/04/2020 18:12:24",
 			"recovereddelta": "7",
 			"statesdelta": "0"
 		}
 	],
 	"statewise": [
 		{
-			"active": "1954",
-			"confirmed": "2196",
+			"active": "2053",
+			"confirmed": "2295",
 			"deaths": "66",
 			"delta": {
-				"active": 137,
-				"confirmed": 137,
+				"active": 236,
+				"confirmed": 236,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "02/04/2020 18:02:24",
+			"lastupdatedtime": "02/04/2020 18:12:24",
 			"recovered": "176",
 			"state": "Total"
 		},
@@ -734,30 +734,30 @@
 			"state": "Maharashtra"
 		},
 		{
-			"active": "237",
-			"confirmed": "265",
+			"active": "258",
+			"confirmed": "286",
 			"deaths": "2",
 			"delta": {
-				"active": 0,
-				"confirmed": 0,
+				"active": 21,
+				"confirmed": 21,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "01/04/2020 19:27:27",
+			"lastupdatedtime": "02/04/2020 18:12:26",
 			"recovered": "26",
 			"state": "Kerala"
 		},
 		{
-			"active": "227",
-			"confirmed": "234",
+			"active": "302",
+			"confirmed": "309",
 			"deaths": "1",
 			"delta": {
-				"active": 0,
-				"confirmed": 0,
+				"active": 75,
+				"confirmed": 75,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "01/04/2020 18:17:28",
+			"lastupdatedtime": "02/04/2020 18:12:28",
 			"recovered": "6",
 			"state": "Tamil Nadu"
 		},
@@ -804,16 +804,16 @@
 			"state": "Uttar Pradesh"
 		},
 		{
-			"active": "130",
-			"confirmed": "132",
+			"active": "133",
+			"confirmed": "135",
 			"deaths": "0",
 			"delta": {
-				"active": 21,
-				"confirmed": 21,
+				"active": 24,
+				"confirmed": 24,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "02/04/2020 10:52:36",
+			"lastupdatedtime": "02/04/2020 18:12:31",
 			"recovered": "2",
 			"state": "Andhra Pradesh"
 		},
