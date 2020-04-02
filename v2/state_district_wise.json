@@ -384,10 +384,10 @@
       },
       {
         "district": "Palwal",
-        "confirmed": 1,
+        "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       {
@@ -415,11 +415,11 @@
         }
       },
       {
-        "district": "Unknown",
-        "confirmed": 4,
+        "district": "Rohtak",
+        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 4
+          "confirmed": 1
         }
       }
     ]
