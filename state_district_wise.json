@@ -1079,10 +1079,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 48,
+        "confirmed": 56,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 24
+          "confirmed": 32
         }
       }
     }
@@ -1620,7 +1620,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 39,
+        "confirmed": 31,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
