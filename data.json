@@ -570,40 +570,40 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "471",
+			"confirmeddelta": "474",
 			"counterforautotimeupdate": "645",
 			"deceaseddelta": "14",
-			"lastupdatedtime": "02/04/2020 22:42:26",
+			"lastupdatedtime": "02/04/2020 22:47:24",
 			"recovereddelta": "20",
 			"statesdelta": "0"
 		}
 	],
 	"statewise": [
 		{
-			"active": "2271",
-			"confirmed": "2530",
+			"active": "2274",
+			"confirmed": "2533",
 			"deaths": "70",
 			"delta": {
-				"active": 471,
-				"confirmed": 471,
+				"active": 474,
+				"confirmed": 474,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "02/04/2020 22:42:26",
+			"lastupdatedtime": "02/04/2020 22:47:24",
 			"recovered": "189",
 			"state": "Total"
 		},
 		{
-			"active": "359",
-			"confirmed": "420",
+			"active": "362",
+			"confirmed": "423",
 			"deaths": "19",
 			"delta": {
-				"active": 85,
-				"confirmed": 85,
+				"active": 88,
+				"confirmed": 88,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "02/04/2020 22:32:24",
+			"lastupdatedtime": "02/04/2020 22:47:25",
 			"recovered": "42",
 			"state": "Maharashtra"
 		},
@@ -1288,6 +1288,14 @@
 			"totalpositivecases": "1637",
 			"totalsamplestested": "47951",
 			"updatetimestamp": "1/4/2020"
+		},
+		{
+			"source": "ICMR_testing_update_02April_9PM_IST.pdf",
+			"testsconductedbyprivatelabs": "",
+			"totalindividualstested": "",
+			"totalpositivecases": "2056",
+			"totalsamplestested": "55851",
+			"updatetimestamp": "2/4/2020 21:00"
 		}
 	]
 }
