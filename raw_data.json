@@ -1810,7 +1810,7 @@
 			"agebracket": "",
 			"backupnotes": "Returned from London via Bahrain ",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "13/03/2020",
 			"detectedcity": "Thiruvananthapuram",
 			"detecteddistrict": "Thiruvananthapuram",
@@ -1824,7 +1824,7 @@
 			"source2": "https://www.thehindu.com/news/national/kerala/coronavirus-thiruvananthapuram-officials-release-travel-history-of-two-who-tested-positive/article31068119.ece",
 			"source3": "",
 			"statepatientnumber": "KL-TV-R2",
-			"statuschangedate": "13/03/2020",
+			"statuschangedate": "01/03/2020",
 			"typeoftransmission": "Imported"
 		},
 		{
