@@ -1046,7 +1046,7 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 70,
+        "confirmed": 72,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1106,6 +1106,14 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 1
+        }
+      },
+      {
+        "district": "Ahmadabad",
+        "confirmed": 2,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
         }
       }
     ]
@@ -1264,10 +1272,10 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 45,
+        "confirmed": 51,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 21
+          "confirmed": 27
         }
       }
     ]
@@ -1722,18 +1730,18 @@
       },
       {
         "district": "Gopalganj",
-        "confirmed": 1,
+        "confirmed": 3,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       {
         "district": "Gaya",
-        "confirmed": 2,
+        "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       {
@@ -1742,6 +1750,14 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      {
+        "district": "Saran",
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
         }
       }
     ]
@@ -1906,7 +1922,7 @@
     "districtData": [
       {
         "district": "Unknown",
-        "confirmed": 500,
+        "confirmed": 485,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
