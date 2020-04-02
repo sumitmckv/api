@@ -1816,6 +1816,14 @@
         "delta": {
           "confirmed": 0
         }
+      },
+      {
+        "district": "Hazaribagh",
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
+        }
       }
     ]
   },
@@ -1874,7 +1882,7 @@
     "districtData": [
       {
         "district": "Unknown",
-        "confirmed": 28,
+        "confirmed": 27,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
