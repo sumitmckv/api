@@ -1,9 +1,5 @@
 [
   {
-    "update": "8 new cases in Gujarat\n2 new cases in Puducherry\n",
-    "timestamp": 1585719390
-  },
-  {
     "update": "43 new cases in Andhra Pradesh\n",
     "timestamp": 1585720431
   },
@@ -198,5 +194,9 @@
   {
     "update": "67 new cases in Delhi\n",
     "timestamp": 1585830255
+  },
+  {
+    "update": "4 new cases in Uttar Pradesh\n2 deaths in Madhya Pradesh\n8 new cases in Jammu and Kashmir\n3 recoveries in Bihar\n",
+    "timestamp": 1585830651
   }
 ]

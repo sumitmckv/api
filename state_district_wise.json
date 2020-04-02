@@ -379,10 +379,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 43,
+        "confirmed": 47,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 4
         }
       },
       "Ghaziabad": {
@@ -678,10 +678,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 19,
+        "confirmed": 27,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 8
         }
       },
       "Rajouri": {
@@ -1613,7 +1613,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 37,
+        "confirmed": 25,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
