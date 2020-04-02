@@ -687,8 +687,8 @@
 			"dailydeceased": "7",
 			"dailyrecovered": "19",
 			"date": "01 April ",
-			"death": "13",
-			"rec": "9",
+			"death": "",
+			"rec": "",
 			"totalconfirmed": "2059",
 			"totaldeceased": "56",
 			"totalrecovered": "169"
