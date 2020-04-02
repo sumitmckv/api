@@ -567,18 +567,18 @@
       },
       {
         "district": "Chennai",
-        "confirmed": 29,
+        "confirmed": 49,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 20
         }
       },
       {
         "district": "Erode",
-        "confirmed": 21,
+        "confirmed": 27,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 6
         }
       },
       {
@@ -591,10 +591,10 @@
       },
       {
         "district": "Tirunelveli",
-        "confirmed": 29,
+        "confirmed": 30,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -639,10 +639,10 @@
       },
       {
         "district": "Chengalpattu",
-        "confirmed": 8,
+        "confirmed": 15,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 7
         }
       },
       {
@@ -655,18 +655,18 @@
       },
       {
         "district": "Virudhunagar",
-        "confirmed": 1,
+        "confirmed": 10,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 9
         }
       },
       {
         "district": "Karur",
-        "confirmed": 2,
+        "confirmed": 17,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 15
         }
       },
       {
@@ -703,10 +703,10 @@
       },
       {
         "district": "Thoothukkudi",
-        "confirmed": 3,
+        "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       {
@@ -743,18 +743,42 @@
       },
       {
         "district": "Thiruvarur",
-        "confirmed": 2,
+        "confirmed": 7,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 5
         }
       },
       {
-        "district": "Unknown",
-        "confirmed": 75,
+        "district": "Tirupattur",
+        "confirmed": 3,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 75
+          "confirmed": 3
+        }
+      },
+      {
+        "district": "Ranipet",
+        "confirmed": 4,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 4
+        }
+      },
+      {
+        "district": "Ramanathapuram",
+        "confirmed": 2,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 2
+        }
+      },
+      {
+        "district": "Thiruvallur",
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
         }
       }
     ]

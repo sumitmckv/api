@@ -492,17 +492,17 @@
         }
       },
       "Chennai": {
-        "confirmed": 29,
+        "confirmed": 49,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 20
         }
       },
       "Erode": {
-        "confirmed": 21,
+        "confirmed": 27,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 6
         }
       },
       "Coimbatore": {
@@ -513,10 +513,10 @@
         }
       },
       "Tirunelveli": {
-        "confirmed": 29,
+        "confirmed": 30,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Tiruppur": {
@@ -555,10 +555,10 @@
         }
       },
       "Chengalpattu": {
-        "confirmed": 8,
+        "confirmed": 15,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 7
         }
       },
       "Thanjavur": {
@@ -569,17 +569,17 @@
         }
       },
       "Virudhunagar": {
-        "confirmed": 1,
+        "confirmed": 10,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 9
         }
       },
       "Karur": {
-        "confirmed": 2,
+        "confirmed": 17,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 15
         }
       },
       "Tiruvannamalai": {
@@ -611,10 +611,10 @@
         }
       },
       "Thoothukkudi": {
-        "confirmed": 3,
+        "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Theni": {
@@ -646,17 +646,38 @@
         }
       },
       "Thiruvarur": {
+        "confirmed": 7,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 5
+        }
+      },
+      "Tirupattur": {
+        "confirmed": 3,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 3
+        }
+      },
+      "Ranipet": {
+        "confirmed": 4,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 4
+        }
+      },
+      "Ramanathapuram": {
         "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
-      "Unknown": {
-        "confirmed": 75,
+      "Thiruvallur": {
+        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 75
+          "confirmed": 1
         }
       }
     }
