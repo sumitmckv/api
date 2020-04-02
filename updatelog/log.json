@@ -1,9 +1,5 @@
 [
   {
-    "update": "3 new cases in Uttar Pradesh\n",
-    "timestamp": 1585677922
-  },
-  {
     "update": "1 death in Maharashtra\n",
     "timestamp": 1585679983
   },
@@ -198,5 +194,9 @@
   {
     "update": "1 new case in Punjab\n4 new cases in Haryana\n1 recovery in Chhattisgarh\n",
     "timestamp": 1585820813
+  },
+  {
+    "update": "2 new cases in Rajasthan\n11 new cases in Karnataka\n",
+    "timestamp": 1585822014
   }
 ]
