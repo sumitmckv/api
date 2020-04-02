@@ -39271,7 +39271,7 @@
 			"typeoftransmission": ""
 		},
 		{
-			"agebracket": "",
+			"agebracket": "18",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
@@ -39280,7 +39280,7 @@
 			"detecteddistrict": "Kasaragod",
 			"detectedstate": "Kerala",
 			"estimatedonsetdate": "",
-			"gender": "",
+			"gender": "F",
 			"nationality": "",
 			"notes": "Contact transmission",
 			"patientnumber": "1871",
@@ -39289,10 +39289,10 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "01/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
-			"agebracket": "",
+			"agebracket": "52",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
@@ -39301,7 +39301,7 @@
 			"detecteddistrict": "Kasaragod",
 			"detectedstate": "Kerala",
 			"estimatedonsetdate": "",
-			"gender": "",
+			"gender": "F",
 			"nationality": "",
 			"notes": "Contact transmission",
 			"patientnumber": "1872",
@@ -39310,10 +39310,10 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "01/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
-			"agebracket": "",
+			"agebracket": "52",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
@@ -39322,7 +39322,7 @@
 			"detecteddistrict": "Kasaragod",
 			"detectedstate": "Kerala",
 			"estimatedonsetdate": "",
-			"gender": "",
+			"gender": "F",
 			"nationality": "",
 			"notes": "Contact transmission",
 			"patientnumber": "1873",
@@ -39331,10 +39331,10 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "01/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
-			"agebracket": "",
+			"agebracket": "72",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
@@ -39343,7 +39343,7 @@
 			"detecteddistrict": "Kasaragod",
 			"detectedstate": "Kerala",
 			"estimatedonsetdate": "",
-			"gender": "",
+			"gender": "F",
 			"nationality": "",
 			"notes": "Contact transmission",
 			"patientnumber": "1874",
@@ -39352,10 +39352,10 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "01/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
-			"agebracket": "",
+			"agebracket": "32",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
@@ -39364,7 +39364,7 @@
 			"detecteddistrict": "Kasaragod",
 			"detectedstate": "Kerala",
 			"estimatedonsetdate": "",
-			"gender": "",
+			"gender": "F",
 			"nationality": "",
 			"notes": "Contact transmission",
 			"patientnumber": "1875",
@@ -39373,10 +39373,10 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "01/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
-			"agebracket": "",
+			"agebracket": "11",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
@@ -39385,7 +39385,7 @@
 			"detecteddistrict": "Kasaragod",
 			"detectedstate": "Kerala",
 			"estimatedonsetdate": "",
-			"gender": "",
+			"gender": "M",
 			"nationality": "",
 			"notes": "Contact transmission",
 			"patientnumber": "1876",
@@ -39394,10 +39394,10 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "01/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
-			"agebracket": "",
+			"agebracket": "15",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
@@ -39406,7 +39406,7 @@
 			"detecteddistrict": "Kasaragod",
 			"detectedstate": "Kerala",
 			"estimatedonsetdate": "",
-			"gender": "",
+			"gender": "M",
 			"nationality": "",
 			"notes": "Contact transmission",
 			"patientnumber": "1877",
@@ -39415,7 +39415,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "01/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -39436,7 +39436,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "01/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -39457,7 +39457,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "01/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -39478,7 +39478,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "01/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -39499,7 +39499,7 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "01/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "",
@@ -39520,10 +39520,10 @@
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "01/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
-			"agebracket": "",
+			"agebracket": "32",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
@@ -39532,19 +39532,19 @@
 			"detecteddistrict": "Ernakulam",
 			"detectedstate": "Kerala",
 			"estimatedonsetdate": "",
-			"gender": "",
+			"gender": "F",
 			"nationality": "",
-			"notes": "Details awaited",
+			"notes": "Close relative of P380",
 			"patientnumber": "1883",
 			"source1": "https://twitter.com/PTI_News/status/1245330284574150656",
-			"source2": "",
+			"source2": "https://www.facebook.com/dioekm/videos/516568518930301",
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "01/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
-			"agebracket": "",
+			"agebracket": "17",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
@@ -39553,19 +39553,19 @@
 			"detecteddistrict": "Ernakulam",
 			"detectedstate": "Kerala",
 			"estimatedonsetdate": "",
-			"gender": "",
+			"gender": "M",
 			"nationality": "",
-			"notes": "Details awaited",
+			"notes": "Close relative of P380",
 			"patientnumber": "1884",
 			"source1": "https://twitter.com/PTI_News/status/1245330284574150656",
-			"source2": "",
+			"source2": "https://www.facebook.com/dioekm/videos/516568518930301",
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "01/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
-			"agebracket": "",
+			"agebracket": "47",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
@@ -39576,14 +39576,14 @@
 			"estimatedonsetdate": "",
 			"gender": "",
 			"nationality": "",
-			"notes": "Details awaited",
+			"notes": "Health professional, contact transmission",
 			"patientnumber": "1885",
 			"source1": "https://twitter.com/PTI_News/status/1245330284574150656",
-			"source2": "",
+			"source2": "https://www.facebook.com/dioekm/videos/516568518930301",
 			"source3": "",
 			"statepatientnumber": "",
 			"statuschangedate": "01/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
