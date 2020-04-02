@@ -1268,7 +1268,7 @@
         }
       },
       "Surat": {
-        "confirmed": 7,
+        "confirmed": 9,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1303,7 +1303,7 @@
         }
       },
       "Unknown": {
-        "confirmed": 15,
+        "confirmed": 10,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1317,7 +1317,7 @@
         }
       },
       "Porbandar": {
-        "confirmed": 1,
+        "confirmed": 3,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1332,6 +1332,13 @@
       },
       "Bhavnagar": {
         "confirmed": 5,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      "Panch Mahals": {
+        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0

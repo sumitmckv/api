@@ -1459,7 +1459,7 @@
       },
       {
         "district": "Surat",
-        "confirmed": 7,
+        "confirmed": 9,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1499,7 +1499,7 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 15,
+        "confirmed": 10,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1515,7 +1515,7 @@
       },
       {
         "district": "Porbandar",
-        "confirmed": 1,
+        "confirmed": 3,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1532,6 +1532,14 @@
       {
         "district": "Bhavnagar",
         "confirmed": 5,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      {
+        "district": "Panch Mahals",
+        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
