@@ -359,6 +359,13 @@
         "delta": {
           "confirmed": 0
         }
+      },
+      "Unknown": {
+        "confirmed": 4,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 4
+        }
       }
     }
   },
@@ -949,10 +956,10 @@
         }
       },
       "Hoshiarpur": {
-        "confirmed": 2,
+        "confirmed": 3,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Jalandhar": {
@@ -1606,7 +1613,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 117,
+        "confirmed": 112,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0

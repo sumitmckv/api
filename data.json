@@ -696,27 +696,27 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "41",
+			"confirmeddelta": "46",
 			"counterforautotimeupdate": "645",
 			"deceaseddelta": "4",
-			"lastupdatedtime": "02/04/2020 14:32:31",
-			"recovereddelta": "2",
+			"lastupdatedtime": "02/04/2020 15:12:24",
+			"recovereddelta": "3",
 			"statesdelta": "0"
 		}
 	],
 	"statewise": [
 		{
-			"active": "1869",
-			"confirmed": "2100",
+			"active": "1873",
+			"confirmed": "2105",
 			"deaths": "60",
 			"delta": {
-				"active": 41,
-				"confirmed": 41,
+				"active": 46,
+				"confirmed": 46,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "02/04/2020 14:32:31",
-			"recovered": "171",
+			"lastupdatedtime": "02/04/2020 15:12:24",
+			"recovered": "172",
 			"state": "Total"
 		},
 		{
@@ -888,26 +888,26 @@
 			"state": "Jammu and Kashmir"
 		},
 		{
-			"active": "41",
-			"confirmed": "46",
+			"active": "42",
+			"confirmed": "47",
 			"deaths": "4",
 			"delta": {
-				"active": 0,
-				"confirmed": 0,
+				"active": 1,
+				"confirmed": 1,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "01/04/2020 17:17:28",
+			"lastupdatedtime": "02/04/2020 15:12:25",
 			"recovered": "1",
 			"state": "Punjab"
 		},
 		{
-			"active": "16",
-			"confirmed": "43",
+			"active": "20",
+			"confirmed": "47",
 			"deaths": "0",
 			"delta": {
-				"active": 0,
-				"confirmed": 0,
+				"active": 4,
+				"confirmed": 4,
 				"deaths": 0,
 				"recovered": 0
 			},
@@ -1000,7 +1000,7 @@
 			"state": "Andaman and Nicobar Islands"
 		},
 		{
-			"active": "7",
+			"active": "6",
 			"confirmed": "9",
 			"deaths": "0",
 			"delta": {
@@ -1010,7 +1010,7 @@
 				"recovered": 0
 			},
 			"lastupdatedtime": "31/03/2020 23:07:28",
-			"recovered": "2",
+			"recovered": "3",
 			"state": "Chhattisgarh"
 		},
 		{

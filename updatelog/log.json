@@ -1,9 +1,5 @@
 [
   {
-    "update": "2 recoveries in Chhattisgarh\n",
-    "timestamp": 1585676276
-  },
-  {
     "update": "3 new cases in Uttar Pradesh\n",
     "timestamp": 1585677922
   },
@@ -198,5 +194,9 @@
   {
     "update": "3 deaths in Telangana\n",
     "timestamp": 1585817959
+  },
+  {
+    "update": "1 new case in Punjab\n4 new cases in Haryana\n1 recovery in Chhattisgarh\n",
+    "timestamp": 1585820813
   }
 ]
