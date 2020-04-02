@@ -42297,7 +42297,7 @@
 		{
 			"agebracket": "",
 			"backupnotes": "",
-			"contractedfromwhichpatientsuspected": "",
+			"contractedfromwhichpatientsuspected": "E0",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "02/04/2020",
 			"detectedcity": "",
