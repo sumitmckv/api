@@ -950,10 +950,10 @@
     "districtData": [
       {
         "district": "Pune",
-        "confirmed": 54,
+        "confirmed": 63,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 2
+          "confirmed": 11
         }
       },
       {
@@ -982,10 +982,10 @@
       },
       {
         "district": "Ahmadnagar",
-        "confirmed": 8,
+        "confirmed": 17,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 9
         }
       },
       {
@@ -1022,10 +1022,10 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 90,
+        "confirmed": 72,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 20
+          "confirmed": 2
         }
       },
       {
