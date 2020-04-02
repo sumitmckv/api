@@ -1393,10 +1393,10 @@
     "districtData": [
       {
         "district": "Chandigarh",
-        "confirmed": 15,
+        "confirmed": 16,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -1866,7 +1866,7 @@
     "districtData": [
       {
         "district": "Unknown",
-        "confirmed": 31,
+        "confirmed": 30,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0

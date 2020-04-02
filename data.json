@@ -676,8 +676,8 @@
 			"dailydeceased": "6",
 			"dailyrecovered": "13",
 			"date": "31 March ",
-			"death": "7",
-			"rec": "19",
+			"death": "",
+			"rec": "",
 			"totalconfirmed": "1635",
 			"totaldeceased": "49",
 			"totalrecovered": "150"
@@ -687,8 +687,8 @@
 			"dailydeceased": "7",
 			"dailyrecovered": "19",
 			"date": "01 April ",
-			"death": "13",
-			"rec": "9",
+			"death": "",
+			"rec": "",
 			"totalconfirmed": "2059",
 			"totaldeceased": "56",
 			"totalrecovered": "169"
@@ -696,26 +696,26 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "337",
+			"confirmeddelta": "338",
 			"counterforautotimeupdate": "645",
 			"deceaseddelta": "13",
-			"lastupdatedtime": "02/04/2020 18:52:24",
+			"lastupdatedtime": "02/04/2020 18:57:24",
 			"recovereddelta": "12",
 			"statesdelta": "0"
 		}
 	],
 	"statewise": [
 		{
-			"active": "2146",
-			"confirmed": "2396",
+			"active": "2147",
+			"confirmed": "2397",
 			"deaths": "69",
 			"delta": {
-				"active": 337,
-				"confirmed": 337,
+				"active": 338,
+				"confirmed": 338,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "02/04/2020 18:52:24",
+			"lastupdatedtime": "02/04/2020 18:57:24",
 			"recovered": "181",
 			"state": "Total"
 		},
@@ -743,7 +743,7 @@
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "02/04/2020 18:52:27",
+			"lastupdatedtime": "02/04/2020 18:57:27",
 			"recovered": "28",
 			"state": "Kerala"
 		},
@@ -813,7 +813,7 @@
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "02/04/2020 18:12:31",
+			"lastupdatedtime": "02/04/2020 18:57:29",
 			"recovered": "2",
 			"state": "Andhra Pradesh"
 		},
@@ -944,16 +944,16 @@
 			"state": "Bihar"
 		},
 		{
-			"active": "17",
-			"confirmed": "17",
+			"active": "18",
+			"confirmed": "18",
 			"deaths": "0",
 			"delta": {
-				"active": 0,
-				"confirmed": 0,
+				"active": 1,
+				"confirmed": 1,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "01/04/2020 22:52:26",
+			"lastupdatedtime": "02/04/2020 18:57:31",
 			"recovered": "0",
 			"state": "Chandigarh"
 		},
