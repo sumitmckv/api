@@ -683,39 +683,39 @@
 			"totalrecovered": "150"
 		},
 		{
-			"dailyconfirmed": "409",
+			"dailyconfirmed": "424",
 			"dailydeceased": "7",
 			"dailyrecovered": "19",
 			"date": "01 April ",
 			"death": "8",
 			"rec": "9",
-			"totalconfirmed": "2044",
+			"totalconfirmed": "2059",
 			"totaldeceased": "56",
 			"totalrecovered": "169"
 		}
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "4",
+			"confirmeddelta": "1",
 			"counterforautotimeupdate": "645",
 			"deceaseddelta": "0",
-			"lastupdatedtime": "02/04/2020 10:07:24",
+			"lastupdatedtime": "02/04/2020 10:12:23",
 			"recovereddelta": "2",
 			"statesdelta": "0"
 		}
 	],
 	"statewise": [
 		{
-			"active": "1821",
-			"confirmed": "2048",
+			"active": "1833",
+			"confirmed": "2060",
 			"deaths": "56",
 			"delta": {
-				"active": 4,
-				"confirmed": 4,
+				"active": 1,
+				"confirmed": 1,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "02/04/2020 10:07:24",
+			"lastupdatedtime": "02/04/2020 10:12:23",
 			"recovered": "171",
 			"state": "Total"
 		},
@@ -841,7 +841,7 @@
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "02/04/2020 10:07:26",
+			"lastupdatedtime": "02/04/2020 10:12:24",
 			"recovered": "14",
 			"state": "Telangana"
 		},
@@ -860,8 +860,8 @@
 			"state": "Gujarat"
 		},
 		{
-			"active": "80",
-			"confirmed": "86",
+			"active": "92",
+			"confirmed": "98",
 			"deaths": "6",
 			"delta": {
 				"active": 0,
@@ -976,8 +976,8 @@
 			"confirmed": "16",
 			"deaths": "0",
 			"delta": {
-				"active": 3,
-				"confirmed": 3,
+				"active": 0,
+				"confirmed": 0,
 				"deaths": 0,
 				"recovered": 0
 			},
