@@ -696,7 +696,7 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "54",
+			"confirmeddelta": "121",
 			"counterforautotimeupdate": "645",
 			"deceaseddelta": "8",
 			"lastupdatedtime": "02/04/2020 16:52:24",
@@ -706,12 +706,12 @@
 	],
 	"statewise": [
 		{
-			"active": "1876",
-			"confirmed": "2113",
+			"active": "1943",
+			"confirmed": "2180",
 			"deaths": "64",
 			"delta": {
-				"active": 54,
-				"confirmed": 54,
+				"active": 121,
+				"confirmed": 121,
 				"deaths": 0,
 				"recovered": 0
 			},
@@ -762,12 +762,12 @@
 			"state": "Tamil Nadu"
 		},
 		{
-			"active": "142",
-			"confirmed": "152",
+			"active": "209",
+			"confirmed": "219",
 			"deaths": "4",
 			"delta": {
-				"active": 0,
-				"confirmed": 0,
+				"active": 67,
+				"confirmed": 67,
 				"deaths": 0,
 				"recovered": 0
 			},

@@ -1,9 +1,5 @@
 [
   {
-    "update": "5 new cases in Maharashtra\n1 new case in Delhi\n",
-    "timestamp": 1585717794
-  },
-  {
     "update": "8 new cases in Gujarat\n2 new cases in Puducherry\n",
     "timestamp": 1585719390
   },
@@ -198,5 +194,9 @@
   {
     "update": "1 death in Delhi\n",
     "timestamp": 1585829461
+  },
+  {
+    "update": "67 new cases in Delhi\n",
+    "timestamp": 1585830255
   }
 ]
