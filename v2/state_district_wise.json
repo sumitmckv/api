@@ -4,10 +4,10 @@
     "districtData": [
       {
         "district": "Thrissur",
-        "confirmed": 10,
+        "confirmed": 11,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -28,18 +28,18 @@
       },
       {
         "district": "Pathanamthitta",
-        "confirmed": 12,
+        "confirmed": 13,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
         "district": "Kannur",
-        "confirmed": 47,
+        "confirmed": 48,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -60,34 +60,34 @@
       },
       {
         "district": "Thiruvananthapuram",
-        "confirmed": 12,
+        "confirmed": 13,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
         "district": "Idukki",
-        "confirmed": 5,
+        "confirmed": 10,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 5
         }
       },
       {
         "district": "Malappuram",
-        "confirmed": 12,
+        "confirmed": 13,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
         "district": "Kozhikode",
-        "confirmed": 6,
+        "confirmed": 7,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -108,18 +108,10 @@
       },
       {
         "district": "Kollam",
-        "confirmed": 3,
+        "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
-        }
-      },
-      {
-        "district": "Unknown",
-        "confirmed": 13,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 13
+          "confirmed": 2
         }
       }
     ]
@@ -966,10 +958,10 @@
       },
       {
         "district": "Mumbai",
-        "confirmed": 142,
+        "confirmed": 199,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 58
         }
       },
       {
@@ -1030,10 +1022,10 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 70,
+        "confirmed": 90,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 20
         }
       },
       {
@@ -1874,7 +1866,7 @@
     "districtData": [
       {
         "district": "Unknown",
-        "confirmed": 132,
+        "confirmed": 55,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0

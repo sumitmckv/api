@@ -2,10 +2,10 @@
   "Kerala": {
     "districtData": {
       "Thrissur": {
-        "confirmed": 10,
+        "confirmed": 11,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Alappuzha": {
@@ -23,17 +23,17 @@
         }
       },
       "Pathanamthitta": {
-        "confirmed": 12,
+        "confirmed": 13,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Kannur": {
-        "confirmed": 47,
+        "confirmed": 48,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Ernakulam": {
@@ -51,31 +51,31 @@
         }
       },
       "Thiruvananthapuram": {
-        "confirmed": 12,
+        "confirmed": 13,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Idukki": {
-        "confirmed": 5,
+        "confirmed": 10,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 5
         }
       },
       "Malappuram": {
-        "confirmed": 12,
+        "confirmed": 13,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Kozhikode": {
-        "confirmed": 6,
+        "confirmed": 7,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Palakkad": {
@@ -93,17 +93,10 @@
         }
       },
       "Kollam": {
-        "confirmed": 3,
+        "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
-        }
-      },
-      "Unknown": {
-        "confirmed": 13,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 13
+          "confirmed": 2
         }
       }
     }
@@ -840,10 +833,10 @@
         }
       },
       "Mumbai": {
-        "confirmed": 142,
+        "confirmed": 199,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 58
         }
       },
       "Nagpur": {
@@ -896,10 +889,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 70,
+        "confirmed": 90,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 20
         }
       },
       "Sangli": {
@@ -1627,7 +1620,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 132,
+        "confirmed": 55,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
