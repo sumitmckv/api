@@ -1499,7 +1499,7 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 10,
+        "confirmed": 9,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1508,6 +1508,14 @@
       {
         "district": "Mahesana",
         "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      {
+        "district": "Bhavnagar",
+        "confirmed": 6,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1524,14 +1532,6 @@
       {
         "district": "Gir Somnath",
         "confirmed": 1,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      {
-        "district": "Bhavnagar",
-        "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
