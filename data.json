@@ -692,28 +692,6 @@
 			"totalconfirmed": "2059",
 			"totaldeceased": "56",
 			"totalrecovered": "169"
-		},
-		{
-			"dailyconfirmed": "",
-			"dailydeceased": "",
-			"dailyrecovered": "",
-			"date": "02 April ",
-			"deceased": "",
-			"recovered": "",
-			"totalconfirmed": "",
-			"totaldeceased": "",
-			"totalrecovered": ""
-		},
-		{
-			"dailyconfirmed": "",
-			"dailydeceased": "",
-			"dailyrecovered": "",
-			"date": "01 April ",
-			"deceased": "",
-			"recovered": "",
-			"totalconfirmed": "",
-			"totaldeceased": "",
-			"totalrecovered": ""
 		}
 	],
 	"key_values": [
