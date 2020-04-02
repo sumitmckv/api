@@ -570,26 +570,26 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "416",
+			"confirmeddelta": "452",
 			"counterforautotimeupdate": "645",
 			"deceaseddelta": "14",
-			"lastupdatedtime": "02/04/2020 21:22:58",
+			"lastupdatedtime": "02/04/2020 21:27:29",
 			"recovereddelta": "12",
 			"statesdelta": "0"
 		}
 	],
 	"statewise": [
 		{
-			"active": "2224",
-			"confirmed": "2475",
+			"active": "2260",
+			"confirmed": "2511",
 			"deaths": "70",
 			"delta": {
-				"active": 415,
-				"confirmed": 415,
+				"active": 452,
+				"confirmed": 452,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "02/04/2020 21:22:58",
+			"lastupdatedtime": "02/04/2020 21:27:29",
 			"recovered": "181",
 			"state": "Total"
 		},
@@ -692,12 +692,12 @@
 			"state": "Andhra Pradesh"
 		},
 		{
-			"active": "109",
-			"confirmed": "121",
+			"active": "112",
+			"confirmed": "124",
 			"deaths": "3",
 			"delta": {
-				"active": 11,
-				"confirmed": 11,
+				"active": 14,
+				"confirmed": 14,
 				"deaths": 0,
 				"recovered": 0
 			},
@@ -706,12 +706,12 @@
 			"state": "Karnataka"
 		},
 		{
-			"active": "104",
-			"confirmed": "127",
+			"active": "131",
+			"confirmed": "154",
 			"deaths": "9",
 			"delta": {
-				"active": 0,
-				"confirmed": 0,
+				"active": 27,
+				"confirmed": 27,
 				"deaths": 0,
 				"recovered": 0
 			},
@@ -734,16 +734,16 @@
 			"state": "Gujarat"
 		},
 		{
-			"active": "93",
-			"confirmed": "101",
+			"active": "99",
+			"confirmed": "107",
 			"deaths": "8",
 			"delta": {
-				"active": 2,
-				"confirmed": 2,
+				"active": 9,
+				"confirmed": 9,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "02/04/2020 21:23:06",
+			"lastupdatedtime": "02/04/2020 21:27:32",
 			"recovered": "0",
 			"state": "Madhya Pradesh"
 		},

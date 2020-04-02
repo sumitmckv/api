@@ -238,10 +238,10 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 82,
+        "confirmed": 109,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 27
         }
       }
     ]
@@ -889,10 +889,10 @@
       },
       {
         "district": "Mysuru",
-        "confirmed": 19,
+        "confirmed": 21,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       {
@@ -953,10 +953,10 @@
       },
       {
         "district": "Ballari",
-        "confirmed": 3,
+        "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -1645,10 +1645,10 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 17,
+        "confirmed": 23,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 7
         }
       },
       {
