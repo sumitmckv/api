@@ -1599,10 +1599,21 @@
       }
     }
   },
+  "Arunachal Pradesh": {
+    "districtData": {
+      "Unknown": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
+        }
+      }
+    }
+  },
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 124,
+        "confirmed": 123,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0

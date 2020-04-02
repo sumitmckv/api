@@ -1841,11 +1841,24 @@
     ]
   },
   {
+    "state": "Arunachal Pradesh",
+    "districtData": [
+      {
+        "district": "Unknown",
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
+        }
+      }
+    ]
+  },
+  {
     "state": "Unknown",
     "districtData": [
       {
         "district": "Unknown",
-        "confirmed": 124,
+        "confirmed": 123,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
