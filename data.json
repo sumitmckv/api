@@ -570,18 +570,18 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "477",
+			"confirmeddelta": "484",
 			"counterforautotimeupdate": "645",
 			"deceaseddelta": "16",
-			"lastupdatedtime": "03/04/2020 00:38:21",
+			"lastupdatedtime": "03/04/2020 02:37:24",
 			"recovereddelta": "22",
 			"statesdelta": "0"
 		}
 	],
 	"statewise": [
 		{
-			"active": "2273",
-			"confirmed": "2536",
+			"active": "2280",
+			"confirmed": "2543",
 			"deaths": "72",
 			"delta": {
 				"active": 0,
@@ -589,7 +589,7 @@
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "03/04/2020 00:38:21",
+			"lastupdatedtime": "03/04/2020 02:37:24",
 			"recovered": "191",
 			"state": "Total"
 		},
@@ -664,8 +664,8 @@
 			"state": "Rajasthan"
 		},
 		{
-			"active": "102",
-			"confirmed": "121",
+			"active": "107",
+			"confirmed": "126",
 			"deaths": "2",
 			"delta": {
 				"active": 0,
@@ -673,7 +673,7 @@
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "02/04/2020 17:57:25",
+			"lastupdatedtime": "03/04/2020 02:37:25",
 			"recovered": "17",
 			"state": "Uttar Pradesh"
 		},
@@ -944,8 +944,8 @@
 			"state": "Himachal Pradesh"
 		},
 		{
-			"active": "3",
-			"confirmed": "3",
+			"active": "5",
+			"confirmed": "5",
 			"deaths": "0",
 			"delta": {
 				"active": 0,
@@ -953,7 +953,7 @@
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "01/04/2020 11:02:31",
+			"lastupdatedtime": "03/04/2020 02:37:27",
 			"recovered": "0",
 			"state": "Puducherry"
 		},
