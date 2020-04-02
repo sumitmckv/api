@@ -752,10 +752,10 @@
         }
       },
       "Kalaburagi": {
-        "confirmed": 4,
+        "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Kodagu": {
@@ -836,10 +836,10 @@
         }
       },
       "Bidar": {
-        "confirmed": 11,
+        "confirmed": 10,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 11
+          "confirmed": 10
         }
       }
     }
@@ -1430,7 +1430,7 @@
         }
       },
       "Unknown": {
-        "confirmed": 16,
+        "confirmed": 17,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0

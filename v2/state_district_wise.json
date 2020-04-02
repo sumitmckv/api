@@ -865,10 +865,10 @@
       },
       {
         "district": "Kalaburagi",
-        "confirmed": 4,
+        "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -961,10 +961,10 @@
       },
       {
         "district": "Bidar",
-        "confirmed": 11,
+        "confirmed": 10,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 11
+          "confirmed": 10
         }
       }
     ]
@@ -1645,7 +1645,7 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 16,
+        "confirmed": 17,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
