@@ -224,10 +224,10 @@
         }
       },
       "Jhunjhunu": {
-        "confirmed": 8,
+        "confirmed": 9,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Bhilwara": {
@@ -238,10 +238,10 @@
         }
       },
       "Jodhpur": {
-        "confirmed": 14,
+        "confirmed": 15,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Unknown": {
@@ -291,6 +291,13 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      "Kota": {
+        "confirmed": 7,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 7
         }
       }
     }
@@ -805,10 +812,10 @@
   "Maharashtra": {
     "districtData": {
       "Pune": {
-        "confirmed": 52,
+        "confirmed": 54,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Mumbai": {
@@ -917,10 +924,10 @@
         }
       },
       "Buldana": {
-        "confirmed": 5,
+        "confirmed": 6,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       }
     }
@@ -1602,7 +1609,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 157,
+        "confirmed": 145,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
