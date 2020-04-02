@@ -1,9 +1,5 @@
 [
   {
-    "update": "1 death in Uttar Pradesh\n",
-    "timestamp": 1585754032
-  },
-  {
     "update": "1 recovery in Odisha\n",
     "timestamp": 1585755221
   },
@@ -198,5 +194,9 @@
   {
     "update": "1 death in Maharashtra\n",
     "timestamp": 1585848844
+  },
+  {
+    "update": "2 recoveries in Delhi\n",
+    "timestamp": 1585854019
   }
 ]
