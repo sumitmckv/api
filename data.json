@@ -572,7 +572,7 @@
 		{
 			"confirmeddelta": "477",
 			"counterforautotimeupdate": "645",
-			"deceaseddelta": "15",
+			"deceaseddelta": "16",
 			"lastupdatedtime": "02/04/2020 22:52:54",
 			"recovereddelta": "20",
 			"statesdelta": "0"
@@ -580,9 +580,9 @@
 	],
 	"statewise": [
 		{
-			"active": "2276",
+			"active": "2275",
 			"confirmed": "2536",
-			"deaths": "71",
+			"deaths": "72",
 			"delta": {
 				"active": 477,
 				"confirmed": 477,
@@ -594,9 +594,9 @@
 			"state": "Total"
 		},
 		{
-			"active": "361",
+			"active": "360",
 			"confirmed": "423",
-			"deaths": "20",
+			"deaths": "21",
 			"delta": {
 				"active": 88,
 				"confirmed": 88,
