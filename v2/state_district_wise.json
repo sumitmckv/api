@@ -1708,6 +1708,14 @@
         "delta": {
           "confirmed": 0
         }
+      },
+      {
+        "district": "Unknown",
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
+        }
       }
     ]
   },
@@ -1813,6 +1821,14 @@
         "delta": {
           "confirmed": 0
         }
+      },
+      {
+        "district": "Goalpara",
+        "confirmed": 3,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 3
+        }
       }
     ]
   },
@@ -1821,10 +1837,10 @@
     "districtData": [
       {
         "district": "Unknown",
-        "confirmed": 26,
+        "confirmed": 22,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 13
         }
       }
     ]

@@ -1485,6 +1485,13 @@
         "delta": {
           "confirmed": 0
         }
+      },
+      "Unknown": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
+        }
       }
     }
   },
@@ -1575,16 +1582,23 @@
         "delta": {
           "confirmed": 0
         }
+      },
+      "Goalpara": {
+        "confirmed": 3,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 3
+        }
       }
     }
   },
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 26,
+        "confirmed": 22,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 13
         }
       }
     }
