@@ -1626,6 +1626,14 @@
         "delta": {
           "confirmed": 0
         }
+      },
+      {
+        "district": "Morena",
+        "confirmed": 2,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 2
+        }
       }
     ]
   },
@@ -1866,7 +1874,7 @@
     "districtData": [
       {
         "district": "Unknown",
-        "confirmed": 30,
+        "confirmed": 28,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
