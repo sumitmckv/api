@@ -2272,7 +2272,7 @@
 			"agebracket": "",
 			"backupnotes": "Doctor who had been to Spain ",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "15/03/2020",
 			"detectedcity": "Thiruvananthapuram",
 			"detecteddistrict": "Thiruvananthapuram",
@@ -2284,9 +2284,9 @@
 			"patientnumber": "109",
 			"source1": "https://twitter.com/ANI/status/1239183764946731008?s=20",
 			"source2": "https://www.thehindu.com/news/cities/Thiruvananthapuram/after-doctor-tests-positive-sctimst-heads-for-shutdown/article31077272.ece",
-			"source3": "",
+			"source3": "http://dhs.kerala.gov.in/wp-content/uploads/2020/04/Daily-Bulletin-HFWD-English-April-2nd.pdf",
 			"statepatientnumber": "KL-TV-R4",
-			"statuschangedate": "15/03/2020",
+			"statuschangedate": "02/04/2020",
 			"typeoftransmission": "Imported"
 		},
 		{
@@ -2461,7 +2461,7 @@
 			"agebracket": "",
 			"backupnotes": "Returned from Middle East",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "16/03/2020",
 			"detectedcity": "Malappuram",
 			"detecteddistrict": "Malappuram",
@@ -2472,10 +2472,10 @@
 			"notes": "Travelled from Middle East",
 			"patientnumber": "118",
 			"source1": "https://english.manoramaonline.com/news/kerala/2020/03/16/coronavirus-kerala-latest-news-new-cases-quarantine-cm-pinarayi-vijayan.html",
-			"source2": "",
+			"source2": "http://dhs.kerala.gov.in/wp-content/uploads/2020/04/Daily-Bulletin-HFWD-English-April-2nd.pdf",
 			"source3": "https://www.mathrubhumi.com/news/kerala/two-corona-positive-cases-in-malappuram-route-map-published-1.4619884",
 			"statepatientnumber": "KL-MLP-1",
-			"statuschangedate": "16/03/2020",
+			"statuschangedate": "02/04/2020",
 			"typeoftransmission": "Imported"
 		},
 		{
