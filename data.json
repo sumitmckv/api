@@ -687,7 +687,7 @@
 			"dailydeceased": "7",
 			"dailyrecovered": "19",
 			"date": "01 April ",
-			"death": "8",
+			"death": "11",
 			"rec": "9",
 			"totalconfirmed": "2059",
 			"totaldeceased": "56",
@@ -698,24 +698,24 @@
 		{
 			"confirmeddelta": "41",
 			"counterforautotimeupdate": "645",
-			"deceaseddelta": "1",
-			"lastupdatedtime": "02/04/2020 14:22:24",
+			"deceaseddelta": "4",
+			"lastupdatedtime": "02/04/2020 14:27:24",
 			"recovereddelta": "2",
 			"statesdelta": "0"
 		}
 	],
 	"statewise": [
 		{
-			"active": "1872",
+			"active": "1869",
 			"confirmed": "2100",
-			"deaths": "57",
+			"deaths": "60",
 			"delta": {
 				"active": 41,
 				"confirmed": 41,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "02/04/2020 14:22:24",
+			"lastupdatedtime": "02/04/2020 14:27:24",
 			"recovered": "171",
 			"state": "Total"
 		},
@@ -832,16 +832,16 @@
 			"state": "Karnataka"
 		},
 		{
-			"active": "112",
+			"active": "109",
 			"confirmed": "132",
-			"deaths": "6",
+			"deaths": "9",
 			"delta": {
 				"active": 5,
 				"confirmed": 5,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "02/04/2020 14:22:27",
+			"lastupdatedtime": "02/04/2020 14:27:25",
 			"recovered": "14",
 			"state": "Telangana"
 		},
