@@ -1121,7 +1121,7 @@
         }
       },
       "Krishna": {
-        "confirmed": 19,
+        "confirmed": 23,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1170,7 +1170,7 @@
         }
       },
       "Unknown": {
-        "confirmed": 23,
+        "confirmed": 19,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
