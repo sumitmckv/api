@@ -579,7 +579,7 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "507",
+			"confirmeddelta": "508",
 			"counterforautotimeupdate": "645",
 			"deceaseddelta": "12",
 			"lastupdatedtime": "03/04/2020 21:47:24",
@@ -589,16 +589,16 @@
 	],
 	"statewise": [
 		{
-			"active": "2739",
-			"confirmed": "3052",
+			"active": "2740",
+			"confirmed": "3053",
 			"deaths": "84",
 			"delta": {
-				"active": 507,
-				"confirmed": 507,
+				"active": 508,
+				"confirmed": 508,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"deltaconfirmed": "507",
+			"deltaconfirmed": "508",
 			"deltadeaths": "12",
 			"deltarecovered": "38",
 			"lastupdatedtime": "03/04/2020 21:47:24",
@@ -931,16 +931,16 @@
 			"statecode": "CH"
 		},
 		{
-			"active": "10",
-			"confirmed": "13",
+			"active": "11",
+			"confirmed": "14",
 			"deaths": "0",
 			"delta": {
-				"active": 0,
-				"confirmed": 0,
+				"active": 1,
+				"confirmed": 1,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "1",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
 			"lastupdatedtime": "27/03/2020 11:52:25",

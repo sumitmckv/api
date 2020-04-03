@@ -602,10 +602,10 @@
       },
       {
         "district": "Kargil",
-        "confirmed": 2,
+        "confirmed": 3,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       }
     ]
@@ -1256,7 +1256,7 @@
     "districtData": [
       {
         "district": "S.P.S. Nellore",
-        "confirmed": 12,
+        "confirmed": 13,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 8
@@ -1264,7 +1264,7 @@
       },
       {
         "district": "Prakasam",
-        "confirmed": 15,
+        "confirmed": 16,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1280,7 +1280,7 @@
       },
       {
         "district": "East Godavari",
-        "confirmed": 12,
+        "confirmed": 10,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1288,7 +1288,7 @@
       },
       {
         "district": "Krishna",
-        "confirmed": 14,
+        "confirmed": 19,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1296,7 +1296,7 @@
       },
       {
         "district": "Chittoor",
-        "confirmed": 13,
+        "confirmed": 8,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2034,7 +2034,7 @@
     "districtData": [
       {
         "district": "Unknown",
-        "confirmed": 14,
+        "confirmed": 13,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
