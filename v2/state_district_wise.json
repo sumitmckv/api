@@ -376,6 +376,14 @@
         "delta": {
           "confirmed": 1
         }
+      },
+      {
+        "district": "Bharatpur",
+        "confirmed": 2,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 2
+        }
       }
     ]
   },
@@ -2026,7 +2034,7 @@
     "districtData": [
       {
         "district": "Unknown",
-        "confirmed": 117,
+        "confirmed": 115,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0

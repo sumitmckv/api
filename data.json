@@ -579,7 +579,7 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "350",
+			"confirmeddelta": "352",
 			"counterforautotimeupdate": "645",
 			"deceaseddelta": "3",
 			"lastupdatedtime": "03/04/2020 19:07:38",
@@ -589,16 +589,16 @@
 	],
 	"statewise": [
 		{
-			"active": "2614",
-			"confirmed": "2895",
+			"active": "2616",
+			"confirmed": "2897",
 			"deaths": "75",
 			"delta": {
-				"active": 350,
-				"confirmed": 350,
+				"active": 352,
+				"confirmed": 352,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"deltaconfirmed": "350",
+			"deltaconfirmed": "352",
 			"deltadeaths": "3",
 			"deltarecovered": "15",
 			"lastupdatedtime": "03/04/2020 19:07:38",
@@ -697,16 +697,16 @@
 			"statecode": "UP"
 		},
 		{
-			"active": "163",
-			"confirmed": "166",
+			"active": "165",
+			"confirmed": "168",
 			"deaths": "0",
 			"delta": {
-				"active": 33,
-				"confirmed": 33,
+				"active": 35,
+				"confirmed": 35,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"deltaconfirmed": "33",
+			"deltaconfirmed": "35",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
 			"lastupdatedtime": "03/04/2020 17:27:45",
