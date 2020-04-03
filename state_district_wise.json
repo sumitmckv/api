@@ -51,7 +51,7 @@
         }
       },
       "Thiruvananthapuram": {
-        "confirmed": 12,
+        "confirmed": 13,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -94,13 +94,6 @@
       },
       "Kollam": {
         "confirmed": 5,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      "No foreign travel history": {
-        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1299,13 +1292,20 @@
         }
       },
       "Bilaspur": {
-        "confirmed": 2,
+        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       },
       "Durg": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      "Korba": {
         "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {

@@ -60,7 +60,7 @@
       },
       {
         "district": "Thiruvananthapuram",
-        "confirmed": 12,
+        "confirmed": 13,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -109,14 +109,6 @@
       {
         "district": "Kollam",
         "confirmed": 5,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      {
-        "district": "No foreign travel history",
-        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1494,7 +1486,7 @@
       },
       {
         "district": "Bilaspur",
-        "confirmed": 2,
+        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1502,6 +1494,14 @@
       },
       {
         "district": "Durg",
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      {
+        "district": "Korba",
         "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
