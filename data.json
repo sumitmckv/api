@@ -579,18 +579,18 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "95",
+			"confirmeddelta": "102",
 			"counterforautotimeupdate": "645",
 			"deceaseddelta": "3",
-			"lastupdatedtime": "03/04/2020 14:27:24",
+			"lastupdatedtime": "03/04/2020 17:22:24",
 			"recovereddelta": "1",
 			"statesdelta": "0"
 		}
 	],
 	"statewise": [
 		{
-			"active": "2373",
-			"confirmed": "2640",
+			"active": "2380",
+			"confirmed": "2647",
 			"deaths": "75",
 			"delta": {
 				"active": 95,
@@ -598,10 +598,10 @@
 				"deaths": 0,
 				"recovered": 0
 			},
-			"deltaconfirmed": "95",
+			"deltaconfirmed": "102",
 			"deltadeaths": "3",
 			"deltarecovered": "1",
-			"lastupdatedtime": "03/04/2020 14:27:24",
+			"lastupdatedtime": "03/04/2020 17:22:24",
 			"recovered": "192",
 			"state": "Total",
 			"statecode": "TT"
@@ -715,8 +715,8 @@
 			"statecode": "AP"
 		},
 		{
-			"active": "151",
-			"confirmed": "154",
+			"active": "158",
+			"confirmed": "161",
 			"deaths": "0",
 			"delta": {
 				"active": 21,
@@ -724,10 +724,10 @@
 				"deaths": 0,
 				"recovered": 0
 			},
-			"deltaconfirmed": "21",
+			"deltaconfirmed": "28",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "03/04/2020 09:22:24",
+			"lastupdatedtime": "03/04/2020 17:22:24",
 			"recovered": "3",
 			"state": "Rajasthan",
 			"statecode": "RJ"
@@ -1033,7 +1033,7 @@
 			"deltaconfirmed": "0",
 			"deltadeaths": "1",
 			"deltarecovered": "0",
-			"lastupdatedtime": "02/04/2020 22:42:28",
+			"lastupdatedtime": "03/04/2020 17:17:36",
 			"recovered": "1",
 			"state": "Himachal Pradesh",
 			"statecode": "HP"
