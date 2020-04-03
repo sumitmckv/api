@@ -1264,7 +1264,7 @@
       },
       {
         "district": "Prakasam",
-        "confirmed": 16,
+        "confirmed": 26,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1272,7 +1272,7 @@
       },
       {
         "district": "Visakhapatnam",
-        "confirmed": 14,
+        "confirmed": 24,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 3
@@ -1344,7 +1344,7 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 27,
+        "confirmed": 7,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
