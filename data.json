@@ -579,29 +579,29 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "531",
+			"confirmeddelta": "553",
 			"counterforautotimeupdate": "645",
 			"deceaseddelta": "13",
-			"lastupdatedtime": "03/04/2020 23:27:26",
+			"lastupdatedtime": "03/04/2020 23:32:28",
 			"recovereddelta": "38",
 			"statesdelta": "0"
 		}
 	],
 	"statewise": [
 		{
-			"active": "2762",
-			"confirmed": "3076",
+			"active": "2784",
+			"confirmed": "3098",
 			"deaths": "85",
 			"delta": {
-				"active": 531,
-				"confirmed": 531,
+				"active": 553,
+				"confirmed": 553,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"deltaconfirmed": "531",
+			"deltaconfirmed": "553",
 			"deltadeaths": "13",
 			"deltarecovered": "38",
-			"lastupdatedtime": "03/04/2020 23:27:26",
+			"lastupdatedtime": "03/04/2020 23:32:28",
 			"recovered": "229",
 			"state": "Total",
 			"statecode": "TT"
@@ -655,7 +655,7 @@
 			"deltaconfirmed": "93",
 			"deltadeaths": "2",
 			"deltarecovered": "0",
-			"lastupdatedtime": "03/04/2020 21:47:24",
+			"lastupdatedtime": "03/04/2020 23:32:32",
 			"recovered": "8",
 			"state": "Delhi",
 			"statecode": "DL"
@@ -697,19 +697,19 @@
 			"statecode": "UP"
 		},
 		{
-			"active": "165",
-			"confirmed": "168",
+			"active": "176",
+			"confirmed": "179",
 			"deaths": "0",
 			"delta": {
-				"active": 35,
-				"confirmed": 35,
+				"active": 46,
+				"confirmed": 46,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"deltaconfirmed": "35",
+			"deltaconfirmed": "46",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "03/04/2020 19:37:32",
+			"lastupdatedtime": "03/04/2020 23:32:37",
 			"recovered": "3",
 			"state": "Rajasthan",
 			"statecode": "RJ"
@@ -727,7 +727,7 @@
 			"deltaconfirmed": "15",
 			"deltadeaths": "1",
 			"deltarecovered": "0",
-			"lastupdatedtime": "03/04/2020 23:27:31",
+			"lastupdatedtime": "03/04/2020 23:32:41",
 			"recovered": "2",
 			"state": "Andhra Pradesh",
 			"statecode": "AP"
@@ -763,7 +763,7 @@
 			"deltaconfirmed": "42",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "03/04/2020 18:12:26",
+			"lastupdatedtime": "03/04/2020 23:32:45",
 			"recovered": "0",
 			"state": "Madhya Pradesh",
 			"statecode": "MP"
@@ -1003,16 +1003,16 @@
 			"statecode": "CT"
 		},
 		{
-			"active": "7",
-			"confirmed": "9",
+			"active": "18",
+			"confirmed": "20",
 			"deaths": "0",
 			"delta": {
-				"active": 4,
-				"confirmed": 4,
+				"active": 15,
+				"confirmed": 15,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"deltaconfirmed": "4",
+			"deltaconfirmed": "15",
 			"deltadeaths": "0",
 			"deltarecovered": "1",
 			"lastupdatedtime": "03/04/2020 14:27:25",
