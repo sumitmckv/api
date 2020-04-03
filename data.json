@@ -600,7 +600,8 @@
 			},
 			"lastupdatedtime": "03/04/2020 09:22:24",
 			"recovered": "192",
-			"state": "Total"
+			"state": "Total",
+			"statecode": "TT"
 		},
 		{
 			"active": "360",
@@ -614,7 +615,8 @@
 			},
 			"lastupdatedtime": "02/04/2020 22:53:15",
 			"recovered": "42",
-			"state": "Maharashtra"
+			"state": "Maharashtra",
+			"statecode": "MH"
 		},
 		{
 			"active": "256",
@@ -628,7 +630,8 @@
 			},
 			"lastupdatedtime": "02/04/2020 18:57:27",
 			"recovered": "28",
-			"state": "Kerala"
+			"state": "Kerala",
+			"statecode": "KL"
 		},
 		{
 			"active": "302",
@@ -642,7 +645,8 @@
 			},
 			"lastupdatedtime": "02/04/2020 18:12:28",
 			"recovered": "6",
-			"state": "Tamil Nadu"
+			"state": "Tamil Nadu",
+			"statecode": "TN"
 		},
 		{
 			"active": "281",
@@ -656,7 +660,8 @@
 			},
 			"lastupdatedtime": "03/04/2020 00:38:22",
 			"recovered": "8",
-			"state": "Delhi"
+			"state": "Delhi",
+			"statecode": "DL"
 		},
 		{
 			"active": "151",
@@ -670,7 +675,8 @@
 			},
 			"lastupdatedtime": "03/04/2020 09:22:24",
 			"recovered": "3",
-			"state": "Rajasthan"
+			"state": "Rajasthan",
+			"statecode": "RJ"
 		},
 		{
 			"active": "109",
@@ -684,7 +690,8 @@
 			},
 			"lastupdatedtime": "03/04/2020 08:52:25",
 			"recovered": "17",
-			"state": "Uttar Pradesh"
+			"state": "Uttar Pradesh",
+			"statecode": "UP"
 		},
 		{
 			"active": "159",
@@ -698,7 +705,8 @@
 			},
 			"lastupdatedtime": "02/04/2020 22:32:25",
 			"recovered": "2",
-			"state": "Andhra Pradesh"
+			"state": "Andhra Pradesh",
+			"statecode": "AP"
 		},
 		{
 			"active": "110",
@@ -712,7 +720,8 @@
 			},
 			"lastupdatedtime": "02/04/2020 17:37:26",
 			"recovered": "11",
-			"state": "Karnataka"
+			"state": "Karnataka",
+			"statecode": "KA"
 		},
 		{
 			"active": "128",
@@ -726,7 +735,8 @@
 			},
 			"lastupdatedtime": "02/04/2020 21:37:25",
 			"recovered": "17",
-			"state": "Telangana"
+			"state": "Telangana",
+			"statecode": "TG"
 		},
 		{
 			"active": "77",
@@ -740,7 +750,8 @@
 			},
 			"lastupdatedtime": "02/04/2020 22:14:13",
 			"recovered": "10",
-			"state": "Gujarat"
+			"state": "Gujarat",
+			"statecode": "GJ"
 		},
 		{
 			"active": "99",
@@ -754,7 +765,8 @@
 			},
 			"lastupdatedtime": "02/04/2020 21:27:32",
 			"recovered": "0",
-			"state": "Madhya Pradesh"
+			"state": "Madhya Pradesh",
+			"statecode": "MP"
 		},
 		{
 			"active": "65",
@@ -768,7 +780,8 @@
 			},
 			"lastupdatedtime": "02/04/2020 17:57:26",
 			"recovered": "3",
-			"state": "Jammu and Kashmir"
+			"state": "Jammu and Kashmir",
+			"statecode": "JK"
 		},
 		{
 			"active": "41",
@@ -782,7 +795,8 @@
 			},
 			"lastupdatedtime": "02/04/2020 21:02:25",
 			"recovered": "1",
-			"state": "Punjab"
+			"state": "Punjab",
+			"statecode": "PB"
 		},
 		{
 			"active": "22",
@@ -796,7 +810,8 @@
 			},
 			"lastupdatedtime": "01/04/2020 19:02:30",
 			"recovered": "27",
-			"state": "Haryana"
+			"state": "Haryana",
+			"statecode": "HR"
 		},
 		{
 			"active": "44",
@@ -810,7 +825,8 @@
 			},
 			"lastupdatedtime": "02/04/2020 18:32:26",
 			"recovered": "3",
-			"state": "West Bengal"
+			"state": "West Bengal",
+			"statecode": "WB"
 		},
 		{
 			"active": "25",
@@ -824,7 +840,8 @@
 			},
 			"lastupdatedtime": "02/04/2020 18:02:27",
 			"recovered": "3",
-			"state": "Bihar"
+			"state": "Bihar",
+			"statecode": "BR"
 		},
 		{
 			"active": "18",
@@ -838,7 +855,8 @@
 			},
 			"lastupdatedtime": "02/04/2020 18:57:31",
 			"recovered": "0",
-			"state": "Chandigarh"
+			"state": "Chandigarh",
+			"statecode": "CH"
 		},
 		{
 			"active": "10",
@@ -852,7 +870,8 @@
 			},
 			"lastupdatedtime": "27/03/2020 11:52:25",
 			"recovered": "3",
-			"state": "Ladakh"
+			"state": "Ladakh",
+			"statecode": "LA"
 		},
 		{
 			"active": "16",
@@ -866,7 +885,8 @@
 			},
 			"lastupdatedtime": "02/04/2020 09:42:29",
 			"recovered": "0",
-			"state": "Assam"
+			"state": "Assam",
+			"statecode": "AS"
 		},
 		{
 			"active": "10",
@@ -880,7 +900,8 @@
 			},
 			"lastupdatedtime": "30/03/2020 11:27:27",
 			"recovered": "0",
-			"state": "Andaman and Nicobar Islands"
+			"state": "Andaman and Nicobar Islands",
+			"statecode": "AN"
 		},
 		{
 			"active": "6",
@@ -894,7 +915,8 @@
 			},
 			"lastupdatedtime": "31/03/2020 23:07:28",
 			"recovered": "3",
-			"state": "Chhattisgarh"
+			"state": "Chhattisgarh",
+			"statecode": "CT"
 		},
 		{
 			"active": "8",
@@ -908,7 +930,8 @@
 			},
 			"lastupdatedtime": "02/04/2020 22:53:23",
 			"recovered": "2",
-			"state": "Uttarakhand"
+			"state": "Uttarakhand",
+			"statecode": "UT"
 		},
 		{
 			"active": "6",
@@ -922,7 +945,8 @@
 			},
 			"lastupdatedtime": "03/04/2020 10:22:24",
 			"recovered": "0",
-			"state": "Goa"
+			"state": "Goa",
+			"statecode": "GA"
 		},
 		{
 			"active": "3",
@@ -936,7 +960,8 @@
 			},
 			"lastupdatedtime": "03/04/2020 10:22:25",
 			"recovered": "2",
-			"state": "Odisha"
+			"state": "Odisha",
+			"statecode": "OR"
 		},
 		{
 			"active": "4",
@@ -950,7 +975,8 @@
 			},
 			"lastupdatedtime": "02/04/2020 22:42:28",
 			"recovered": "1",
-			"state": "Himachal Pradesh"
+			"state": "Himachal Pradesh",
+			"statecode": "HP"
 		},
 		{
 			"active": "5",
@@ -964,7 +990,8 @@
 			},
 			"lastupdatedtime": "03/04/2020 02:37:27",
 			"recovered": "0",
-			"state": "Puducherry"
+			"state": "Puducherry",
+			"statecode": "PY"
 		},
 		{
 			"active": "2",
@@ -978,7 +1005,8 @@
 			},
 			"lastupdatedtime": "02/04/2020 19:42:30",
 			"recovered": "0",
-			"state": "Jharkhand"
+			"state": "Jharkhand",
+			"statecode": "JH"
 		},
 		{
 			"active": "2",
@@ -992,7 +1020,8 @@
 			},
 			"lastupdatedtime": "02/04/2020 09:42:34",
 			"recovered": "0",
-			"state": "Manipur"
+			"state": "Manipur",
+			"statecode": "MN"
 		},
 		{
 			"active": "1",
@@ -1006,7 +1035,8 @@
 			},
 			"lastupdatedtime": "26/03/2020 07:19:29",
 			"recovered": "0",
-			"state": "Mizoram"
+			"state": "Mizoram",
+			"statecode": "MZ"
 		},
 		{
 			"active": "1",
@@ -1020,7 +1050,8 @@
 			},
 			"lastupdatedtime": "02/04/2020 11:42:31",
 			"recovered": "0",
-			"state": "Arunachal Pradesh"
+			"state": "Arunachal Pradesh",
+			"statecode": "AR"
 		},
 		{
 			"active": "0",
@@ -1034,7 +1065,8 @@
 			},
 			"lastupdatedtime": "26/03/2020 07:19:29",
 			"recovered": "0",
-			"state": "Dadra and Nagar Haveli"
+			"state": "Dadra and Nagar Haveli",
+			"statecode": "DN"
 		},
 		{
 			"active": "0",
@@ -1048,7 +1080,8 @@
 			},
 			"lastupdatedtime": "26/03/2020 07:19:29",
 			"recovered": "0",
-			"state": "Daman and Diu"
+			"state": "Daman and Diu",
+			"statecode": "DD"
 		},
 		{
 			"active": "0",
@@ -1062,7 +1095,8 @@
 			},
 			"lastupdatedtime": "26/03/2020 07:19:29",
 			"recovered": "0",
-			"state": "Lakshadweep"
+			"state": "Lakshadweep",
+			"statecode": "LD"
 		},
 		{
 			"active": "0",
@@ -1076,7 +1110,8 @@
 			},
 			"lastupdatedtime": "26/03/2020 07:19:29",
 			"recovered": "0",
-			"state": "Meghalaya"
+			"state": "Meghalaya",
+			"statecode": "ML"
 		},
 		{
 			"active": "0",
@@ -1090,7 +1125,8 @@
 			},
 			"lastupdatedtime": "26/03/2020 07:19:29",
 			"recovered": "0",
-			"state": "Nagaland"
+			"state": "Nagaland",
+			"statecode": "NL"
 		},
 		{
 			"active": "0",
@@ -1104,7 +1140,8 @@
 			},
 			"lastupdatedtime": "26/03/2020 07:19:29",
 			"recovered": "0",
-			"state": "Sikkim"
+			"state": "Sikkim",
+			"statecode": "SK"
 		},
 		{
 			"active": "0",
@@ -1118,7 +1155,8 @@
 			},
 			"lastupdatedtime": "26/03/2020 07:19:29",
 			"recovered": "0",
-			"state": "Tripura"
+			"state": "Tripura",
+			"statecode": "TR"
 		}
 	],
 	"tested": [
