@@ -1291,8 +1291,8 @@
           "confirmed": 0
         }
       },
-      "Durg": {
-        "confirmed": 2,
+      "Rajnandgaon": {
+        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1300,6 +1300,13 @@
       },
       "Bilaspur": {
         "confirmed": 2,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      "Durg": {
+        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
