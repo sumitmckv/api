@@ -664,6 +664,21 @@
 			"statecode": "KL"
 		},
 		{
+			"active": "153",
+			"confirmed": "172",
+			"deaths": "2",
+			"delta": {
+				"active": 44,
+				"confirmed": 44,
+				"deaths": 0,
+				"recovered": 0
+			},
+			"lastupdatedtime": "03/04/2020 08:52:25",
+			"recovered": "17",
+			"state": "Uttar Pradesh",
+			"statecode": "UP"
+		},
+		{
 			"active": "159",
 			"confirmed": "161",
 			"deaths": "0",
@@ -707,21 +722,6 @@
 			"recovered": "17",
 			"state": "Telangana",
 			"statecode": "TG"
-		},
-		{
-			"active": "153",
-			"confirmed": "172",
-			"deaths": "2",
-			"delta": {
-				"active": 44,
-				"confirmed": 44,
-				"deaths": 0,
-				"recovered": 0
-			},
-			"lastupdatedtime": "03/04/2020 08:52:25",
-			"recovered": "17",
-			"state": "Uttar Pradesh",
-			"statecode": "UP"
 		},
 		{
 			"active": "111",
@@ -784,21 +784,6 @@
 			"statecode": "JK"
 		},
 		{
-			"active": "44",
-			"confirmed": "53",
-			"deaths": "6",
-			"delta": {
-				"active": 0,
-				"confirmed": 0,
-				"deaths": 0,
-				"recovered": 0
-			},
-			"lastupdatedtime": "02/04/2020 18:32:26",
-			"recovered": "3",
-			"state": "West Bengal",
-			"statecode": "WB"
-		},
-		{
 			"active": "30",
 			"confirmed": "57",
 			"deaths": "0",
@@ -812,6 +797,21 @@
 			"recovered": "27",
 			"state": "Haryana",
 			"statecode": "HR"
+		},
+		{
+			"active": "44",
+			"confirmed": "53",
+			"deaths": "6",
+			"delta": {
+				"active": 0,
+				"confirmed": 0,
+				"deaths": 0,
+				"recovered": 0
+			},
+			"lastupdatedtime": "02/04/2020 18:32:26",
+			"recovered": "3",
+			"state": "West Bengal",
+			"statecode": "WB"
 		},
 		{
 			"active": "41",
