@@ -185,18 +185,10 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 339,
+        "confirmed": 340,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 90
-        }
-      },
-      {
-        "district": " ",
-        "confirmed": 1,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 1
+          "confirmed": 91
         }
       }
     ]
@@ -615,10 +607,10 @@
     "districtData": [
       {
         "district": "Kancheepuram",
-        "confirmed": 3,
+        "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -647,10 +639,10 @@
       },
       {
         "district": "Tirunelveli",
-        "confirmed": 30,
+        "confirmed": 36,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 6
         }
       },
       {
@@ -671,10 +663,10 @@
       },
       {
         "district": "Salem",
-        "confirmed": 6,
+        "confirmed": 8,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       {
@@ -711,18 +703,18 @@
       },
       {
         "district": "Virudhunagar",
-        "confirmed": 10,
+        "confirmed": 11,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
         "district": "Karur",
-        "confirmed": 17,
+        "confirmed": 20,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       {
@@ -735,18 +727,18 @@
       },
       {
         "district": "Viluppuram",
-        "confirmed": 3,
+        "confirmed": 13,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 10
         }
       },
       {
         "district": "Namakkal",
-        "confirmed": 18,
+        "confirmed": 21,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       {
@@ -759,26 +751,26 @@
       },
       {
         "district": "Thoothukkudi",
-        "confirmed": 5,
+        "confirmed": 9,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 4
         }
       },
       {
         "district": "Theni",
-        "confirmed": 20,
+        "confirmed": 21,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
         "district": "Dindigul",
-        "confirmed": 17,
+        "confirmed": 43,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 26
         }
       },
       {
@@ -799,10 +791,10 @@
       },
       {
         "district": "Thiruvarur",
-        "confirmed": 7,
+        "confirmed": 12,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 5
         }
       },
       {
@@ -830,11 +822,11 @@
         }
       },
       {
-        "district": "Unknown",
-        "confirmed": 67,
+        "district": "Nagapattinam",
+        "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 67
+          "confirmed": 5
         }
       }
     ]
