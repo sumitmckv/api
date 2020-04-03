@@ -1030,6 +1030,14 @@
         "delta": {
           "confirmed": 1
         }
+      },
+      {
+        "district": "Belagavi",
+        "confirmed": 3,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 3
+        }
       }
     ]
   },
@@ -2018,7 +2026,7 @@
     "districtData": [
       {
         "district": "Unknown",
-        "confirmed": 123,
+        "confirmed": 120,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
