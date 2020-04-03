@@ -1,9 +1,5 @@
 [
   {
-    "update": "2 new cases in Chandigarh\n",
-    "timestamp": 1585761607
-  },
-  {
     "update": "1 new case in Odisha\n",
     "timestamp": 1585764799
   },
@@ -198,5 +194,9 @@
   {
     "update": "14 new cases in Rajasthan\n1 recovery in Odisha\n",
     "timestamp": 1585889371
+  },
+  {
+    "update": "1 new case in Goa\n",
+    "timestamp": 1585889793
   }
 ]
