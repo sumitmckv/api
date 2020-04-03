@@ -1093,7 +1093,7 @@
   "Andhra Pradesh": {
     "districtData": {
       "S.P.S. Nellore": {
-        "confirmed": 16,
+        "confirmed": 32,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 8
@@ -1156,24 +1156,17 @@
         }
       },
       "West Godavari": {
-        "confirmed": 13,
+        "confirmed": 15,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       },
       "Y.S.R.": {
-        "confirmed": 18,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 1
-        }
-      },
-      "Unknown": {
         "confirmed": 19,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       }
     }

@@ -1256,7 +1256,7 @@
     "districtData": [
       {
         "district": "S.P.S. Nellore",
-        "confirmed": 16,
+        "confirmed": 32,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 8
@@ -1328,7 +1328,7 @@
       },
       {
         "district": "West Godavari",
-        "confirmed": 13,
+        "confirmed": 15,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1336,18 +1336,10 @@
       },
       {
         "district": "Y.S.R.",
-        "confirmed": 18,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 1
-        }
-      },
-      {
-        "district": "Unknown",
         "confirmed": 19,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       }
     ]
