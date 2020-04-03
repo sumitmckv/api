@@ -1,9 +1,5 @@
 [
   {
-    "update": "21 new cases in Kerala\n75 new cases in Tamil Nadu\n3 new cases in Andhra Pradesh\n",
-    "timestamp": 1585831448
-  },
-  {
     "update": "77 new cases in Maharashtra\n",
     "timestamp": 1585831862
   },
@@ -198,5 +194,9 @@
   {
     "update": "1 death in Gujarat\n",
     "timestamp": 1585929012
+  },
+  {
+    "update": "2 new cases in Delhi\n6 new cases in Uttarakhand\n",
+    "timestamp": 1585930718
   }
 ]

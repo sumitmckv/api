@@ -160,10 +160,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 340,
+        "confirmed": 342,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 91
+          "confirmed": 93
         }
       }
     }
@@ -1114,7 +1114,7 @@
         }
       },
       "East Godavari": {
-        "confirmed": 6,
+        "confirmed": 12,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1128,28 +1128,28 @@
         }
       },
       "Chittoor": {
-        "confirmed": 7,
+        "confirmed": 13,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       },
       "Guntur": {
-        "confirmed": 9,
+        "confirmed": 18,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       },
       "Kurnool": {
-        "confirmed": 1,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       },
       "Anantapur": {
-        "confirmed": 2,
+        "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1170,7 +1170,7 @@
         }
       },
       "Unknown": {
-        "confirmed": 51,
+        "confirmed": 27,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1199,6 +1199,13 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      "Unknown": {
+        "confirmed": 6,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 6
         }
       }
     }
@@ -1760,7 +1767,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 22,
+        "confirmed": 14,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
