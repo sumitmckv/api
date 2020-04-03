@@ -252,10 +252,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 25,
+        "confirmed": 32,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 7
         }
       },
       "Pratapgarh": {
@@ -287,10 +287,10 @@
         }
       },
       "Tonk": {
-        "confirmed": 9,
+        "confirmed": 16,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 5
+          "confirmed": 12
         }
       },
       "Churu": {
@@ -1683,7 +1683,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 460,
+        "confirmed": 446,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0

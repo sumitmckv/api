@@ -579,27 +579,27 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "7",
+			"confirmeddelta": "21",
 			"counterforautotimeupdate": "645",
 			"deceaseddelta": "0",
 			"lastupdatedtime": "03/04/2020 09:22:24",
-			"recovereddelta": "0",
+			"recovereddelta": "1",
 			"statesdelta": "0"
 		}
 	],
 	"statewise": [
 		{
-			"active": "2289",
-			"confirmed": "2552",
+			"active": "2302",
+			"confirmed": "2566",
 			"deaths": "72",
 			"delta": {
-				"active": 7,
-				"confirmed": 7,
+				"active": 21,
+				"confirmed": 21,
 				"deaths": 0,
 				"recovered": 0
 			},
 			"lastupdatedtime": "03/04/2020 09:22:24",
-			"recovered": "191",
+			"recovered": "192",
 			"state": "Total"
 		},
 		{
@@ -659,12 +659,12 @@
 			"state": "Delhi"
 		},
 		{
-			"active": "137",
-			"confirmed": "140",
+			"active": "151",
+			"confirmed": "154",
 			"deaths": "0",
 			"delta": {
-				"active": 7,
-				"confirmed": 7,
+				"active": 21,
+				"confirmed": 21,
 				"deaths": 0,
 				"recovered": 0
 			},
@@ -925,7 +925,7 @@
 			"state": "Goa"
 		},
 		{
-			"active": "4",
+			"active": "3",
 			"confirmed": "5",
 			"deaths": "0",
 			"delta": {
@@ -935,7 +935,7 @@
 				"recovered": 0
 			},
 			"lastupdatedtime": "01/04/2020 23:42:26",
-			"recovered": "1",
+			"recovered": "2",
 			"state": "Odisha"
 		},
 		{
