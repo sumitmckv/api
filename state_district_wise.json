@@ -217,10 +217,10 @@
   "Rajasthan": {
     "districtData": {
       "Jaipur": {
-        "confirmed": 49,
+        "confirmed": 54,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 7
+          "confirmed": 12
         }
       },
       "Jhunjhunu": {
@@ -245,10 +245,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 32,
+        "confirmed": 28,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 7
+          "confirmed": 3
         }
       },
       "Pratapgarh": {
@@ -298,6 +298,20 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 2
+        }
+      },
+      "Udaipur": {
+        "confirmed": 3,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 3
+        }
+      },
+      "Dausa": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
         }
       }
     }
@@ -1697,7 +1711,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 365,
+        "confirmed": 360,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
