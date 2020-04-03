@@ -19776,7 +19776,7 @@
 			"notes": "Contact transmission from P809",
 			"patientnumber": "942",
 			"source1": "https://twitter.com/ANI/status/1243881127485423617",
-			"source2": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/565629654081436",
+			"source2": "",
 			"source3": "",
 			"statepatientnumber": "KL-KL-P2",
 			"statuschangedate": "28/03/2020",
@@ -30430,7 +30430,7 @@
 			"typeoftransmission": ""
 		},
 		{
-			"agebracket": "",
+			"agebracket": "43",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
@@ -30439,9 +30439,9 @@
 			"detecteddistrict": "Kollam",
 			"detectedstate": "Kerala",
 			"estimatedonsetdate": "",
-			"gender": "",
+			"gender": "F",
 			"nationality": "",
-			"notes": "Details awaited",
+			"notes": "Sister in law of ",
 			"patientnumber": "1450",
 			"source1": "https://twitter.com/ANI/status/1244970503082774528",
 			"source2": "",
@@ -46348,7 +46348,7 @@
 			"typeoftransmission": "Local"
 		},
 		{
-			"agebracket": "",
+			"agebracket": "70",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "P1262",
 			"currentstatus": "Hospitalized",
@@ -46357,7 +46357,7 @@
 			"detecteddistrict": "Idukki",
 			"detectedstate": "Kerala",
 			"estimatedonsetdate": "",
-			"gender": "",
+			"gender": "F",
 			"nationality": "",
 			"notes": "Mother of P1262",
 			"patientnumber": "2208",
@@ -46366,10 +46366,10 @@
 			"source3": "https://www.manoramaonline.com/news/kerala/2020/04/02/idukki-corona-virus-cases.html",
 			"statepatientnumber": "",
 			"statuschangedate": "02/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
-			"agebracket": "",
+			"agebracket": "35",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "P1262",
 			"currentstatus": "Hospitalized",
@@ -46378,7 +46378,7 @@
 			"detecteddistrict": "Idukki",
 			"detectedstate": "Kerala",
 			"estimatedonsetdate": "",
-			"gender": "",
+			"gender": "F",
 			"nationality": "",
 			"notes": "Wife of P1262",
 			"patientnumber": "2209",
@@ -46387,10 +46387,10 @@
 			"source3": "https://www.manoramaonline.com/news/kerala/2020/04/02/idukki-corona-virus-cases.html",
 			"statepatientnumber": "",
 			"statuschangedate": "02/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
-			"agebracket": "",
+			"agebracket": "10",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "P1262",
 			"currentstatus": "Hospitalized",
@@ -46399,7 +46399,7 @@
 			"detecteddistrict": "Idukki",
 			"detectedstate": "Kerala",
 			"estimatedonsetdate": "",
-			"gender": "",
+			"gender": "M",
 			"nationality": "",
 			"notes": "Son of P1262",
 			"patientnumber": "2210",
@@ -46408,28 +46408,28 @@
 			"source3": "https://www.manoramaonline.com/news/kerala/2020/04/02/idukki-corona-virus-cases.html",
 			"statepatientnumber": "",
 			"statuschangedate": "02/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
-			"agebracket": "",
+			"agebracket": "7",
 			"backupnotes": "",
-			"contractedfromwhichpatientsuspected": "",
+			"contractedfromwhichpatientsuspected": "P1263",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "02/04/2020",
 			"detectedcity": "",
 			"detecteddistrict": "Idukki",
 			"detectedstate": "Kerala",
 			"estimatedonsetdate": "",
-			"gender": "",
+			"gender": "M",
 			"nationality": "",
-			"notes": "",
+			"notes": "Son of P1263",
 			"patientnumber": "2211",
 			"source1": "https://twitter.com/ANI/status/1245692712986214400",
 			"source2": "http://dhs.kerala.gov.in/wp-content/uploads/2020/04/Daily-Bulletin-HFWD-English-April-2nd.pdf",
 			"source3": "https://www.manoramaonline.com/news/kerala/2020/04/02/idukki-corona-virus-cases.html",
 			"statepatientnumber": "",
 			"statuschangedate": "02/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "58",
