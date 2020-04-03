@@ -1386,18 +1386,18 @@
     "districtData": [
       {
         "district": "Khordha",
-        "confirmed": 7,
+        "confirmed": 14,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 3
+          "confirmed": 10
         }
       },
       {
         "district": "Bhadrak",
-        "confirmed": 1,
+        "confirmed": 3,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       {
@@ -1409,11 +1409,19 @@
         }
       },
       {
-        "district": "Unknown",
-        "confirmed": 11,
+        "district": "Puri",
+        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 11
+          "confirmed": 1
+        }
+      },
+      {
+        "district": "Jajapur",
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
         }
       }
     ]

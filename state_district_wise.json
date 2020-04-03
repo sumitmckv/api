@@ -1206,17 +1206,17 @@
   "Odisha": {
     "districtData": {
       "Khordha": {
-        "confirmed": 7,
+        "confirmed": 14,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 3
+          "confirmed": 10
         }
       },
       "Bhadrak": {
-        "confirmed": 1,
+        "confirmed": 3,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Cuttack": {
@@ -1226,11 +1226,18 @@
           "confirmed": 1
         }
       },
-      "Unknown": {
-        "confirmed": 11,
+      "Puri": {
+        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 11
+          "confirmed": 1
+        }
+      },
+      "Jajapur": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
         }
       }
     }
