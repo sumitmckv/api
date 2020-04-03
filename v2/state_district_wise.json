@@ -1296,7 +1296,7 @@
       },
       {
         "district": "Chittoor",
-        "confirmed": 9,
+        "confirmed": 10,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1304,7 +1304,7 @@
       },
       {
         "district": "Guntur",
-        "confirmed": 18,
+        "confirmed": 20,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1344,7 +1344,7 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 8,
+        "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
