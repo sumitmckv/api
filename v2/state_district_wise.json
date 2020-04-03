@@ -493,10 +493,10 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 96,
+        "confirmed": 98,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 44
+          "confirmed": 46
         }
       },
       {
@@ -1757,10 +1757,10 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 55,
+        "confirmed": 60,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 32
+          "confirmed": 37
         }
       },
       {
@@ -1984,10 +1984,10 @@
       },
       {
         "district": "Kamrup Metropolitan",
-        "confirmed": 4,
+        "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -2021,6 +2021,22 @@
         "delta": {
           "confirmed": 1
         }
+      },
+      {
+        "district": "Kamrup",
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
+        }
+      },
+      {
+        "district": "Morigaon",
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
+        }
       }
     ]
   },
@@ -2042,7 +2058,7 @@
     "districtData": [
       {
         "district": "Unknown",
-        "confirmed": 31,
+        "confirmed": 21,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0

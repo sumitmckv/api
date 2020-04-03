@@ -579,29 +579,29 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "553",
+			"confirmeddelta": "563",
 			"counterforautotimeupdate": "645",
 			"deceaseddelta": "14",
-			"lastupdatedtime": "03/04/2020 23:42:28",
+			"lastupdatedtime": "03/04/2020 23:52:27",
 			"recovereddelta": "38",
 			"statesdelta": "0"
 		}
 	],
 	"statewise": [
 		{
-			"active": "2783",
-			"confirmed": "3098",
+			"active": "2793",
+			"confirmed": "3108",
 			"deaths": "86",
 			"delta": {
-				"active": 553,
-				"confirmed": 553,
+				"active": 563,
+				"confirmed": 563,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"deltaconfirmed": "553",
+			"deltaconfirmed": "563",
 			"deltadeaths": "14",
 			"deltarecovered": "38",
-			"lastupdatedtime": "03/04/2020 23:42:28",
+			"lastupdatedtime": "03/04/2020 23:52:27",
 			"recovered": "229",
 			"state": "Total",
 			"statecode": "TT"
@@ -679,16 +679,16 @@
 			"statecode": "KL"
 		},
 		{
-			"active": "153",
-			"confirmed": "172",
+			"active": "155",
+			"confirmed": "174",
 			"deaths": "2",
 			"delta": {
-				"active": 44,
-				"confirmed": 44,
+				"active": 46,
+				"confirmed": 46,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"deltaconfirmed": "44",
+			"deltaconfirmed": "46",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
 			"lastupdatedtime": "03/04/2020 08:52:25",
@@ -751,19 +751,19 @@
 			"statecode": "TG"
 		},
 		{
-			"active": "141",
-			"confirmed": "149",
+			"active": "146",
+			"confirmed": "154",
 			"deaths": "8",
 			"delta": {
-				"active": 42,
-				"confirmed": 42,
+				"active": 47,
+				"confirmed": 47,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"deltaconfirmed": "42",
+			"deltaconfirmed": "47",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "03/04/2020 23:32:45",
+			"lastupdatedtime": "03/04/2020 23:52:32",
 			"recovered": "0",
 			"state": "Madhya Pradesh",
 			"statecode": "MP"
@@ -895,16 +895,16 @@
 			"statecode": "BR"
 		},
 		{
-			"active": "20",
-			"confirmed": "20",
+			"active": "23",
+			"confirmed": "23",
 			"deaths": "0",
 			"delta": {
-				"active": 4,
-				"confirmed": 4,
+				"active": 7,
+				"confirmed": 7,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"deltaconfirmed": "4",
+			"deltaconfirmed": "7",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
 			"lastupdatedtime": "03/04/2020 17:37:45",
