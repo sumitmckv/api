@@ -1184,10 +1184,10 @@
     "districtData": [
       {
         "district": "S.P.S. Nellore",
-        "confirmed": 4,
+        "confirmed": 9,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 5
         }
       },
       {
@@ -1272,10 +1272,10 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 63,
+        "confirmed": 58,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 12
+          "confirmed": 7
         }
       }
     ]
@@ -1523,10 +1523,10 @@
       },
       {
         "district": "Ahmadabad",
-        "confirmed": 31,
+        "confirmed": 38,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 7
         }
       },
       {
@@ -1938,7 +1938,7 @@
     "districtData": [
       {
         "district": "Unknown",
-        "confirmed": 433,
+        "confirmed": 426,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
