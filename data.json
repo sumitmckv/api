@@ -582,7 +582,7 @@
 			"confirmeddelta": "429",
 			"counterforautotimeupdate": "645",
 			"deceaseddelta": "5",
-			"lastupdatedtime": "03/04/2020 20:22:26",
+			"lastupdatedtime": "03/04/2020 20:27:25",
 			"recovereddelta": "30",
 			"statesdelta": "0"
 		}
@@ -601,7 +601,7 @@
 			"deltaconfirmed": "429",
 			"deltadeaths": "5",
 			"deltarecovered": "30",
-			"lastupdatedtime": "03/04/2020 20:22:26",
+			"lastupdatedtime": "03/04/2020 20:27:25",
 			"recovered": "221",
 			"state": "Total",
 			"statecode": "TT"
@@ -745,7 +745,7 @@
 			"deltaconfirmed": "75",
 			"deltadeaths": "2",
 			"deltarecovered": "15",
-			"lastupdatedtime": "03/04/2020 20:22:29",
+			"lastupdatedtime": "03/04/2020 20:27:26",
 			"recovered": "32",
 			"state": "Telangana",
 			"statecode": "TG"
@@ -835,7 +835,7 @@
 			"deltaconfirmed": "9",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "03/04/2020 20:22:32",
+			"lastupdatedtime": "03/04/2020 20:27:29",
 			"recovered": "27",
 			"state": "Haryana",
 			"statecode": "HR"
@@ -889,7 +889,7 @@
 			"deltaconfirmed": "1",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "02/04/2020 18:02:27",
+			"lastupdatedtime": "03/04/2020 20:27:32",
 			"recovered": "3",
 			"state": "Bihar",
 			"statecode": "BR"
