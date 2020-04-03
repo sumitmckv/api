@@ -1,9 +1,5 @@
 [
   {
-    "update": "1 new case in Odisha\n",
-    "timestamp": 1585764799
-  },
-  {
     "update": "1 new case in Uttar Pradesh\n",
     "timestamp": 1585765617
   },
@@ -198,5 +194,9 @@
   {
     "update": "1 new case in Goa\n",
     "timestamp": 1585889793
+  },
+  {
+    "update": "12 new cases in Andhra Pradesh\n",
+    "timestamp": 1585891484
   }
 ]
