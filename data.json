@@ -579,26 +579,26 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "86",
+			"confirmeddelta": "94",
 			"counterforautotimeupdate": "645",
 			"deceaseddelta": "1",
-			"lastupdatedtime": "03/04/2020 13:02:24",
+			"lastupdatedtime": "03/04/2020 13:12:24",
 			"recovereddelta": "1",
 			"statesdelta": "0"
 		}
 	],
 	"statewise": [
 		{
-			"active": "2366",
-			"confirmed": "2631",
+			"active": "2374",
+			"confirmed": "2639",
 			"deaths": "73",
 			"delta": {
-				"active": 86,
-				"confirmed": 86,
+				"active": 94,
+				"confirmed": 94,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "03/04/2020 13:02:24",
+			"lastupdatedtime": "03/04/2020 13:12:24",
 			"recovered": "192",
 			"state": "Total",
 			"statecode": "TT"
@@ -799,16 +799,16 @@
 			"statecode": "WB"
 		},
 		{
-			"active": "22",
-			"confirmed": "49",
+			"active": "30",
+			"confirmed": "57",
 			"deaths": "0",
 			"delta": {
-				"active": 0,
-				"confirmed": 0,
+				"active": 8,
+				"confirmed": 8,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "01/04/2020 19:02:30",
+			"lastupdatedtime": "03/04/2020 13:12:26",
 			"recovered": "27",
 			"state": "Haryana",
 			"statecode": "HR"
