@@ -579,26 +579,26 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "41",
+			"confirmeddelta": "86",
 			"counterforautotimeupdate": "645",
 			"deceaseddelta": "1",
-			"lastupdatedtime": "03/04/2020 09:22:24",
+			"lastupdatedtime": "03/04/2020 13:02:24",
 			"recovereddelta": "1",
 			"statesdelta": "0"
 		}
 	],
 	"statewise": [
 		{
-			"active": "2321",
-			"confirmed": "2586",
+			"active": "2366",
+			"confirmed": "2631",
 			"deaths": "73",
 			"delta": {
-				"active": 41,
-				"confirmed": 41,
+				"active": 86,
+				"confirmed": 86,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "03/04/2020 09:22:24",
+			"lastupdatedtime": "03/04/2020 13:02:24",
 			"recovered": "192",
 			"state": "Total",
 			"statecode": "TT"
@@ -709,12 +709,12 @@
 			"statecode": "TG"
 		},
 		{
-			"active": "109",
-			"confirmed": "128",
+			"active": "153",
+			"confirmed": "172",
 			"deaths": "2",
 			"delta": {
-				"active": 0,
-				"confirmed": 0,
+				"active": 44,
+				"confirmed": 44,
 				"deaths": 0,
 				"recovered": 0
 			},
@@ -724,16 +724,16 @@
 			"statecode": "UP"
 		},
 		{
-			"active": "110",
-			"confirmed": "124",
+			"active": "111",
+			"confirmed": "125",
 			"deaths": "3",
 			"delta": {
-				"active": 0,
-				"confirmed": 0,
+				"active": 1,
+				"confirmed": 1,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "02/04/2020 17:37:26",
+			"lastupdatedtime": "03/04/2020 13:02:26",
 			"recovered": "11",
 			"state": "Karnataka",
 			"statecode": "KA"

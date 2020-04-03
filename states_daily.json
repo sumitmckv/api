@@ -522,7 +522,7 @@
 			"himachalpradesh": "0",
 			"jammuandkashmir": "0",
 			"jharkhand": "0",
-			"karnataka": "0",
+			"karnataka": "1",
 			"kerala": "0",
 			"ladakh": "0",
 			"lakshadweep": "0",
@@ -540,10 +540,10 @@
 			"status": "Confirmed",
 			"tamilnadu": "0",
 			"telangana": "0",
-			"total": "41",
+			"total": "86",
 			"tripura": "0",
 			"uttarakhand": "0",
-			"uttarpradesh": "0",
+			"uttarpradesh": "44",
 			"westbengal": "0"
 		},
 		{
