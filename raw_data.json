@@ -16969,18 +16969,18 @@
 			"typeoftransmission": "TBD"
 		},
 		{
-			"agebracket": "",
+			"agebracket": "47",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "27/03/2020",
-			"detectedcity": "",
+			"detectedcity": "Prakulam",
 			"detecteddistrict": "Kollam",
 			"detectedstate": "Kerala",
 			"estimatedonsetdate": "",
-			"gender": "",
+			"gender": "M",
 			"nationality": "",
-			"notes": "",
+			"notes": "Travelled from Dubai",
 			"patientnumber": "809",
 			"source1": "https://twitter.com/PTI_News/status/1243519189412765696",
 			"source2": "https://www.facebook.com/dckollam/posts/1560191500799723",
@@ -19776,11 +19776,11 @@
 			"notes": "Travelled from Dubai landed at Mumbai then to Thiruvanathapuram",
 			"patientnumber": "942",
 			"source1": "https://twitter.com/ANI/status/1243881127485423617",
-			"source2": "",
+			"source2": "https://www.manoramaonline.com/district-news/kollam/2020/03/28/kollam-covid-19-for-kollam-native.html",
 			"source3": "",
 			"statepatientnumber": "KL-KL-P2",
 			"statuschangedate": "28/03/2020",
-			"typeoftransmission": "Local"
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "",
@@ -30432,7 +30432,7 @@
 		{
 			"agebracket": "43",
 			"backupnotes": "",
-			"contractedfromwhichpatientsuspected": "",
+			"contractedfromwhichpatientsuspected": "P809",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "31/03/2020",
 			"detectedcity": "",
@@ -30441,14 +30441,14 @@
 			"estimatedonsetdate": "",
 			"gender": "F",
 			"nationality": "",
-			"notes": "Sister in law of ",
+			"notes": "Sister in law of  P809",
 			"patientnumber": "1450",
 			"source1": "https://twitter.com/ANI/status/1244970503082774528",
-			"source2": "",
+			"source2": "https://www.manoramaonline.com/district-news/kollam/2020/04/01/kollam-covid-in-district-for-third-time.html",
 			"source3": "",
-			"statepatientnumber": "",
+			"statepatientnumber": "KL-KL-P3",
 			"statuschangedate": "31/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -46485,7 +46485,7 @@
 			"estimatedonsetdate": "",
 			"gender": "",
 			"nationality": "",
-			"notes": "",
+			"notes": "Details awaited",
 			"patientnumber": "2214",
 			"source1": "https://twitter.com/ANI/status/1245692712986214400",
 			"source2": "http://dhs.kerala.gov.in/wp-content/uploads/2020/04/Daily-Bulletin-HFWD-English-April-2nd.pdf",
