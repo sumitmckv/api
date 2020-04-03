@@ -185,10 +185,18 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 249,
+        "confirmed": 339,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 90
+        }
+      },
+      {
+        "district": " ",
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
         }
       }
     ]
@@ -283,10 +291,10 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 28,
+        "confirmed": 25,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 3
+          "confirmed": 0
         }
       },
       {
@@ -343,6 +351,14 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 2
+        }
+      },
+      {
+        "district": "Jaisalmer",
+        "confirmed": 3,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 3
         }
       },
       {
@@ -804,6 +820,14 @@
         "delta": {
           "confirmed": 0
         }
+      },
+      {
+        "district": "Unknown",
+        "confirmed": 102,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 102
+        }
       }
     ]
   },
@@ -812,10 +836,10 @@
     "districtData": [
       {
         "district": "Jammu",
-        "confirmed": 9,
+        "confirmed": 10,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -872,6 +896,14 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      {
+        "district": "Kashmir",
+        "confirmed": 4,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 4
         }
       }
     ]
@@ -1187,10 +1219,10 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 7,
+        "confirmed": 11,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 4
         }
       },
       {
@@ -1949,6 +1981,22 @@
         "delta": {
           "confirmed": 0
         }
+      },
+      {
+        "district": "Nalbari",
+        "confirmed": 3,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 3
+        }
+      },
+      {
+        "district": "South Salmara Mancachar",
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
+        }
       }
     ]
   },
@@ -1970,7 +2018,7 @@
     "districtData": [
       {
         "district": "Unknown",
-        "confirmed": 360,
+        "confirmed": 154,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
