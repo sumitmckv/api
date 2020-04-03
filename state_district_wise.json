@@ -1040,10 +1040,10 @@
   "Punjab": {
     "districtData": {
       "Amritsar": {
-        "confirmed": 2,
+        "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       "Shahid Bhagat Singh Nagar": {
@@ -1054,10 +1054,10 @@
         }
       },
       "S.A.S. Nagar": {
-        "confirmed": 9,
+        "confirmed": 11,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Hoshiarpur": {
@@ -1075,17 +1075,17 @@
         }
       },
       "Unknown": {
-        "confirmed": 13,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 6
-        }
-      },
-      "Ludhiana": {
-        "confirmed": 2,
+        "confirmed": 7,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      "Ludhiana": {
+        "confirmed": 3,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
         }
       }
     }
