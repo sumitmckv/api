@@ -1320,7 +1320,7 @@
       },
       {
         "district": "Anantapur",
-        "confirmed": 4,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1344,7 +1344,7 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 7,
+        "confirmed": 9,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
