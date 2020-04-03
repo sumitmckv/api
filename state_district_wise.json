@@ -541,10 +541,10 @@
         }
       },
       "Chennai": {
-        "confirmed": 49,
+        "confirmed": 84,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 35
         }
       },
       "Erode": {
@@ -723,10 +723,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 102,
+        "confirmed": 67,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 102
+          "confirmed": 67
         }
       }
     }
