@@ -1107,17 +1107,17 @@
         }
       },
       "Visakhapatnam": {
-        "confirmed": 14,
+        "confirmed": 15,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 3
+          "confirmed": 4
         }
       },
       "East Godavari": {
-        "confirmed": 9,
+        "confirmed": 11,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Krishna": {
@@ -1514,10 +1514,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 35,
+        "confirmed": 55,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 12
+          "confirmed": 32
         }
       },
       "Morena": {
@@ -1760,10 +1760,10 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 13,
+        "confirmed": 53,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 19
         }
       }
     }
