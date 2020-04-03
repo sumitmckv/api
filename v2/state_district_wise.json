@@ -1256,7 +1256,7 @@
     "districtData": [
       {
         "district": "S.P.S. Nellore",
-        "confirmed": 13,
+        "confirmed": 16,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 8
@@ -1264,7 +1264,7 @@
       },
       {
         "district": "Prakasam",
-        "confirmed": 26,
+        "confirmed": 17,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1272,7 +1272,7 @@
       },
       {
         "district": "Visakhapatnam",
-        "confirmed": 24,
+        "confirmed": 14,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 3
@@ -1312,7 +1312,7 @@
       },
       {
         "district": "Kurnool",
-        "confirmed": 2,
+        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1344,7 +1344,7 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 6,
+        "confirmed": 23,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0

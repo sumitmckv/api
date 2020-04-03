@@ -1093,21 +1093,21 @@
   "Andhra Pradesh": {
     "districtData": {
       "S.P.S. Nellore": {
-        "confirmed": 13,
+        "confirmed": 16,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 8
         }
       },
       "Prakasam": {
-        "confirmed": 26,
+        "confirmed": 17,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       },
       "Visakhapatnam": {
-        "confirmed": 24,
+        "confirmed": 14,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 3
@@ -1142,7 +1142,7 @@
         }
       },
       "Kurnool": {
-        "confirmed": 2,
+        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1170,7 +1170,7 @@
         }
       },
       "Unknown": {
-        "confirmed": 6,
+        "confirmed": 23,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
