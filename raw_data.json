@@ -46453,7 +46453,7 @@
 			"typeoftransmission": ""
 		},
 		{
-			"agebracket": "",
+			"agebracket": "27",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
@@ -46462,9 +46462,9 @@
 			"detecteddistrict": "Kollam",
 			"detectedstate": "Kerala",
 			"estimatedonsetdate": "",
-			"gender": "",
+			"gender": "F",
 			"nationality": "",
-			"notes": "",
+			"notes": "Travelled from Qatar,Pregnant woman,",
 			"patientnumber": "2213",
 			"source1": "https://twitter.com/ANI/status/1245692712986214400",
 			"source2": "http://dhs.kerala.gov.in/wp-content/uploads/2020/04/Daily-Bulletin-HFWD-English-April-2nd.pdf",
@@ -46474,7 +46474,7 @@
 			"typeoftransmission": ""
 		},
 		{
-			"agebracket": "",
+			"agebracket": "28",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
@@ -46495,9 +46495,9 @@
 			"typeoftransmission": ""
 		},
 		{
-			"agebracket": "",
+			"agebracket": "36",
 			"backupnotes": "",
-			"contractedfromwhichpatientsuspected": "",
+			"contractedfromwhichpatientsuspected": "E0",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "02/04/2020",
 			"detectedcity": "",
@@ -46506,7 +46506,7 @@
 			"estimatedonsetdate": "",
 			"gender": "",
 			"nationality": "",
-			"notes": "",
+			"notes": "Attended Delhi Religious Conference",
 			"patientnumber": "2215",
 			"source1": "https://twitter.com/ANI/status/1245692712986214400",
 			"source2": "http://dhs.kerala.gov.in/wp-content/uploads/2020/04/Daily-Bulletin-HFWD-English-April-2nd.pdf",
