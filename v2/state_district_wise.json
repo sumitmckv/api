@@ -1834,10 +1834,10 @@
       },
       {
         "district": "Gaya",
-        "confirmed": 4,
+        "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -2034,7 +2034,7 @@
     "districtData": [
       {
         "district": "Unknown",
-        "confirmed": 23,
+        "confirmed": 22,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
