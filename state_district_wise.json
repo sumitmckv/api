@@ -408,6 +408,13 @@
         "delta": {
           "confirmed": 3
         }
+      },
+      "Karnal": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
+        }
       }
     }
   },
@@ -1546,10 +1553,10 @@
         }
       },
       "Siwan": {
-        "confirmed": 5,
+        "confirmed": 6,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Nalanda": {
@@ -1760,10 +1767,10 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 40,
+        "confirmed": 38,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 38
+          "confirmed": 36
         }
       }
     }

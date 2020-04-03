@@ -579,30 +579,30 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "427",
+			"confirmeddelta": "429",
 			"counterforautotimeupdate": "645",
-			"deceaseddelta": "3",
-			"lastupdatedtime": "03/04/2020 20:17:25",
-			"recovereddelta": "15",
+			"deceaseddelta": "5",
+			"lastupdatedtime": "03/04/2020 20:22:26",
+			"recovereddelta": "30",
 			"statesdelta": "0"
 		}
 	],
 	"statewise": [
 		{
-			"active": "2691",
-			"confirmed": "2972",
-			"deaths": "75",
+			"active": "2676",
+			"confirmed": "2974",
+			"deaths": "77",
 			"delta": {
-				"active": 427,
-				"confirmed": 427,
+				"active": 429,
+				"confirmed": 429,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"deltaconfirmed": "427",
-			"deltadeaths": "3",
-			"deltarecovered": "15",
-			"lastupdatedtime": "03/04/2020 20:17:25",
-			"recovered": "206",
+			"deltaconfirmed": "429",
+			"deltadeaths": "5",
+			"deltarecovered": "30",
+			"lastupdatedtime": "03/04/2020 20:22:26",
+			"recovered": "221",
 			"state": "Total",
 			"statecode": "TT"
 		},
@@ -733,9 +733,9 @@
 			"statecode": "AP"
 		},
 		{
-			"active": "203",
+			"active": "186",
 			"confirmed": "229",
-			"deaths": "9",
+			"deaths": "11",
 			"delta": {
 				"active": 75,
 				"confirmed": 75,
@@ -743,10 +743,10 @@
 				"recovered": 0
 			},
 			"deltaconfirmed": "75",
-			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "03/04/2020 20:17:30",
-			"recovered": "17",
+			"deltadeaths": "2",
+			"deltarecovered": "15",
+			"lastupdatedtime": "03/04/2020 20:22:29",
+			"recovered": "32",
 			"state": "Telangana",
 			"statecode": "TG"
 		},
@@ -823,19 +823,19 @@
 			"statecode": "JK"
 		},
 		{
-			"active": "30",
-			"confirmed": "57",
+			"active": "31",
+			"confirmed": "58",
 			"deaths": "0",
 			"delta": {
-				"active": 8,
-				"confirmed": 8,
+				"active": 9,
+				"confirmed": 9,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"deltaconfirmed": "8",
+			"deltaconfirmed": "9",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "03/04/2020 13:12:26",
+			"lastupdatedtime": "03/04/2020 20:22:32",
 			"recovered": "27",
 			"state": "Haryana",
 			"statecode": "HR"
@@ -877,16 +877,16 @@
 			"statecode": "PB"
 		},
 		{
-			"active": "25",
-			"confirmed": "29",
+			"active": "26",
+			"confirmed": "30",
 			"deaths": "1",
 			"delta": {
-				"active": 0,
-				"confirmed": 0,
+				"active": 1,
+				"confirmed": 1,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "1",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
 			"lastupdatedtime": "02/04/2020 18:02:27",

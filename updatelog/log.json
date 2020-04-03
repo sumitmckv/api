@@ -1,9 +1,5 @@
 [
   {
-    "update": "1 recovery in Karnataka\n1 recovery in Jammu and Kashmir\n",
-    "timestamp": 1585826874
-  },
-  {
     "update": "1 death in Delhi\n",
     "timestamp": 1585829070
   },
@@ -198,5 +194,9 @@
   {
     "update": "75 new cases in Telangana\n",
     "timestamp": 1585925321
+  },
+  {
+    "update": "15 recoveries and 2 deaths in Telangana\n1 new case in Haryana\n1 new case in Bihar\n",
+    "timestamp": 1585925734
   }
 ]
