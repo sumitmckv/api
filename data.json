@@ -581,7 +581,7 @@
 		{
 			"confirmeddelta": "95",
 			"counterforautotimeupdate": "645",
-			"deceaseddelta": "1",
+			"deceaseddelta": "2",
 			"lastupdatedtime": "03/04/2020 14:27:24",
 			"recovereddelta": "1",
 			"statesdelta": "0"
@@ -589,9 +589,9 @@
 	],
 	"statewise": [
 		{
-			"active": "2375",
+			"active": "2374",
 			"confirmed": "2640",
-			"deaths": "73",
+			"deaths": "74",
 			"delta": {
 				"active": 95,
 				"confirmed": 95,
@@ -679,9 +679,9 @@
 			"statecode": "UP"
 		},
 		{
-			"active": "159",
+			"active": "158",
 			"confirmed": "161",
-			"deaths": "0",
+			"deaths": "1",
 			"delta": {
 				"active": 12,
 				"confirmed": 12,
