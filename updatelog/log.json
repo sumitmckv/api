@@ -1,9 +1,5 @@
 [
   {
-    "update": "1 new case in Chandigarh\n",
-    "timestamp": 1585834370
-  },
-  {
     "update": "2 new cases in Madhya Pradesh\n",
     "timestamp": 1585835576
   },
@@ -198,5 +194,9 @@
   {
     "update": "2 new cases in Uttar Pradesh\n5 new cases in Madhya Pradesh\n3 new cases in Assam\n",
     "timestamp": 1585938451
+  },
+  {
+    "update": "1 death in Gujarat\n",
+    "timestamp": 1585949658
   }
 ]

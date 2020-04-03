@@ -581,17 +581,17 @@
 		{
 			"confirmeddelta": "563",
 			"counterforautotimeupdate": "645",
-			"deceaseddelta": "13",
-			"lastupdatedtime": "04/04/2020 02:52:24",
+			"deceaseddelta": "14",
+			"lastupdatedtime": "04/04/2020 03:02:23",
 			"recovereddelta": "38",
 			"statesdelta": "0"
 		}
 	],
 	"statewise": [
 		{
-			"active": "2794",
+			"active": "2793",
 			"confirmed": "3108",
-			"deaths": "85",
+			"deaths": "86",
 			"delta": {
 				"active": 0,
 				"confirmed": 0,
@@ -601,7 +601,7 @@
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "04/04/2020 02:52:24",
+			"lastupdatedtime": "04/04/2020 03:02:23",
 			"recovered": "229",
 			"state": "Total",
 			"statecode": "TT"
@@ -787,9 +787,9 @@
 			"statecode": "KA"
 		},
 		{
-			"active": "77",
+			"active": "76",
 			"confirmed": "95",
-			"deaths": "8",
+			"deaths": "9",
 			"delta": {
 				"active": 0,
 				"confirmed": 0,
@@ -799,7 +799,7 @@
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "04/04/2020 02:52:25",
+			"lastupdatedtime": "04/04/2020 03:02:25",
 			"recovered": "10",
 			"state": "Gujarat",
 			"statecode": "GJ"
