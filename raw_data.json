@@ -105,7 +105,7 @@
 			"source1": "https://www.deccanherald.com/national/south/quarantine-not-a-jail-no-stigma-attached-telanganas-first-coronavirus-case-and-survivor-819012.html",
 			"source2": "https://www.indiatoday.in/india/story/coronavirus-in-india-tracking-country-s-first-50-covid-19-cases-what-numbers-tell-1654468-2020-03-12",
 			"source3": "https://www.thehindu.com/news/national/coronavirus-live-updates-march-14-2020/article31066969.ece",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "TS-P1",
 			"statuschangedate": "02/03/2020",
 			"typeoftransmission": "Imported"
@@ -699,7 +699,7 @@
 			"source1": "https://indianexpress.com/article/india/coronavirus-outbreak-live-updates-pm-modi-6303338/",
 			"source2": "https://www.indiatoday.in/india/story/coronavirus-in-india-tracking-country-s-first-50-covid-19-cases-what-numbers-tell-1654468-2020-03-12",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "LA",
 			"statepatientnumber": "",
 			"statuschangedate": "07/03/2020",
 			"typeoftransmission": "Imported"
@@ -721,7 +721,7 @@
 			"source1": "https://indianexpress.com/article/india/coronavirus-outbreak-live-updates-pm-modi-6303338/",
 			"source2": "https://www.indiatoday.in/india/story/coronavirus-in-india-tracking-country-s-first-50-covid-19-cases-what-numbers-tell-1654468-2020-03-12",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "LA",
 			"statepatientnumber": "",
 			"statuschangedate": "07/03/2020",
 			"typeoftransmission": "TBD"
@@ -1425,7 +1425,7 @@
 			"source1": "https://www.indiatoday.in/india/story/leh-ladakh-man-tests-coronavirus-positive-total-cases-health-1654899-2020-03-12",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "LA",
 			"statepatientnumber": "",
 			"statuschangedate": "11/03/2020",
 			"typeoftransmission": "Imported"
@@ -2349,7 +2349,7 @@
 			"source1": "https://www.newindianexpress.com/states/telangana/2020/mar/14/patient-who-returned-from-italy-is-second-coronavirus-positive-case-in-telangana-2116685.html",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "TS-P2",
 			"statuschangedate": "14/03/2020",
 			"typeoftransmission": "Imported"
@@ -2459,7 +2459,7 @@
 			"source1": "https://www.businessinsider.in/india/news/coronavirus-cases-in-telangana-third-case-reported-from-hyderabad/articleshow/74640184.cms",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "",
 			"statuschangedate": "15/03/2020",
 			"typeoftransmission": "Imported"
@@ -2481,7 +2481,7 @@
 			"source1": "https://www.firstpost.com/health/coronavirus-outbreak-live-updates-covid-19-who-pandemic-quarantine-india-noida-bangalore-cases-alert-novel-latest-news-today-ipl-school-college-8152371.html",
 			"source2": "",
 			"source3": "",
-			"statecode": "UK",
+			"statecode": "UT",
 			"statepatientnumber": "",
 			"statuschangedate": "15/03/2020",
 			"typeoftransmission": "Imported"
@@ -2767,7 +2767,7 @@
 			"source1": "https://www.thehindu.com/news/national/other-states/coronavirus-odisha-reports-first-case-as-student-who-returned-from-italy-tests-positive/article31079934.ece",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "OR",
 			"statepatientnumber": "",
 			"statuschangedate": "27/03/2020",
 			"typeoftransmission": "Imported"
@@ -2789,7 +2789,7 @@
 			"source1": "https://www.thenewsminute.com/article/another-person-tests-positive-coronavirus-telangana-states-count-now-4-120374",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "TS-P3",
 			"statuschangedate": "16/03/2020",
 			"typeoftransmission": "Imported"
@@ -2899,7 +2899,7 @@
 			"source1": "https://twitter.com/airnewsalerts/status/1239796624928444416?s=19",
 			"source2": "http://newsonair.com/Main-News-Details.aspx?id=383141",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "LA",
 			"statepatientnumber": "",
 			"statuschangedate": "17/03/2020",
 			"typeoftransmission": "Imported"
@@ -2921,7 +2921,7 @@
 			"source1": "https://twitter.com/airnewsalerts/status/1239796624928444416?s=19",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "LA",
 			"statepatientnumber": "",
 			"statuschangedate": "17/03/2020",
 			"typeoftransmission": "TBD"
@@ -2943,7 +2943,7 @@
 			"source1": "https://twitter.com/airnewsalerts/status/1239796624928444416?s=19",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "LA",
 			"statepatientnumber": "",
 			"statuschangedate": "17/03/2020",
 			"typeoftransmission": "TBD"
@@ -3075,7 +3075,7 @@
 			"source1": "https://twitter.com/PTI_News/status/1239866086905921536?s=19",
 			"source2": "https://www.thehindu.com/news/national/kerala/first-covid-19-case-detected-in-mahe/article31093347.ece",
 			"source3": "https://www.facebook.com/CollectorKKD/posts/2591627614407336",
-			"statecode": "#N/A",
+			"statecode": "PY",
 			"statepatientnumber": "",
 			"statuschangedate": "17/03/2020",
 			"typeoftransmission": "Imported"
@@ -3097,7 +3097,7 @@
 			"source1": "https://twitter.com/ANI/status/1239894891678724097",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "TS-P5",
 			"statuschangedate": "17/03/2020",
 			"typeoftransmission": "Imported"
@@ -3185,7 +3185,7 @@
 			"source1": "https://www.indiatoday.in/india/story/coronavirus-first-indian-army-jawan-tests-positive-covid19-ladakh-1656643-2020-03-17",
 			"source2": "https://twitter.com/ANI/status/1239969373013438464",
 			"source3": "https://timesofindia.indiatimes.com/city/mumbai/coronavirus-in-india-live-updates-march-18-2020/liveblog/74683100.cms",
-			"statecode": "#N/A",
+			"statecode": "LA",
 			"statepatientnumber": "",
 			"statuschangedate": "17/03/2020",
 			"typeoftransmission": "Local"
@@ -3207,7 +3207,7 @@
 			"source1": "https://www.indiatoday.in/india/story/coronavirus-first-indian-army-jawan-tests-positive-covid19-ladakh-1656643-2020-03-17",
 			"source2": "https://twitter.com/ANI/status/1239969373013438464",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "LA",
 			"statepatientnumber": "",
 			"statuschangedate": "17/03/2020",
 			"typeoftransmission": "Imported"
@@ -3273,7 +3273,7 @@
 			"source1": "https://www.thenewsminute.com/article/telangana-records-sixth-case-coronavirus-patient-had-travel-history-uk-120510",
 			"source2": "https://drive.google.com/drive/folders/1yAgt3IN1u8jX8g8jEasC4KNR26HUqeKi",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "TS-P6",
 			"statuschangedate": "18/03/2020",
 			"typeoftransmission": "Imported"
@@ -3581,7 +3581,7 @@
 			"source1": "https://www.thenewsminute.com/article/telangana-traces-passengers-delhi-bengaluru-train-bogie-covid-19-patient-120552",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "TS-P7",
 			"statuschangedate": "18/03/2020",
 			"typeoftransmission": "Imported"
@@ -3603,7 +3603,7 @@
 			"source1": "https://www.thenewsminute.com/article/telangana-traces-passengers-delhi-bengaluru-train-bogie-covid-19-patient-120552",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "TS-P8",
 			"statuschangedate": "18/03/2020",
 			"typeoftransmission": "Imported"
@@ -3625,7 +3625,7 @@
 			"source1": "https://www.thenewsminute.com/article/telangana-traces-passengers-delhi-bengaluru-train-bogie-covid-19-patient-120552",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "TS-P9",
 			"statuschangedate": "18/03/2020",
 			"typeoftransmission": "Imported"
@@ -3647,7 +3647,7 @@
 			"source1": "https://www.thenewsminute.com/article/telangana-traces-passengers-delhi-bengaluru-train-bogie-covid-19-patient-120552",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "TS-P10",
 			"statuschangedate": "18/03/2020",
 			"typeoftransmission": "Imported"
@@ -3669,7 +3669,7 @@
 			"source1": "https://www.thenewsminute.com/article/telangana-traces-passengers-delhi-bengaluru-train-bogie-covid-19-patient-120552",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "TS-P11",
 			"statuschangedate": "18/03/2020",
 			"typeoftransmission": "Imported"
@@ -3691,7 +3691,7 @@
 			"source1": "https://www.thenewsminute.com/article/telangana-traces-passengers-delhi-bengaluru-train-bogie-covid-19-patient-120552",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "TS-P12",
 			"statuschangedate": "18/03/2020",
 			"typeoftransmission": "Imported"
@@ -3713,7 +3713,7 @@
 			"source1": "https://www.thenewsminute.com/article/telangana-traces-passengers-delhi-bengaluru-train-bogie-covid-19-patient-120552",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "TS-P13",
 			"statuschangedate": "18/03/2020",
 			"typeoftransmission": "Imported"
@@ -3889,7 +3889,7 @@
 			"source1": "https://twitter.com/PTI_News/status/1240516523183071232",
 			"source2": "",
 			"source3": "",
-			"statecode": "CG",
+			"statecode": "CT",
 			"statepatientnumber": "",
 			"statuschangedate": "19/03/2020",
 			"typeoftransmission": "Imported"
@@ -4131,7 +4131,7 @@
 			"source1": "https://twitter.com/ANI/status/1240658425328979971",
 			"source2": "https://twitter.com/PTI_News/status/1243812398747680768?s=20",
 			"source3": "",
-			"statecode": "UK",
+			"statecode": "UT",
 			"statepatientnumber": "",
 			"statuschangedate": "19/03/2020",
 			"typeoftransmission": "Imported"
@@ -4153,7 +4153,7 @@
 			"source1": "https://twitter.com/ANI/status/1240658425328979971",
 			"source2": "",
 			"source3": "",
-			"statecode": "UK",
+			"statecode": "UT",
 			"statepatientnumber": "",
 			"statuschangedate": "19/03/2020",
 			"typeoftransmission": "Imported"
@@ -4175,7 +4175,7 @@
 			"source1": "https://twitter.com/IPRTelangana/status/1240688561818447874?s=19",
 			"source2": "https://www.indiatoday.in/india/story/coronavirus-india-positive-cases-covid-19-rise-fresh-cases-news-update-1657244-2020-03-19",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "TS-P15",
 			"statuschangedate": "19/03/2020",
 			"typeoftransmission": "Imported"
@@ -4197,7 +4197,7 @@
 			"source1": "https://twitter.com/IPRTelangana/status/1240688561818447874?s=19",
 			"source2": "https://www.indiatoday.in/india/story/coronavirus-india-positive-cases-covid-19-rise-fresh-cases-news-update-1657244-2020-03-19",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "TS-P14",
 			"statuschangedate": "19/03/2020",
 			"typeoftransmission": "Imported"
@@ -4219,7 +4219,7 @@
 			"source1": "https://twitter.com/IPRTelangana/status/1240688561818447874?s=19",
 			"source2": "https://www.indiatoday.in/india/story/coronavirus-india-positive-cases-covid-19-rise-fresh-cases-news-update-1657244-2020-03-19",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "TS-P16",
 			"statuschangedate": "19/03/2020",
 			"typeoftransmission": "Imported"
@@ -4241,7 +4241,7 @@
 			"source1": "https://twitter.com/HFWOdisha/status/1240683355332431872",
 			"source2": "https://kalingatv.com/state/odisha-reports-2nd-positive-coronavirus-case/",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "OR",
 			"statepatientnumber": "",
 			"statuschangedate": "19/03/2020",
 			"typeoftransmission": "Imported"
@@ -4439,7 +4439,7 @@
 			"source1": "https://www.youtube.com/watch?v=Jzp4NSin3S4",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "LA",
 			"statepatientnumber": "",
 			"statuschangedate": "20/03/2020",
 			"typeoftransmission": "Local"
@@ -4461,7 +4461,7 @@
 			"source1": "https://www.youtube.com/watch?v=Jzp4NSin3S4",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "LA",
 			"statepatientnumber": "",
 			"statuschangedate": "20/03/2020",
 			"typeoftransmission": "TBD"
@@ -4835,7 +4835,7 @@
 			"source1": "https://twitter.com/ANI/status/1240965728452235269",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "TS-P17",
 			"statuschangedate": "20/03/2020",
 			"typeoftransmission": "Imported"
@@ -5539,7 +5539,7 @@
 			"source1": "https://twitter.com/TelanganaHealth/status/1241032645254889472",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "TS-P18",
 			"statuschangedate": "20/03/2020",
 			"typeoftransmission": "Imported"
@@ -5561,7 +5561,7 @@
 			"source1": "https://twitter.com/TelanganaHealth/status/1241032645254889472",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "TS-P19",
 			"statuschangedate": "20/03/2020",
 			"typeoftransmission": "Imported"
@@ -6331,7 +6331,7 @@
 			"source1": "https://twitter.com/ANI/status/1241261548665860097",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "LA",
 			"statepatientnumber": "",
 			"statuschangedate": "21/03/2020",
 			"typeoftransmission": "Local"
@@ -6353,7 +6353,7 @@
 			"source1": "https://twitter.com/ANI/status/1241261548665860097",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "LA",
 			"statepatientnumber": "",
 			"statuschangedate": "21/03/2020",
 			"typeoftransmission": "Local"
@@ -6375,7 +6375,7 @@
 			"source1": "https://twitter.com/ANI/status/1241261548665860097",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "LA",
 			"statepatientnumber": "",
 			"statuschangedate": "21/03/2020",
 			"typeoftransmission": "Local"
@@ -6573,7 +6573,7 @@
 			"source1": "",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "TS-P20",
 			"statuschangedate": "21/03/2020",
 			"typeoftransmission": "Local"
@@ -6595,7 +6595,7 @@
 			"source1": "",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "TS-P21",
 			"statuschangedate": "21/03/2020",
 			"typeoftransmission": "Imported"
@@ -7695,7 +7695,7 @@
 			"source1": "https://twitter.com/TOIHyderabad/status/1241629696149708803",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "TS-P22",
 			"statuschangedate": "22/03/2020",
 			"typeoftransmission": "Imported"
@@ -8091,7 +8091,7 @@
 			"source1": "https://twitter.com/THHyderabad/status/1241709656285671424?s=20",
 			"source2": "https://timesofindia.indiatimes.com/city/hyderabad/6-test-ve-for-coronavirus-state-total-now-up-to-27/articleshow/74764558.cms",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "TS-P24",
 			"statuschangedate": "22/03/2020",
 			"typeoftransmission": "Imported"
@@ -8113,7 +8113,7 @@
 			"source1": "https://twitter.com/THHyderabad/status/1241709656285671424?s=20",
 			"source2": "https://timesofindia.indiatimes.com/city/hyderabad/6-test-ve-for-coronavirus-state-total-now-up-to-27/articleshow/74764558.cms",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "TS-P25",
 			"statuschangedate": "22/03/2020",
 			"typeoftransmission": "Imported"
@@ -8135,7 +8135,7 @@
 			"source1": "https://twitter.com/THHyderabad/status/1241709656285671424?s=20",
 			"source2": "https://timesofindia.indiatimes.com/city/hyderabad/6-test-ve-for-coronavirus-state-total-now-up-to-27/articleshow/74764558.cms",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "TS-P26",
 			"statuschangedate": "22/03/2020",
 			"typeoftransmission": "Imported"
@@ -8157,7 +8157,7 @@
 			"source1": "https://twitter.com/THHyderabad/status/1241709656285671424?s=20",
 			"source2": "https://timesofindia.indiatimes.com/city/hyderabad/6-test-ve-for-coronavirus-state-total-now-up-to-27/articleshow/74764558.cms",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "TS-P23",
 			"statuschangedate": "22/03/2020",
 			"typeoftransmission": "Imported"
@@ -8179,7 +8179,7 @@
 			"source1": "https://twitter.com/THHyderabad/status/1241709656285671424?s=20",
 			"source2": "https://timesofindia.indiatimes.com/city/hyderabad/6-test-ve-for-coronavirus-state-total-now-up-to-27/articleshow/74764558.cms",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "TS-P27",
 			"statuschangedate": "22/03/2020",
 			"typeoftransmission": "Imported"
@@ -9543,7 +9543,7 @@
 			"source1": "https://twitter.com/IPRTelangana/status/1241985785764532227",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "TS-P28",
 			"statuschangedate": "23/03/2020",
 			"typeoftransmission": "Imported"
@@ -9565,7 +9565,7 @@
 			"source1": "https://twitter.com/IPRTelangana/status/1241985785764532227",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "TS-P29",
 			"statuschangedate": "23/03/2020",
 			"typeoftransmission": "Imported"
@@ -9587,7 +9587,7 @@
 			"source1": "https://twitter.com/IPRTelangana/status/1241985785764532227",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "TS-P30",
 			"statuschangedate": "23/03/2020",
 			"typeoftransmission": "Local"
@@ -9631,7 +9631,7 @@
 			"source1": "https://twitter.com/PTI_News/status/1242033516927320064?s=19",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "TS-P31",
 			"statuschangedate": "23/03/2020",
 			"typeoftransmission": "Imported"
@@ -9653,7 +9653,7 @@
 			"source1": "https://twitter.com/PTI_News/status/1242033516927320064?s=19",
 			"source2": "https://twitter.com/IPRTelangana/status/1242100613174808576/photo/1",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "TS-P32",
 			"statuschangedate": "23/03/2020",
 			"typeoftransmission": "Imported"
@@ -9675,7 +9675,7 @@
 			"source1": "https://twitter.com/PTI_News/status/1242033516927320064?s=19",
 			"source2": "https://twitter.com/IPRTelangana/status/1242100613174808576/photo/1",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "TS-P33",
 			"statuschangedate": "23/03/2020",
 			"typeoftransmission": "Imported"
@@ -9719,7 +9719,7 @@
 			"source1": "https://twitter.com/ANI/status/1242063740637339649",
 			"source2": "",
 			"source3": "",
-			"statecode": "UK",
+			"statecode": "UT",
 			"statepatientnumber": "",
 			"statuschangedate": "23/03/2020",
 			"typeoftransmission": "TBD"
@@ -11545,7 +11545,7 @@
 			"source1": "https://twitter.com/TelanganaHealth/status/1242353133994438658?s=19",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "TS-P34",
 			"statuschangedate": "24/03/2020",
 			"typeoftransmission": "Imported"
@@ -11567,7 +11567,7 @@
 			"source1": "https://twitter.com/TelanganaHealth/status/1242353133994438658?s=19",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "TS-P35",
 			"statuschangedate": "24/03/2020",
 			"typeoftransmission": "Imported"
@@ -11589,7 +11589,7 @@
 			"source1": "https://twitter.com/TelanganaHealth/status/1242353133994438658?s=19",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "TS-P36",
 			"statuschangedate": "24/03/2020",
 			"typeoftransmission": "Imported"
@@ -12403,7 +12403,7 @@
 			"source1": "https://twitter.com/IPRTelangana/status/1242490062907912192",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "TS-P37",
 			"statuschangedate": "24/03/2020",
 			"typeoftransmission": "Local"
@@ -12535,7 +12535,7 @@
 			"source1": "https://twitter.com/RishikaSadam/status/1242519487997284352/photo/1",
 			"source2": "https://twitter.com/IPRTelangana/status/1242624185131622400",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "TS-P38",
 			"statuschangedate": "25/03/2020",
 			"typeoftransmission": "Local"
@@ -12557,7 +12557,7 @@
 			"source1": "https://twitter.com/RishikaSadam/status/1242519487997284352/photo/1",
 			"source2": "https://twitter.com/IPRTelangana/status/1242624185131622400",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "TS-P39",
 			"statuschangedate": "25/03/2020",
 			"typeoftransmission": "Local"
@@ -14075,7 +14075,7 @@
 			"source1": "https://twitter.com/PTI_News/status/1242811383743315970",
 			"source2": "https://www.outlookindia.com/newsscroll/one-more-tests-positive-for-coronavirus-in-uttarakhand/1779873",
 			"source3": "",
-			"statecode": "UK",
+			"statecode": "UT",
 			"statepatientnumber": "",
 			"statuschangedate": "25/03/2020",
 			"typeoftransmission": "Imported"
@@ -14097,7 +14097,7 @@
 			"source1": " https://timesofindia.indiatimes.com/city/raipur/two-more-positive-cases-reported-in-chhattisgarh-taking-total-number-of-covid-19-to-3-in-state/articleshow/74814186.cms",
 			"source2": "",
 			"source3": "",
-			"statecode": "CG",
+			"statecode": "CT",
 			"statepatientnumber": "CH-P2",
 			"statuschangedate": "25/03/2020",
 			"typeoftransmission": "Imported"
@@ -14119,7 +14119,7 @@
 			"source1": " https://timesofindia.indiatimes.com/city/raipur/two-more-positive-cases-reported-in-chhattisgarh-taking-total-number-of-covid-19-to-3-in-state/articleshow/74814186.cms",
 			"source2": "",
 			"source3": "",
-			"statecode": "CG",
+			"statecode": "CT",
 			"statepatientnumber": "CH-P3",
 			"statuschangedate": "25/03/2020",
 			"typeoftransmission": "Imported"
@@ -14207,7 +14207,7 @@
 			"source1": "https://twitter.com/TelanganaHealth/status/1242852870526922752",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "TS-P40",
 			"statuschangedate": "25/03/2020",
 			"typeoftransmission": "Local"
@@ -14229,7 +14229,7 @@
 			"source1": "https://twitter.com/TelanganaHealth/status/1242852870526922752",
 			"source2": "https://www.ndtv.com/hyderabad-news/covid-19-three-year-old-boy-in-hyderabad-tests-positive-for-coronavirus-2200789",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "TS-P41",
 			"statuschangedate": "25/03/2020",
 			"typeoftransmission": "Imported"
@@ -14647,7 +14647,7 @@
 			"source1": "https://twitter.com/ANI/status/1243045523575025665",
 			"source2": "",
 			"source3": "",
-			"statecode": "CG",
+			"statecode": "CT",
 			"statepatientnumber": "",
 			"statuschangedate": "26/03/2020",
 			"typeoftransmission": "TBD"
@@ -14669,7 +14669,7 @@
 			"source1": "https://twitter.com/ANI/status/1243045523575025665",
 			"source2": "",
 			"source3": "",
-			"statecode": "CG",
+			"statecode": "CT",
 			"statepatientnumber": "",
 			"statuschangedate": "26/03/2020",
 			"typeoftransmission": "TBD"
@@ -14691,7 +14691,7 @@
 			"source1": "https://twitter.com/ANI/status/1243045523575025665",
 			"source2": "",
 			"source3": "",
-			"statecode": "CG",
+			"statecode": "CT",
 			"statepatientnumber": "",
 			"statuschangedate": "26/03/2020",
 			"typeoftransmission": "TBD"
@@ -14999,7 +14999,7 @@
 			"source1": "https://twitter.com/TelanganaHealth/status/1243093796797198336",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "TS-P42",
 			"statuschangedate": "26/03/2020",
 			"typeoftransmission": "Local"
@@ -15021,7 +15021,7 @@
 			"source1": "https://twitter.com/TelanganaHealth/status/1243093796797198336",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "TS-P43",
 			"statuschangedate": "26/03/2020",
 			"typeoftransmission": "Local"
@@ -15043,7 +15043,7 @@
 			"source1": "https://twitter.com/TelanganaHealth/status/1243093796797198336",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "TS-P44",
 			"statuschangedate": "26/03/2020",
 			"typeoftransmission": "Local"
@@ -15857,7 +15857,7 @@
 			"source1": "https://twitter.com/HFWOdisha/status/1243198105148768263",
 			"source2": "https://twitter.com/HFWOdisha/status/1243203975442075650",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "OR",
 			"statepatientnumber": "",
 			"statuschangedate": "26/03/2020",
 			"typeoftransmission": "TBD"
@@ -15901,7 +15901,7 @@
 			"source1": "https://twitter.com/IPRTelangana/status/1243206861140049920/photo/2",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "TS-P45",
 			"statuschangedate": "27/03/2020",
 			"typeoftransmission": "Local"
@@ -17265,7 +17265,7 @@
 			"source1": "https://twitter.com/PTI_News/status/1243503417445609472",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "",
 			"statuschangedate": "27/03/2020",
 			"typeoftransmission": "TBD"
@@ -17287,7 +17287,7 @@
 			"source1": "https://twitter.com/PTI_News/status/1243503417445609472",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "",
 			"statuschangedate": "27/03/2020",
 			"typeoftransmission": "TBD"
@@ -17309,7 +17309,7 @@
 			"source1": "https://twitter.com/PTI_News/status/1243503417445609472",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "",
 			"statuschangedate": "27/03/2020",
 			"typeoftransmission": "TBD"
@@ -17331,7 +17331,7 @@
 			"source1": "https://twitter.com/PTI_News/status/1243503417445609472",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "",
 			"statuschangedate": "27/03/2020",
 			"typeoftransmission": "TBD"
@@ -17353,7 +17353,7 @@
 			"source1": "https://twitter.com/PTI_News/status/1243503417445609472",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "",
 			"statuschangedate": "27/03/2020",
 			"typeoftransmission": "TBD"
@@ -17375,7 +17375,7 @@
 			"source1": "https://twitter.com/PTI_News/status/1243503417445609472",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "",
 			"statuschangedate": "27/03/2020",
 			"typeoftransmission": "TBD"
@@ -17397,7 +17397,7 @@
 			"source1": "https://twitter.com/PTI_News/status/1243503417445609472",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "",
 			"statuschangedate": "27/03/2020",
 			"typeoftransmission": "TBD"
@@ -17419,7 +17419,7 @@
 			"source1": "https://twitter.com/PTI_News/status/1243503417445609472",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "",
 			"statuschangedate": "27/03/2020",
 			"typeoftransmission": "TBD"
@@ -17441,7 +17441,7 @@
 			"source1": "https://twitter.com/PTI_News/status/1243503417445609472",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "",
 			"statuschangedate": "27/03/2020",
 			"typeoftransmission": "TBD"
@@ -17463,7 +17463,7 @@
 			"source1": "https://twitter.com/PTI_News/status/1243503417445609472",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "",
 			"statuschangedate": "27/03/2020",
 			"typeoftransmission": "TBD"
@@ -17485,7 +17485,7 @@
 			"source1": "https://twitter.com/PTI_News/status/1243503417445609472",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "",
 			"statuschangedate": "27/03/2020",
 			"typeoftransmission": "TBD"
@@ -17507,7 +17507,7 @@
 			"source1": "https://twitter.com/PTI_News/status/1243503417445609472",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "",
 			"statuschangedate": "27/03/2020",
 			"typeoftransmission": "TBD"
@@ -17529,7 +17529,7 @@
 			"source1": "https://twitter.com/PTI_News/status/1243503417445609472",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "",
 			"statuschangedate": "27/03/2020",
 			"typeoftransmission": "TBD"
@@ -17551,7 +17551,7 @@
 			"source1": "https://twitter.com/PTI_News/status/1243503417445609472",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "",
 			"statuschangedate": "27/03/2020",
 			"typeoftransmission": "TBD"
@@ -20257,7 +20257,7 @@
 			"source1": "https://twitter.com/ANI/status/1243830123524009985",
 			"source2": "https://www.hindustantimes.com/india-news/sixth-covid-19-cases-in-uttarkhand-dubai-returned-youth-turns-positive/story-6VrDdrgm8PDCosK7F3kGzJ.html",
 			"source3": "",
-			"statecode": "UK",
+			"statecode": "UT",
 			"statepatientnumber": "",
 			"statuschangedate": "28/03/2020",
 			"typeoftransmission": "Imported"
@@ -20807,7 +20807,7 @@
 			"source1": "https://twitter.com/ANI/status/1243896303781740550",
 			"source2": "https://www.livemint.com/news/india/family-of-six-tests-positive-for-covid-19-in-hyderabad-11585398131237.html",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "",
 			"statuschangedate": "28/03/2020",
 			"typeoftransmission": "Local"
@@ -20829,7 +20829,7 @@
 			"source1": "https://twitter.com/ANI/status/1243896303781740550",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "",
 			"statuschangedate": "28/03/2020",
 			"typeoftransmission": "TBD"
@@ -20851,7 +20851,7 @@
 			"source1": "https://twitter.com/ANI/status/1243896303781740550",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "",
 			"statuschangedate": "28/03/2020",
 			"typeoftransmission": "TBD"
@@ -20873,7 +20873,7 @@
 			"source1": "https://twitter.com/ANI/status/1243896303781740550",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "",
 			"statuschangedate": "28/03/2020",
 			"typeoftransmission": "TBD"
@@ -20895,7 +20895,7 @@
 			"source1": "https://twitter.com/ANI/status/1243896303781740550",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "",
 			"statuschangedate": "28/03/2020",
 			"typeoftransmission": "TBD"
@@ -20917,7 +20917,7 @@
 			"source1": "https://twitter.com/ANI/status/1243896303781740550",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "",
 			"statuschangedate": "28/03/2020",
 			"typeoftransmission": "TBD"
@@ -20939,7 +20939,7 @@
 			"source1": "https://twitter.com/PTI_News/status/1243893271971037185",
 			"source2": "",
 			"source3": "",
-			"statecode": "CG",
+			"statecode": "CT",
 			"statepatientnumber": "",
 			"statuschangedate": "28/03/2020",
 			"typeoftransmission": "Imported"
@@ -22215,7 +22215,7 @@
 			"source1": "https://twitter.com/TelanganaHealth/status/1243944898329317377",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "",
 			"statuschangedate": "28/03/2020",
 			"typeoftransmission": "TBD"
@@ -22237,7 +22237,7 @@
 			"source1": "https://twitter.com/TelanganaHealth/status/1243944898329317377",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "",
 			"statuschangedate": "28/03/2020",
 			"typeoftransmission": "TBD"
@@ -23887,7 +23887,7 @@
 			"source1": "https://twitter.com/ANI/status/1244257388812591106",
 			"source2": "",
 			"source3": "",
-			"statecode": "UK",
+			"statecode": "UT",
 			"statepatientnumber": "",
 			"statuschangedate": "29/03/2020",
 			"typeoftransmission": "TBD"
@@ -24943,7 +24943,7 @@
 			"source1": "https://www.business-standard.com/article/pti-stories/three-fresh-covid-19-cases-in-telangana-total-rises-to-70-120032901069_1.html",
 			"source2": "https://twitter.com/TOIHyderabad/status/1244293879580577792?s=19",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "",
 			"statuschangedate": "29/03/2020",
 			"typeoftransmission": "TBD"
@@ -24965,7 +24965,7 @@
 			"source1": "https://www.business-standard.com/article/pti-stories/three-fresh-covid-19-cases-in-telangana-total-rises-to-70-120032901069_1.html",
 			"source2": "https://twitter.com/TOIHyderabad/status/1244293879580577792?s=19",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "",
 			"statuschangedate": "29/03/2020",
 			"typeoftransmission": "TBD"
@@ -24987,7 +24987,7 @@
 			"source1": "https://www.business-standard.com/article/pti-stories/three-fresh-covid-19-cases-in-telangana-total-rises-to-70-120032901069_1.html",
 			"source2": "https://twitter.com/TOIHyderabad/status/1244293879580577792?s=19",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "",
 			"statuschangedate": "29/03/2020",
 			"typeoftransmission": "TBD"
@@ -28793,7 +28793,7 @@
 			"source1": "https://twitter.com/TelanganaHealth/status/1244652635736559616",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "",
 			"statuschangedate": "30/03/2020",
 			"typeoftransmission": "TBD"
@@ -28815,7 +28815,7 @@
 			"source1": "https://twitter.com/TelanganaHealth/status/1244652635736559616",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "",
 			"statuschangedate": "30/03/2020",
 			"typeoftransmission": "TBD"
@@ -28837,7 +28837,7 @@
 			"source1": "https://twitter.com/TelanganaHealth/status/1244652635736559616",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "",
 			"statuschangedate": "30/03/2020",
 			"typeoftransmission": "TBD"
@@ -28859,7 +28859,7 @@
 			"source1": "https://twitter.com/TelanganaHealth/status/1244652635736559616",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "",
 			"statuschangedate": "30/03/2020",
 			"typeoftransmission": "TBD"
@@ -28881,7 +28881,7 @@
 			"source1": "https://twitter.com/TelanganaHealth/status/1244652635736559616",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "",
 			"statuschangedate": "30/03/2020",
 			"typeoftransmission": "TBD"
@@ -28903,7 +28903,7 @@
 			"source1": "https://twitter.com/TelanganaHealth/status/1244652635736559616",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "",
 			"statuschangedate": "30/03/2020",
 			"typeoftransmission": "TBD"
@@ -28925,7 +28925,7 @@
 			"source1": "https://twitter.com/TelanganaHealth/status/1244652635736559616",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "",
 			"statuschangedate": "30/03/2020",
 			"typeoftransmission": "TBD"
@@ -29629,7 +29629,7 @@
 			"source1": "https://twitter.com/ANI/status/1244696919902806016",
 			"source2": "https://twitter.com/PTI_News/status/1244835778431078401",
 			"source3": "",
-			"statecode": "CG",
+			"statecode": "CT",
 			"statepatientnumber": "",
 			"statuschangedate": "30/03/2020",
 			"typeoftransmission": "TBD"
@@ -34447,7 +34447,7 @@
 			"source1": "https://twitter.com/ANI/status/1245006827042955264",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "",
 			"statuschangedate": "31/03/2020",
 			"typeoftransmission": "TBD"
@@ -34469,7 +34469,7 @@
 			"source1": "https://twitter.com/ANI/status/1245006827042955264",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "",
 			"statuschangedate": "31/03/2020",
 			"typeoftransmission": "TBD"
@@ -34491,7 +34491,7 @@
 			"source1": "https://twitter.com/ANI/status/1245006827042955264",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "",
 			"statuschangedate": "31/03/2020",
 			"typeoftransmission": "TBD"
@@ -34513,7 +34513,7 @@
 			"source1": "https://twitter.com/ANI/status/1245006827042955264",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "",
 			"statuschangedate": "31/03/2020",
 			"typeoftransmission": "TBD"
@@ -34535,7 +34535,7 @@
 			"source1": "https://twitter.com/ANI/status/1245006827042955264",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "",
 			"statuschangedate": "31/03/2020",
 			"typeoftransmission": "TBD"
@@ -34557,7 +34557,7 @@
 			"source1": "https://twitter.com/ANI/status/1245006827042955264",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "",
 			"statuschangedate": "31/03/2020",
 			"typeoftransmission": "TBD"
@@ -34579,7 +34579,7 @@
 			"source1": "https://twitter.com/ANI/status/1245006827042955264",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "",
 			"statuschangedate": "31/03/2020",
 			"typeoftransmission": "TBD"
@@ -34601,7 +34601,7 @@
 			"source1": "https://twitter.com/ANI/status/1245006827042955264",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "",
 			"statuschangedate": "31/03/2020",
 			"typeoftransmission": "TBD"
@@ -34623,7 +34623,7 @@
 			"source1": "https://twitter.com/ANI/status/1245006827042955264",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "",
 			"statuschangedate": "31/03/2020",
 			"typeoftransmission": "TBD"
@@ -34645,7 +34645,7 @@
 			"source1": "https://twitter.com/ANI/status/1245006827042955264",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "",
 			"statuschangedate": "31/03/2020",
 			"typeoftransmission": "TBD"
@@ -34667,7 +34667,7 @@
 			"source1": "https://twitter.com/ANI/status/1245006827042955264",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "",
 			"statuschangedate": "31/03/2020",
 			"typeoftransmission": "TBD"
@@ -34689,7 +34689,7 @@
 			"source1": "https://twitter.com/ANI/status/1245006827042955264",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "",
 			"statuschangedate": "31/03/2020",
 			"typeoftransmission": "TBD"
@@ -34711,7 +34711,7 @@
 			"source1": "https://twitter.com/ANI/status/1245006827042955264",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "",
 			"statuschangedate": "31/03/2020",
 			"typeoftransmission": "TBD"
@@ -34733,7 +34733,7 @@
 			"source1": "https://twitter.com/ANI/status/1245006827042955264",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "",
 			"statuschangedate": "31/03/2020",
 			"typeoftransmission": "TBD"
@@ -34755,7 +34755,7 @@
 			"source1": "https://twitter.com/ANI/status/1245006827042955264",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "",
 			"statuschangedate": "31/03/2020",
 			"typeoftransmission": "TBD"
@@ -35393,7 +35393,7 @@
 			"source1": "https://twitter.com/ANI/status/1245025227098083329",
 			"source2": "",
 			"source3": "",
-			"statecode": "CG",
+			"statecode": "CT",
 			"statepatientnumber": "",
 			"statuschangedate": "31/03/2020",
 			"typeoftransmission": "Imported"
@@ -35503,7 +35503,7 @@
 			"source1": "https://twitter.com/HFWOdisha/status/1245032124127645698",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "OR",
 			"statepatientnumber": "",
 			"statuschangedate": "31/03/2020",
 			"typeoftransmission": "Imported"
@@ -36493,7 +36493,7 @@
 			"source1": "https://www.newindianexpress.com/states/tamil-nadu/2020/apr/01/two-from-puducherry-who-attended-nizamuddin-congregation-test-positive-for-covid-19-2124270.html",
 			"source2": "https://twitter.com/timesofindia/status/1245201501594644480",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "PY",
 			"statepatientnumber": "",
 			"statuschangedate": "01/04/2020",
 			"typeoftransmission": "TBD"
@@ -36515,7 +36515,7 @@
 			"source1": "https://www.newindianexpress.com/states/tamil-nadu/2020/apr/01/two-from-puducherry-who-attended-nizamuddin-congregation-test-positive-for-covid-19-2124270.html",
 			"source2": "https://twitter.com/timesofindia/status/1245201501594644480",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "PY",
 			"statepatientnumber": "",
 			"statuschangedate": "01/04/2020",
 			"typeoftransmission": "TBD"
@@ -38297,7 +38297,7 @@
 			"source1": "https://covid19.telangana.gov.in/wp-content/uploads/2020/04/Telangana-Health-Department-Press-Note-31-March.pdf",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "",
 			"statuschangedate": "01/04/2020",
 			"typeoftransmission": ""
@@ -38319,7 +38319,7 @@
 			"source1": "https://covid19.telangana.gov.in/wp-content/uploads/2020/04/Telangana-Health-Department-Press-Note-31-March.pdf",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "",
 			"statuschangedate": "01/04/2020",
 			"typeoftransmission": ""
@@ -38341,7 +38341,7 @@
 			"source1": "https://covid19.telangana.gov.in/wp-content/uploads/2020/04/Telangana-Health-Department-Press-Note-31-March.pdf",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "",
 			"statuschangedate": "01/04/2020",
 			"typeoftransmission": ""
@@ -38363,7 +38363,7 @@
 			"source1": "https://covid19.telangana.gov.in/wp-content/uploads/2020/04/Telangana-Health-Department-Press-Note-31-March.pdf",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "",
 			"statuschangedate": "01/04/2020",
 			"typeoftransmission": ""
@@ -38385,7 +38385,7 @@
 			"source1": "https://covid19.telangana.gov.in/wp-content/uploads/2020/04/Telangana-Health-Department-Press-Note-31-March.pdf",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "",
 			"statuschangedate": "01/04/2020",
 			"typeoftransmission": ""
@@ -44281,7 +44281,7 @@
 			"source1": "https://twitter.com/HFWOdisha/status/1245409739195834369?s=19",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "OR",
 			"statepatientnumber": "",
 			"statuschangedate": "01/04/2020",
 			"typeoftransmission": ""
@@ -44413,7 +44413,7 @@
 			"source1": "https://twitter.com/Eatala_Rajender/status/1245425932929617921",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "",
 			"statuschangedate": "01/04/2020",
 			"typeoftransmission": ""
@@ -44435,7 +44435,7 @@
 			"source1": "https://twitter.com/Eatala_Rajender/status/1245425932929617921",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "",
 			"statuschangedate": "01/04/2020",
 			"typeoftransmission": ""
@@ -44457,7 +44457,7 @@
 			"source1": "https://twitter.com/Eatala_Rajender/status/1245425932929617921",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "",
 			"statuschangedate": "01/04/2020",
 			"typeoftransmission": ""
@@ -44479,7 +44479,7 @@
 			"source1": "https://twitter.com/Eatala_Rajender/status/1245425932929617921",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "",
 			"statuschangedate": "01/04/2020",
 			"typeoftransmission": ""
@@ -44501,7 +44501,7 @@
 			"source1": "https://twitter.com/Eatala_Rajender/status/1245425932929617921",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "",
 			"statuschangedate": "01/04/2020",
 			"typeoftransmission": ""
@@ -44523,7 +44523,7 @@
 			"source1": "https://twitter.com/Eatala_Rajender/status/1245425932929617921",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "",
 			"statuschangedate": "01/04/2020",
 			"typeoftransmission": ""
@@ -44545,7 +44545,7 @@
 			"source1": "https://twitter.com/Eatala_Rajender/status/1245425932929617921",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "",
 			"statuschangedate": "01/04/2020",
 			"typeoftransmission": ""
@@ -44567,7 +44567,7 @@
 			"source1": "https://twitter.com/Eatala_Rajender/status/1245425932929617921",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "",
 			"statuschangedate": "01/04/2020",
 			"typeoftransmission": ""
@@ -44589,7 +44589,7 @@
 			"source1": "https://twitter.com/Eatala_Rajender/status/1245425932929617921",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "",
 			"statuschangedate": "01/04/2020",
 			"typeoftransmission": ""
@@ -44611,7 +44611,7 @@
 			"source1": "https://twitter.com/Eatala_Rajender/status/1245425932929617921",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "",
 			"statuschangedate": "01/04/2020",
 			"typeoftransmission": ""
@@ -44633,7 +44633,7 @@
 			"source1": "https://twitter.com/Eatala_Rajender/status/1245425932929617921",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "",
 			"statuschangedate": "01/04/2020",
 			"typeoftransmission": ""
@@ -44655,7 +44655,7 @@
 			"source1": "https://twitter.com/Eatala_Rajender/status/1245425932929617921",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "",
 			"statuschangedate": "01/04/2020",
 			"typeoftransmission": ""
@@ -44677,7 +44677,7 @@
 			"source1": "https://twitter.com/Eatala_Rajender/status/1245425932929617921",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "",
 			"statuschangedate": "01/04/2020",
 			"typeoftransmission": ""
@@ -44699,7 +44699,7 @@
 			"source1": "https://twitter.com/Eatala_Rajender/status/1245425932929617921",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "",
 			"statuschangedate": "01/04/2020",
 			"typeoftransmission": ""
@@ -44721,7 +44721,7 @@
 			"source1": "https://twitter.com/Eatala_Rajender/status/1245425932929617921",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "",
 			"statuschangedate": "01/04/2020",
 			"typeoftransmission": ""
@@ -44743,7 +44743,7 @@
 			"source1": "https://twitter.com/Eatala_Rajender/status/1245425932929617921",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "",
 			"statuschangedate": "01/04/2020",
 			"typeoftransmission": ""
@@ -44765,7 +44765,7 @@
 			"source1": "https://twitter.com/Eatala_Rajender/status/1245425932929617921",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "",
 			"statuschangedate": "01/04/2020",
 			"typeoftransmission": ""
@@ -44787,7 +44787,7 @@
 			"source1": "https://twitter.com/Eatala_Rajender/status/1245425932929617921",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "",
 			"statuschangedate": "01/04/2020",
 			"typeoftransmission": ""
@@ -44809,7 +44809,7 @@
 			"source1": "https://twitter.com/Eatala_Rajender/status/1245425932929617921",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "",
 			"statuschangedate": "01/04/2020",
 			"typeoftransmission": ""
@@ -44831,7 +44831,7 @@
 			"source1": "https://twitter.com/Eatala_Rajender/status/1245425932929617921",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "",
 			"statuschangedate": "01/04/2020",
 			"typeoftransmission": ""
@@ -44853,7 +44853,7 @@
 			"source1": "https://twitter.com/Eatala_Rajender/status/1245425932929617921",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "",
 			"statuschangedate": "01/04/2020",
 			"typeoftransmission": ""
@@ -44875,7 +44875,7 @@
 			"source1": "https://twitter.com/Eatala_Rajender/status/1245425932929617921",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "",
 			"statuschangedate": "01/04/2020",
 			"typeoftransmission": ""
@@ -44897,7 +44897,7 @@
 			"source1": "https://twitter.com/Eatala_Rajender/status/1245425932929617921",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "",
 			"statuschangedate": "01/04/2020",
 			"typeoftransmission": ""
@@ -44919,7 +44919,7 @@
 			"source1": "https://twitter.com/Eatala_Rajender/status/1245425932929617921",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "",
 			"statuschangedate": "01/04/2020",
 			"typeoftransmission": ""
@@ -44941,7 +44941,7 @@
 			"source1": "https://twitter.com/Eatala_Rajender/status/1245425932929617921",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "",
 			"statuschangedate": "01/04/2020",
 			"typeoftransmission": ""
@@ -44963,7 +44963,7 @@
 			"source1": "https://twitter.com/Eatala_Rajender/status/1245425932929617921",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "",
 			"statuschangedate": "01/04/2020",
 			"typeoftransmission": ""
@@ -44985,7 +44985,7 @@
 			"source1": "https://twitter.com/Eatala_Rajender/status/1245425932929617921",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "",
 			"statuschangedate": "01/04/2020",
 			"typeoftransmission": ""
@@ -45007,7 +45007,7 @@
 			"source1": "https://twitter.com/Eatala_Rajender/status/1245425932929617921",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "",
 			"statuschangedate": "01/04/2020",
 			"typeoftransmission": ""
@@ -45029,7 +45029,7 @@
 			"source1": "https://twitter.com/Eatala_Rajender/status/1245425932929617921",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "",
 			"statuschangedate": "01/04/2020",
 			"typeoftransmission": ""
@@ -45051,7 +45051,7 @@
 			"source1": "https://twitter.com/Eatala_Rajender/status/1245425932929617921",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "",
 			"statuschangedate": "01/04/2020",
 			"typeoftransmission": ""
@@ -54665,7 +54665,7 @@
 			"source1": "https://twitter.com/ANI/status/1245741477960929287?s=19",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "",
 			"statuschangedate": "02/04/2020",
 			"typeoftransmission": ""
@@ -54687,7 +54687,7 @@
 			"source1": "https://twitter.com/ANI/status/1245741477960929287?s=19",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "",
 			"statuschangedate": "02/04/2020",
 			"typeoftransmission": ""
@@ -54709,7 +54709,7 @@
 			"source1": "https://twitter.com/ANI/status/1245741477960929287?s=19",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "",
 			"statuschangedate": "02/04/2020",
 			"typeoftransmission": ""
@@ -54731,7 +54731,7 @@
 			"source1": "https://twitter.com/ANI/status/1245741477960929287?s=19",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "",
 			"statuschangedate": "02/04/2020",
 			"typeoftransmission": ""
@@ -54753,7 +54753,7 @@
 			"source1": "https://twitter.com/ANI/status/1245741477960929287?s=19",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "",
 			"statuschangedate": "02/04/2020",
 			"typeoftransmission": ""
@@ -54775,7 +54775,7 @@
 			"source1": "https://twitter.com/ANI/status/1245741477960929287?s=19",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "",
 			"statuschangedate": "02/04/2020",
 			"typeoftransmission": ""
@@ -54797,7 +54797,7 @@
 			"source1": "https://twitter.com/ANI/status/1245741477960929287?s=19",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "",
 			"statuschangedate": "02/04/2020",
 			"typeoftransmission": ""
@@ -54819,7 +54819,7 @@
 			"source1": "https://twitter.com/ANI/status/1245741477960929287?s=19",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "",
 			"statuschangedate": "02/04/2020",
 			"typeoftransmission": ""
@@ -54841,7 +54841,7 @@
 			"source1": "https://twitter.com/ANI/status/1245741477960929287?s=19",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "",
 			"statuschangedate": "02/04/2020",
 			"typeoftransmission": ""
@@ -54863,7 +54863,7 @@
 			"source1": "https://twitter.com/ANI/status/1245741477960929287?s=19",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "",
 			"statuschangedate": "02/04/2020",
 			"typeoftransmission": ""
@@ -54885,7 +54885,7 @@
 			"source1": "https://twitter.com/ANI/status/1245741477960929287?s=19",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "",
 			"statuschangedate": "02/04/2020",
 			"typeoftransmission": ""
@@ -54907,7 +54907,7 @@
 			"source1": "https://twitter.com/ANI/status/1245741477960929287?s=19",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "",
 			"statuschangedate": "02/04/2020",
 			"typeoftransmission": ""
@@ -54929,7 +54929,7 @@
 			"source1": "https://twitter.com/ANI/status/1245741477960929287?s=19",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "",
 			"statuschangedate": "02/04/2020",
 			"typeoftransmission": ""
@@ -54951,7 +54951,7 @@
 			"source1": "https://twitter.com/ANI/status/1245741477960929287?s=19",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "",
 			"statuschangedate": "02/04/2020",
 			"typeoftransmission": ""
@@ -54973,7 +54973,7 @@
 			"source1": "https://twitter.com/ANI/status/1245741477960929287?s=19",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "",
 			"statuschangedate": "02/04/2020",
 			"typeoftransmission": ""
@@ -54995,7 +54995,7 @@
 			"source1": "https://twitter.com/ANI/status/1245741477960929287?s=19",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "",
 			"statuschangedate": "02/04/2020",
 			"typeoftransmission": ""
@@ -55017,7 +55017,7 @@
 			"source1": "https://twitter.com/ANI/status/1245741477960929287?s=19",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "",
 			"statuschangedate": "02/04/2020",
 			"typeoftransmission": ""
@@ -55039,7 +55039,7 @@
 			"source1": "https://twitter.com/ANI/status/1245741477960929287?s=19",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "",
 			"statuschangedate": "02/04/2020",
 			"typeoftransmission": ""
@@ -55061,7 +55061,7 @@
 			"source1": "https://twitter.com/ANI/status/1245741477960929287?s=19",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "",
 			"statuschangedate": "02/04/2020",
 			"typeoftransmission": ""
@@ -55083,7 +55083,7 @@
 			"source1": "https://twitter.com/ANI/status/1245741477960929287?s=19",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "",
 			"statuschangedate": "02/04/2020",
 			"typeoftransmission": ""
@@ -55105,7 +55105,7 @@
 			"source1": "https://twitter.com/ANI/status/1245741477960929287?s=19",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "",
 			"statuschangedate": "02/04/2020",
 			"typeoftransmission": ""
@@ -55127,7 +55127,7 @@
 			"source1": "https://twitter.com/ANI/status/1245741477960929287?s=19",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "",
 			"statuschangedate": "02/04/2020",
 			"typeoftransmission": ""
@@ -55149,7 +55149,7 @@
 			"source1": "https://twitter.com/ANI/status/1245741477960929287?s=19",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "",
 			"statuschangedate": "02/04/2020",
 			"typeoftransmission": ""
@@ -55171,7 +55171,7 @@
 			"source1": "https://twitter.com/ANI/status/1245741477960929287?s=19",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "",
 			"statuschangedate": "02/04/2020",
 			"typeoftransmission": ""
@@ -55193,7 +55193,7 @@
 			"source1": "https://twitter.com/ANI/status/1245741477960929287?s=19",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "",
 			"statuschangedate": "02/04/2020",
 			"typeoftransmission": ""
@@ -55215,7 +55215,7 @@
 			"source1": "https://twitter.com/ANI/status/1245741477960929287?s=19",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "",
 			"statuschangedate": "02/04/2020",
 			"typeoftransmission": ""
@@ -55237,7 +55237,7 @@
 			"source1": "https://twitter.com/ANI/status/1245741477960929287?s=19",
 			"source2": "",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "TG",
 			"statepatientnumber": "",
 			"statuschangedate": "02/04/2020",
 			"typeoftransmission": ""
@@ -55743,7 +55743,7 @@
 			"source1": "https://twitter.com/ANI/status/1245762707069927424",
 			"source2": "",
 			"source3": "",
-			"statecode": "UK",
+			"statecode": "UT",
 			"statepatientnumber": "",
 			"statuschangedate": "02/04/2020",
 			"typeoftransmission": ""
@@ -55765,7 +55765,7 @@
 			"source1": "https://twitter.com/ANI/status/1245762707069927424",
 			"source2": "",
 			"source3": "",
-			"statecode": "UK",
+			"statecode": "UT",
 			"statepatientnumber": "",
 			"statuschangedate": "02/04/2020",
 			"typeoftransmission": ""
@@ -55787,7 +55787,7 @@
 			"source1": "https://twitter.com/ANI/status/1245762707069927424",
 			"source2": "",
 			"source3": "",
-			"statecode": "UK",
+			"statecode": "UT",
 			"statepatientnumber": "",
 			"statuschangedate": "02/04/2020",
 			"typeoftransmission": ""
@@ -55919,7 +55919,7 @@
 			"source1": "https://www.jipmer.edu.in/novel-corona-virus",
 			"source2": "https://www.newindianexpress.com/states/tamil-nadu/2020/apr/02/kin-of-covid-19-patient-who-went-to-tablighi-meet-in-delhi-tests-positive-in-puducherry-2124897.html",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "PY",
 			"statepatientnumber": "",
 			"statuschangedate": "02/04/2020",
 			"typeoftransmission": ""
@@ -55941,7 +55941,7 @@
 			"source1": "https://www.jipmer.edu.in/novel-corona-virus",
 			"source2": "https://timesofindia.indiatimes.com/city/puducherry/covid-19-two-more-test-positive-in-puducherry/articleshow/74953118.cms",
 			"source3": "",
-			"statecode": "#N/A",
+			"statecode": "PY",
 			"statepatientnumber": "",
 			"statuschangedate": "02/04/2020",
 			"typeoftransmission": ""
