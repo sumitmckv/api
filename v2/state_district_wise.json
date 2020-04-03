@@ -501,7 +501,7 @@
       },
       {
         "district": "Jaunpur",
-        "confirmed": 1,
+        "confirmed": 3,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1930,7 +1930,7 @@
     "districtData": [
       {
         "district": "Unknown",
-        "confirmed": 469,
+        "confirmed": 467,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0

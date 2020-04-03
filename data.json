@@ -568,11 +568,11 @@
 			"totalrecovered": "169"
 		},
 		{
-			"dailyconfirmed": "484",
+			"dailyconfirmed": "486",
 			"dailydeceased": "16",
 			"dailyrecovered": "22",
 			"date": "02 April ",
-			"totalconfirmed": "2543",
+			"totalconfirmed": "2545",
 			"totaldeceased": "72",
 			"totalrecovered": "191"
 		}
@@ -589,8 +589,8 @@
 	],
 	"statewise": [
 		{
-			"active": "2280",
-			"confirmed": "2543",
+			"active": "2282",
+			"confirmed": "2545",
 			"deaths": "72",
 			"delta": {
 				"active": 0,
@@ -673,8 +673,8 @@
 			"state": "Rajasthan"
 		},
 		{
-			"active": "107",
-			"confirmed": "126",
+			"active": "109",
+			"confirmed": "128",
 			"deaths": "2",
 			"delta": {
 				"active": 0,

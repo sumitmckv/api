@@ -1,9 +1,5 @@
 [
   {
-    "update": "8 new cases in Assam\n",
-    "timestamp": 1585755622
-  },
-  {
     "update": "24 new cases in Andhra Pradesh\n",
     "timestamp": 1585760020
   },
@@ -198,5 +194,9 @@
   {
     "update": "5 new cases in Uttar Pradesh\n2 new cases in Puducherry\n",
     "timestamp": 1585861735
+  },
+  {
+    "update": "2 new cases in Uttar Pradesh\n",
+    "timestamp": 1585884092
   }
 ]
