@@ -1075,10 +1075,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 11,
+        "confirmed": 13,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 4
+          "confirmed": 6
         }
       },
       "Ludhiana": {
@@ -1767,10 +1767,10 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 38,
+        "confirmed": 36,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 36
+          "confirmed": 34
         }
       }
     }

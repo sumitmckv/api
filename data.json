@@ -579,7 +579,7 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "429",
+			"confirmeddelta": "431",
 			"counterforautotimeupdate": "645",
 			"deceaseddelta": "5",
 			"lastupdatedtime": "03/04/2020 20:27:25",
@@ -589,16 +589,16 @@
 	],
 	"statewise": [
 		{
-			"active": "2676",
-			"confirmed": "2974",
+			"active": "2678",
+			"confirmed": "2976",
 			"deaths": "77",
 			"delta": {
-				"active": 429,
-				"confirmed": 429,
+				"active": 431,
+				"confirmed": 431,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"deltaconfirmed": "429",
+			"deltaconfirmed": "431",
 			"deltadeaths": "5",
 			"deltarecovered": "30",
 			"lastupdatedtime": "03/04/2020 20:27:25",
@@ -859,16 +859,16 @@
 			"statecode": "WB"
 		},
 		{
-			"active": "45",
-			"confirmed": "51",
+			"active": "47",
+			"confirmed": "53",
 			"deaths": "5",
 			"delta": {
-				"active": 4,
-				"confirmed": 4,
+				"active": 6,
+				"confirmed": 6,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"deltaconfirmed": "4",
+			"deltaconfirmed": "6",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
 			"lastupdatedtime": "02/04/2020 21:02:25",
