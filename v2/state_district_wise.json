@@ -735,7 +735,7 @@
       },
       {
         "district": "Tirupathur",
-        "confirmed": 7,
+        "confirmed": 10,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -744,14 +744,6 @@
       {
         "district": "Thiruvarur",
         "confirmed": 7,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      {
-        "district": "Tirupattur",
-        "confirmed": 3,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
