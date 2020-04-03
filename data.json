@@ -582,7 +582,7 @@
 			"confirmeddelta": "95",
 			"counterforautotimeupdate": "645",
 			"deceaseddelta": "1",
-			"lastupdatedtime": "03/04/2020 14:22:24",
+			"lastupdatedtime": "03/04/2020 14:27:24",
 			"recovereddelta": "1",
 			"statesdelta": "0"
 		}
@@ -598,7 +598,7 @@
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "03/04/2020 14:22:24",
+			"lastupdatedtime": "03/04/2020 14:27:24",
 			"recovered": "192",
 			"state": "Total",
 			"statecode": "TT"
@@ -973,7 +973,7 @@
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "03/04/2020 14:22:26",
+			"lastupdatedtime": "03/04/2020 14:27:25",
 			"recovered": "2",
 			"state": "Odisha",
 			"statecode": "OR"
