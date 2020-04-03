@@ -582,7 +582,7 @@
 			"confirmeddelta": "563",
 			"counterforautotimeupdate": "645",
 			"deceaseddelta": "13",
-			"lastupdatedtime": "03/04/2020 23:57:25",
+			"lastupdatedtime": "04/04/2020 02:52:24",
 			"recovereddelta": "38",
 			"statesdelta": "0"
 		}
@@ -601,7 +601,7 @@
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "03/04/2020 23:57:25",
+			"lastupdatedtime": "04/04/2020 02:52:24",
 			"recovered": "229",
 			"state": "Total",
 			"statecode": "TT"
@@ -799,7 +799,7 @@
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "03/04/2020 21:17:31",
+			"lastupdatedtime": "04/04/2020 02:52:25",
 			"recovered": "10",
 			"state": "Gujarat",
 			"statecode": "GJ"
