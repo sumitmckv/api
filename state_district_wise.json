@@ -980,10 +980,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 73,
+        "confirmed": 83,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 10
         }
       },
       "Sangli": {
@@ -1040,7 +1040,7 @@
   "Punjab": {
     "districtData": {
       "Amritsar": {
-        "confirmed": 5,
+        "confirmed": 6,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 3
@@ -1075,7 +1075,7 @@
         }
       },
       "Unknown": {
-        "confirmed": 7,
+        "confirmed": 6,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1767,10 +1767,10 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 36,
+        "confirmed": 26,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 34
+          "confirmed": 24
         }
       }
     }

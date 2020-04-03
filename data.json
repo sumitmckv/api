@@ -579,9 +579,9 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "431",
+			"confirmeddelta": "461",
 			"counterforautotimeupdate": "645",
-			"deceaseddelta": "5",
+			"deceaseddelta": "6",
 			"lastupdatedtime": "03/04/2020 20:27:25",
 			"recovereddelta": "30",
 			"statesdelta": "0"
@@ -589,17 +589,17 @@
 	],
 	"statewise": [
 		{
-			"active": "2678",
-			"confirmed": "2976",
-			"deaths": "77",
+			"active": "2707",
+			"confirmed": "3006",
+			"deaths": "78",
 			"delta": {
 				"active": 431,
 				"confirmed": 431,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"deltaconfirmed": "431",
-			"deltadeaths": "5",
+			"deltaconfirmed": "461",
+			"deltadeaths": "6",
 			"deltarecovered": "30",
 			"lastupdatedtime": "03/04/2020 20:27:25",
 			"recovered": "221",
@@ -607,8 +607,8 @@
 			"statecode": "TT"
 		},
 		{
-			"active": "360",
-			"confirmed": "423",
+			"active": "390",
+			"confirmed": "453",
 			"deaths": "21",
 			"delta": {
 				"active": 0,
@@ -616,7 +616,7 @@
 				"deaths": 0,
 				"recovered": 0
 			},
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "30",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
 			"lastupdatedtime": "02/04/2020 22:53:15",
@@ -643,9 +643,9 @@
 			"statecode": "TN"
 		},
 		{
-			"active": "372",
+			"active": "371",
 			"confirmed": "384",
-			"deaths": "4",
+			"deaths": "5",
 			"delta": {
 				"active": 91,
 				"confirmed": 91,
@@ -653,7 +653,7 @@
 				"recovered": 0
 			},
 			"deltaconfirmed": "91",
-			"deltadeaths": "0",
+			"deltadeaths": "1",
 			"deltarecovered": "0",
 			"lastupdatedtime": "03/04/2020 17:37:40",
 			"recovered": "8",
