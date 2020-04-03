@@ -579,26 +579,26 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "94",
+			"confirmeddelta": "95",
 			"counterforautotimeupdate": "645",
 			"deceaseddelta": "1",
-			"lastupdatedtime": "03/04/2020 13:12:24",
+			"lastupdatedtime": "03/04/2020 14:22:24",
 			"recovereddelta": "1",
 			"statesdelta": "0"
 		}
 	],
 	"statewise": [
 		{
-			"active": "2374",
-			"confirmed": "2639",
+			"active": "2375",
+			"confirmed": "2640",
 			"deaths": "73",
 			"delta": {
-				"active": 94,
-				"confirmed": 94,
+				"active": 95,
+				"confirmed": 95,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "03/04/2020 13:12:24",
+			"lastupdatedtime": "03/04/2020 14:22:24",
 			"recovered": "192",
 			"state": "Total",
 			"statecode": "TT"
@@ -964,16 +964,16 @@
 			"statecode": "HP"
 		},
 		{
-			"active": "3",
-			"confirmed": "5",
+			"active": "4",
+			"confirmed": "6",
 			"deaths": "0",
 			"delta": {
-				"active": 0,
-				"confirmed": 0,
+				"active": 1,
+				"confirmed": 1,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "03/04/2020 10:22:25",
+			"lastupdatedtime": "03/04/2020 14:22:26",
 			"recovered": "2",
 			"state": "Odisha",
 			"statecode": "OR"

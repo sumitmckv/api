@@ -1343,6 +1343,14 @@
         "delta": {
           "confirmed": 0
         }
+      },
+      {
+        "district": "Cuttack",
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
+        }
       }
     ]
   },
@@ -1946,7 +1954,7 @@
     "districtData": [
       {
         "district": "Unknown",
-        "confirmed": 373,
+        "confirmed": 372,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
