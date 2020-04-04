@@ -590,17 +590,17 @@
 		{
 			"confirmeddelta": "121",
 			"counterforautotimeupdate": "645",
-			"deceaseddelta": "1",
-			"lastupdatedtime": "04/04/2020 16:52:24",
+			"deceaseddelta": "2",
+			"lastupdatedtime": "04/04/2020 17:07:24",
 			"recovereddelta": "0",
 			"statesdelta": "0"
 		}
 	],
 	"statewise": [
 		{
-			"active": "2912",
+			"active": "2911",
 			"confirmed": "3229",
-			"deaths": "87",
+			"deaths": "88",
 			"delta": {
 				"active": 121,
 				"confirmed": 121,
@@ -608,9 +608,9 @@
 				"recovered": 0
 			},
 			"deltaconfirmed": "121",
-			"deltadeaths": "1",
+			"deltadeaths": "2",
 			"deltarecovered": "0",
-			"lastupdatedtime": "04/04/2020 16:52:24",
+			"lastupdatedtime": "04/04/2020 17:07:24",
 			"recovered": "230",
 			"state": "Total",
 			"statecode": "TT"
@@ -760,9 +760,9 @@
 			"statecode": "AP"
 		},
 		{
-			"active": "146",
+			"active": "145",
 			"confirmed": "154",
-			"deaths": "8",
+			"deaths": "9",
 			"delta": {
 				"active": 0,
 				"confirmed": 0,
@@ -770,9 +770,9 @@
 				"recovered": 0
 			},
 			"deltaconfirmed": "0",
-			"deltadeaths": "0",
+			"deltadeaths": "1",
 			"deltarecovered": "0",
-			"lastupdatedtime": "03/04/2020 23:52:32",
+			"lastupdatedtime": "04/04/2020 17:07:25",
 			"recovered": "0",
 			"state": "Madhya Pradesh",
 			"statecode": "MP"
