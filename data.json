@@ -591,7 +591,7 @@
 			"confirmeddelta": "103",
 			"counterforautotimeupdate": "645",
 			"deceaseddelta": "0",
-			"lastupdatedtime": "04/04/2020 14:37:24",
+			"lastupdatedtime": "04/04/2020 15:57:24",
 			"recovereddelta": "0",
 			"statesdelta": "0"
 		}
@@ -610,7 +610,7 @@
 			"deltaconfirmed": "103",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "04/04/2020 14:37:24",
+			"lastupdatedtime": "04/04/2020 15:57:24",
 			"recovered": "229",
 			"state": "Total",
 			"statecode": "TT"
@@ -1024,7 +1024,7 @@
 			"deltaconfirmed": "1",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "31/03/2020 23:07:28",
+			"lastupdatedtime": "04/04/2020 15:57:25",
 			"recovered": "3",
 			"state": "Chhattisgarh",
 			"statecode": "CT"
