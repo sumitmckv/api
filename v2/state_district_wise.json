@@ -1259,10 +1259,10 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 6,
+        "confirmed": 10,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 4
         }
       },
       {
@@ -1635,10 +1635,10 @@
       },
       {
         "district": "Ahmadabad",
-        "confirmed": 38,
+        "confirmed": 43,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 5
         }
       },
       {
@@ -1651,10 +1651,10 @@
       },
       {
         "district": "Gandhinagar",
-        "confirmed": 11,
+        "confirmed": 13,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       {
@@ -1675,10 +1675,10 @@
       },
       {
         "district": "Bhavnagar",
-        "confirmed": 7,
+        "confirmed": 9,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       {
@@ -1706,11 +1706,11 @@
         }
       },
       {
-        "district": "Unknown",
-        "confirmed": 10,
+        "district": "Patan",
+        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 10
+          "confirmed": 1
         }
       }
     ]
@@ -2085,6 +2085,14 @@
         "delta": {
           "confirmed": 1
         }
+      },
+      {
+        "district": "Lakhimpur",
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
+        }
       }
     ]
   },
@@ -2106,7 +2114,7 @@
     "districtData": [
       {
         "district": "Unknown",
-        "confirmed": 619,
+        "confirmed": 614,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
