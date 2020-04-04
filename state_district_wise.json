@@ -456,21 +456,14 @@
   "Uttar Pradesh": {
     "districtData": {
       "Agra": {
-        "confirmed": 9,
+        "confirmed": 10,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       },
-      "Unknown": {
-        "confirmed": 151,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 53
-        }
-      },
       "Ghaziabad": {
-        "confirmed": 3,
+        "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -484,7 +477,7 @@
         }
       },
       "Gautam Buddha Nagar": {
-        "confirmed": 34,
+        "confirmed": 35,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -532,6 +525,20 @@
           "confirmed": 0
         }
       },
+      "Lakhimpur": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      "Shamli": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
       "Meerut": {
         "confirmed": 5,
         "lastupdatedtime": "",
@@ -544,6 +551,13 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      "Unknown": {
+        "confirmed": 145,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 53
         }
       }
     }

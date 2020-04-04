@@ -525,23 +525,15 @@
     "districtData": [
       {
         "district": "Agra",
-        "confirmed": 9,
+        "confirmed": 10,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       },
       {
-        "district": "Unknown",
-        "confirmed": 151,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 53
-        }
-      },
-      {
         "district": "Ghaziabad",
-        "confirmed": 3,
+        "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -557,7 +549,7 @@
       },
       {
         "district": "Gautam Buddha Nagar",
-        "confirmed": 34,
+        "confirmed": 35,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -612,6 +604,22 @@
         }
       },
       {
+        "district": "Lakhimpur",
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      {
+        "district": "Shamli",
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      {
         "district": "Meerut",
         "confirmed": 5,
         "lastupdatedtime": "",
@@ -625,6 +633,14 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      {
+        "district": "Unknown",
+        "confirmed": 145,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 53
         }
       }
     ]
