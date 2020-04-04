@@ -588,18 +588,18 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "463",
+			"confirmeddelta": "464",
 			"counterforautotimeupdate": "645",
 			"deceaseddelta": "13",
-			"lastupdatedtime": "05/04/2020 00:36:30",
+			"lastupdatedtime": "05/04/2020 00:43:23",
 			"recovereddelta": "51",
 			"statesdelta": "0"
 		}
 	],
 	"statewise": [
 		{
-			"active": "3191",
-			"confirmed": "3571",
+			"active": "3192",
+			"confirmed": "3572",
 			"deaths": "99",
 			"delta": {
 				"active": 0,
@@ -610,7 +610,7 @@
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "05/04/2020 00:36:30",
+			"lastupdatedtime": "05/04/2020 00:43:23",
 			"recovered": "281",
 			"state": "Total",
 			"statecode": "TT"
@@ -904,8 +904,8 @@
 			"statecode": "BR"
 		},
 		{
-			"active": "25",
-			"confirmed": "25",
+			"active": "26",
+			"confirmed": "26",
 			"deaths": "0",
 			"delta": {
 				"active": 0,
@@ -916,7 +916,7 @@
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "04/04/2020 14:37:30",
+			"lastupdatedtime": "05/04/2020 00:43:24",
 			"recovered": "0",
 			"state": "Assam",
 			"statecode": "AS"
@@ -970,7 +970,7 @@
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "05/04/2020 00:36:33",
+			"lastupdatedtime": "05/04/2020 00:40:27",
 			"recovered": "3",
 			"state": "Chandigarh",
 			"statecode": "CH"

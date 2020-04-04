@@ -1955,7 +1955,7 @@
   "Assam": {
     "districtData": {
       "Cachar": {
-        "confirmed": 1,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2040,7 +2040,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 253,
+        "confirmed": 252,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0

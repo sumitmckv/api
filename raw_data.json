@@ -65426,7 +65426,7 @@
 			"statecode": "BR",
 			"statepatientnumber": "",
 			"statuschangedate": "03/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "",
@@ -66966,7 +66966,7 @@
 			"statecode": "BR",
 			"statepatientnumber": "",
 			"statuschangedate": "03/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "",
@@ -76800,7 +76800,7 @@
 			"statecode": "BR",
 			"statepatientnumber": "",
 			"statuschangedate": "04/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "",
@@ -78565,23 +78565,23 @@
 		{
 			"agebracket": "",
 			"backupnotes": "",
-			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "",
-			"dateannounced": "",
+			"contractedfromwhichpatientsuspected": "E0",
+			"currentstatus": "Hospitalized",
+			"dateannounced": "04/04/2020",
 			"detectedcity": "",
-			"detecteddistrict": "",
-			"detectedstate": "",
+			"detecteddistrict": "Cachar",
+			"detectedstate": "Assam",
 			"estimatedonsetdate": "",
 			"gender": "",
 			"nationality": "",
-			"notes": "",
+			"notes": "Related to delhi event",
 			"patientnumber": "3572",
-			"source1": "",
+			"source1": "https://twitter.com/himantabiswa/status/1246495036302213120",
 			"source2": "",
 			"source3": "",
-			"statecode": "",
+			"statecode": "AS",
 			"statepatientnumber": "",
-			"statuschangedate": "",
+			"statuschangedate": "04/04/2020",
 			"typeoftransmission": ""
 		},
 		{

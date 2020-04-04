@@ -2248,7 +2248,7 @@
     "districtData": [
       {
         "district": "Cachar",
-        "confirmed": 1,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2346,7 +2346,7 @@
     "districtData": [
       {
         "district": "Unknown",
-        "confirmed": 253,
+        "confirmed": 252,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
