@@ -286,7 +286,7 @@
           "confirmed": 0
         }
       },
-      "Army Camp": {
+      "Evacuees": {
         "confirmed": 27,
         "lastupdatedtime": "",
         "delta": {
@@ -1117,10 +1117,10 @@
   "Punjab": {
     "districtData": {
       "Amritsar": {
-        "confirmed": 6,
+        "confirmed": 9,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       "Shahid Bhagat Singh Nagar": {
@@ -1131,10 +1131,10 @@
         }
       },
       "S.A.S. Nagar": {
-        "confirmed": 11,
+        "confirmed": 13,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Hoshiarpur": {
@@ -1145,10 +1145,10 @@
         }
       },
       "Jalandhar": {
-        "confirmed": 5,
+        "confirmed": 6,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Unknown": {
@@ -1163,6 +1163,20 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      "Pathankot": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
+        }
+      },
+      "Faridkot": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
         }
       }
     }
@@ -1900,7 +1914,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 342,
+        "confirmed": 334,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
