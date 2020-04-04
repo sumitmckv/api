@@ -1,9 +1,5 @@
 [
   {
-    "update": "5 new cases in Uttar Pradesh\n2 new cases in Puducherry\n",
-    "timestamp": 1585861735
-  },
-  {
     "update": "2 new cases in Uttar Pradesh\n",
     "timestamp": 1585884092
   },
@@ -198,5 +194,9 @@
   {
     "update": "59 new cases in Delhi\n",
     "timestamp": 1586002524
+  },
+  {
+    "update": "14 new cases in Jammu and Kashmir\n",
+    "timestamp": 1586002967
   }
 ]

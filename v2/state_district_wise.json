@@ -188,7 +188,7 @@
         "confirmed": 401,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 59
         }
       }
     ]
@@ -251,7 +251,7 @@
     "districtData": [
       {
         "district": "Jaipur",
-        "confirmed": 56,
+        "confirmed": 55,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -267,7 +267,7 @@
       },
       {
         "district": "Bhilwara",
-        "confirmed": 23,
+        "confirmed": 24,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 1
@@ -908,7 +908,7 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 27,
+        "confirmed": 41,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1025,10 +1025,10 @@
       },
       {
         "district": "Dakshina Kannada",
-        "confirmed": 8,
+        "confirmed": 10,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       {
@@ -1101,14 +1101,6 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 1
-        }
-      },
-      {
-        "district": "Unknown",
-        "confirmed": 2,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 2
         }
       }
     ]
@@ -2162,7 +2154,7 @@
     "districtData": [
       {
         "district": "Unknown",
-        "confirmed": 518,
+        "confirmed": 504,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
