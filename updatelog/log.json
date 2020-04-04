@@ -1,9 +1,5 @@
 [
   {
-    "update": "1 new case in Gujarat\n",
-    "timestamp": 1585845109
-  },
-  {
     "update": "1 recovery in Gujarat\n",
     "timestamp": 1585845539
   },
@@ -198,5 +194,9 @@
   {
     "update": "4 new cases in Punjab\n1 new case in Assam\n",
     "timestamp": 1585991220
+  },
+  {
+    "update": "1 new case in Chhattisgarh\n",
+    "timestamp": 1585995855
   }
 ]
