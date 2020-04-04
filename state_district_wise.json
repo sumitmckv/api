@@ -980,14 +980,14 @@
         }
       },
       "Mumbai": {
-        "confirmed": 226,
+        "confirmed": 229,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 28
         }
       },
       "Nagpur": {
-        "confirmed": 12,
+        "confirmed": 13,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1036,7 +1036,7 @@
         }
       },
       "Unknown": {
-        "confirmed": 141,
+        "confirmed": 137,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 1
