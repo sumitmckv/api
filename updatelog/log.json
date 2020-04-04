@@ -1,9 +1,5 @@
 [
   {
-    "update": "37 new cases and 5 deaths in Maharashtra\n",
-    "timestamp": 1585928194
-  },
-  {
     "update": "8 recoveries in Maharashtra\n1 new case in Bihar\n",
     "timestamp": 1585928603
   },
@@ -198,5 +194,9 @@
   {
     "update": "1 new case in Odisha\n",
     "timestamp": 1586028013
+  },
+  {
+    "update": "98 new cases and 2 recoveries in Maharashtra\n",
+    "timestamp": 1586029223
   }
 ]
