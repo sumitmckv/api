@@ -1474,6 +1474,14 @@
 			"totalpositivecases": "2183",
 			"totalsamplestested": "56680",
 			"updatetimestamp": "3/4/2020 09:00"
+		},
+		{
+			"source": "ICMR_testing_update_03April_9PM_IST.pdf",
+			"testsconductedbyprivatelabs": "",
+			"totalindividualstested": "",
+			"totalpositivecases": "2653",
+			"totalsamplestested": "69245",
+			"updatetimestamp": "3/4/2020 21:00"
 		}
 	]
 }
