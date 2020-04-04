@@ -275,7 +275,7 @@
       },
       {
         "district": "Jodhpur",
-        "confirmed": 24,
+        "confirmed": 17,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 7
@@ -330,16 +330,16 @@
         }
       },
       {
-        "district": "Alwar",
-        "confirmed": 4,
+        "district": "Army Camp",
+        "confirmed": 18,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       },
       {
-        "district": "Unknown",
-        "confirmed": 21,
+        "district": "Alwar",
+        "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -351,6 +351,30 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      {
+        "district": "Dholpur",
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      {
+        "district": "Udaipur",
+        "confirmed": 4,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      {
+        "district": "Bharatpur",
+        "confirmed": 5,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 2
         }
       },
       {
@@ -370,14 +394,6 @@
         }
       },
       {
-        "district": "Udaipur",
-        "confirmed": 3,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      {
         "district": "Dausa",
         "confirmed": 1,
         "lastupdatedtime": "",
@@ -386,11 +402,11 @@
         }
       },
       {
-        "district": "Bharatpur",
-        "confirmed": 4,
+        "district": "Unknown",
+        "confirmed": 6,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 2
+          "confirmed": 0
         }
       },
       {
@@ -875,6 +891,14 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      {
+        "district": "Unknown",
+        "confirmed": 74,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 74
         }
       }
     ]
@@ -2170,7 +2194,7 @@
     "districtData": [
       {
         "district": "Unknown",
-        "confirmed": 445,
+        "confirmed": 371,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
