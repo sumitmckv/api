@@ -1,9 +1,5 @@
 [
   {
-    "update": "102 new cases in Tamil Nadu\n91 new cases in Delhi\n5 new cases in Jammu and Kashmir\n4 new cases in Punjab\n4 new cases in Assam\n",
-    "timestamp": 1585915704
-  },
-  {
     "update": "9 new cases in Kerala\n22 new cases in Madhya Pradesh\n",
     "timestamp": 1585917794
   },
@@ -198,5 +194,9 @@
   {
     "update": "7 new cases and 4 recoveries in Uttar Pradesh\n",
     "timestamp": 1586016990
+  },
+  {
+    "update": "1 death in Tamil Nadu\n",
+    "timestamp": 1586022277
   }
 ]
