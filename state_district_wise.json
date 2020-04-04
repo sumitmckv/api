@@ -361,10 +361,10 @@
         }
       },
       "Faridabad": {
-        "confirmed": 6,
+        "confirmed": 14,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 8
         }
       },
       "Panipat": {
@@ -1886,7 +1886,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 350,
+        "confirmed": 342,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
