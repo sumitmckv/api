@@ -1,9 +1,5 @@
 [
   {
-    "update": "15 recoveries and 2 deaths in Telangana\n1 new case in Haryana\n1 new case in Bihar\n",
-    "timestamp": 1585925734
-  },
-  {
     "update": "2 new cases in Punjab\n",
     "timestamp": 1585926980
   },
@@ -198,5 +194,9 @@
   {
     "update": "8 recoveries in Delhi\n1 recovery in Haryana\n",
     "timestamp": 1586026817
+  },
+  {
+    "update": "3 recoveries in Chandigarh\n",
+    "timestamp": 1586027216
   }
 ]

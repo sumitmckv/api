@@ -591,14 +591,14 @@
 			"confirmeddelta": "463",
 			"counterforautotimeupdate": "645",
 			"deceaseddelta": "13",
-			"lastupdatedtime": "05/04/2020 00:29:25",
-			"recovereddelta": "48",
+			"lastupdatedtime": "05/04/2020 00:36:30",
+			"recovereddelta": "51",
 			"statesdelta": "0"
 		}
 	],
 	"statewise": [
 		{
-			"active": "3194",
+			"active": "3191",
 			"confirmed": "3571",
 			"deaths": "99",
 			"delta": {
@@ -610,8 +610,8 @@
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "05/04/2020 00:29:25",
-			"recovered": "278",
+			"lastupdatedtime": "05/04/2020 00:36:30",
+			"recovered": "281",
 			"state": "Total",
 			"statecode": "TT"
 		},
@@ -664,7 +664,7 @@
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "05/04/2020 00:29:26",
+			"lastupdatedtime": "05/04/2020 00:31:26",
 			"recovered": "16",
 			"state": "Delhi",
 			"statecode": "DL"
@@ -844,7 +844,7 @@
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "05/04/2020 00:29:28",
+			"lastupdatedtime": "05/04/2020 00:31:27",
 			"recovered": "29",
 			"state": "Haryana",
 			"statecode": "HR"
@@ -958,7 +958,7 @@
 			"statecode": "OR"
 		},
 		{
-			"active": "18",
+			"active": "15",
 			"confirmed": "18",
 			"deaths": "0",
 			"delta": {
@@ -970,8 +970,8 @@
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "02/04/2020 18:57:31",
-			"recovered": "0",
+			"lastupdatedtime": "05/04/2020 00:36:33",
+			"recovered": "3",
 			"state": "Chandigarh",
 			"statecode": "CH"
 		},
