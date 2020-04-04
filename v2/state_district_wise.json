@@ -275,10 +275,10 @@
       },
       {
         "district": "Jodhpur",
-        "confirmed": 20,
+        "confirmed": 22,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 5
+          "confirmed": 7
         }
       },
       {
@@ -1704,6 +1704,14 @@
         "delta": {
           "confirmed": 0
         }
+      },
+      {
+        "district": "Unknown",
+        "confirmed": 10,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 10
+        }
       }
     ]
   },
@@ -2098,7 +2106,7 @@
     "districtData": [
       {
         "district": "Unknown",
-        "confirmed": 631,
+        "confirmed": 619,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
