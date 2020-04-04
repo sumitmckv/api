@@ -267,7 +267,7 @@
       },
       {
         "district": "Bhilwara",
-        "confirmed": 24,
+        "confirmed": 27,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 1
@@ -275,7 +275,7 @@
       },
       {
         "district": "Jodhpur",
-        "confirmed": 22,
+        "confirmed": 24,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 7
@@ -306,11 +306,19 @@
         }
       },
       {
-        "district": "Unknown",
-        "confirmed": 29,
+        "district": "Dungarpur",
+        "confirmed": 3,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      {
+        "district": "Churu",
+        "confirmed": 10,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 2
         }
       },
       {
@@ -330,8 +338,8 @@
         }
       },
       {
-        "district": "Dungarpur",
-        "confirmed": 1,
+        "district": "Unknown",
+        "confirmed": 21,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -343,14 +351,6 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
-        }
-      },
-      {
-        "district": "Churu",
-        "confirmed": 9,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 2
         }
       },
       {
@@ -533,10 +533,10 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 98,
+        "confirmed": 151,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 53
         }
       },
       {
@@ -911,7 +911,7 @@
         "confirmed": 41,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 14
         }
       },
       {
@@ -1441,6 +1441,22 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      {
+        "district": "Nainital",
+        "confirmed": 5,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 5
+        }
+      },
+      {
+        "district": "Haridwar",
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
         }
       }
     ]
@@ -2154,7 +2170,7 @@
     "districtData": [
       {
         "district": "Unknown",
-        "confirmed": 504,
+        "confirmed": 445,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
