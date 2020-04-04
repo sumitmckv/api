@@ -802,6 +802,13 @@
         "delta": {
           "confirmed": 0
         }
+      },
+      "Udhampur": {
+        "confirmed": 3,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 3
+        }
       }
     }
   },
@@ -1107,10 +1114,10 @@
         }
       },
       "Prakasam": {
-        "confirmed": 17,
+        "confirmed": 18,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Visakhapatnam": {
@@ -1128,31 +1135,31 @@
         }
       },
       "Krishna": {
-        "confirmed": 23,
+        "confirmed": 27,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 4
         }
       },
       "Chittoor": {
-        "confirmed": 9,
+        "confirmed": 10,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Guntur": {
-        "confirmed": 20,
+        "confirmed": 23,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       "Kurnool": {
-        "confirmed": 1,
+        "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       "Anantapur": {
@@ -1163,17 +1170,17 @@
         }
       },
       "West Godavari": {
-        "confirmed": 15,
+        "confirmed": 18,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       "Y.S.R.": {
-        "confirmed": 19,
+        "confirmed": 20,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       }
     }
@@ -1809,7 +1816,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 697,
+        "confirmed": 678,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0

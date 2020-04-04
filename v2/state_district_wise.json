@@ -921,6 +921,14 @@
         "delta": {
           "confirmed": 0
         }
+      },
+      {
+        "district": "Udhampur",
+        "confirmed": 3,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 3
+        }
       }
     ]
   },
@@ -1272,10 +1280,10 @@
       },
       {
         "district": "Prakasam",
-        "confirmed": 17,
+        "confirmed": 18,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -1296,34 +1304,34 @@
       },
       {
         "district": "Krishna",
-        "confirmed": 23,
+        "confirmed": 27,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 4
         }
       },
       {
         "district": "Chittoor",
-        "confirmed": 9,
+        "confirmed": 10,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
         "district": "Guntur",
-        "confirmed": 20,
+        "confirmed": 23,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       {
         "district": "Kurnool",
-        "confirmed": 1,
+        "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       {
@@ -1336,18 +1344,18 @@
       },
       {
         "district": "West Godavari",
-        "confirmed": 15,
+        "confirmed": 18,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       {
         "district": "Y.S.R.",
-        "confirmed": 19,
+        "confirmed": 20,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       }
     ]
@@ -2082,7 +2090,7 @@
     "districtData": [
       {
         "district": "Unknown",
-        "confirmed": 697,
+        "confirmed": 678,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
