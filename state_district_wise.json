@@ -1513,10 +1513,10 @@
         }
       },
       "Ahmadabad": {
-        "confirmed": 44,
+        "confirmed": 45,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 6
+          "confirmed": 7
         }
       },
       "Vadodara": {
@@ -1576,13 +1576,6 @@
         }
       },
       "Patan": {
-        "confirmed": 1,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 1
-        }
-      },
-      "Unknown": {
         "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
