@@ -70601,7 +70601,7 @@
 		{
 			"agebracket": "",
 			"backupnotes": "",
-			"contractedfromwhichpatientsuspected": "",
+			"contractedfromwhichpatientsuspected": "E0",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "04/04/2020",
 			"detectedcity": "",
@@ -70610,7 +70610,7 @@
 			"estimatedonsetdate": "",
 			"gender": "",
 			"nationality": "",
-			"notes": "",
+			"notes": "Attended Delhi Religious Conference",
 			"patientnumber": "3210",
 			"source1": "",
 			"source2": "https://twitter.com/himantabiswa/status/1246313235705253889",
