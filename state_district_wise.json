@@ -244,8 +244,15 @@
           "confirmed": 7
         }
       },
-      "Unknown": {
-        "confirmed": 31,
+      "Pali": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      "Sikar": {
+        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -253,6 +260,13 @@
       },
       "Pratapgarh": {
         "confirmed": 2,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      "Unknown": {
+        "confirmed": 29,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0

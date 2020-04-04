@@ -282,8 +282,16 @@
         }
       },
       {
-        "district": "Unknown",
-        "confirmed": 31,
+        "district": "Pali",
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      {
+        "district": "Sikar",
+        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -292,6 +300,14 @@
       {
         "district": "Pratapgarh",
         "confirmed": 2,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      {
+        "district": "Unknown",
+        "confirmed": 29,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
