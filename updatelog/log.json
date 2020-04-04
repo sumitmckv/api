@@ -1,9 +1,5 @@
 [
   {
-    "update": "7 new cases in Rajasthan\n",
-    "timestamp": 1585914751
-  },
-  {
     "update": "5 new cases in Rajasthan\n",
     "timestamp": 1585915173
   },
@@ -198,5 +194,9 @@
   {
     "update": "1 recovery in Punjab\n",
     "timestamp": 1586009355
+  },
+  {
+    "update": "3 new cases in Gujarat\n1 new case in Bihar\n",
+    "timestamp": 1586010945
   }
 ]

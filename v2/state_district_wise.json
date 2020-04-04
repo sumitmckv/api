@@ -1731,18 +1731,18 @@
       },
       {
         "district": "Surat",
-        "confirmed": 12,
+        "confirmed": 13,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
         "district": "Ahmadabad",
-        "confirmed": 43,
+        "confirmed": 44,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 5
+          "confirmed": 6
         }
       },
       {
@@ -1811,6 +1811,14 @@
       },
       {
         "district": "Patan",
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
+        }
+      },
+      {
+        "district": "Unknown",
         "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
@@ -1970,10 +1978,10 @@
       },
       {
         "district": "Bhagalpur",
-        "confirmed": 4,
+        "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -2218,7 +2226,7 @@
     "districtData": [
       {
         "district": "Unknown",
-        "confirmed": 334,
+        "confirmed": 330,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
