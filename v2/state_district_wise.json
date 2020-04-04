@@ -408,10 +408,10 @@
     "districtData": [
       {
         "district": "Gurugram",
-        "confirmed": 29,
+        "confirmed": 31,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       {
@@ -448,10 +448,10 @@
       },
       {
         "district": "Palwal",
-        "confirmed": 4,
+        "confirmed": 17,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 13
         }
       },
       {
@@ -500,6 +500,22 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      {
+        "district": "Bhiwani",
+        "confirmed": 2,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 2
+        }
+      },
+      {
+        "district": "Kaithal",
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
         }
       }
     ]
@@ -2130,7 +2146,7 @@
     "districtData": [
       {
         "district": "Unknown",
-        "confirmed": 613,
+        "confirmed": 595,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
