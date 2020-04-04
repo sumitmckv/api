@@ -185,7 +185,7 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 342,
+        "confirmed": 401,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1001,10 +1001,10 @@
       },
       {
         "district": "Mysuru",
-        "confirmed": 22,
+        "confirmed": 28,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 7
         }
       },
       {
@@ -1033,10 +1033,10 @@
       },
       {
         "district": "Udupi",
-        "confirmed": 3,
+        "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -1065,10 +1065,10 @@
       },
       {
         "district": "Ballari",
-        "confirmed": 4,
+        "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -1105,10 +1105,10 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 10,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 10
+          "confirmed": 2
         }
       }
     ]
@@ -2162,7 +2162,7 @@
     "districtData": [
       {
         "district": "Unknown",
-        "confirmed": 577,
+        "confirmed": 518,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0

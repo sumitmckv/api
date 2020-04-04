@@ -1,9 +1,5 @@
 [
   {
-    "update": "2 recoveries in Delhi\n",
-    "timestamp": 1585854019
-  },
-  {
     "update": "5 new cases in Uttar Pradesh\n2 new cases in Puducherry\n",
     "timestamp": 1585861735
   },
@@ -198,5 +194,9 @@
   {
     "update": "16 new cases in Karnataka\n1 death in Gujarat\n",
     "timestamp": 1586001691
+  },
+  {
+    "update": "59 new cases in Delhi\n",
+    "timestamp": 1586002524
   }
 ]
