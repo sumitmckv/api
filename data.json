@@ -588,7 +588,7 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "121",
+			"confirmeddelta": "123",
 			"counterforautotimeupdate": "645",
 			"deceaseddelta": "4",
 			"lastupdatedtime": "04/04/2020 17:07:24",
@@ -598,16 +598,16 @@
 	],
 	"statewise": [
 		{
-			"active": "2909",
-			"confirmed": "3229",
+			"active": "2911",
+			"confirmed": "3231",
 			"deaths": "90",
 			"delta": {
-				"active": 121,
-				"confirmed": 121,
+				"active": 123,
+				"confirmed": 123,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"deltaconfirmed": "121",
+			"deltaconfirmed": "123",
 			"deltadeaths": "4",
 			"deltarecovered": "0",
 			"lastupdatedtime": "04/04/2020 17:07:24",
@@ -706,19 +706,19 @@
 			"statecode": "TG"
 		},
 		{
-			"active": "195",
-			"confirmed": "198",
+			"active": "197",
+			"confirmed": "200",
 			"deaths": "0",
 			"delta": {
-				"active": 19,
-				"confirmed": 19,
+				"active": 21,
+				"confirmed": 21,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"deltaconfirmed": "19",
+			"deltaconfirmed": "21",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "04/04/2020 14:27:25",
+			"lastupdatedtime": "04/04/2020 17:17:32",
 			"recovered": "3",
 			"state": "Rajasthan",
 			"statecode": "RJ"
@@ -772,7 +772,7 @@
 			"deltaconfirmed": "0",
 			"deltadeaths": "3",
 			"deltarecovered": "0",
-			"lastupdatedtime": "04/04/2020 17:07:25",
+			"lastupdatedtime": "04/04/2020 17:17:35",
 			"recovered": "0",
 			"state": "Madhya Pradesh",
 			"statecode": "MP"
