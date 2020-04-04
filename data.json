@@ -588,9 +588,9 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "123",
+			"confirmeddelta": "139",
 			"counterforautotimeupdate": "645",
-			"deceaseddelta": "4",
+			"deceaseddelta": "5",
 			"lastupdatedtime": "04/04/2020 17:07:24",
 			"recovereddelta": "0",
 			"statesdelta": "0"
@@ -598,17 +598,17 @@
 	],
 	"statewise": [
 		{
-			"active": "2911",
-			"confirmed": "3231",
-			"deaths": "90",
+			"active": "2926",
+			"confirmed": "3247",
+			"deaths": "91",
 			"delta": {
 				"active": 123,
 				"confirmed": 123,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"deltaconfirmed": "123",
-			"deltadeaths": "4",
+			"deltaconfirmed": "139",
+			"deltadeaths": "5",
 			"deltarecovered": "0",
 			"lastupdatedtime": "04/04/2020 17:07:24",
 			"recovered": "230",
@@ -778,8 +778,8 @@
 			"statecode": "MP"
 		},
 		{
-			"active": "113",
-			"confirmed": "128",
+			"active": "129",
+			"confirmed": "144",
 			"deaths": "4",
 			"delta": {
 				"active": 0,
@@ -787,7 +787,7 @@
 				"deaths": 0,
 				"recovered": 0
 			},
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "16",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
 			"lastupdatedtime": "03/04/2020 23:42:33",
@@ -796,9 +796,9 @@
 			"statecode": "KA"
 		},
 		{
-			"active": "86",
+			"active": "85",
 			"confirmed": "105",
-			"deaths": "9",
+			"deaths": "10",
 			"delta": {
 				"active": 10,
 				"confirmed": 10,
@@ -806,7 +806,7 @@
 				"recovered": 0
 			},
 			"deltaconfirmed": "10",
-			"deltadeaths": "0",
+			"deltadeaths": "1",
 			"deltarecovered": "0",
 			"lastupdatedtime": "04/04/2020 14:27:26",
 			"recovered": "10",
