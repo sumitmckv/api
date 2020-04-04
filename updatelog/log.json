@@ -1,9 +1,5 @@
 [
   {
-    "update": "74 new cases in Delhi\n",
-    "timestamp": 1585840015
-  },
-  {
     "update": "1 death in Punjab\n",
     "timestamp": 1585841279
   },
@@ -198,5 +194,9 @@
   {
     "update": "12 new cases in Rajasthan\n1 new case in Goa\n",
     "timestamp": 1585973786
+  },
+  {
+    "update": "5 new cases in Rajasthan\n",
+    "timestamp": 1585976302
   }
 ]
