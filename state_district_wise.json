@@ -631,10 +631,24 @@
         }
       },
       "Maharajganj": {
-        "confirmed": 5,
+        "confirmed": 6,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 5
+          "confirmed": 6
+        }
+      },
+      "Hatras": {
+        "confirmed": 4,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 4
+        }
+      },
+      "Mirzapur": {
+        "confirmed": 2,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 2
         }
       }
     }
@@ -2019,7 +2033,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 330,
+        "confirmed": 323,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0

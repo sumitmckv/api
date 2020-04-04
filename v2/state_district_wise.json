@@ -725,10 +725,26 @@
       },
       {
         "district": "Maharajganj",
-        "confirmed": 5,
+        "confirmed": 6,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 5
+          "confirmed": 6
+        }
+      },
+      {
+        "district": "Hatras",
+        "confirmed": 4,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 4
+        }
+      },
+      {
+        "district": "Mirzapur",
+        "confirmed": 2,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 2
         }
       }
     ]
@@ -2322,7 +2338,7 @@
     "districtData": [
       {
         "district": "Unknown",
-        "confirmed": 330,
+        "confirmed": 323,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
