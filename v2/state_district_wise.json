@@ -1733,7 +1733,7 @@
       },
       {
         "district": "Indore",
-        "confirmed": 80,
+        "confirmed": 91,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1765,7 +1765,7 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 32,
+        "confirmed": 21,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
