@@ -969,10 +969,10 @@
     "districtData": [
       {
         "district": "Bengaluru",
-        "confirmed": 47,
+        "confirmed": 51,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 4
         }
       },
       {
@@ -1001,10 +1001,10 @@
       },
       {
         "district": "Mysuru",
-        "confirmed": 21,
+        "confirmed": 22,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -1096,11 +1096,19 @@
         }
       },
       {
-        "district": "Unknown",
-        "confirmed": 16,
+        "district": "Bengaluru Rural",
+        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 16
+          "confirmed": 1
+        }
+      },
+      {
+        "district": "Unknown",
+        "confirmed": 10,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 10
         }
       }
     ]

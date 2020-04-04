@@ -843,10 +843,10 @@
   "Karnataka": {
     "districtData": {
       "Bengaluru": {
-        "confirmed": 47,
+        "confirmed": 51,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 4
         }
       },
       "Kalaburagi": {
@@ -871,10 +871,10 @@
         }
       },
       "Mysuru": {
-        "confirmed": 21,
+        "confirmed": 22,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Dharwad": {
@@ -954,11 +954,18 @@
           "confirmed": 0
         }
       },
-      "Unknown": {
-        "confirmed": 16,
+      "Bengaluru Rural": {
+        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 16
+          "confirmed": 1
+        }
+      },
+      "Unknown": {
+        "confirmed": 10,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 10
         }
       }
     }

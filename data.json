@@ -591,7 +591,7 @@
 			"confirmeddelta": "139",
 			"counterforautotimeupdate": "645",
 			"deceaseddelta": "5",
-			"lastupdatedtime": "04/04/2020 17:07:24",
+			"lastupdatedtime": "04/04/2020 17:37:24",
 			"recovereddelta": "0",
 			"statesdelta": "0"
 		}
@@ -602,15 +602,15 @@
 			"confirmed": "3247",
 			"deaths": "91",
 			"delta": {
-				"active": 123,
-				"confirmed": 123,
+				"active": 139,
+				"confirmed": 139,
 				"deaths": 0,
 				"recovered": 0
 			},
 			"deltaconfirmed": "139",
 			"deltadeaths": "5",
 			"deltarecovered": "0",
-			"lastupdatedtime": "04/04/2020 17:07:24",
+			"lastupdatedtime": "04/04/2020 17:37:24",
 			"recovered": "230",
 			"state": "Total",
 			"statecode": "TT"
@@ -782,15 +782,15 @@
 			"confirmed": "144",
 			"deaths": "4",
 			"delta": {
-				"active": 0,
-				"confirmed": 0,
+				"active": 16,
+				"confirmed": 16,
 				"deaths": 0,
 				"recovered": 0
 			},
 			"deltaconfirmed": "16",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "03/04/2020 23:42:33",
+			"lastupdatedtime": "04/04/2020 17:37:30",
 			"recovered": "11",
 			"state": "Karnataka",
 			"statecode": "KA"
@@ -808,7 +808,7 @@
 			"deltaconfirmed": "10",
 			"deltadeaths": "1",
 			"deltarecovered": "0",
-			"lastupdatedtime": "04/04/2020 14:27:26",
+			"lastupdatedtime": "04/04/2020 17:37:35",
 			"recovered": "10",
 			"state": "Gujarat",
 			"statecode": "GJ"
