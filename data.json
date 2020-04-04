@@ -577,40 +577,40 @@
 			"totalrecovered": "191"
 		},
 		{
-			"dailyconfirmed": "564",
+			"dailyconfirmed": "563",
 			"dailydeceased": "14",
 			"dailyrecovered": "38",
 			"date": "03 April ",
-			"totalconfirmed": "3109",
+			"totalconfirmed": "3108",
 			"totaldeceased": "86",
 			"totalrecovered": "229"
 		}
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "0",
+			"confirmeddelta": "14",
 			"counterforautotimeupdate": "645",
 			"deceaseddelta": "0",
-			"lastupdatedtime": "04/04/2020 03:02:23",
+			"lastupdatedtime": "04/04/2020 09:42:24",
 			"recovereddelta": "0",
 			"statesdelta": "0"
 		}
 	],
 	"statewise": [
 		{
-			"active": "2794",
-			"confirmed": "3109",
+			"active": "2807",
+			"confirmed": "3122",
 			"deaths": "86",
 			"delta": {
-				"active": 0,
-				"confirmed": 0,
+				"active": 2,
+				"confirmed": 2,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "2",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "04/04/2020 03:02:23",
+			"lastupdatedtime": "04/04/2020 09:42:24",
 			"recovered": "229",
 			"state": "Total",
 			"statecode": "TT"
@@ -706,8 +706,8 @@
 			"statecode": "TG"
 		},
 		{
-			"active": "176",
-			"confirmed": "179",
+			"active": "188",
+			"confirmed": "191",
 			"deaths": "0",
 			"delta": {
 				"active": 0,
@@ -908,15 +908,15 @@
 			"confirmed": "24",
 			"deaths": "0",
 			"delta": {
-				"active": 0,
-				"confirmed": 0,
+				"active": 1,
+				"confirmed": 1,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "1",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "03/04/2020 23:57:32",
+			"lastupdatedtime": "04/04/2020 09:42:25",
 			"recovered": "0",
 			"state": "Assam",
 			"statecode": "AS"
@@ -1048,19 +1048,19 @@
 			"statecode": "HP"
 		},
 		{
-			"active": "6",
-			"confirmed": "6",
+			"active": "7",
+			"confirmed": "7",
 			"deaths": "0",
 			"delta": {
-				"active": 0,
-				"confirmed": 0,
+				"active": 1,
+				"confirmed": 1,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "1",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "03/04/2020 10:22:24",
+			"lastupdatedtime": "04/04/2020 09:42:27",
 			"recovered": "0",
 			"state": "Goa",
 			"statecode": "GA"

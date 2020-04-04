@@ -259,7 +259,7 @@
       },
       {
         "district": "Jhunjhunu",
-        "confirmed": 9,
+        "confirmed": 15,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -283,7 +283,7 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 31,
+        "confirmed": 37,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1905,10 +1905,10 @@
     "districtData": [
       {
         "district": "North Goa",
-        "confirmed": 3,
+        "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -2043,7 +2043,7 @@
         "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       }
     ]
@@ -2054,19 +2054,6 @@
       {
         "district": "Lohit",
         "confirmed": 1,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      }
-    ]
-  },
-  {
-    "state": "Unknown",
-    "districtData": [
-      {
-        "district": "Unknown",
-        "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
