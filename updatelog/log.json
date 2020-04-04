@@ -1,9 +1,5 @@
 [
   {
-    "update": "1 death in Andhra Pradesh\n",
-    "timestamp": 1585906623
-  },
-  {
     "update": "1 death in Himachal Pradesh\n",
     "timestamp": 1585914333
   },
@@ -198,5 +194,9 @@
   {
     "update": "8 new cases in Punjab\n",
     "timestamp": 1586008550
+  },
+  {
+    "update": "1 recovery in Punjab\n",
+    "timestamp": 1586008975
   }
 ]

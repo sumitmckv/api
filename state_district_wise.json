@@ -1152,10 +1152,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 10,
+        "confirmed": 6,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 4
+          "confirmed": 0
         }
       },
       "Ludhiana": {
@@ -1163,6 +1163,20 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      "Rupnagar": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
+        }
+      },
+      "Mansa": {
+        "confirmed": 3,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 3
         }
       },
       "Pathankot": {

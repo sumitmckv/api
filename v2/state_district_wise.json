@@ -1323,10 +1323,10 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 10,
+        "confirmed": 6,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 4
+          "confirmed": 0
         }
       },
       {
@@ -1335,6 +1335,22 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      {
+        "district": "Rupnagar",
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
+        }
+      },
+      {
+        "district": "Mansa",
+        "confirmed": 3,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 3
         }
       },
       {
