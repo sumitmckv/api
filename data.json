@@ -579,11 +579,11 @@
 		{
 			"dailyconfirmed": "563",
 			"dailydeceased": "14",
-			"dailyrecovered": "38",
+			"dailyrecovered": "39",
 			"date": "03 April ",
 			"totalconfirmed": "3108",
 			"totaldeceased": "86",
-			"totalrecovered": "229"
+			"totalrecovered": "230"
 		}
 	],
 	"key_values": [
@@ -598,7 +598,7 @@
 	],
 	"statewise": [
 		{
-			"active": "2913",
+			"active": "2912",
 			"confirmed": "3229",
 			"deaths": "87",
 			"delta": {
@@ -611,7 +611,7 @@
 			"deltadeaths": "1",
 			"deltarecovered": "0",
 			"lastupdatedtime": "04/04/2020 16:52:24",
-			"recovered": "229",
+			"recovered": "230",
 			"state": "Total",
 			"statecode": "TT"
 		},
@@ -832,7 +832,7 @@
 			"statecode": "JK"
 		},
 		{
-			"active": "49",
+			"active": "48",
 			"confirmed": "76",
 			"deaths": "0",
 			"delta": {
@@ -845,7 +845,7 @@
 			"deltadeaths": "0",
 			"deltarecovered": "0",
 			"lastupdatedtime": "03/04/2020 20:27:29",
-			"recovered": "27",
+			"recovered": "28",
 			"state": "Haryana",
 			"statecode": "HR"
 		},
