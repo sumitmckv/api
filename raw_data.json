@@ -70621,7 +70621,7 @@
 			"typeoftransmission": ""
 		},
 		{
-			"agebracket": "",
+			"agebracket": "16",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "E0",
 			"currentstatus": "Hospitalized",
@@ -70630,7 +70630,7 @@
 			"detecteddistrict": "Korba",
 			"detectedstate": "Chhattisgarh",
 			"estimatedonsetdate": "",
-			"gender": "",
+			"gender": "M",
 			"nationality": "",
 			"notes": "Attended Delhi Religious Conference",
 			"patientnumber": "3211",
