@@ -1303,14 +1303,14 @@
   "Andhra Pradesh": {
     "districtData": {
       "S.P.S. Nellore": {
-        "confirmed": 32,
+        "confirmed": 28,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       },
       "Prakasam": {
-        "confirmed": 19,
+        "confirmed": 17,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1331,21 +1331,21 @@
         }
       },
       "Krishna": {
-        "confirmed": 32,
+        "confirmed": 36,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       },
       "Chittoor": {
-        "confirmed": 10,
+        "confirmed": 9,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       },
       "Guntur": {
-        "confirmed": 26,
+        "confirmed": 28,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1366,7 +1366,7 @@
         }
       },
       "West Godavari": {
-        "confirmed": 15,
+        "confirmed": 16,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0

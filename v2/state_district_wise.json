@@ -1496,7 +1496,7 @@
     "districtData": [
       {
         "district": "S.P.S. Nellore",
-        "confirmed": 32,
+        "confirmed": 28,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1504,7 +1504,7 @@
       },
       {
         "district": "Prakasam",
-        "confirmed": 19,
+        "confirmed": 17,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1528,7 +1528,7 @@
       },
       {
         "district": "Krishna",
-        "confirmed": 32,
+        "confirmed": 36,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1536,7 +1536,7 @@
       },
       {
         "district": "Chittoor",
-        "confirmed": 10,
+        "confirmed": 9,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1544,7 +1544,7 @@
       },
       {
         "district": "Guntur",
-        "confirmed": 26,
+        "confirmed": 28,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1568,7 +1568,7 @@
       },
       {
         "district": "West Godavari",
-        "confirmed": 15,
+        "confirmed": 16,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
