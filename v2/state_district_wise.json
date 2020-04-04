@@ -1981,7 +1981,7 @@
       },
       {
         "district": "Bhopal",
-        "confirmed": 8,
+        "confirmed": 15,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1989,7 +1989,7 @@
       },
       {
         "district": "Indore",
-        "confirmed": 112,
+        "confirmed": 128,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1997,7 +1997,7 @@
       },
       {
         "district": "Ujjain",
-        "confirmed": 6,
+        "confirmed": 7,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2005,7 +2005,7 @@
       },
       {
         "district": "Gwalior",
-        "confirmed": 1,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2020,16 +2020,8 @@
         }
       },
       {
-        "district": "Unknown",
-        "confirmed": 29,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      {
         "district": "Chhindwara",
-        "confirmed": 1,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2038,6 +2030,14 @@
       {
         "district": "Morena",
         "confirmed": 12,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      {
+        "district": "Khargone",
+        "confirmed": 3,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
