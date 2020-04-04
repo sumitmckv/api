@@ -56896,7 +56896,7 @@
 			"agebracket": "75",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Deceased",
 			"dateannounced": "03/04/2020",
 			"detectedcity": "",
 			"detecteddistrict": "Bagalkote",
@@ -56910,7 +56910,7 @@
 			"source2": "",
 			"source3": "",
 			"statecode": "KA",
-			"statepatientnumber": "",
+			"statepatientnumber": "KA-P125",
 			"statuschangedate": "03/04/2020",
 			"typeoftransmission": ""
 		},
