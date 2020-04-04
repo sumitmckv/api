@@ -113,6 +113,14 @@
         "delta": {
           "confirmed": 0
         }
+      },
+      {
+        "district": "Unknown",
+        "confirmed": 12,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
       }
     ]
   },
@@ -331,7 +339,7 @@
       },
       {
         "district": "Army Camp",
-        "confirmed": 18,
+        "confirmed": 27,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -386,24 +394,8 @@
         }
       },
       {
-        "district": "Jaisalmer",
-        "confirmed": 3,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      {
         "district": "Dausa",
         "confirmed": 1,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      {
-        "district": "Unknown",
-        "confirmed": 6,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2194,7 +2186,7 @@
     "districtData": [
       {
         "district": "Unknown",
-        "confirmed": 371,
+        "confirmed": 359,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0

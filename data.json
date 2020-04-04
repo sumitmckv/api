@@ -588,7 +588,7 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "345",
+			"confirmeddelta": "357",
 			"counterforautotimeupdate": "645",
 			"deceaseddelta": "5",
 			"lastupdatedtime": "04/04/2020 18:02:24",
@@ -598,8 +598,8 @@
 	],
 	"statewise": [
 		{
-			"active": "3132",
-			"confirmed": "3453",
+			"active": "3144",
+			"confirmed": "3465",
 			"deaths": "91",
 			"delta": {
 				"active": 345,
@@ -670,8 +670,8 @@
 			"statecode": "DL"
 		},
 		{
-			"active": "251",
-			"confirmed": "295",
+			"active": "263",
+			"confirmed": "307",
 			"deaths": "2",
 			"delta": {
 				"active": 0,
