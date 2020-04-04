@@ -1368,18 +1368,18 @@
       },
       {
         "district": "West Godavari",
-        "confirmed": 18,
+        "confirmed": 15,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 3
+          "confirmed": 0
         }
       },
       {
         "district": "Y.S.R.",
-        "confirmed": 20,
+        "confirmed": 23,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 4
         }
       }
     ]
