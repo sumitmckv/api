@@ -1507,7 +1507,7 @@
         }
       },
       "Indore": {
-        "confirmed": 79,
+        "confirmed": 80,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1535,7 +1535,7 @@
         }
       },
       "Unknown": {
-        "confirmed": 34,
+        "confirmed": 32,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1543,6 +1543,13 @@
       },
       "Morena": {
         "confirmed": 22,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      "Chhindwara": {
+        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
