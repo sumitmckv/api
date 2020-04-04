@@ -591,7 +591,7 @@
 			"confirmeddelta": "382",
 			"counterforautotimeupdate": "645",
 			"deceaseddelta": "5",
-			"lastupdatedtime": "04/04/2020 19:38:25",
+			"lastupdatedtime": "04/04/2020 19:40:25",
 			"recovereddelta": "32",
 			"statesdelta": "0"
 		}
@@ -610,7 +610,7 @@
 			"deltaconfirmed": "382",
 			"deltadeaths": "5",
 			"deltarecovered": "32",
-			"lastupdatedtime": "04/04/2020 19:38:25",
+			"lastupdatedtime": "04/04/2020 19:40:25",
 			"recovered": "262",
 			"state": "Total",
 			"statecode": "TT"
@@ -862,7 +862,7 @@
 			"deltaconfirmed": "12",
 			"deltadeaths": "0",
 			"deltarecovered": "2",
-			"lastupdatedtime": "04/04/2020 19:38:28",
+			"lastupdatedtime": "04/04/2020 19:40:26",
 			"recovered": "3",
 			"state": "Punjab",
 			"statecode": "PB"

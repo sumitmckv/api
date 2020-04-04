@@ -1861,7 +1861,7 @@
       },
       {
         "district": "Indore",
-        "confirmed": 102,
+        "confirmed": 110,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1901,7 +1901,7 @@
       },
       {
         "district": "Morena",
-        "confirmed": 22,
+        "confirmed": 14,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
