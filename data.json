@@ -591,14 +591,14 @@
 			"confirmeddelta": "382",
 			"counterforautotimeupdate": "645",
 			"deceaseddelta": "5",
-			"lastupdatedtime": "04/04/2020 19:26:24",
-			"recovereddelta": "31",
+			"lastupdatedtime": "04/04/2020 19:38:25",
+			"recovereddelta": "32",
 			"statesdelta": "0"
 		}
 	],
 	"statewise": [
 		{
-			"active": "3138",
+			"active": "3137",
 			"confirmed": "3490",
 			"deaths": "91",
 			"delta": {
@@ -609,9 +609,9 @@
 			},
 			"deltaconfirmed": "382",
 			"deltadeaths": "5",
-			"deltarecovered": "31",
-			"lastupdatedtime": "04/04/2020 19:26:24",
-			"recovered": "261",
+			"deltarecovered": "32",
+			"lastupdatedtime": "04/04/2020 19:38:25",
+			"recovered": "262",
 			"state": "Total",
 			"statecode": "TT"
 		},
@@ -850,7 +850,7 @@
 			"statecode": "HR"
 		},
 		{
-			"active": "58",
+			"active": "57",
 			"confirmed": "65",
 			"deaths": "5",
 			"delta": {
@@ -861,9 +861,9 @@
 			},
 			"deltaconfirmed": "12",
 			"deltadeaths": "0",
-			"deltarecovered": "1",
-			"lastupdatedtime": "04/04/2020 19:26:27",
-			"recovered": "2",
+			"deltarecovered": "2",
+			"lastupdatedtime": "04/04/2020 19:38:28",
+			"recovered": "3",
 			"state": "Punjab",
 			"statecode": "PB"
 		},

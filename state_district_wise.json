@@ -1612,21 +1612,21 @@
         }
       },
       "Bhopal": {
-        "confirmed": 3,
+        "confirmed": 8,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       },
       "Indore": {
-        "confirmed": 91,
+        "confirmed": 102,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       },
       "Ujjain": {
-        "confirmed": 5,
+        "confirmed": 6,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1647,7 +1647,7 @@
         }
       },
       "Unknown": {
-        "confirmed": 21,
+        "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0

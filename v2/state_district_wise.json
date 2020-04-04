@@ -1853,7 +1853,7 @@
       },
       {
         "district": "Bhopal",
-        "confirmed": 3,
+        "confirmed": 8,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1861,7 +1861,7 @@
       },
       {
         "district": "Indore",
-        "confirmed": 91,
+        "confirmed": 102,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1869,7 +1869,7 @@
       },
       {
         "district": "Ujjain",
-        "confirmed": 5,
+        "confirmed": 6,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1893,7 +1893,7 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 21,
+        "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
