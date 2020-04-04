@@ -1,9 +1,5 @@
 [
   {
-    "update": "8 new cases in Haryana\n",
-    "timestamp": 1585899846
-  },
-  {
     "update": "1 new case in Odisha\n",
     "timestamp": 1585904098
   },
@@ -198,5 +194,9 @@
   {
     "update": "18 recoveries in Rajasthan\n",
     "timestamp": 1586006549
+  },
+  {
+    "update": "4 recoveries in Rajasthan\n",
+    "timestamp": 1586006942
   }
 ]
