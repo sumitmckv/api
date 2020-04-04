@@ -577,11 +577,11 @@
 			"totalrecovered": "191"
 		},
 		{
-			"dailyconfirmed": "563",
+			"dailyconfirmed": "564",
 			"dailydeceased": "14",
 			"dailyrecovered": "38",
 			"date": "03 April ",
-			"totalconfirmed": "3108",
+			"totalconfirmed": "3109",
 			"totaldeceased": "86",
 			"totalrecovered": "229"
 		}
@@ -598,8 +598,8 @@
 	],
 	"statewise": [
 		{
-			"active": "2793",
-			"confirmed": "3108",
+			"active": "2794",
+			"confirmed": "3109",
 			"deaths": "86",
 			"delta": {
 				"active": 0,
@@ -904,8 +904,8 @@
 			"statecode": "BR"
 		},
 		{
-			"active": "23",
-			"confirmed": "23",
+			"active": "24",
+			"confirmed": "24",
 			"deaths": "0",
 			"delta": {
 				"active": 0,

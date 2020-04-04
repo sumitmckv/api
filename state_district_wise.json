@@ -1500,7 +1500,7 @@
         }
       },
       "Indore": {
-        "confirmed": 63,
+        "confirmed": 79,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1528,14 +1528,14 @@
         }
       },
       "Unknown": {
-        "confirmed": 60,
+        "confirmed": 34,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       },
       "Morena": {
-        "confirmed": 12,
+        "confirmed": 22,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1771,6 +1771,13 @@
         "delta": {
           "confirmed": 0
         }
+      },
+      "Golaghat": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
       }
     }
   },
@@ -1778,6 +1785,17 @@
     "districtData": {
       "Lohit": {
         "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      }
+    }
+  },
+  "Unknown": {
+    "districtData": {
+      "Unknown": {
+        "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0

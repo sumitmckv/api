@@ -1,9 +1,5 @@
 [
   {
-    "update": "2 new cases in Madhya Pradesh\n",
-    "timestamp": 1585835576
-  },
-  {
     "update": "1 new case in Jharkhand\n",
     "timestamp": 1585836818
   },
@@ -198,5 +194,9 @@
   {
     "update": "1 death in Gujarat\n",
     "timestamp": 1585949658
+  },
+  {
+    "update": "1 new case in Assam\n",
+    "timestamp": 1585973350
   }
 ]

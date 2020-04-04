@@ -1725,7 +1725,7 @@
       },
       {
         "district": "Indore",
-        "confirmed": 63,
+        "confirmed": 79,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1757,7 +1757,7 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 60,
+        "confirmed": 34,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1765,7 +1765,7 @@
       },
       {
         "district": "Morena",
-        "confirmed": 12,
+        "confirmed": 22,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2037,6 +2037,14 @@
         "delta": {
           "confirmed": 0
         }
+      },
+      {
+        "district": "Golaghat",
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
       }
     ]
   },
@@ -2046,6 +2054,19 @@
       {
         "district": "Lohit",
         "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      }
+    ]
+  },
+  {
+    "state": "Unknown",
+    "districtData": [
+      {
+        "district": "Unknown",
+        "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
