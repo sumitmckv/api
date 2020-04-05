@@ -224,10 +224,10 @@
         }
       },
       "Jhunjhunu": {
-        "confirmed": 19,
+        "confirmed": 18,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 3
+          "confirmed": 2
         }
       },
       "Bhilwara": {
@@ -245,10 +245,10 @@
         }
       },
       "Pali": {
-        "confirmed": 1,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Sikar": {
