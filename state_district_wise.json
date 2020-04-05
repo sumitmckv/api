@@ -1210,7 +1210,7 @@
           "confirmed": 0
         }
       },
-      "Gujarat": {
+      "Gujarat*": {
         "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
