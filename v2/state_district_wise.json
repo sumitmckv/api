@@ -2051,7 +2051,7 @@
       },
       {
         "district": "Kachchh",
-        "confirmed": 1,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2123,14 +2123,6 @@
       },
       {
         "district": "Morbi",
-        "confirmed": 1,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      {
-        "district": "Bhuj",
         "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
