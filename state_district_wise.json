@@ -224,7 +224,7 @@
         }
       },
       "Jhunjhunu": {
-        "confirmed": 17,
+        "confirmed": 18,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 2
@@ -287,7 +287,7 @@
         }
       },
       "Evacuees": {
-        "confirmed": 27,
+        "confirmed": 28,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -301,7 +301,7 @@
         }
       },
       "Tonk": {
-        "confirmed": 16,
+        "confirmed": 17,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -344,6 +344,13 @@
       },
       "Banswara": {
         "confirmed": 2,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      "Karauli": {
+        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2075,7 +2082,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 98,
+        "confirmed": 94,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
