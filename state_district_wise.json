@@ -1278,14 +1278,14 @@
         }
       },
       "S.A.S. Nagar": {
-        "confirmed": 14,
+        "confirmed": 15,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 1
         }
       },
       "Hoshiarpur": {
-        "confirmed": 3,
+        "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1298,18 +1298,18 @@
           "confirmed": 0
         }
       },
-      "Unknown": {
-        "confirmed": 6,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
       "Ludhiana": {
         "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 1
+        }
+      },
+      "Unknown": {
+        "confirmed": 3,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
         }
       },
       "Rupnagar": {
