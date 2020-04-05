@@ -597,29 +597,29 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "537",
+			"confirmeddelta": "542",
 			"counterforautotimeupdate": "645",
 			"deceaseddelta": "20",
-			"lastupdatedtime": "05/04/2020 22:34:24",
+			"lastupdatedtime": "05/04/2020 22:39:25",
 			"recovereddelta": "35",
 			"statesdelta": "0"
 		}
 	],
 	"statewise": [
 		{
-			"active": "3779",
-			"confirmed": "4219",
+			"active": "3784",
+			"confirmed": "4224",
 			"deaths": "119",
 			"delta": {
-				"active": 535,
-				"confirmed": 536,
+				"active": 541,
+				"confirmed": 542,
 				"deaths": 1,
 				"recovered": 0
 			},
-			"deltaconfirmed": "537",
+			"deltaconfirmed": "542",
 			"deltadeaths": "20",
 			"deltarecovered": "35",
-			"lastupdatedtime": "05/04/2020 22:34:24",
+			"lastupdatedtime": "05/04/2020 22:39:25",
 			"recovered": "321",
 			"state": "Total",
 			"statecode": "TT"
@@ -709,7 +709,7 @@
 			"deltaconfirmed": "30",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "05/04/2020 22:34:27",
+			"lastupdatedtime": "05/04/2020 22:39:28",
 			"recovered": "33",
 			"state": "Telangana",
 			"statecode": "TG"
@@ -727,25 +727,25 @@
 			"deltaconfirmed": "44",
 			"deltadeaths": "1",
 			"deltarecovered": "0",
-			"lastupdatedtime": "05/04/2020 22:34:28",
+			"lastupdatedtime": "05/04/2020 22:39:30",
 			"recovered": "21",
 			"state": "Uttar Pradesh",
 			"statecode": "UP"
 		},
 		{
-			"active": "229",
-			"confirmed": "255",
+			"active": "234",
+			"confirmed": "260",
 			"deaths": "1",
 			"delta": {
-				"active": 50,
-				"confirmed": 50,
+				"active": 56,
+				"confirmed": 56,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"deltaconfirmed": "51",
+			"deltaconfirmed": "56",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "05/04/2020 20:13:51",
+			"lastupdatedtime": "05/04/2020 22:39:31",
 			"recovered": "25",
 			"state": "Rajasthan",
 			"statecode": "RJ"
@@ -817,7 +817,7 @@
 			"deltaconfirmed": "20",
 			"deltadeaths": "1",
 			"deltarecovered": "8",
-			"lastupdatedtime": "05/04/2020 22:34:32",
+			"lastupdatedtime": "05/04/2020 22:39:32",
 			"recovered": "21",
 			"state": "Gujarat",
 			"statecode": "GJ"

@@ -238,10 +238,10 @@
         }
       },
       "Jodhpur": {
-        "confirmed": 17,
+        "confirmed": 20,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       "Pali": {
@@ -287,10 +287,10 @@
         }
       },
       "Evacuees": {
-        "confirmed": 31,
+        "confirmed": 33,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 3
+          "confirmed": 5
         }
       },
       "Alwar": {
@@ -363,7 +363,7 @@
           "confirmed": 1
         }
       },
-      "Unknown": {
+      "Jaisalmer": {
         "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {

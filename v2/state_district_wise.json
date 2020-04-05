@@ -275,10 +275,10 @@
       },
       {
         "district": "Jodhpur",
-        "confirmed": 17,
+        "confirmed": 20,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       {
@@ -331,10 +331,10 @@
       },
       {
         "district": "Evacuees",
-        "confirmed": 31,
+        "confirmed": 33,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 3
+          "confirmed": 5
         }
       },
       {
@@ -418,7 +418,7 @@
         }
       },
       {
-        "district": "Unknown",
+        "district": "Jaisalmer",
         "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
