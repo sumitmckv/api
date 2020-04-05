@@ -416,6 +416,14 @@
         "delta": {
           "confirmed": 1
         }
+      },
+      {
+        "district": "Italians",
+        "confirmed": 2,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 2
+        }
       }
     ]
   },
