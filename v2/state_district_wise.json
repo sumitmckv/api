@@ -1262,7 +1262,7 @@
       },
       {
         "district": "Mumbai",
-        "confirmed": 361,
+        "confirmed": 358,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1278,7 +1278,7 @@
       },
       {
         "district": "Thane",
-        "confirmed": 42,
+        "confirmed": 46,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1286,7 +1286,7 @@
       },
       {
         "district": "Ahmadnagar",
-        "confirmed": 19,
+        "confirmed": 17,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1302,7 +1302,7 @@
       },
       {
         "district": "Aurangabad",
-        "confirmed": 1,
+        "confirmed": 3,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1326,7 +1326,7 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 52,
+        "confirmed": 49,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1342,7 +1342,7 @@
       },
       {
         "district": "Satara",
-        "confirmed": 2,
+        "confirmed": 3,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1389,6 +1389,14 @@
         }
       },
       {
+        "district": "Osmanabad",
+        "confirmed": 3,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      {
         "district": "Washim",
         "confirmed": 1,
         "lastupdatedtime": "",
@@ -1415,14 +1423,6 @@
       {
         "district": "Latur",
         "confirmed": 8,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      {
-        "district": "Osmanabad",
-        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1528,18 +1528,18 @@
     "districtData": [
       {
         "district": "S.P.S. Nellore",
-        "confirmed": 32,
+        "confirmed": 34,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       {
         "district": "Prakasam",
-        "confirmed": 21,
+        "confirmed": 23,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       {
@@ -1568,10 +1568,10 @@
       },
       {
         "district": "Chittoor",
-        "confirmed": 10,
+        "confirmed": 17,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 7
         }
       },
       {
@@ -1584,10 +1584,10 @@
       },
       {
         "district": "Kurnool",
-        "confirmed": 4,
+        "confirmed": 27,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 23
         }
       },
       {
@@ -2370,7 +2370,7 @@
     "districtData": [
       {
         "district": "Unknown",
-        "confirmed": 153,
+        "confirmed": 119,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
