@@ -1270,7 +1270,7 @@
       },
       {
         "district": "Nagpur",
-        "confirmed": 13,
+        "confirmed": 14,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1278,7 +1278,7 @@
       },
       {
         "district": "Thane",
-        "confirmed": 25,
+        "confirmed": 32,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1326,7 +1326,7 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 136,
+        "confirmed": 118,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1391,6 +1391,22 @@
       {
         "district": "Amravati",
         "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      {
+        "district": "Latur",
+        "confirmed": 8,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      {
+        "district": "Osmanabad",
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
