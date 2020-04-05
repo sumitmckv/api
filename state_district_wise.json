@@ -856,10 +856,10 @@
         }
       },
       "Ranipet": {
-        "confirmed": 22,
+        "confirmed": 24,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Ramanathapuram": {
@@ -909,13 +909,6 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 4
-        }
-      },
-      "Unknown": {
-        "confirmed": 2,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 2
         }
       }
     }

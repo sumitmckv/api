@@ -84117,7 +84117,7 @@
 			"detectedstate": "Kerala",
 			"estimatedonsetdate": "",
 			"gender": "",
-			"nationality": "",
+			"nationality": "India",
 			"notes": "Travelled from Dubai",
 			"patientnumber": "3824",
 			"source1": "http://dhs.kerala.gov.in/wp-content/uploads/2020/04/Daily-Bulletin-HFWD-English-April-5-1.pdf",
@@ -84261,7 +84261,7 @@
 			"typeoftransmission": ""
 		},
 		{
-			"agebracket": "",
+			"agebracket": "7",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
@@ -84270,9 +84270,9 @@
 			"detecteddistrict": "Kasaragod",
 			"detectedstate": "Kerala",
 			"estimatedonsetdate": "",
-			"gender": "",
-			"nationality": "",
-			"notes": "Details awaited",
+			"gender": "M",
+			"nationality": "India",
+			"notes": "Parents are confimed positive ",
 			"patientnumber": "3831",
 			"source1": "http://dhs.kerala.gov.in/wp-content/uploads/2020/04/Daily-Bulletin-HFWD-English-April-5-1.pdf",
 			"source2": "",
@@ -84280,7 +84280,7 @@
 			"statecode": "KL",
 			"statepatientnumber": "",
 			"statuschangedate": "05/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "36",
@@ -85631,7 +85631,7 @@
 			"currentstatus": "Hospitalized",
 			"dateannounced": "05/04/2020",
 			"detectedcity": "Ranipet",
-			"detecteddistrict": "",
+			"detecteddistrict": "Ranipet",
 			"detectedstate": "Tamil Nadu",
 			"estimatedonsetdate": "",
 			"gender": "M",
@@ -85653,7 +85653,7 @@
 			"currentstatus": "Hospitalized",
 			"dateannounced": "05/04/2020",
 			"detectedcity": "Ranipet",
-			"detecteddistrict": "",
+			"detecteddistrict": "Ranipet",
 			"detectedstate": "Tamil Nadu",
 			"estimatedonsetdate": "",
 			"gender": "M",
