@@ -600,7 +600,7 @@
 			"confirmeddelta": "530",
 			"counterforautotimeupdate": "645",
 			"deceaseddelta": "20",
-			"lastupdatedtime": "05/04/2020 21:53:25",
+			"lastupdatedtime": "05/04/2020 22:00:24",
 			"recovereddelta": "31",
 			"statesdelta": "0"
 		}
@@ -619,7 +619,7 @@
 			"deltaconfirmed": "530",
 			"deltadeaths": "20",
 			"deltarecovered": "31",
-			"lastupdatedtime": "05/04/2020 21:53:25",
+			"lastupdatedtime": "05/04/2020 22:00:24",
 			"recovered": "317",
 			"state": "Total",
 			"statecode": "TT"
@@ -709,7 +709,7 @@
 			"deltaconfirmed": "30",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "05/04/2020 21:53:30",
+			"lastupdatedtime": "05/04/2020 22:00:24",
 			"recovered": "33",
 			"state": "Telangana",
 			"statecode": "TG"
@@ -727,7 +727,7 @@
 			"deltaconfirmed": "44",
 			"deltadeaths": "1",
 			"deltarecovered": "0",
-			"lastupdatedtime": "05/04/2020 21:53:42",
+			"lastupdatedtime": "05/04/2020 22:00:25",
 			"recovered": "21",
 			"state": "Uttar Pradesh",
 			"statecode": "UP"
