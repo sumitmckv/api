@@ -21,7 +21,7 @@
 			"id": "5"
 		},
 		{
-			"banner": "If you do not have a 🕯️, it's okay - no need go out to buy it. Use your mobile flash. 🤳",
+			"banner": "If you do not have a 🕯️, it's okay. No need go out to buy it. Use your mobile flash. 🤳",
 			"id": "6"
 		},
 		{
@@ -37,8 +37,12 @@
 			"id": "9"
 		},
 		{
-			"banner": "",
+			"banner": " ✔️ DO go out into your balconies/windows with your family at 9PM and reiterate that we shall overcome this, together.😀",
 			"id": "10"
+		},
+		{
+			"banner": "✔️DO use your mobile flashlight 🤳 or a torch if you do not have a  🕯️ at home.",
+			"id": "11"
 		}
 	]
 }
