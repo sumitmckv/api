@@ -217,10 +217,10 @@
   "Rajasthan": {
     "districtData": {
       "Jaipur": {
-        "confirmed": 56,
+        "confirmed": 92,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 37
         }
       },
       "Jhunjhunu": {
@@ -1422,10 +1422,10 @@
         }
       },
       "Kurnool": {
-        "confirmed": 27,
+        "confirmed": 53,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 23
+          "confirmed": 49
         }
       },
       "Anantapur": {
@@ -2117,17 +2117,6 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
-        }
-      }
-    }
-  },
-  "Unknown": {
-    "districtData": {
-      "Unknown": {
-        "confirmed": 36,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 36
         }
       }
     }

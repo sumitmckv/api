@@ -597,30 +597,30 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "359",
+			"confirmeddelta": "421",
 			"counterforautotimeupdate": "645",
 			"deceaseddelta": "8",
-			"lastupdatedtime": "05/04/2020 19:30:29",
-			"recovereddelta": "18",
+			"lastupdatedtime": "05/04/2020 19:38:26",
+			"recovereddelta": "21",
 			"statesdelta": "0"
 		}
 	],
 	"statewise": [
 		{
-			"active": "3630",
-			"confirmed": "4041",
+			"active": "3689",
+			"confirmed": "4103",
 			"deaths": "107",
 			"delta": {
-				"active": 359,
-				"confirmed": 359,
+				"active": 421,
+				"confirmed": 421,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"deltaconfirmed": "359",
+			"deltaconfirmed": "421",
 			"deltadeaths": "8",
-			"deltarecovered": "18",
-			"lastupdatedtime": "05/04/2020 19:30:29",
-			"recovered": "304",
+			"deltarecovered": "21",
+			"lastupdatedtime": "05/04/2020 19:38:26",
+			"recovered": "307",
 			"state": "Total",
 			"statecode": "TT"
 		},
@@ -733,38 +733,38 @@
 			"statecode": "UP"
 		},
 		{
-			"active": "187",
-			"confirmed": "213",
+			"active": "223",
+			"confirmed": "249",
 			"deaths": "1",
 			"delta": {
-				"active": 9,
-				"confirmed": 9,
+				"active": 45,
+				"confirmed": 45,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"deltaconfirmed": "9",
+			"deltaconfirmed": "45",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "05/04/2020 19:30:35",
+			"lastupdatedtime": "05/04/2020 19:38:31",
 			"recovered": "25",
 			"state": "Rajasthan",
 			"statecode": "RJ"
 		},
 		{
-			"active": "223",
-			"confirmed": "226",
+			"active": "246",
+			"confirmed": "252",
 			"deaths": "1",
 			"delta": {
-				"active": 34,
-				"confirmed": 34,
+				"active": 60,
+				"confirmed": 60,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"deltaconfirmed": "34",
+			"deltaconfirmed": "60",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "05/04/2020 11:36:25",
-			"recovered": "2",
+			"deltarecovered": "3",
+			"lastupdatedtime": "05/04/2020 19:38:34",
+			"recovered": "5",
 			"state": "Andhra Pradesh",
 			"statecode": "AP"
 		},
