@@ -1977,6 +1977,13 @@
         "delta": {
           "confirmed": 0
         }
+      },
+      "Bokaro": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
+        }
       }
     }
   },
@@ -2068,7 +2075,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 105,
+        "confirmed": 104,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0

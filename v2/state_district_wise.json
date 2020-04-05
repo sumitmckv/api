@@ -2272,6 +2272,14 @@
         "delta": {
           "confirmed": 0
         }
+      },
+      {
+        "district": "Bokaro",
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
+        }
       }
     ]
   },
@@ -2378,7 +2386,7 @@
     "districtData": [
       {
         "district": "Unknown",
-        "confirmed": 105,
+        "confirmed": 104,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0

@@ -588,39 +588,39 @@
 		{
 			"dailyconfirmed": "566",
 			"dailydeceased": "13",
-			"dailyrecovered": "53",
+			"dailyrecovered": "56",
 			"date": "04 April ",
 			"totalconfirmed": "3671",
 			"totaldeceased": "99",
-			"totalrecovered": "283"
+			"totalrecovered": "286"
 		}
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "48",
+			"confirmeddelta": "49",
 			"counterforautotimeupdate": "645",
 			"deceaseddelta": "1",
-			"lastupdatedtime": "05/04/2020 12:06:27",
+			"lastupdatedtime": "05/04/2020 12:10:30",
 			"recovereddelta": "4",
 			"statesdelta": "0"
 		}
 	],
 	"statewise": [
 		{
-			"active": "3332",
-			"confirmed": "3719",
+			"active": "3330",
+			"confirmed": "3720",
 			"deaths": "100",
 			"delta": {
-				"active": 48,
-				"confirmed": 48,
+				"active": 49,
+				"confirmed": 49,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"deltaconfirmed": "48",
+			"deltaconfirmed": "49",
 			"deltadeaths": "1",
 			"deltarecovered": "4",
-			"lastupdatedtime": "05/04/2020 12:06:27",
-			"recovered": "287",
+			"lastupdatedtime": "05/04/2020 12:10:30",
+			"recovered": "290",
 			"state": "Total",
 			"statecode": "TT"
 		},
@@ -805,7 +805,7 @@
 			"statecode": "KA"
 		},
 		{
-			"active": "97",
+			"active": "94",
 			"confirmed": "122",
 			"deaths": "11",
 			"delta": {
@@ -817,8 +817,8 @@
 			"deltaconfirmed": "14",
 			"deltadeaths": "1",
 			"deltarecovered": "4",
-			"lastupdatedtime": "05/04/2020 12:06:36",
-			"recovered": "14",
+			"lastupdatedtime": "05/04/2020 12:10:35",
+			"recovered": "17",
 			"state": "Gujarat",
 			"statecode": "GJ"
 		},
@@ -1093,19 +1093,19 @@
 			"statecode": "PY"
 		},
 		{
-			"active": "2",
-			"confirmed": "2",
+			"active": "3",
+			"confirmed": "3",
 			"deaths": "0",
 			"delta": {
-				"active": 0,
-				"confirmed": 0,
+				"active": 1,
+				"confirmed": 1,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "1",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "02/04/2020 19:42:30",
+			"lastupdatedtime": "05/04/2020 12:10:40",
 			"recovered": "0",
 			"state": "Jharkhand",
 			"statecode": "JH"
