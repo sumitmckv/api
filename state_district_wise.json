@@ -1099,7 +1099,7 @@
         }
       },
       "Mumbai": {
-        "confirmed": 358,
+        "confirmed": 361,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1155,7 +1155,7 @@
         }
       },
       "Unknown": {
-        "confirmed": 52,
+        "confirmed": 49,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
