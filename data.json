@@ -597,47 +597,47 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "57",
+			"confirmeddelta": "112",
 			"counterforautotimeupdate": "645",
 			"deceaseddelta": "5",
-			"lastupdatedtime": "05/04/2020 15:23:26",
+			"lastupdatedtime": "05/04/2020 15:35:24",
 			"recovereddelta": "8",
 			"statesdelta": "0"
 		}
 	],
 	"statewise": [
 		{
-			"active": "3334",
-			"confirmed": "3732",
+			"active": "3389",
+			"confirmed": "3787",
 			"deaths": "104",
 			"delta": {
-				"active": 57,
-				"confirmed": 57,
+				"active": 112,
+				"confirmed": 112,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"deltaconfirmed": "57",
+			"deltaconfirmed": "112",
 			"deltadeaths": "5",
 			"deltarecovered": "8",
-			"lastupdatedtime": "05/04/2020 15:23:26",
+			"lastupdatedtime": "05/04/2020 15:35:24",
 			"recovered": "294",
 			"state": "Total",
 			"statecode": "TT"
 		},
 		{
-			"active": "549",
-			"confirmed": "635",
+			"active": "604",
+			"confirmed": "690",
 			"deaths": "34",
 			"delta": {
-				"active": 0,
-				"confirmed": 0,
+				"active": 55,
+				"confirmed": 55,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "55",
 			"deltadeaths": "2",
 			"deltarecovered": "0",
-			"lastupdatedtime": "05/04/2020 13:46:27",
+			"lastupdatedtime": "05/04/2020 15:35:27",
 			"recovered": "52",
 			"state": "Maharashtra",
 			"statecode": "MH"

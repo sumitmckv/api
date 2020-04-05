@@ -1099,17 +1099,17 @@
   "Maharashtra": {
     "districtData": {
       "Pune": {
-        "confirmed": 81,
+        "confirmed": 98,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 17
         }
       },
       "Mumbai": {
-        "confirmed": 359,
+        "confirmed": 388,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 29
         }
       },
       "Nagpur": {
@@ -1127,10 +1127,10 @@
         }
       },
       "Ahmadnagar": {
-        "confirmed": 17,
+        "confirmed": 20,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       "Yavatmal": {
@@ -1141,10 +1141,10 @@
         }
       },
       "Aurangabad": {
-        "confirmed": 3,
+        "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Ratnagiri": {
@@ -1162,10 +1162,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 49,
+        "confirmed": 53,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 4
         }
       },
       "Sangli": {
@@ -2082,7 +2082,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 92,
+        "confirmed": 37,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
