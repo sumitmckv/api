@@ -1092,14 +1092,14 @@
   "Maharashtra": {
     "districtData": {
       "Pune": {
-        "confirmed": 75,
+        "confirmed": 84,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       },
       "Mumbai": {
-        "confirmed": 354,
+        "confirmed": 361,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1113,7 +1113,7 @@
         }
       },
       "Thane": {
-        "confirmed": 32,
+        "confirmed": 42,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1141,7 +1141,7 @@
         }
       },
       "Ratnagiri": {
-        "confirmed": 1,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1155,7 +1155,7 @@
         }
       },
       "Unknown": {
-        "confirmed": 82,
+        "confirmed": 52,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1190,7 +1190,7 @@
         }
       },
       "Jalgaon": {
-        "confirmed": 1,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1205,6 +1205,20 @@
       },
       "Buldana": {
         "confirmed": 6,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      "Washim": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      "Hingoli": {
+        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0

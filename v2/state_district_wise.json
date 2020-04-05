@@ -1254,7 +1254,7 @@
     "districtData": [
       {
         "district": "Pune",
-        "confirmed": 75,
+        "confirmed": 84,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1262,7 +1262,7 @@
       },
       {
         "district": "Mumbai",
-        "confirmed": 354,
+        "confirmed": 361,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1278,7 +1278,7 @@
       },
       {
         "district": "Thane",
-        "confirmed": 32,
+        "confirmed": 42,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1310,7 +1310,7 @@
       },
       {
         "district": "Ratnagiri",
-        "confirmed": 1,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1326,7 +1326,7 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 82,
+        "confirmed": 52,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1366,7 +1366,7 @@
       },
       {
         "district": "Jalgaon",
-        "confirmed": 1,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1383,6 +1383,22 @@
       {
         "district": "Buldana",
         "confirmed": 6,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      {
+        "district": "Washim",
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      {
+        "district": "Hingoli",
+        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
