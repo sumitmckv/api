@@ -1113,7 +1113,7 @@
         }
       },
       "Mumbai": {
-        "confirmed": 392,
+        "confirmed": 390,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 29
@@ -1127,7 +1127,7 @@
         }
       },
       "Thane": {
-        "confirmed": 50,
+        "confirmed": 52,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
