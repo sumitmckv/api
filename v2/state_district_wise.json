@@ -1278,7 +1278,7 @@
       },
       {
         "district": "Mumbai",
-        "confirmed": 387,
+        "confirmed": 392,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 29
@@ -1294,7 +1294,7 @@
       },
       {
         "district": "Thane",
-        "confirmed": 49,
+        "confirmed": 50,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1333,22 +1333,6 @@
         }
       },
       {
-        "district": "Mumbai Suburban",
-        "confirmed": 4,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      {
-        "district": "Unknown",
-        "confirmed": 49,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      {
         "district": "Sangli",
         "confirmed": 25,
         "lastupdatedtime": "",
@@ -1359,6 +1343,14 @@
       {
         "district": "Satara",
         "confirmed": 3,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      {
+        "district": "Unknown",
+        "confirmed": 47,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1451,7 +1443,7 @@
     "districtData": [
       {
         "district": "Amritsar",
-        "confirmed": 9,
+        "confirmed": 8,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1491,14 +1483,14 @@
       },
       {
         "district": "Ludhiana",
-        "confirmed": 4,
+        "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 1
         }
       },
       {
-        "district": "Unknown",
+        "district": "Patiala",
         "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {

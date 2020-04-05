@@ -478,16 +478,16 @@
 			"totalrecovered": "23"
 		},
 		{
-			"dailyconfirmed": "102",
+			"dailyconfirmed": "101",
 			"dailydeceased": "2",
 			"dailyrecovered": "2",
 			"date": "23 March ",
-			"totalconfirmed": "505",
+			"totalconfirmed": "504",
 			"totaldeceased": "9",
 			"totalrecovered": "25"
 		},
 		{
-			"dailyconfirmed": "66",
+			"dailyconfirmed": "67",
 			"dailydeceased": "1",
 			"dailyrecovered": "15",
 			"date": "24 March ",
@@ -600,7 +600,7 @@
 			"confirmeddelta": "148",
 			"counterforautotimeupdate": "645",
 			"deceaseddelta": "8",
-			"lastupdatedtime": "05/04/2020 17:51:24",
+			"lastupdatedtime": "05/04/2020 17:54:25",
 			"recovereddelta": "9",
 			"statesdelta": "0"
 		}
@@ -619,7 +619,7 @@
 			"deltaconfirmed": "148",
 			"deltadeaths": "8",
 			"deltarecovered": "9",
-			"lastupdatedtime": "05/04/2020 17:51:24",
+			"lastupdatedtime": "05/04/2020 17:54:25",
 			"recovered": "295",
 			"state": "Total",
 			"statecode": "TT"
@@ -943,7 +943,7 @@
 			"deltaconfirmed": "4",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "05/04/2020 17:51:28",
+			"lastupdatedtime": "05/04/2020 17:54:29",
 			"recovered": "2",
 			"state": "Uttarakhand",
 			"statecode": "UT"
