@@ -600,7 +600,7 @@
 			"confirmeddelta": "240",
 			"counterforautotimeupdate": "645",
 			"deceaseddelta": "8",
-			"lastupdatedtime": "05/04/2020 18:45:26",
+			"lastupdatedtime": "05/04/2020 18:47:25",
 			"recovereddelta": "18",
 			"statesdelta": "0"
 		}
@@ -619,7 +619,7 @@
 			"deltaconfirmed": "240",
 			"deltadeaths": "8",
 			"deltarecovered": "18",
-			"lastupdatedtime": "05/04/2020 18:45:26",
+			"lastupdatedtime": "05/04/2020 18:47:25",
 			"recovered": "304",
 			"state": "Total",
 			"statecode": "TT"
@@ -655,7 +655,7 @@
 			"deltaconfirmed": "86",
 			"deltadeaths": "2",
 			"deltarecovered": "0",
-			"lastupdatedtime": "05/04/2020 18:45:27",
+			"lastupdatedtime": "05/04/2020 18:47:27",
 			"recovered": "8",
 			"state": "Tamil Nadu",
 			"statecode": "TN"

@@ -688,17 +688,17 @@
   "Tamil Nadu": {
     "districtData": {
       "Kancheepuram": {
-        "confirmed": 4,
+        "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Chennai": {
-        "confirmed": 91,
+        "confirmed": 98,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 7
         }
       },
       "Erode": {
@@ -709,17 +709,17 @@
         }
       },
       "Coimbatore": {
-        "confirmed": 33,
+        "confirmed": 62,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 29
         }
       },
       "Tirunelveli": {
-        "confirmed": 37,
+        "confirmed": 38,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Tiruppur": {
@@ -730,24 +730,24 @@
         }
       },
       "Madurai": {
-        "confirmed": 17,
+        "confirmed": 19,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Salem": {
-        "confirmed": 9,
+        "confirmed": 12,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       "Vellore": {
-        "confirmed": 5,
+        "confirmed": 6,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 2
         }
       },
       "Tiruchirappalli": {
@@ -758,10 +758,10 @@
         }
       },
       "Chengalpattu": {
-        "confirmed": 15,
+        "confirmed": 18,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       "Thanjavur": {
@@ -786,10 +786,10 @@
         }
       },
       "Tiruvannamalai": {
-        "confirmed": 2,
+        "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Viluppuram": {
@@ -800,24 +800,24 @@
         }
       },
       "Namakkal": {
-        "confirmed": 24,
+        "confirmed": 25,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Kanniyakumari": {
-        "confirmed": 5,
+        "confirmed": 6,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Thoothukkudi": {
-        "confirmed": 9,
+        "confirmed": 11,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Theni": {
@@ -870,10 +870,10 @@
         }
       },
       "Thiruvallur": {
-        "confirmed": 11,
+        "confirmed": 12,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Nagapattinam": {
@@ -884,10 +884,10 @@
         }
       },
       "Cuddalore": {
-        "confirmed": 3,
+        "confirmed": 10,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 7
         }
       },
       "Kallakurichi": {
@@ -904,11 +904,18 @@
           "confirmed": 0
         }
       },
-      "Unknown": {
-        "confirmed": 67,
+      "The Nilgiris": {
+        "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 67
+          "confirmed": 4
+        }
+      },
+      "Unknown": {
+        "confirmed": 2,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 2
         }
       }
     }
@@ -1134,7 +1141,7 @@
         }
       },
       "Thane": {
-        "confirmed": 64,
+        "confirmed": 77,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1231,13 +1238,6 @@
           "confirmed": 0
         }
       },
-      "Unknown": {
-        "confirmed": 14,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
       "Osmanabad": {
         "confirmed": 3,
         "lastupdatedtime": "",
@@ -1253,6 +1253,13 @@
         }
       },
       "Hingoli": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      "Unknown": {
         "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
