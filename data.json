@@ -600,14 +600,14 @@
 			"confirmeddelta": "55",
 			"counterforautotimeupdate": "645",
 			"deceaseddelta": "3",
-			"lastupdatedtime": "05/04/2020 13:28:24",
-			"recovereddelta": "4",
+			"lastupdatedtime": "05/04/2020 13:41:24",
+			"recovereddelta": "8",
 			"statesdelta": "0"
 		}
 	],
 	"statewise": [
 		{
-			"active": "3338",
+			"active": "3334",
 			"confirmed": "3730",
 			"deaths": "102",
 			"delta": {
@@ -618,9 +618,9 @@
 			},
 			"deltaconfirmed": "55",
 			"deltadeaths": "3",
-			"deltarecovered": "4",
-			"lastupdatedtime": "05/04/2020 13:28:24",
-			"recovered": "290",
+			"deltarecovered": "8",
+			"lastupdatedtime": "05/04/2020 13:41:24",
+			"recovered": "294",
 			"state": "Total",
 			"statecode": "TT"
 		},
@@ -1093,7 +1093,7 @@
 			"statecode": "PY"
 		},
 		{
-			"active": "3",
+			"active": "-1",
 			"confirmed": "3",
 			"deaths": "0",
 			"delta": {
@@ -1104,9 +1104,9 @@
 			},
 			"deltaconfirmed": "1",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "05/04/2020 12:10:40",
-			"recovered": "0",
+			"deltarecovered": "4",
+			"lastupdatedtime": "05/04/2020 13:41:29",
+			"recovered": "4",
 			"state": "Jharkhand",
 			"statecode": "JH"
 		},
