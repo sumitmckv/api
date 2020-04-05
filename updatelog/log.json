@@ -1,9 +1,5 @@
 [
   {
-    "update": "1 recovery in Punjab\n",
-    "timestamp": 1586009355
-  },
-  {
     "update": "3 new cases in Gujarat\n1 new case in Bihar\n",
     "timestamp": 1586010945
   },
@@ -198,5 +194,9 @@
   {
     "update": "1 death in Uttar Pradesh\n",
     "timestamp": 1586103473
+  },
+  {
+    "update": "30 new cases in Telangana\n",
+    "timestamp": 1586103857
   }
 ]
