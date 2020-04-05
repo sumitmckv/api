@@ -1099,10 +1099,10 @@
   "Maharashtra": {
     "districtData": {
       "Pune": {
-        "confirmed": 98,
+        "confirmed": 102,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 17
+          "confirmed": 21
         }
       },
       "Mumbai": {
@@ -1162,10 +1162,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 53,
+        "confirmed": 49,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 4
+          "confirmed": 0
         }
       },
       "Sangli": {
@@ -1458,10 +1458,10 @@
   "Odisha": {
     "districtData": {
       "Khordha": {
-        "confirmed": 14,
+        "confirmed": 16,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Bhadrak": {
@@ -2082,7 +2082,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 37,
+        "confirmed": 35,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
