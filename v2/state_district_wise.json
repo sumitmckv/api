@@ -2125,18 +2125,18 @@
       },
       {
         "district": "Bhopal",
-        "confirmed": 15,
+        "confirmed": 18,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       {
         "district": "Indore",
-        "confirmed": 128,
+        "confirmed": 135,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 7
         }
       },
       {
@@ -2181,18 +2181,18 @@
       },
       {
         "district": "Khargone",
-        "confirmed": 3,
+        "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       {
-        "district": "Unknown",
-        "confirmed": 14,
+        "district": "Barwani",
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 14
+          "confirmed": 2
         }
       }
     ]
