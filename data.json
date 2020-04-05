@@ -597,29 +597,29 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "440",
+			"confirmeddelta": "484",
 			"counterforautotimeupdate": "645",
 			"deceaseddelta": "19",
-			"lastupdatedtime": "05/04/2020 21:19:27",
+			"lastupdatedtime": "05/04/2020 21:24:24",
 			"recovereddelta": "29",
 			"statesdelta": "0"
 		}
 	],
 	"statewise": [
 		{
-			"active": "3689",
-			"confirmed": "4122",
+			"active": "3733",
+			"confirmed": "4166",
 			"deaths": "118",
 			"delta": {
-				"active": 440,
-				"confirmed": 440,
+				"active": 484,
+				"confirmed": 484,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"deltaconfirmed": "440",
+			"deltaconfirmed": "484",
 			"deltadeaths": "19",
 			"deltarecovered": "29",
-			"lastupdatedtime": "05/04/2020 21:19:27",
+			"lastupdatedtime": "05/04/2020 21:24:24",
 			"recovered": "315",
 			"state": "Total",
 			"statecode": "TT"
@@ -673,7 +673,7 @@
 			"deltaconfirmed": "58",
 			"deltadeaths": "1",
 			"deltarecovered": "0",
-			"lastupdatedtime": "05/04/2020 21:19:30",
+			"lastupdatedtime": "05/04/2020 21:24:25",
 			"recovered": "16",
 			"state": "Delhi",
 			"statecode": "DL"
@@ -715,19 +715,19 @@
 			"statecode": "TG"
 		},
 		{
-			"active": "211",
-			"confirmed": "234",
+			"active": "255",
+			"confirmed": "278",
 			"deaths": "2",
 			"delta": {
-				"active": 0,
-				"confirmed": 0,
+				"active": 44,
+				"confirmed": 44,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "44",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "04/04/2020 21:43:24",
+			"lastupdatedtime": "05/04/2020 21:24:27",
 			"recovered": "21",
 			"state": "Uttar Pradesh",
 			"statecode": "UP"

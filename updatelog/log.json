@@ -1,9 +1,5 @@
 [
   {
-    "update": "18 recoveries in Rajasthan\n",
-    "timestamp": 1586006549
-  },
-  {
     "update": "4 recoveries in Rajasthan\n",
     "timestamp": 1586006942
   },
@@ -198,5 +194,9 @@
   {
     "update": "1 death in Delhi\n",
     "timestamp": 1586101822
+  },
+  {
+    "update": "44 new cases in Uttar Pradesh\n",
+    "timestamp": 1586102208
   }
 ]
