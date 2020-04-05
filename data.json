@@ -586,18 +586,18 @@
 			"totalrecovered": "230"
 		},
 		{
-			"dailyconfirmed": "577",
+			"dailyconfirmed": "579",
 			"dailydeceased": "13",
 			"dailyrecovered": "56",
 			"date": "04 April ",
-			"totalconfirmed": "3682",
+			"totalconfirmed": "3684",
 			"totaldeceased": "99",
 			"totalrecovered": "286"
 		}
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "536",
+			"confirmeddelta": "527",
 			"counterforautotimeupdate": "645",
 			"deceaseddelta": "20",
 			"lastupdatedtime": "05/04/2020 23:00:54",
@@ -607,16 +607,16 @@
 	],
 	"statewise": [
 		{
-			"active": "3778",
-			"confirmed": "4218",
+			"active": "3771",
+			"confirmed": "4211",
 			"deaths": "119",
 			"delta": {
-				"active": 535,
-				"confirmed": 536,
+				"active": 533,
+				"confirmed": 534,
 				"deaths": 1,
 				"recovered": 0
 			},
-			"deltaconfirmed": "536",
+			"deltaconfirmed": "527",
 			"deltadeaths": "20",
 			"deltarecovered": "35",
 			"lastupdatedtime": "05/04/2020 23:00:54",
@@ -697,8 +697,8 @@
 			"statecode": "KL"
 		},
 		{
-			"active": "252",
-			"confirmed": "296",
+			"active": "245",
+			"confirmed": "289",
 			"deaths": "11",
 			"delta": {
 				"active": 24,
@@ -706,7 +706,7 @@
 				"deaths": 0,
 				"recovered": 0
 			},
-			"deltaconfirmed": "24",
+			"deltaconfirmed": "17",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
 			"lastupdatedtime": "05/04/2020 23:00:56",
@@ -737,12 +737,12 @@
 			"confirmed": "260",
 			"deaths": "1",
 			"delta": {
-				"active": 56,
-				"confirmed": 56,
+				"active": 54,
+				"confirmed": 54,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"deltaconfirmed": "56",
+			"deltaconfirmed": "54",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
 			"lastupdatedtime": "05/04/2020 22:39:31",
