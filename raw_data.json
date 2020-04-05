@@ -37308,7 +37308,7 @@
 			"source2": "https://twitter.com/ANI/status/1245252480969199617",
 			"source3": "",
 			"statecode": "AP",
-			"statepatientnumber": "",
+			"statepatientnumber": "AP-P110",
 			"statuschangedate": "01/04/2020",
 			"typeoftransmission": "TBD"
 		},
@@ -43715,7 +43715,7 @@
 			"typeoftransmission": ""
 		},
 		{
-			"agebracket": "",
+			"agebracket": "36",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
@@ -43724,7 +43724,7 @@
 			"detecteddistrict": "Krishna",
 			"detectedstate": "Andhra Pradesh",
 			"estimatedonsetdate": "",
-			"gender": "",
+			"gender": "M",
 			"nationality": "",
 			"notes": "Details awaited",
 			"patientnumber": "1988",
@@ -43732,12 +43732,12 @@
 			"source2": "",
 			"source3": "",
 			"statecode": "AP",
-			"statepatientnumber": "",
+			"statepatientnumber": "AP-P102",
 			"statuschangedate": "01/04/2020",
 			"typeoftransmission": ""
 		},
 		{
-			"agebracket": "",
+			"agebracket": "52",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
@@ -43746,7 +43746,7 @@
 			"detecteddistrict": "Krishna",
 			"detectedstate": "Andhra Pradesh",
 			"estimatedonsetdate": "",
-			"gender": "",
+			"gender": "M",
 			"nationality": "",
 			"notes": "Details awaited",
 			"patientnumber": "1989",
@@ -43754,12 +43754,12 @@
 			"source2": "",
 			"source3": "",
 			"statecode": "AP",
-			"statepatientnumber": "",
+			"statepatientnumber": "AP-P103",
 			"statuschangedate": "01/04/2020",
 			"typeoftransmission": ""
 		},
 		{
-			"agebracket": "",
+			"agebracket": "52",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
@@ -43768,7 +43768,7 @@
 			"detecteddistrict": "Krishna",
 			"detectedstate": "Andhra Pradesh",
 			"estimatedonsetdate": "",
-			"gender": "",
+			"gender": "M",
 			"nationality": "",
 			"notes": "Details awaited",
 			"patientnumber": "1990",
@@ -43776,7 +43776,7 @@
 			"source2": "",
 			"source3": "",
 			"statecode": "AP",
-			"statepatientnumber": "",
+			"statepatientnumber": "AP-P104",
 			"statuschangedate": "01/04/2020",
 			"typeoftransmission": ""
 		},
@@ -43790,7 +43790,7 @@
 			"detecteddistrict": "Krishna",
 			"detectedstate": "Andhra Pradesh",
 			"estimatedonsetdate": "",
-			"gender": "",
+			"gender": "M",
 			"nationality": "",
 			"notes": "Details awaited",
 			"patientnumber": "1991",
@@ -43798,12 +43798,12 @@
 			"source2": "",
 			"source3": "",
 			"statecode": "AP",
-			"statepatientnumber": "",
+			"statepatientnumber": "AP-P105",
 			"statuschangedate": "01/04/2020",
 			"typeoftransmission": ""
 		},
 		{
-			"agebracket": "",
+			"agebracket": "31",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
@@ -43812,7 +43812,7 @@
 			"detecteddistrict": "Krishna",
 			"detectedstate": "Andhra Pradesh",
 			"estimatedonsetdate": "",
-			"gender": "",
+			"gender": "M",
 			"nationality": "",
 			"notes": "Details awaited",
 			"patientnumber": "1992",
@@ -43820,12 +43820,12 @@
 			"source2": "",
 			"source3": "",
 			"statecode": "AP",
-			"statepatientnumber": "",
+			"statepatientnumber": "AP-P106",
 			"statuschangedate": "01/04/2020",
 			"typeoftransmission": ""
 		},
 		{
-			"agebracket": "",
+			"agebracket": "10",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
@@ -43834,7 +43834,7 @@
 			"detecteddistrict": "Krishna",
 			"detectedstate": "Andhra Pradesh",
 			"estimatedonsetdate": "",
-			"gender": "",
+			"gender": "F",
 			"nationality": "",
 			"notes": "Details awaited",
 			"patientnumber": "1993",
@@ -43842,12 +43842,12 @@
 			"source2": "",
 			"source3": "",
 			"statecode": "AP",
-			"statepatientnumber": "",
+			"statepatientnumber": "AP-P107",
 			"statuschangedate": "01/04/2020",
 			"typeoftransmission": ""
 		},
 		{
-			"agebracket": "",
+			"agebracket": "10",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
@@ -43856,7 +43856,7 @@
 			"detecteddistrict": "Krishna",
 			"detectedstate": "Andhra Pradesh",
 			"estimatedonsetdate": "",
-			"gender": "",
+			"gender": "F",
 			"nationality": "",
 			"notes": "Details awaited",
 			"patientnumber": "1994",
@@ -43864,7 +43864,7 @@
 			"source2": "",
 			"source3": "",
 			"statecode": "AP",
-			"statepatientnumber": "",
+			"statepatientnumber": "AP-P108",
 			"statuschangedate": "01/04/2020",
 			"typeoftransmission": ""
 		},
@@ -43878,7 +43878,7 @@
 			"detecteddistrict": "Krishna",
 			"detectedstate": "Andhra Pradesh",
 			"estimatedonsetdate": "",
-			"gender": "",
+			"gender": "M",
 			"nationality": "",
 			"notes": "Details awaited",
 			"patientnumber": "1995",
@@ -43886,12 +43886,12 @@
 			"source2": "",
 			"source3": "",
 			"statecode": "AP",
-			"statepatientnumber": "",
+			"statepatientnumber": "AP-P109",
 			"statuschangedate": "01/04/2020",
 			"typeoftransmission": ""
 		},
 		{
-			"agebracket": "",
+			"agebracket": "10",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
@@ -43900,7 +43900,7 @@
 			"detecteddistrict": "Krishna",
 			"detectedstate": "Andhra Pradesh",
 			"estimatedonsetdate": "",
-			"gender": "",
+			"gender": "M",
 			"nationality": "",
 			"notes": "Details awaited",
 			"patientnumber": "1996",
@@ -43908,7 +43908,7 @@
 			"source2": "",
 			"source3": "",
 			"statecode": "AP",
-			"statepatientnumber": "",
+			"statepatientnumber": "AP-P110",
 			"statuschangedate": "01/04/2020",
 			"typeoftransmission": ""
 		},
@@ -43935,7 +43935,7 @@
 			"typeoftransmission": ""
 		},
 		{
-			"agebracket": "",
+			"agebracket": "53",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
@@ -43944,7 +43944,7 @@
 			"detecteddistrict": "Guntur",
 			"detectedstate": "Andhra Pradesh",
 			"estimatedonsetdate": "",
-			"gender": "",
+			"gender": "F",
 			"nationality": "",
 			"notes": "Details awaited",
 			"patientnumber": "1998",
@@ -45673,7 +45673,7 @@
 			"typeoftransmission": ""
 		},
 		{
-			"agebracket": "",
+			"agebracket": "43",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
@@ -45690,12 +45690,12 @@
 			"source2": "https://twitter.com/ArogyaAndhra/status/1245580598938198016",
 			"source3": "",
 			"statecode": "AP",
-			"statepatientnumber": "",
+			"statepatientnumber": "AP-P116",
 			"statuschangedate": "02/04/2020",
 			"typeoftransmission": ""
 		},
 		{
-			"agebracket": "",
+			"agebracket": "34",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
@@ -45712,12 +45712,12 @@
 			"source2": "https://twitter.com/ArogyaAndhra/status/1245580598938198016",
 			"source3": "",
 			"statecode": "AP",
-			"statepatientnumber": "",
+			"statepatientnumber": "AP-P117",
 			"statuschangedate": "02/04/2020",
 			"typeoftransmission": ""
 		},
 		{
-			"agebracket": "",
+			"agebracket": "42",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
@@ -45734,7 +45734,7 @@
 			"source2": "https://twitter.com/ArogyaAndhra/status/1245580598938198016",
 			"source3": "",
 			"statecode": "AP",
-			"statepatientnumber": "",
+			"statepatientnumber": "AP-P118",
 			"statuschangedate": "02/04/2020",
 			"typeoftransmission": ""
 		},
@@ -45756,7 +45756,7 @@
 			"source2": "https://twitter.com/ArogyaAndhra/status/1245580598938198016",
 			"source3": "",
 			"statecode": "AP",
-			"statepatientnumber": "",
+			"statepatientnumber": "AP-P119",
 			"statuschangedate": "02/04/2020",
 			"typeoftransmission": ""
 		},
@@ -45778,7 +45778,7 @@
 			"source2": "https://twitter.com/ArogyaAndhra/status/1245580598938198016",
 			"source3": "",
 			"statecode": "AP",
-			"statepatientnumber": "",
+			"statepatientnumber": "AP-P120",
 			"statuschangedate": "02/04/2020",
 			"typeoftransmission": ""
 		},
@@ -45800,7 +45800,7 @@
 			"source2": "https://twitter.com/ArogyaAndhra/status/1245580598938198016",
 			"source3": "",
 			"statecode": "AP",
-			"statepatientnumber": "",
+			"statepatientnumber": "AP-P121",
 			"statuschangedate": "02/04/2020",
 			"typeoftransmission": ""
 		},
@@ -45822,7 +45822,7 @@
 			"source2": "https://twitter.com/ArogyaAndhra/status/1245580598938198016",
 			"source3": "",
 			"statecode": "AP",
-			"statepatientnumber": "",
+			"statepatientnumber": "AP-P122",
 			"statuschangedate": "02/04/2020",
 			"typeoftransmission": ""
 		},
@@ -45844,7 +45844,7 @@
 			"source2": "https://twitter.com/ArogyaAndhra/status/1245580598938198016",
 			"source3": "",
 			"statecode": "AP",
-			"statepatientnumber": "",
+			"statepatientnumber": "AP-P123",
 			"statuschangedate": "02/04/2020",
 			"typeoftransmission": ""
 		},
@@ -45866,7 +45866,7 @@
 			"source2": "https://twitter.com/ArogyaAndhra/status/1245580598938198016",
 			"source3": "",
 			"statecode": "AP",
-			"statepatientnumber": "",
+			"statepatientnumber": "AP-P124",
 			"statuschangedate": "02/04/2020",
 			"typeoftransmission": ""
 		},
@@ -45888,7 +45888,7 @@
 			"source2": "https://twitter.com/ArogyaAndhra/status/1245580598938198016",
 			"source3": "",
 			"statecode": "AP",
-			"statepatientnumber": "",
+			"statepatientnumber": "AP-P125",
 			"statuschangedate": "02/04/2020",
 			"typeoftransmission": ""
 		},
@@ -45910,7 +45910,7 @@
 			"source2": "https://twitter.com/ArogyaAndhra/status/1245580598938198016",
 			"source3": "",
 			"statecode": "AP",
-			"statepatientnumber": "",
+			"statepatientnumber": "AP-P126",
 			"statuschangedate": "02/04/2020",
 			"typeoftransmission": ""
 		},
@@ -45932,7 +45932,7 @@
 			"source2": "https://twitter.com/ArogyaAndhra/status/1245580598938198016",
 			"source3": "",
 			"statecode": "AP",
-			"statepatientnumber": "",
+			"statepatientnumber": "AP-P127",
 			"statuschangedate": "02/04/2020",
 			"typeoftransmission": ""
 		},
@@ -45954,7 +45954,7 @@
 			"source2": "https://twitter.com/ArogyaAndhra/status/1245580598938198016",
 			"source3": "",
 			"statecode": "AP",
-			"statepatientnumber": "",
+			"statepatientnumber": "AP-P128",
 			"statuschangedate": "02/04/2020",
 			"typeoftransmission": ""
 		},
@@ -45976,7 +45976,7 @@
 			"source2": "https://twitter.com/ArogyaAndhra/status/1245580598938198016",
 			"source3": "",
 			"statecode": "AP",
-			"statepatientnumber": "",
+			"statepatientnumber": "AP-P129",
 			"statuschangedate": "02/04/2020",
 			"typeoftransmission": ""
 		},
@@ -46003,7 +46003,7 @@
 			"typeoftransmission": ""
 		},
 		{
-			"agebracket": "",
+			"agebracket": "23",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
@@ -46012,7 +46012,7 @@
 			"detecteddistrict": "Chittoor",
 			"detectedstate": "Andhra Pradesh",
 			"estimatedonsetdate": "",
-			"gender": "",
+			"gender": "M",
 			"nationality": "",
 			"notes": "",
 			"patientnumber": "2092",
@@ -46020,7 +46020,7 @@
 			"source2": "https://twitter.com/ArogyaAndhra/status/1245580598938198016",
 			"source3": "",
 			"statecode": "AP",
-			"statepatientnumber": "",
+			"statepatientnumber": "AP-P112",
 			"statuschangedate": "02/04/2020",
 			"typeoftransmission": ""
 		},
@@ -48335,7 +48335,7 @@
 			"typeoftransmission": ""
 		},
 		{
-			"agebracket": "",
+			"agebracket": "60",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
@@ -48344,7 +48344,7 @@
 			"detecteddistrict": "Chittoor",
 			"detectedstate": "Andhra Pradesh",
 			"estimatedonsetdate": "",
-			"gender": "",
+			"gender": "M",
 			"nationality": "",
 			"notes": "",
 			"patientnumber": "2198",
@@ -48352,7 +48352,7 @@
 			"source2": "",
 			"source3": "",
 			"statecode": "AP",
-			"statepatientnumber": "",
+			"statepatientnumber": "AP-P113",
 			"statuschangedate": "02/04/2020",
 			"typeoftransmission": ""
 		},
