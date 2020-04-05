@@ -597,30 +597,30 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "435",
+			"confirmeddelta": "438",
 			"counterforautotimeupdate": "645",
-			"deceaseddelta": "8",
-			"lastupdatedtime": "05/04/2020 19:45:24",
-			"recovereddelta": "21",
+			"deceaseddelta": "9",
+			"lastupdatedtime": "05/04/2020 19:51:29",
+			"recovereddelta": "24",
 			"statesdelta": "0"
 		}
 	],
 	"statewise": [
 		{
-			"active": "3703",
-			"confirmed": "4117",
-			"deaths": "107",
+			"active": "3702",
+			"confirmed": "4120",
+			"deaths": "108",
 			"delta": {
-				"active": 435,
-				"confirmed": 435,
+				"active": 438,
+				"confirmed": 438,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"deltaconfirmed": "435",
-			"deltadeaths": "8",
-			"deltarecovered": "21",
-			"lastupdatedtime": "05/04/2020 19:45:24",
-			"recovered": "307",
+			"deltaconfirmed": "438",
+			"deltadeaths": "9",
+			"deltarecovered": "24",
+			"lastupdatedtime": "05/04/2020 19:51:29",
+			"recovered": "310",
 			"state": "Total",
 			"statecode": "TT"
 		},
@@ -733,19 +733,19 @@
 			"statecode": "UP"
 		},
 		{
-			"active": "223",
-			"confirmed": "249",
+			"active": "226",
+			"confirmed": "252",
 			"deaths": "1",
 			"delta": {
-				"active": 45,
-				"confirmed": 45,
+				"active": 48,
+				"confirmed": 48,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"deltaconfirmed": "45",
+			"deltaconfirmed": "48",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "05/04/2020 19:38:31",
+			"lastupdatedtime": "05/04/2020 19:50:49",
 			"recovered": "25",
 			"state": "Rajasthan",
 			"statecode": "RJ"
@@ -769,9 +769,9 @@
 			"statecode": "AP"
 		},
 		{
-			"active": "182",
+			"active": "178",
 			"confirmed": "193",
-			"deaths": "11",
+			"deaths": "12",
 			"delta": {
 				"active": 14,
 				"confirmed": 14,
@@ -779,10 +779,10 @@
 				"recovered": 0
 			},
 			"deltaconfirmed": "14",
-			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "05/04/2020 19:45:27",
-			"recovered": "0",
+			"deltadeaths": "1",
+			"deltarecovered": "3",
+			"lastupdatedtime": "05/04/2020 19:51:06",
+			"recovered": "3",
 			"state": "Madhya Pradesh",
 			"statecode": "MP"
 		},

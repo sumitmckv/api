@@ -1,9 +1,5 @@
 [
   {
-    "update": "74 new cases in Tamil Nadu\n",
-    "timestamp": 1586003750
-  },
-  {
     "update": "12 new cases in Kerala\n",
     "timestamp": 1586004151
   },
@@ -198,5 +194,9 @@
   {
     "update": "14 new cases in Madhya Pradesh\n",
     "timestamp": 1586096172
+  },
+  {
+    "update": "3 new cases in Rajasthan\n3 recoveries and 1 death in Madhya Pradesh\n",
+    "timestamp": 1586096722
   }
 ]
