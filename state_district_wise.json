@@ -519,10 +519,10 @@
         }
       },
       "Kanpur Nagar": {
-        "confirmed": 7,
+        "confirmed": 15,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 8
         }
       },
       "Pilibhit": {
@@ -554,10 +554,10 @@
         }
       },
       "Shamli": {
-        "confirmed": 6,
+        "confirmed": 9,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       "Meerut": {
@@ -568,10 +568,10 @@
         }
       },
       "Bareilly": {
-        "confirmed": 6,
+        "confirmed": 8,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Bulandshahr": {
@@ -631,24 +631,24 @@
         }
       },
       "Hapur": {
-        "confirmed": 1,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      "Ghazipur": {
         "confirmed": 3,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
+        }
+      },
+      "Ghazipur": {
+        "confirmed": 5,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 2
         }
       },
       "Banda": {
-        "confirmed": 1,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Maharajganj": {
@@ -672,11 +672,18 @@
           "confirmed": 0
         }
       },
-      "Unknown": {
-        "confirmed": 20,
+      "Bara Banki": {
+        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 20
+          "confirmed": 1
+        }
+      },
+      "Auraiya": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
         }
       }
     }
@@ -1500,10 +1507,10 @@
   "Odisha": {
     "districtData": {
       "Khordha": {
-        "confirmed": 16,
+        "confirmed": 32,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 2
+          "confirmed": 18
         }
       },
       "Bhadrak": {
@@ -2138,7 +2145,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 8,
+        "confirmed": 25,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0

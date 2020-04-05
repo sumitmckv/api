@@ -597,29 +597,29 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "484",
+			"confirmeddelta": "500",
 			"counterforautotimeupdate": "645",
 			"deceaseddelta": "19",
-			"lastupdatedtime": "05/04/2020 21:24:24",
+			"lastupdatedtime": "05/04/2020 21:33:35",
 			"recovereddelta": "29",
 			"statesdelta": "0"
 		}
 	],
 	"statewise": [
 		{
-			"active": "3733",
-			"confirmed": "4166",
+			"active": "3749",
+			"confirmed": "4182",
 			"deaths": "118",
 			"delta": {
-				"active": 484,
-				"confirmed": 484,
+				"active": 500,
+				"confirmed": 500,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"deltaconfirmed": "484",
+			"deltaconfirmed": "500",
 			"deltadeaths": "19",
 			"deltarecovered": "29",
-			"lastupdatedtime": "05/04/2020 21:24:24",
+			"lastupdatedtime": "05/04/2020 21:33:35",
 			"recovered": "315",
 			"state": "Total",
 			"statecode": "TT"
@@ -949,19 +949,19 @@
 			"statecode": "UT"
 		},
 		{
-			"active": "21",
-			"confirmed": "23",
+			"active": "37",
+			"confirmed": "39",
 			"deaths": "0",
 			"delta": {
-				"active": 2,
-				"confirmed": 2,
+				"active": 18,
+				"confirmed": 18,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"deltaconfirmed": "2",
+			"deltaconfirmed": "18",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "05/04/2020 15:49:31",
+			"lastupdatedtime": "05/04/2020 21:33:46",
 			"recovered": "2",
 			"state": "Odisha",
 			"statecode": "OR"
