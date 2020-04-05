@@ -1092,7 +1092,7 @@
   "Maharashtra": {
     "districtData": {
       "Pune": {
-        "confirmed": 84,
+        "confirmed": 81,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1155,7 +1155,7 @@
         }
       },
       "Unknown": {
-        "confirmed": 49,
+        "confirmed": 52,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1639,24 +1639,24 @@
         }
       },
       "Surat": {
-        "confirmed": 13,
+        "confirmed": 15,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Ahmadabad": {
-        "confirmed": 45,
+        "confirmed": 53,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 8
         }
       },
       "Vadodara": {
-        "confirmed": 9,
+        "confirmed": 10,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Gandhinagar": {
@@ -1681,10 +1681,10 @@
         }
       },
       "Bhavnagar": {
-        "confirmed": 9,
+        "confirmed": 11,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Porbandar": {
@@ -1713,6 +1713,13 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      "Chota Udaipur": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
         }
       }
     }
@@ -2061,7 +2068,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 119,
+        "confirmed": 105,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
