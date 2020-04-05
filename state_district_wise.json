@@ -744,10 +744,10 @@
         }
       },
       "Vellore": {
-        "confirmed": 4,
+        "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Tiruchirappalli": {
@@ -765,10 +765,10 @@
         }
       },
       "Thanjavur": {
-        "confirmed": 1,
+        "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 4
         }
       },
       "Virudhunagar": {
@@ -793,10 +793,10 @@
         }
       },
       "Viluppuram": {
-        "confirmed": 14,
+        "confirmed": 19,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 5
         }
       },
       "Namakkal": {
@@ -821,17 +821,17 @@
         }
       },
       "Theni": {
-        "confirmed": 23,
+        "confirmed": 24,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Dindigul": {
-        "confirmed": 43,
+        "confirmed": 45,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Sivaganga": {
@@ -877,10 +877,10 @@
         }
       },
       "Nagapattinam": {
-        "confirmed": 5,
+        "confirmed": 11,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 6
         }
       },
       "Cuddalore": {
@@ -902,6 +902,13 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      "Unknown": {
+        "confirmed": 67,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 67
         }
       }
     }
@@ -1106,21 +1113,21 @@
   "Maharashtra": {
     "districtData": {
       "Pune": {
-        "confirmed": 108,
+        "confirmed": 103,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 21
         }
       },
       "Mumbai": {
-        "confirmed": 386,
+        "confirmed": 406,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 29
         }
       },
       "Nagpur": {
-        "confirmed": 19,
+        "confirmed": 17,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1134,7 +1141,7 @@
         }
       },
       "Ahmadnagar": {
-        "confirmed": 25,
+        "confirmed": 20,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 3
@@ -1190,7 +1197,7 @@
         }
       },
       "Kolhapur": {
-        "confirmed": 3,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1218,14 +1225,14 @@
         }
       },
       "Nashik": {
-        "confirmed": 2,
+        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       },
       "Unknown": {
-        "confirmed": 20,
+        "confirmed": 14,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2100,17 +2107,6 @@
     "districtData": {
       "Lohit": {
         "confirmed": 1,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      }
-    }
-  },
-  "Unknown": {
-    "districtData": {
-      "Unknown": {
-        "confirmed": 17,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
