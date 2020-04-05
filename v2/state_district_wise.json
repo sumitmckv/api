@@ -1225,10 +1225,10 @@
       },
       {
         "district": "Ballari",
-        "confirmed": 5,
+        "confirmed": 6,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -1249,10 +1249,10 @@
       },
       {
         "district": "Belagavi",
-        "confirmed": 3,
+        "confirmed": 7,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 4
         }
       },
       {
@@ -1302,7 +1302,7 @@
       },
       {
         "district": "Ahmadnagar",
-        "confirmed": 22,
+        "confirmed": 25,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 3
@@ -1366,7 +1366,7 @@
       },
       {
         "district": "Kolhapur",
-        "confirmed": 2,
+        "confirmed": 3,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1390,7 +1390,7 @@
       },
       {
         "district": "Buldana",
-        "confirmed": 7,
+        "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1398,7 +1398,7 @@
       },
       {
         "district": "Nashik",
-        "confirmed": 1,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1406,7 +1406,7 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 23,
+        "confirmed": 20,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2426,7 +2426,7 @@
     "districtData": [
       {
         "district": "Unknown",
-        "confirmed": 22,
+        "confirmed": 17,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
