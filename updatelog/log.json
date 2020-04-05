@@ -1,10 +1,6 @@
 [
   {
     "update": "1 recovery in Punjab\n",
-    "timestamp": 1586008975
-  },
-  {
-    "update": "1 recovery in Punjab\n",
     "timestamp": 1586009355
   },
   {
@@ -198,5 +194,9 @@
   {
     "update": "2 recoveries in Chandigarh\n",
     "timestamp": 1586103060
+  },
+  {
+    "update": "1 death in Uttar Pradesh\n",
+    "timestamp": 1586103473
   }
 ]
