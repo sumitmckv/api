@@ -198,10 +198,10 @@
     "districtData": [
       {
         "district": "Hyderabad",
-        "confirmed": 88,
+        "confirmed": 87,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 52
+          "confirmed": 51
         }
       },
       {
@@ -222,10 +222,10 @@
       },
       {
         "district": "Ranga Reddy",
-        "confirmed": 2,
+        "confirmed": 3,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -238,18 +238,66 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 234,
+        "confirmed": 227,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 7
+          "confirmed": 0
         }
       },
       {
-        "district": "Kamareddy",
+        "district": "Warangal Urban",
         "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 2
+        }
+      },
+      {
+        "district": "Vikarabad",
+        "confirmed": 2,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 2
+        }
+      },
+      {
+        "district": "Adilabad",
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
+        }
+      },
+      {
+        "district": "Nirmal",
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
+        }
+      },
+      {
+        "district": "Nizamabad",
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
+        }
+      },
+      {
+        "district": "Peddapalli",
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
+        }
+      },
+      {
+        "district": "Sangareddy",
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
         }
       }
     ]
@@ -2510,6 +2558,14 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 1
+        }
+      },
+      {
+        "district": "Unknown",
+        "confirmed": 47,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
         }
       }
     ]
