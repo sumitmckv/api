@@ -1270,7 +1270,7 @@
     "districtData": [
       {
         "district": "Pune",
-        "confirmed": 102,
+        "confirmed": 108,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 21
@@ -1278,7 +1278,7 @@
       },
       {
         "district": "Mumbai",
-        "confirmed": 399,
+        "confirmed": 386,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 29
@@ -1286,7 +1286,7 @@
       },
       {
         "district": "Nagpur",
-        "confirmed": 15,
+        "confirmed": 19,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1294,7 +1294,7 @@
       },
       {
         "district": "Thane",
-        "confirmed": 60,
+        "confirmed": 64,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1302,7 +1302,7 @@
       },
       {
         "district": "Ahmadnagar",
-        "confirmed": 20,
+        "confirmed": 22,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 3
@@ -1389,8 +1389,8 @@
         }
       },
       {
-        "district": "Unknown",
-        "confirmed": 27,
+        "district": "Buldana",
+        "confirmed": 7,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1405,8 +1405,8 @@
         }
       },
       {
-        "district": "Buldana",
-        "confirmed": 6,
+        "district": "Unknown",
+        "confirmed": 23,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
