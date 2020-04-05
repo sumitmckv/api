@@ -238,10 +238,10 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 251,
+        "confirmed": 288,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 24
+          "confirmed": 61
         }
       }
     ]
@@ -2072,14 +2072,6 @@
         "delta": {
           "confirmed": 1
         }
-      },
-      {
-        "district": "Bhuj",
-        "confirmed": 1,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 1
-        }
       }
     ]
   },
@@ -2505,11 +2497,11 @@
     "state": "Unknown",
     "districtData": [
       {
-        "district": "Unknown",
-        "confirmed": 6,
+        "district": "Bhuj",
+        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       }
     ]
