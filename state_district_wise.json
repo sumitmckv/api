@@ -206,10 +206,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 257,
+        "confirmed": 251,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 30
+          "confirmed": 24
         }
       }
     }
@@ -2170,6 +2170,17 @@
     "districtData": {
       "Lohit": {
         "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      }
+    }
+  },
+  "Unknown": {
+    "districtData": {
+      "Unknown": {
+        "confirmed": 6,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
