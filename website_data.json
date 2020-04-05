@@ -1,15 +1,15 @@
 {
 	"factoids": [
 		{
-			"banner": "Tonight, at 9PM Please ❌DO NOT switch off your appliances <b>all at once</b>. It might cause grid blackouts due to entire country doing it at the same time.",
+			"banner": "Tonight, at 9PM Please ❌DO NOT switch off your appliances ALL at once. It might cause grid blackouts due to entire country doing it at the same time.",
 			"id": "1"
 		},
 		{
-			"banner": "State Electricity Boards have asked citizens not to switch off or switch on lights and appliances <b>all at the same time</b> as it could cause a blackout.",
+			"banner": "State Electricity Boards have asked citizens not to switch off or switch on 💡 lights and appliances 🔌 all at the same time as it could cause a blackout.",
 			"id": "2"
 		},
 		{
-			"banner": "Tonight, at 9 PM, lets all go into our balconies and hold a 🪔 or 🕯️ to signify that we are all together in this fight against corona 🇮🇳",
+			"banner": "Tonight, at 9 PM, lets all go into our balconies and hold a candle/diya/mobile-flash to signify that we are all together in this fight against corona 🇮🇳",
 			"id": "3"
 		},
 		{
@@ -17,16 +17,28 @@
 			"id": "4"
 		},
 		{
-			"banner": "Please stay indoors and ❌ DO NOT gather in groups. The virus is still out there!",
+			"banner": "Please stay indoors and ❌ DO NOT gather in groups. The virus is still out there!🦠",
 			"id": "5"
 		},
 		{
-			"banner": "If you do not have a 🕯️or 🪔, it's okay - no need go out to buy it. Use your mobile flash. 🤳",
+			"banner": "If you do not have a 🕯️, it's okay - no need go out to buy it. Use your mobile flash. 🤳",
 			"id": "6"
 		},
 		{
-			"banner": "Lighting the 🕯️or 🪔 is to show our solidarity. It does not ❌ kill the virus. Stay safe as always.",
+			"banner": "Lighting the 🕯️ is to show our solidarity. It does not ❌ kill the virus. Stay safe as always.",
 			"id": "7"
+		},
+		{
+			"banner": "❌ DO NOT fall prey to unverified Whatsapp forwards. Please verify whatever you see with trusted sources.",
+			"id": "8"
+		},
+		{
+			"banner": "Tonight is only to show that we are all together. It is ❌ NOT meant to be an excuse for social gatherings. Stay home, stay safe.",
+			"id": "9"
+		},
+		{
+			"banner": "",
+			"id": "10"
 		}
 	]
 }

@@ -1270,7 +1270,7 @@
       },
       {
         "district": "Mumbai",
-        "confirmed": 388,
+        "confirmed": 387,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 29
@@ -1286,7 +1286,7 @@
       },
       {
         "district": "Thane",
-        "confirmed": 48,
+        "confirmed": 49,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1459,10 +1459,10 @@
       },
       {
         "district": "S.A.S. Nagar",
-        "confirmed": 13,
+        "confirmed": 14,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -2402,10 +2402,10 @@
     "districtData": [
       {
         "district": "Unknown",
-        "confirmed": 28,
+        "confirmed": 27,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 0
         }
       }
     ]
