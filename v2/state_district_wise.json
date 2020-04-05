@@ -1121,10 +1121,10 @@
     "districtData": [
       {
         "district": "Bengaluru",
-        "confirmed": 51,
+        "confirmed": 53,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       {
@@ -1270,7 +1270,7 @@
       },
       {
         "district": "Mumbai",
-        "confirmed": 361,
+        "confirmed": 359,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1286,7 +1286,7 @@
       },
       {
         "district": "Thane",
-        "confirmed": 46,
+        "confirmed": 48,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2394,7 +2394,7 @@
     "districtData": [
       {
         "district": "Unknown",
-        "confirmed": 94,
+        "confirmed": 92,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
