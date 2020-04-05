@@ -2128,6 +2128,14 @@
         "delta": {
           "confirmed": 0
         }
+      },
+      {
+        "district": "Bhuj",
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
       }
     ]
   },
@@ -2552,14 +2560,6 @@
   {
     "state": "Unknown",
     "districtData": [
-      {
-        "district": "Bhuj",
-        "confirmed": 1,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
       {
         "district": "Unknown",
         "confirmed": 14,

@@ -1,9 +1,5 @@
 [
   {
-    "update": "8 recoveries in Delhi\n1 recovery in Haryana\n",
-    "timestamp": 1586026817
-  },
-  {
     "update": "3 recoveries in Chandigarh\n",
     "timestamp": 1586027216
   },
@@ -198,5 +194,9 @@
   {
     "update": "1 death in Punjab\n",
     "timestamp": 1586111569
+  },
+  {
+    "update": "1 new case in Gujarat\n",
+    "timestamp": 1586111988
   }
 ]

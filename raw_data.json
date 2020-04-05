@@ -93420,7 +93420,7 @@
 			"dateannounced": "05/04/2020",
 			"detectedcity": "",
 			"detecteddistrict": "Bhuj",
-			"detectedstate": "",
+			"detectedstate": "Gujarat",
 			"estimatedonsetdate": "",
 			"gender": "M",
 			"nationality": "",
@@ -93429,7 +93429,7 @@
 			"source1": "https://gujcovid19.gujarat.gov.in/uploads/pressbrief0504052020073046686.pdf",
 			"source2": "",
 			"source3": "",
-			"statecode": "",
+			"statecode": "GJ",
 			"statepatientnumber": "",
 			"statuschangedate": "05/04/2020",
 			"typeoftransmission": ""
