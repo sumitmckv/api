@@ -1,104 +1,32 @@
 {
 	"factoids": [
 		{
-			"banner": "Tonight, at 9PM Please DO NOT switch off your appliances. It will cause grid blackouts due to entire country doing it at the same time.",
+			"banner": "Tonight, at 9PM Please ❌DO NOT switch off your appliances <b>all at once</b>. It might cause grid blackouts due to entire country doing it at the same time.",
 			"id": "1"
 		},
 		{
-			"banner": "State Electricity Boards have asked citizens NOT to switch off lights and appliances all at the same time as it could cause a blackout.",
+			"banner": "State Electricity Boards have asked citizens not to switch off or switch on lights and appliances <b>all at the same time</b> as it could cause a blackout.",
 			"id": "2"
 		},
 		{
-			"banner": "Tonight, at 9 PM, lets all go into our balconies and hold a 🪔 or 🕯️ to signify that we are all together in this fight against corona.",
+			"banner": "Tonight, at 9 PM, lets all go into our balconies and hold a 🪔 or 🕯️ to signify that we are all together in this fight against corona 🇮🇳",
 			"id": "3"
 		},
 		{
-			"banner": "DO NOT use alcohol-based hand sanitizers before lighting diyas or candles. Alcohol is flammable.",
+			"banner": "❌ DO NOT use alcohol-based hand sanitizers before lighting diyas or candles. Alcohol is flammable 🔥",
 			"id": "4"
 		},
 		{
-			"banner": "Please stay indoors and DO NOT gather in groups. The virus is still out there!",
+			"banner": "Please stay indoors and ❌ DO NOT gather in groups. The virus is still out there!",
 			"id": "5"
 		},
 		{
-			"banner": "",
+			"banner": "If you do not have a 🕯️or 🪔, it's okay - no need go out to buy it. Use your mobile flash. 🤳",
 			"id": "6"
 		},
 		{
-			"banner": "",
+			"banner": "Lighting the 🕯️or 🪔 is to show our solidarity. It does not ❌ kill the virus. Stay safe as always.",
 			"id": "7"
-		},
-		{
-			"banner": "",
-			"id": "8"
-		},
-		{
-			"banner": "",
-			"id": "9"
-		},
-		{
-			"banner": "",
-			"id": "10"
-		},
-		{
-			"banner": "",
-			"id": "11"
-		},
-		{
-			"banner": "",
-			"id": "12"
-		},
-		{
-			"banner": "",
-			"id": "13"
-		},
-		{
-			"banner": "",
-			"id": "14"
-		},
-		{
-			"banner": "",
-			"id": "15"
-		},
-		{
-			"banner": "",
-			"id": "16"
-		},
-		{
-			"banner": "",
-			"id": "17"
-		},
-		{
-			"banner": "",
-			"id": "18"
-		},
-		{
-			"banner": "",
-			"id": "19"
-		},
-		{
-			"banner": "",
-			"id": "20"
-		},
-		{
-			"banner": "",
-			"id": "21"
-		},
-		{
-			"banner": "",
-			"id": "22"
-		},
-		{
-			"banner": "",
-			"id": "23"
-		},
-		{
-			"banner": "",
-			"id": "24"
-		},
-		{
-			"banner": "",
-			"id": "25"
 		}
 	]
 }
