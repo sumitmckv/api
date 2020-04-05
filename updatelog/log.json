@@ -1,9 +1,5 @@
 [
   {
-    "update": "16 new cases in Karnataka\n1 death in Gujarat\n",
-    "timestamp": 1586001691
-  },
-  {
     "update": "59 new cases in Delhi\n",
     "timestamp": 1586002524
   },
@@ -198,5 +194,9 @@
   {
     "update": "86 new cases in Tamil Nadu\n",
     "timestamp": 1586092548
+  },
+  {
+    "update": "58 new cases in Delhi\n",
+    "timestamp": 1586094547
   }
 ]
