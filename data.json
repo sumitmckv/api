@@ -599,17 +599,17 @@
 		{
 			"confirmeddelta": "55",
 			"counterforautotimeupdate": "645",
-			"deceaseddelta": "1",
-			"lastupdatedtime": "05/04/2020 13:11:26",
+			"deceaseddelta": "3",
+			"lastupdatedtime": "05/04/2020 13:26:24",
 			"recovereddelta": "4",
 			"statesdelta": "0"
 		}
 	],
 	"statewise": [
 		{
-			"active": "3340",
+			"active": "3338",
 			"confirmed": "3730",
-			"deaths": "100",
+			"deaths": "102",
 			"delta": {
 				"active": 55,
 				"confirmed": 55,
@@ -617,9 +617,9 @@
 				"recovered": 0
 			},
 			"deltaconfirmed": "55",
-			"deltadeaths": "1",
+			"deltadeaths": "2",
 			"deltarecovered": "4",
-			"lastupdatedtime": "05/04/2020 13:11:26",
+			"lastupdatedtime": "05/04/2020 13:26:24",
 			"recovered": "290",
 			"state": "Total",
 			"statecode": "TT"
@@ -643,9 +643,9 @@
 			"statecode": "MH"
 		},
 		{
-			"active": "474",
+			"active": "472",
 			"confirmed": "485",
-			"deaths": "3",
+			"deaths": "5",
 			"delta": {
 				"active": 0,
 				"confirmed": 0,
@@ -653,9 +653,9 @@
 				"recovered": 0
 			},
 			"deltaconfirmed": "0",
-			"deltadeaths": "0",
+			"deltadeaths": "1",
 			"deltarecovered": "0",
-			"lastupdatedtime": "05/04/2020 00:22:27",
+			"lastupdatedtime": "05/04/2020 13:26:28",
 			"recovered": "8",
 			"state": "Tamil Nadu",
 			"statecode": "TN"
