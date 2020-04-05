@@ -259,10 +259,10 @@
       },
       {
         "district": "Jhunjhunu",
-        "confirmed": 18,
+        "confirmed": 19,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 2
+          "confirmed": 3
         }
       },
       {
@@ -347,10 +347,10 @@
       },
       {
         "district": "Tonk",
-        "confirmed": 17,
+        "confirmed": 18,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -407,6 +407,14 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      {
+        "district": "Nagaur",
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
         }
       }
     ]
@@ -1438,10 +1446,10 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 1,
+        "confirmed": 59,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 58
         }
       },
       {
@@ -2425,6 +2433,19 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      }
+    ]
+  },
+  {
+    "state": "Unknown",
+    "districtData": [
+      {
+        "district": "Unknown",
+        "confirmed": 36,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 36
         }
       }
     ]
