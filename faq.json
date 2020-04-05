@@ -1,6 +1,11 @@
 {
 	"faq": [
 		{
+			"answer": "We are awaiting more official information released through state bulletin or press release by the West Bengal government. If you get the an official press release, please contact us using the form.",
+			"qno": "0",
+			"question": "[05-Apr] Why isn't the count for West Bengal updated?"
+		},
+		{
 			"answer": "No",
 			"qno": "1",
 			"question": "Are you official?"
