@@ -1,9 +1,5 @@
 [
   {
-    "update": "14 new cases in Madhya Pradesh\n",
-    "timestamp": 1586096172
-  },
-  {
     "update": "3 new cases in Rajasthan\n3 recoveries and 1 death in Madhya Pradesh\n",
     "timestamp": 1586096722
   },
@@ -198,5 +194,9 @@
   {
     "update": "6 recoveries in Bihar\n",
     "timestamp": 1586192833
+  },
+  {
+    "update": "5 recoveries in Tamil Nadu\n",
+    "timestamp": 1586193802
   }
 ]
