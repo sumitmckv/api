@@ -496,7 +496,7 @@
     "districtData": [
       {
         "district": "Gurugram",
-        "confirmed": 31,
+        "confirmed": 32,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -576,7 +576,7 @@
       },
       {
         "district": "Nuh",
-        "confirmed": 9,
+        "confirmed": 14,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 6
@@ -601,14 +601,6 @@
       {
         "district": "Kaithal",
         "confirmed": 1,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      {
-        "district": "Unknown",
-        "confirmed": 6,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
