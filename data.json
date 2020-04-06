@@ -609,7 +609,7 @@
 			"confirmeddelta": "85",
 			"counterforautotimeupdate": "645",
 			"deceaseddelta": "0",
-			"lastupdatedtime": "06/04/2020 14:24:27",
+			"lastupdatedtime": "06/04/2020 14:29:24",
 			"recovereddelta": "0",
 			"statesdelta": "0"
 		}
@@ -620,15 +620,15 @@
 			"confirmed": "4374",
 			"deaths": "121",
 			"delta": {
-				"active": 73,
-				"confirmed": 73,
+				"active": 85,
+				"confirmed": 85,
 				"deaths": 0,
 				"recovered": 0
 			},
 			"deltaconfirmed": "85",
 			"deltadeaths": "3",
 			"deltarecovered": "0",
-			"lastupdatedtime": "06/04/2020 14:24:27",
+			"lastupdatedtime": "06/04/2020 14:29:24",
 			"recovered": "329",
 			"state": "Total",
 			"statecode": "TT"
@@ -800,15 +800,15 @@
 			"confirmed": "163",
 			"deaths": "4",
 			"delta": {
-				"active": 0,
-				"confirmed": 0,
+				"active": 12,
+				"confirmed": 12,
 				"deaths": 0,
 				"recovered": 0
 			},
 			"deltaconfirmed": "12",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "06/04/2020 14:24:30",
+			"lastupdatedtime": "06/04/2020 14:29:32",
 			"recovered": "12",
 			"state": "Karnataka",
 			"statecode": "KA"
