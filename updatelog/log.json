@@ -1,9 +1,5 @@
 [
   {
-    "update": "4 recoveries in Jharkhand\n",
-    "timestamp": 1586074297
-  },
-  {
     "update": "2 deaths in Maharashtra\n",
     "timestamp": 1586074693
   },
@@ -198,5 +194,9 @@
   {
     "update": "14 new cases in Rajasthan\n",
     "timestamp": 1586174243
+  },
+  {
+    "update": "27 new cases in Uttar Pradesh\n3 new cases in Jammu and Kashmir\n",
+    "timestamp": 1586174780
   }
 ]

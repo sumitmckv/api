@@ -621,10 +621,10 @@
     "districtData": [
       {
         "district": "Agra",
-        "confirmed": 47,
+        "confirmed": 49,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       {
@@ -637,18 +637,18 @@
       },
       {
         "district": "Lucknow",
-        "confirmed": 17,
+        "confirmed": 22,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 5
         }
       },
       {
         "district": "Gautam Buddha Nagar",
-        "confirmed": 58,
+        "confirmed": 61,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       {
@@ -669,10 +669,10 @@
       },
       {
         "district": "Kanpur Nagar",
-        "confirmed": 15,
+        "confirmed": 16,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -709,10 +709,10 @@
       },
       {
         "district": "Shamli",
-        "confirmed": 9,
+        "confirmed": 14,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 5
         }
       },
       {
@@ -865,6 +865,30 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      {
+        "district": "Kaushambi",
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
+        }
+      },
+      {
+        "district": "Bijnor",
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
+        }
+      },
+      {
+        "district": "Unknown",
+        "confirmed": 9,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 9
         }
       }
     ]
@@ -1180,10 +1204,10 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 55,
+        "confirmed": 58,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       {
@@ -2575,7 +2599,7 @@
     "districtData": [
       {
         "district": "Unknown",
-        "confirmed": 625,
+        "confirmed": 595,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
