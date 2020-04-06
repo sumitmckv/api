@@ -95941,6 +95941,28 @@
 			"statepatientnumber": "",
 			"statuschangedate": "06/04/2020",
 			"typeoftransmission": ""
+		},
+		{
+			"agebracket": "",
+			"backupnotes": "",
+			"contractedfromwhichpatientsuspected": "",
+			"currentstatus": "",
+			"dateannounced": "",
+			"detectedcity": "",
+			"detecteddistrict": "Almora",
+			"detectedstate": "Uttarakhand",
+			"estimatedonsetdate": "",
+			"gender": "",
+			"nationality": "",
+			"notes": "",
+			"patientnumber": "",
+			"source1": "",
+			"source2": "",
+			"source3": "",
+			"statecode": "UT",
+			"statepatientnumber": "",
+			"statuschangedate": "",
+			"typeoftransmission": ""
 		}
 	]
 }

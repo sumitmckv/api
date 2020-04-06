@@ -1,9 +1,5 @@
 [
   {
-    "update": "14 new cases in Gujarat\n",
-    "timestamp": 1586068230
-  },
-  {
     "update": "4 recoveries and 1 death in Gujarat\n",
     "timestamp": 1586068620
   },
@@ -198,5 +194,9 @@
   {
     "update": "14 new cases and 1 death in Andhra Pradesh\n",
     "timestamp": 1586153537
+  },
+  {
+    "update": "1 new case in Uttarakhand\n",
+    "timestamp": 1586154566
   }
 ]

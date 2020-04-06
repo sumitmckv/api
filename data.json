@@ -606,18 +606,18 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "72",
+			"confirmeddelta": "73",
 			"counterforautotimeupdate": "645",
 			"deceaseddelta": "0",
-			"lastupdatedtime": "06/04/2020 11:40:52",
+			"lastupdatedtime": "06/04/2020 11:58:26",
 			"recovereddelta": "0",
 			"statesdelta": "0"
 		}
 	],
 	"statewise": [
 		{
-			"active": "3912",
-			"confirmed": "4361",
+			"active": "3913",
+			"confirmed": "4362",
 			"deaths": "121",
 			"delta": {
 				"active": 72,
@@ -628,7 +628,7 @@
 			"deltaconfirmed": "72",
 			"deltadeaths": "3",
 			"deltarecovered": "0",
-			"lastupdatedtime": "06/04/2020 11:40:52",
+			"lastupdatedtime": "06/04/2020 11:58:26",
 			"recovered": "328",
 			"state": "Total",
 			"statecode": "TT"
@@ -772,7 +772,7 @@
 			"deltaconfirmed": "14",
 			"deltadeaths": "1",
 			"deltarecovered": "0",
-			"lastupdatedtime": "06/04/2020 11:40:55",
+			"lastupdatedtime": "06/04/2020 11:58:27",
 			"recovered": "5",
 			"state": "Andhra Pradesh",
 			"statecode": "AP"
@@ -940,8 +940,8 @@
 			"statecode": "AS"
 		},
 		{
-			"active": "22",
-			"confirmed": "26",
+			"active": "23",
+			"confirmed": "27",
 			"deaths": "0",
 			"delta": {
 				"active": 0,
