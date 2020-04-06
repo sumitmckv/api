@@ -1,9 +1,5 @@
 [
   {
-    "update": "7 new cases in Himachal Pradesh\n",
-    "timestamp": 1586081979
-  },
-  {
     "update": "1 death in Maharashtra\n1 new case in Punjab\n",
     "timestamp": 1586082398
   },
@@ -198,5 +194,9 @@
   {
     "update": "11 new cases in Punjab\n",
     "timestamp": 1586180140
+  },
+  {
+    "update": "87 new cases and 4 deaths in Maharashtra\n30 new cases in Telangana\n",
+    "timestamp": 1586182963
   }
 ]
