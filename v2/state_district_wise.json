@@ -411,10 +411,10 @@
       },
       {
         "district": "Tonk",
-        "confirmed": 18,
+        "confirmed": 20,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       {
@@ -443,10 +443,10 @@
       },
       {
         "district": "Bikaner",
-        "confirmed": 10,
+        "confirmed": 11,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -483,18 +483,18 @@
       },
       {
         "district": "Jaisalmer",
-        "confirmed": 1,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
         "district": "Kota",
-        "confirmed": 1,
+        "confirmed": 10,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 10
         }
       }
     ]
@@ -2700,7 +2700,7 @@
     "districtData": [
       {
         "district": "Unknown",
-        "confirmed": 254,
+        "confirmed": 241,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
