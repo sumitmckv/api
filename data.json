@@ -606,29 +606,29 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "395",
+			"confirmeddelta": "396",
 			"counterforautotimeupdate": "645",
 			"deceaseddelta": "8",
-			"lastupdatedtime": "06/04/2020 20:05:28",
+			"lastupdatedtime": "06/04/2020 20:43:24",
 			"recovereddelta": "17",
 			"statesdelta": "0"
 		}
 	],
 	"statewise": [
 		{
-			"active": "4209",
-			"confirmed": "4684",
+			"active": "4210",
+			"confirmed": "4685",
 			"deaths": "129",
 			"delta": {
-				"active": 395,
-				"confirmed": 395,
+				"active": 396,
+				"confirmed": 396,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"deltaconfirmed": "395",
+			"deltaconfirmed": "396",
 			"deltadeaths": "8",
 			"deltarecovered": "17",
-			"lastupdatedtime": "06/04/2020 20:05:28",
+			"lastupdatedtime": "06/04/2020 20:43:24",
 			"recovered": "346",
 			"state": "Total",
 			"statecode": "TT"
@@ -850,19 +850,19 @@
 			"statecode": "JK"
 		},
 		{
-			"active": "72",
-			"confirmed": "101",
+			"active": "73",
+			"confirmed": "102",
 			"deaths": "0",
 			"delta": {
-				"active": 11,
-				"confirmed": 11,
+				"active": 12,
+				"confirmed": 12,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"deltaconfirmed": "11",
+			"deltaconfirmed": "12",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "06/04/2020 18:54:27",
+			"lastupdatedtime": "06/04/2020 20:43:27",
 			"recovered": "29",
 			"state": "Haryana",
 			"statecode": "HR"
