@@ -2107,10 +2107,10 @@
       },
       {
         "district": "Surat",
-        "confirmed": 17,
+        "confirmed": 19,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 3
         }
       },
       {
@@ -2647,7 +2647,7 @@
     "districtData": [
       {
         "district": "Unknown",
-        "confirmed": 332,
+        "confirmed": 330,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
