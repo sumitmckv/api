@@ -529,7 +529,7 @@
         }
       },
       "Unknown": {
-        "confirmed": 6,
+        "confirmed": 7,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1492,17 +1492,17 @@
   "Andhra Pradesh": {
     "districtData": {
       "S.P.S. Nellore": {
-        "confirmed": 34,
+        "confirmed": 42,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 8
         }
       },
       "Prakasam": {
-        "confirmed": 23,
+        "confirmed": 24,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Visakhapatnam": {
@@ -1520,10 +1520,10 @@
         }
       },
       "Krishna": {
-        "confirmed": 28,
+        "confirmed": 29,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Chittoor": {
@@ -1541,10 +1541,10 @@
         }
       },
       "Kurnool": {
-        "confirmed": 56,
+        "confirmed": 74,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 3
+          "confirmed": 21
         }
       },
       "Anantapur": {
@@ -1555,17 +1555,17 @@
         }
       },
       "West Godavari": {
-        "confirmed": 16,
+        "confirmed": 21,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 6
         }
       },
       "Y.S.R.": {
-        "confirmed": 23,
+        "confirmed": 27,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 4
         }
       }
     }
@@ -1612,6 +1612,13 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 1
+        }
+      },
+      "Unknown": {
+        "confirmed": 4,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 4
         }
       }
     }
@@ -2275,7 +2282,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 512,
+        "confirmed": 470,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
