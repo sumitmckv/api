@@ -1962,24 +1962,24 @@
         }
       },
       "Bhopal": {
-        "confirmed": 18,
+        "confirmed": 61,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 43
         }
       },
       "Indore": {
-        "confirmed": 135,
+        "confirmed": 151,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 16
         }
       },
       "Ujjain": {
-        "confirmed": 7,
+        "confirmed": 8,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Gwalior": {
@@ -2022,6 +2022,27 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      "Betul": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
+        }
+      },
+      "Vidisha": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
+        }
+      },
+      "Unknown": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
         }
       }
     }
@@ -2296,7 +2317,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 321,
+        "confirmed": 258,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0

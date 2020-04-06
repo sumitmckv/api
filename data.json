@@ -606,37 +606,37 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "404",
+			"confirmeddelta": "467",
 			"counterforautotimeupdate": "645",
-			"deceaseddelta": "8",
-			"lastupdatedtime": "06/04/2020 20:44:24",
-			"recovereddelta": "17",
+			"deceaseddelta": "11",
+			"lastupdatedtime": "06/04/2020 21:39:24",
+			"recovereddelta": "19",
 			"statesdelta": "0"
 		}
 	],
 	"statewise": [
 		{
-			"active": "4218",
-			"confirmed": "4693",
-			"deaths": "129",
+			"active": "4276",
+			"confirmed": "4756",
+			"deaths": "132",
 			"delta": {
-				"active": 404,
-				"confirmed": 404,
+				"active": 467,
+				"confirmed": 467,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"deltaconfirmed": "404",
-			"deltadeaths": "8",
-			"deltarecovered": "17",
-			"lastupdatedtime": "06/04/2020 20:44:24",
-			"recovered": "346",
+			"deltaconfirmed": "467",
+			"deltadeaths": "11",
+			"deltarecovered": "19",
+			"lastupdatedtime": "06/04/2020 21:39:24",
+			"recovered": "348",
 			"state": "Total",
 			"statecode": "TT"
 		},
 		{
-			"active": "763",
+			"active": "760",
 			"confirmed": "868",
-			"deaths": "49",
+			"deaths": "52",
 			"delta": {
 				"active": 120,
 				"confirmed": 120,
@@ -644,9 +644,9 @@
 				"recovered": 0
 			},
 			"deltaconfirmed": "120",
-			"deltadeaths": "4",
+			"deltadeaths": "7",
 			"deltarecovered": "0",
-			"lastupdatedtime": "06/04/2020 19:54:47",
+			"lastupdatedtime": "06/04/2020 21:39:26",
 			"recovered": "56",
 			"state": "Maharashtra",
 			"statecode": "MH"
@@ -778,20 +778,20 @@
 			"statecode": "AP"
 		},
 		{
-			"active": "170",
-			"confirmed": "193",
+			"active": "231",
+			"confirmed": "256",
 			"deaths": "14",
 			"delta": {
-				"active": 0,
-				"confirmed": 0,
+				"active": 63,
+				"confirmed": 63,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "63",
 			"deltadeaths": "1",
-			"deltarecovered": "6",
-			"lastupdatedtime": "06/04/2020 20:05:31",
-			"recovered": "9",
+			"deltarecovered": "8",
+			"lastupdatedtime": "06/04/2020 21:39:30",
+			"recovered": "11",
 			"state": "Madhya Pradesh",
 			"statecode": "MP"
 		},
