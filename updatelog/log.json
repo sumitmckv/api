@@ -1,9 +1,5 @@
 [
   {
-    "update": "2 new cases and 1 recovery in Punjab\n",
-    "timestamp": 1586085254
-  },
-  {
     "update": "1 death in Punjab\n",
     "timestamp": 1586087684
   },
@@ -198,5 +194,9 @@
   {
     "update": "1 new case in Haryana\n",
     "timestamp": 1586186020
+  },
+  {
+    "update": "8 new cases in Haryana\n",
+    "timestamp": 1586186450
   }
 ]

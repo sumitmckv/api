@@ -536,10 +536,10 @@
       },
       {
         "district": "Palwal",
-        "confirmed": 23,
+        "confirmed": 26,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 9
         }
       },
       {
@@ -607,15 +607,15 @@
         }
       },
       {
-        "district": "Charki Dadri",
-        "confirmed": 1,
+        "district": "Unknown",
+        "confirmed": 6,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 0
         }
       },
       {
-        "district": "Unknown",
+        "district": "Charki Dadri",
         "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
@@ -2655,7 +2655,7 @@
     "districtData": [
       {
         "district": "Unknown",
-        "confirmed": 329,
+        "confirmed": 321,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
