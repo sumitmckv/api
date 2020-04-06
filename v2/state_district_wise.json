@@ -1486,7 +1486,7 @@
       },
       {
         "district": "Gujarat*",
-        "confirmed": 1,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1534,14 +1534,6 @@
       },
       {
         "district": "Hingoli",
-        "confirmed": 1,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      {
-        "district": "Unknown",
         "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
@@ -1696,10 +1688,10 @@
       },
       {
         "district": "Visakhapatnam",
-        "confirmed": 15,
+        "confirmed": 20,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 5
         }
       },
       {
@@ -1728,34 +1720,34 @@
       },
       {
         "district": "Guntur",
-        "confirmed": 30,
+        "confirmed": 32,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       {
         "district": "Kurnool",
-        "confirmed": 53,
+        "confirmed": 56,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       {
         "district": "Anantapur",
-        "confirmed": 3,
+        "confirmed": 6,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       {
         "district": "West Godavari",
-        "confirmed": 15,
+        "confirmed": 16,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
