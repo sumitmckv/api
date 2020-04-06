@@ -606,29 +606,29 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "86",
+			"confirmeddelta": "100",
 			"counterforautotimeupdate": "645",
 			"deceaseddelta": "1",
-			"lastupdatedtime": "06/04/2020 15:18:25",
+			"lastupdatedtime": "06/04/2020 17:24:24",
 			"recovereddelta": "0",
 			"statesdelta": "0"
 		}
 	],
 	"statewise": [
 		{
-			"active": "3924",
-			"confirmed": "4375",
+			"active": "3938",
+			"confirmed": "4389",
 			"deaths": "122",
 			"delta": {
-				"active": 86,
-				"confirmed": 86,
+				"active": 100,
+				"confirmed": 100,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"deltaconfirmed": "86",
+			"deltaconfirmed": "100",
 			"deltadeaths": "4",
 			"deltarecovered": "0",
-			"lastupdatedtime": "06/04/2020 15:18:25",
+			"lastupdatedtime": "06/04/2020 17:24:24",
 			"recovered": "329",
 			"state": "Total",
 			"statecode": "TT"
@@ -742,19 +742,19 @@
 			"statecode": "UP"
 		},
 		{
-			"active": "247",
-			"confirmed": "274",
+			"active": "261",
+			"confirmed": "288",
 			"deaths": "2",
 			"delta": {
-				"active": 8,
-				"confirmed": 8,
+				"active": 22,
+				"confirmed": 22,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"deltaconfirmed": "8",
+			"deltaconfirmed": "22",
 			"deltadeaths": "1",
 			"deltarecovered": "0",
-			"lastupdatedtime": "06/04/2020 11:34:26",
+			"lastupdatedtime": "06/04/2020 17:24:25",
 			"recovered": "25",
 			"state": "Rajasthan",
 			"statecode": "RJ"

@@ -1,9 +1,5 @@
 [
   {
-    "update": "2 deaths in Tamil Nadu\n",
-    "timestamp": 1586073447
-  },
-  {
     "update": "4 recoveries in Jharkhand\n",
     "timestamp": 1586074297
   },
@@ -198,5 +194,9 @@
   {
     "update": "1 new case in Dadra and Nagar Haveli\n",
     "timestamp": 1586166969
+  },
+  {
+    "update": "14 new cases in Rajasthan\n",
+    "timestamp": 1586174243
   }
 ]

@@ -307,10 +307,10 @@
     "districtData": [
       {
         "district": "Jaipur",
-        "confirmed": 94,
+        "confirmed": 102,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 8
         }
       },
       {
@@ -331,10 +331,10 @@
       },
       {
         "district": "Jodhpur",
-        "confirmed": 20,
+        "confirmed": 21,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -387,10 +387,10 @@
       },
       {
         "district": "Evacuees",
-        "confirmed": 33,
+        "confirmed": 35,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       {
@@ -443,10 +443,10 @@
       },
       {
         "district": "Dausa",
-        "confirmed": 3,
+        "confirmed": 6,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       {
@@ -2575,7 +2575,7 @@
     "districtData": [
       {
         "district": "Unknown",
-        "confirmed": 639,
+        "confirmed": 625,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
