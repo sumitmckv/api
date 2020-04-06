@@ -1,9 +1,5 @@
 [
   {
-    "update": "1 new case in Assam\n",
-    "timestamp": 1586027613
-  },
-  {
     "update": "1 new case in Odisha\n",
     "timestamp": 1586028013
   },
@@ -198,5 +194,9 @@
   {
     "update": "8 new cases in Rajasthan\n",
     "timestamp": 1586147055
+  },
+  {
+    "update": "1 new case in Jharkhand\n",
+    "timestamp": 1586147854
   }
 ]
