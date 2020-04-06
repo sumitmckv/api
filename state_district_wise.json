@@ -1694,6 +1694,13 @@
         "delta": {
           "confirmed": 0
         }
+      },
+      "Kendrapara": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
+        }
       }
     }
   },
@@ -2331,7 +2338,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 258,
+        "confirmed": 257,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
