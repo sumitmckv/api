@@ -729,13 +729,13 @@
         }
       },
       "Mahrajganj": {
-        "confirmed": 5,
+        "confirmed": 6,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       },
-      "Maharajganj": {
+      "Hathras": {
         "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
@@ -743,7 +743,7 @@
         }
       },
       "Hatras": {
-        "confirmed": 4,
+        "confirmed": 3,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0

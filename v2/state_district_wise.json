@@ -837,14 +837,14 @@
       },
       {
         "district": "Mahrajganj",
-        "confirmed": 5,
+        "confirmed": 6,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       },
       {
-        "district": "Maharajganj",
+        "district": "Hathras",
         "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
@@ -853,7 +853,7 @@
       },
       {
         "district": "Hatras",
-        "confirmed": 4,
+        "confirmed": 3,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
