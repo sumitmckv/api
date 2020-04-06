@@ -306,8 +306,16 @@
     "state": "Rajasthan",
     "districtData": [
       {
+        "district": "Italians",
+        "confirmed": 2,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      {
         "district": "Jaipur",
-        "confirmed": 102,
+        "confirmed": 100,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 8
@@ -495,8 +503,16 @@
     "state": "Haryana",
     "districtData": [
       {
+        "district": "Italians",
+        "confirmed": 14,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      {
         "district": "Gurugram",
-        "confirmed": 32,
+        "confirmed": 18,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0

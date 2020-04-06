@@ -265,8 +265,15 @@
   },
   "Rajasthan": {
     "districtData": {
+      "Italians": {
+        "confirmed": 2,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
       "Jaipur": {
-        "confirmed": 102,
+        "confirmed": 100,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 8
@@ -430,8 +437,15 @@
   },
   "Haryana": {
     "districtData": {
+      "Italians": {
+        "confirmed": 14,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
       "Gurugram": {
-        "confirmed": 32,
+        "confirmed": 18,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
