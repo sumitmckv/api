@@ -770,11 +770,18 @@
           "confirmed": 1
         }
       },
-      "Unknown": {
-        "confirmed": 9,
+      "Prayagraj": {
+        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 9
+          "confirmed": 1
+        }
+      },
+      "Sitapur": {
+        "confirmed": 8,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 8
         }
       }
     }

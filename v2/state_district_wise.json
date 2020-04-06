@@ -884,11 +884,19 @@
         }
       },
       {
-        "district": "Unknown",
-        "confirmed": 9,
+        "district": "Prayagraj",
+        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 9
+          "confirmed": 1
+        }
+      },
+      {
+        "district": "Sitapur",
+        "confirmed": 8,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 8
         }
       }
     ]
