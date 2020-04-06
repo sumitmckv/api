@@ -395,10 +395,10 @@
       },
       {
         "district": "Evacuees",
-        "confirmed": 35,
+        "confirmed": 36,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 2
+          "confirmed": 3
         }
       },
       {
@@ -483,10 +483,10 @@
       },
       {
         "district": "Jaisalmer",
-        "confirmed": 2,
+        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 0
         }
       },
       {
@@ -2673,7 +2673,7 @@
     "state": "Dadra and Nagar Haveli",
     "districtData": [
       {
-        "district": "Dadra and Nagar Haveli",
+        "district": "Unknown",
         "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
@@ -2686,7 +2686,7 @@
     "state": "Tripura",
     "districtData": [
       {
-        "district": "Unknown",
+        "district": "Gomati",
         "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {

@@ -1,9 +1,5 @@
 [
   {
-    "update": "36 new cases in Rajasthan\n26 new cases and 3 recoveries in Andhra Pradesh\n",
-    "timestamp": 1586095779
-  },
-  {
     "update": "14 new cases in Madhya Pradesh\n",
     "timestamp": 1586096172
   },
@@ -198,5 +194,9 @@
   {
     "update": "13 new cases in Rajasthan\n1 recovery in Manipur\n",
     "timestamp": 1586192727
+  },
+  {
+    "update": "6 recoveries in Bihar\n",
+    "timestamp": 1586192833
   }
 ]
