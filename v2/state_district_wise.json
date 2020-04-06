@@ -1382,7 +1382,7 @@
     "districtData": [
       {
         "district": "Pune",
-        "confirmed": 122,
+        "confirmed": 119,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 19
@@ -1406,7 +1406,7 @@
       },
       {
         "district": "Thane",
-        "confirmed": 77,
+        "confirmed": 82,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1414,7 +1414,7 @@
       },
       {
         "district": "Ahmadnagar",
-        "confirmed": 21,
+        "confirmed": 22,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 1
@@ -1430,7 +1430,7 @@
       },
       {
         "district": "Aurangabad",
-        "confirmed": 5,
+        "confirmed": 7,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1518,7 +1518,7 @@
       },
       {
         "district": "Osmanabad",
-        "confirmed": 3,
+        "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1542,7 +1542,7 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 7,
+        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0

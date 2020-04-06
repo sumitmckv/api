@@ -1204,7 +1204,7 @@
   "Maharashtra": {
     "districtData": {
       "Pune": {
-        "confirmed": 122,
+        "confirmed": 119,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 19
@@ -1225,14 +1225,14 @@
         }
       },
       "Thane": {
-        "confirmed": 77,
+        "confirmed": 82,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       },
       "Ahmadnagar": {
-        "confirmed": 21,
+        "confirmed": 22,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 1
@@ -1246,7 +1246,7 @@
         }
       },
       "Aurangabad": {
-        "confirmed": 5,
+        "confirmed": 7,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1323,7 +1323,7 @@
         }
       },
       "Osmanabad": {
-        "confirmed": 3,
+        "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1344,7 +1344,7 @@
         }
       },
       "Unknown": {
-        "confirmed": 7,
+        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
