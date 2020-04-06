@@ -1244,7 +1244,7 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 58,
+        "confirmed": 62,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1275,16 +1275,8 @@
         }
       },
       {
-        "district": "Shopian",
+        "district": "Shupiyan",
         "confirmed": 2,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      {
-        "district": "Kashmir",
-        "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
