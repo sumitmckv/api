@@ -927,18 +927,18 @@
     "districtData": [
       {
         "district": "Kancheepuram",
-        "confirmed": 5,
+        "confirmed": 7,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       {
         "district": "Chennai",
-        "confirmed": 98,
+        "confirmed": 113,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 15
         }
       },
       {
@@ -951,10 +951,10 @@
       },
       {
         "district": "Coimbatore",
-        "confirmed": 62,
+        "confirmed": 63,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -967,10 +967,10 @@
       },
       {
         "district": "Tiruppur",
-        "confirmed": 3,
+        "confirmed": 7,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 4
         }
       },
       {
@@ -999,26 +999,26 @@
       },
       {
         "district": "Tiruchirappalli",
-        "confirmed": 18,
+        "confirmed": 31,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 13
         }
       },
       {
         "district": "Chengalpattu",
-        "confirmed": 18,
+        "confirmed": 20,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       {
         "district": "Thanjavur",
-        "confirmed": 5,
+        "confirmed": 8,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       {
@@ -1039,26 +1039,26 @@
       },
       {
         "district": "Tiruvannamalai",
-        "confirmed": 4,
+        "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
         "district": "Viluppuram",
-        "confirmed": 19,
+        "confirmed": 20,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
         "district": "Namakkal",
-        "confirmed": 25,
+        "confirmed": 28,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       {
@@ -1103,10 +1103,10 @@
       },
       {
         "district": "Tirupathur",
-        "confirmed": 10,
+        "confirmed": 11,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -1151,10 +1151,10 @@
       },
       {
         "district": "Cuddalore",
-        "confirmed": 10,
+        "confirmed": 13,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       {
@@ -1182,11 +1182,11 @@
         }
       },
       {
-        "district": "Unknown",
-        "confirmed": 50,
+        "district": "Ariyalur",
+        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 50
+          "confirmed": 1
         }
       }
     ]
