@@ -606,29 +606,29 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "85",
+			"confirmeddelta": "86",
 			"counterforautotimeupdate": "645",
 			"deceaseddelta": "1",
-			"lastupdatedtime": "06/04/2020 15:15:24",
+			"lastupdatedtime": "06/04/2020 15:18:25",
 			"recovereddelta": "0",
 			"statesdelta": "0"
 		}
 	],
 	"statewise": [
 		{
-			"active": "3923",
-			"confirmed": "4374",
+			"active": "3924",
+			"confirmed": "4375",
 			"deaths": "122",
 			"delta": {
-				"active": 85,
-				"confirmed": 85,
+				"active": 86,
+				"confirmed": 86,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"deltaconfirmed": "85",
+			"deltaconfirmed": "86",
 			"deltadeaths": "4",
 			"deltarecovered": "0",
-			"lastupdatedtime": "06/04/2020 15:15:24",
+			"lastupdatedtime": "06/04/2020 15:18:25",
 			"recovered": "329",
 			"state": "Total",
 			"statecode": "TT"
@@ -772,7 +772,7 @@
 			"deltaconfirmed": "14",
 			"deltadeaths": "2",
 			"deltarecovered": "0",
-			"lastupdatedtime": "06/04/2020 15:15:27",
+			"lastupdatedtime": "06/04/2020 15:22:24",
 			"recovered": "5",
 			"state": "Andhra Pradesh",
 			"statecode": "AP"
@@ -1174,19 +1174,19 @@
 			"statecode": "AR"
 		},
 		{
-			"active": "0",
-			"confirmed": "0",
+			"active": "1",
+			"confirmed": "1",
 			"deaths": "0",
 			"delta": {
-				"active": 0,
-				"confirmed": 0,
+				"active": 1,
+				"confirmed": 1,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "1",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "06/04/2020 13:41:25",
+			"lastupdatedtime": "06/04/2020 15:22:25",
 			"recovered": "0",
 			"state": "Dadra and Nagar Haveli",
 			"statecode": "DN"
