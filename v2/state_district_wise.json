@@ -1611,10 +1611,10 @@
     "districtData": [
       {
         "district": "Amritsar",
-        "confirmed": 8,
+        "confirmed": 9,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -1627,10 +1627,10 @@
       },
       {
         "district": "S.A.S. Nagar",
-        "confirmed": 15,
+        "confirmed": 19,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 4
         }
       },
       {
@@ -1651,10 +1651,10 @@
       },
       {
         "district": "Ludhiana",
-        "confirmed": 5,
+        "confirmed": 6,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -1667,10 +1667,10 @@
       },
       {
         "district": "Rupnagar",
-        "confirmed": 1,
+        "confirmed": 3,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       {
@@ -1706,11 +1706,19 @@
         }
       },
       {
-        "district": "Unknown",
-        "confirmed": 11,
+        "district": "Fatehgarh Sahib",
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 11
+          "confirmed": 2
+        }
+      },
+      {
+        "district": "Kapurthala",
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
         }
       }
     ]
