@@ -466,7 +466,7 @@
         }
       },
       "Palwal": {
-        "confirmed": 17,
+        "confirmed": 23,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -501,17 +501,17 @@
         }
       },
       "Nuh": {
-        "confirmed": 3,
+        "confirmed": 9,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 6
         }
       },
       "Karnal": {
-        "confirmed": 1,
+        "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 4
         }
       },
       "Bhiwani": {
@@ -528,11 +528,11 @@
           "confirmed": 0
         }
       },
-      "Unknown": {
-        "confirmed": 17,
+      "Charki Dadri": {
+        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 11
+          "confirmed": 1
         }
       }
     }
