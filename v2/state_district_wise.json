@@ -2266,7 +2266,7 @@
     "districtData": [
       {
         "district": "Munger",
-        "confirmed": 3,
+        "confirmed": 7,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2274,7 +2274,7 @@
       },
       {
         "district": "Patna",
-        "confirmed": 4,
+        "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2297,24 +2297,8 @@
         }
       },
       {
-        "district": "Unknown",
-        "confirmed": 1,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      {
         "district": "Lakhisarai",
         "confirmed": 1,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      {
-        "district": "Bhagalpur",
-        "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2346,6 +2330,14 @@
       },
       {
         "district": "Saran",
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      {
+        "district": "Bhagalpur",
         "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
