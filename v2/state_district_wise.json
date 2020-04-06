@@ -653,7 +653,7 @@
       },
       {
         "district": "Lucknow",
-        "confirmed": 22,
+        "confirmed": 21,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -662,6 +662,14 @@
       {
         "district": "Gautam Buddha Nagar",
         "confirmed": 61,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      {
+        "district": "Kheri",
+        "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -710,14 +718,6 @@
       {
         "district": "Baghpat",
         "confirmed": 2,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      {
-        "district": "Lakhimpur",
-        "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -836,8 +836,16 @@
         }
       },
       {
+        "district": "Mahrajganj",
+        "confirmed": 5,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      {
         "district": "Maharajganj",
-        "confirmed": 6,
+        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
