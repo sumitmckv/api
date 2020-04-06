@@ -606,30 +606,30 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "150",
+			"confirmeddelta": "213",
 			"counterforautotimeupdate": "645",
 			"deceaseddelta": "4",
-			"lastupdatedtime": "06/04/2020 17:54:24",
-			"recovereddelta": "0",
+			"lastupdatedtime": "06/04/2020 18:14:27",
+			"recovereddelta": "8",
 			"statesdelta": "0"
 		}
 	],
 	"statewise": [
 		{
-			"active": "3985",
-			"confirmed": "4439",
+			"active": "4040",
+			"confirmed": "4502",
 			"deaths": "125",
 			"delta": {
-				"active": 150,
-				"confirmed": 150,
+				"active": 213,
+				"confirmed": 213,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"deltaconfirmed": "150",
+			"deltaconfirmed": "213",
 			"deltadeaths": "4",
-			"deltarecovered": "0",
-			"lastupdatedtime": "06/04/2020 17:54:24",
-			"recovered": "329",
+			"deltarecovered": "8",
+			"lastupdatedtime": "06/04/2020 18:14:27",
+			"recovered": "337",
 			"state": "Total",
 			"statecode": "TT"
 		},
@@ -652,19 +652,19 @@
 			"statecode": "MH"
 		},
 		{
-			"active": "558",
-			"confirmed": "571",
+			"active": "608",
+			"confirmed": "621",
 			"deaths": "5",
 			"delta": {
-				"active": 0,
-				"confirmed": 0,
+				"active": 50,
+				"confirmed": 50,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "50",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "05/04/2020 18:47:27",
+			"lastupdatedtime": "06/04/2020 18:14:33",
 			"recovered": "8",
 			"state": "Tamil Nadu",
 			"statecode": "TN"
@@ -688,19 +688,19 @@
 			"statecode": "DL"
 		},
 		{
-			"active": "256",
-			"confirmed": "314",
+			"active": "269",
+			"confirmed": "327",
 			"deaths": "2",
 			"delta": {
-				"active": 0,
-				"confirmed": 0,
+				"active": 13,
+				"confirmed": 13,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "13",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "05/04/2020 18:11:26",
+			"lastupdatedtime": "06/04/2020 18:14:37",
 			"recovered": "56",
 			"state": "Kerala",
 			"statecode": "KL"
@@ -796,7 +796,7 @@
 			"statecode": "MP"
 		},
 		{
-			"active": "147",
+			"active": "139",
 			"confirmed": "163",
 			"deaths": "4",
 			"delta": {
@@ -807,9 +807,9 @@
 			},
 			"deltaconfirmed": "12",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "06/04/2020 14:29:32",
-			"recovered": "12",
+			"deltarecovered": "8",
+			"lastupdatedtime": "06/04/2020 18:04:55",
+			"recovered": "20",
 			"state": "Karnataka",
 			"statecode": "KA"
 		},

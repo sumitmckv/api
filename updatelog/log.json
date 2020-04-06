@@ -1,9 +1,5 @@
 [
   {
-    "update": "4 recoveries in Chhattisgarh\n",
-    "timestamp": 1586075501
-  },
-  {
     "update": "2 new cases in Karnataka\n",
     "timestamp": 1586080394
   },
@@ -198,5 +194,9 @@
   {
     "update": "20 new cases in Delhi\n3 deaths in West Bengal\n",
     "timestamp": 1586175761
+  },
+  {
+    "update": "50 new cases in Tamil Nadu\n13 new cases in Kerala\n8 recoveries in Karnataka\n",
+    "timestamp": 1586177120
   }
 ]
