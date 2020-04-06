@@ -1422,18 +1422,18 @@
     "districtData": [
       {
         "district": "Pune",
-        "confirmed": 119,
+        "confirmed": 141,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 19
+          "confirmed": 41
         }
       },
       {
         "district": "Mumbai",
-        "confirmed": 469,
+        "confirmed": 526,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 11
+          "confirmed": 68
         }
       },
       {
@@ -1446,18 +1446,18 @@
       },
       {
         "district": "Thane",
-        "confirmed": 82,
+        "confirmed": 85,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       {
         "district": "Ahmadnagar",
-        "confirmed": 22,
+        "confirmed": 23,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 2
         }
       },
       {
@@ -1470,10 +1470,10 @@
       },
       {
         "district": "Aurangabad",
-        "confirmed": 7,
+        "confirmed": 10,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       {
@@ -1494,10 +1494,10 @@
       },
       {
         "district": "Satara",
-        "confirmed": 4,
+        "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 2
         }
       },
       {
@@ -1602,14 +1602,6 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 1
-        }
-      },
-      {
-        "district": "Unknown",
-        "confirmed": 87,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 87
         }
       }
     ]
