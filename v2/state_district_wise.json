@@ -2683,11 +2683,24 @@
     ]
   },
   {
+    "state": "Tripura",
+    "districtData": [
+      {
+        "district": "Unknown",
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
+        }
+      }
+    ]
+  },
+  {
     "state": "Unknown",
     "districtData": [
       {
         "district": "Unknown",
-        "confirmed": 255,
+        "confirmed": 254,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0

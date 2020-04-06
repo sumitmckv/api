@@ -606,29 +606,29 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "470",
+			"confirmeddelta": "471",
 			"counterforautotimeupdate": "645",
 			"deceaseddelta": "14",
-			"lastupdatedtime": "06/04/2020 22:04:31",
+			"lastupdatedtime": "06/04/2020 22:14:31",
 			"recovereddelta": "20",
 			"statesdelta": "0"
 		}
 	],
 	"statewise": [
 		{
-			"active": "4275",
-			"confirmed": "4759",
+			"active": "4276",
+			"confirmed": "4760",
 			"deaths": "135",
 			"delta": {
-				"active": 470,
-				"confirmed": 470,
+				"active": 471,
+				"confirmed": 471,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"deltaconfirmed": "470",
+			"deltaconfirmed": "471",
 			"deltadeaths": "14",
 			"deltarecovered": "20",
-			"lastupdatedtime": "06/04/2020 22:04:31",
+			"lastupdatedtime": "06/04/2020 22:14:31",
 			"recovered": "349",
 			"state": "Total",
 			"statecode": "TT"
@@ -1282,19 +1282,19 @@
 			"statecode": "SK"
 		},
 		{
-			"active": "0",
-			"confirmed": "0",
+			"active": "1",
+			"confirmed": "1",
 			"deaths": "0",
 			"delta": {
-				"active": 0,
-				"confirmed": 0,
+				"active": 1,
+				"confirmed": 1,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "1",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "26/03/2020 07:19:29",
+			"lastupdatedtime": "06/04/2020 22:14:41",
 			"recovered": "0",
 			"state": "Tripura",
 			"statecode": "TR"
