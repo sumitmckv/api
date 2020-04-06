@@ -608,17 +608,17 @@
 		{
 			"confirmeddelta": "488",
 			"counterforautotimeupdate": "645",
-			"deceaseddelta": "15",
-			"lastupdatedtime": "06/04/2020 23:56:38",
+			"deceaseddelta": "12",
+			"lastupdatedtime": "07/04/2020 04:23:24",
 			"recovereddelta": "53",
 			"statesdelta": "0"
 		}
 	],
 	"statewise": [
 		{
-			"active": "4260",
+			"active": "4263",
 			"confirmed": "4778",
-			"deaths": "136",
+			"deaths": "133",
 			"delta": {
 				"active": 0,
 				"confirmed": 0,
@@ -628,7 +628,7 @@
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "06/04/2020 23:56:38",
+			"lastupdatedtime": "07/04/2020 04:23:24",
 			"recovered": "382",
 			"state": "Total",
 			"statecode": "TT"
@@ -886,9 +886,9 @@
 			"statecode": "PB"
 		},
 		{
-			"active": "64",
+			"active": "67",
 			"confirmed": "80",
-			"deaths": "6",
+			"deaths": "3",
 			"delta": {
 				"active": 0,
 				"confirmed": 0,
@@ -898,7 +898,7 @@
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "06/04/2020 17:54:25",
+			"lastupdatedtime": "07/04/2020 04:23:25",
 			"recovered": "10",
 			"state": "West Bengal",
 			"statecode": "WB"
