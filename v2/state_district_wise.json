@@ -1438,42 +1438,42 @@
     "districtData": [
       {
         "district": "Pune",
-        "confirmed": 141,
+        "confirmed": 145,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 4
         }
       },
       {
         "district": "Mumbai",
-        "confirmed": 526,
+        "confirmed": 530,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 4
         }
       },
       {
         "district": "Nagpur",
-        "confirmed": 17,
+        "confirmed": 19,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       {
         "district": "Thane",
-        "confirmed": 85,
+        "confirmed": 86,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
         "district": "Ahmadnagar",
-        "confirmed": 23,
+        "confirmed": 26,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       {
@@ -1502,10 +1502,10 @@
       },
       {
         "district": "Sangli",
-        "confirmed": 25,
+        "confirmed": 26,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -1558,10 +1558,10 @@
       },
       {
         "district": "Buldana",
-        "confirmed": 5,
+        "confirmed": 7,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       {
@@ -1610,6 +1610,14 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      {
+        "district": "Unknown",
+        "confirmed": 6,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 6
         }
       }
     ]
@@ -1784,10 +1792,10 @@
       },
       {
         "district": "Guntur",
-        "confirmed": 32,
+        "confirmed": 33,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -2716,7 +2724,7 @@
     "districtData": [
       {
         "district": "Unknown",
-        "confirmed": 192,
+        "confirmed": 168,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
