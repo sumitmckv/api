@@ -57902,7 +57902,7 @@
 			"statecode": "HR",
 			"statepatientnumber": "",
 			"statuschangedate": "03/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -57924,7 +57924,7 @@
 			"statecode": "HR",
 			"statepatientnumber": "",
 			"statuschangedate": "03/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -57946,7 +57946,7 @@
 			"statecode": "HR",
 			"statepatientnumber": "",
 			"statuschangedate": "03/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -58012,7 +58012,7 @@
 			"statecode": "HR",
 			"statepatientnumber": "",
 			"statuschangedate": "03/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -58034,7 +58034,7 @@
 			"statecode": "HR",
 			"statepatientnumber": "",
 			"statuschangedate": "03/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -58056,7 +58056,7 @@
 			"statecode": "HR",
 			"statepatientnumber": "",
 			"statuschangedate": "03/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -58078,7 +58078,7 @@
 			"statecode": "OR",
 			"statepatientnumber": "",
 			"statuschangedate": "03/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -60410,7 +60410,7 @@
 			"statecode": "TN",
 			"statepatientnumber": "TN-P312",
 			"statuschangedate": "03/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -62808,7 +62808,7 @@
 			"statecode": "PB",
 			"statepatientnumber": "",
 			"statuschangedate": "03/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -62830,7 +62830,7 @@
 			"statecode": "PB",
 			"statepatientnumber": "",
 			"statuschangedate": "03/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -63094,7 +63094,7 @@
 			"statecode": "MP",
 			"statepatientnumber": "",
 			"statuschangedate": "03/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "",
@@ -63116,7 +63116,7 @@
 			"statecode": "MP",
 			"statepatientnumber": "",
 			"statuschangedate": "03/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -67582,7 +67582,7 @@
 			"statecode": "MP",
 			"statepatientnumber": "",
 			"statuschangedate": "03/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -67604,7 +67604,7 @@
 			"statecode": "MP",
 			"statepatientnumber": "",
 			"statuschangedate": "03/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -67626,7 +67626,7 @@
 			"statecode": "MP",
 			"statepatientnumber": "",
 			"statuschangedate": "03/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -67648,7 +67648,7 @@
 			"statecode": "MP",
 			"statepatientnumber": "",
 			"statuschangedate": "03/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -67670,7 +67670,7 @@
 			"statecode": "MP",
 			"statepatientnumber": "",
 			"statuschangedate": "03/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -67802,7 +67802,7 @@
 			"statecode": "RJ",
 			"statepatientnumber": "",
 			"statuschangedate": "03/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "",
@@ -67824,7 +67824,7 @@
 			"statecode": "RJ",
 			"statepatientnumber": "",
 			"statuschangedate": "03/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "",
@@ -67846,7 +67846,7 @@
 			"statecode": "RJ",
 			"statepatientnumber": "",
 			"statuschangedate": "03/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "",
@@ -67868,7 +67868,7 @@
 			"statecode": "RJ",
 			"statepatientnumber": "",
 			"statuschangedate": "03/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "",
@@ -67890,7 +67890,7 @@
 			"statecode": "RJ",
 			"statepatientnumber": "",
 			"statuschangedate": "03/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "",
@@ -67912,7 +67912,7 @@
 			"statecode": "RJ",
 			"statepatientnumber": "",
 			"statuschangedate": "03/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "",
@@ -67934,7 +67934,7 @@
 			"statecode": "OR",
 			"statepatientnumber": "",
 			"statuschangedate": "03/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -67956,7 +67956,7 @@
 			"statecode": "OR",
 			"statepatientnumber": "",
 			"statuschangedate": "03/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -67978,7 +67978,7 @@
 			"statecode": "OR",
 			"statepatientnumber": "",
 			"statuschangedate": "03/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -68000,7 +68000,7 @@
 			"statecode": "OR",
 			"statepatientnumber": "",
 			"statuschangedate": "03/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -68022,7 +68022,7 @@
 			"statecode": "OR",
 			"statepatientnumber": "",
 			"statuschangedate": "03/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -68044,7 +68044,7 @@
 			"statecode": "OR",
 			"statepatientnumber": "",
 			"statuschangedate": "03/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -68066,7 +68066,7 @@
 			"statecode": "OR",
 			"statepatientnumber": "",
 			"statuschangedate": "03/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -68167,7 +68167,7 @@
 			"detectedstate": "Madhya Pradesh",
 			"estimatedonsetdate": "",
 			"gender": "",
-			"nationality": "",
+			"nationality": "India",
 			"notes": "Relative of Dubai-returned couple",
 			"patientnumber": "3099",
 			"source1": "https://twitter.com/JansamparkMP/status/1246116249026715649",
@@ -68176,7 +68176,7 @@
 			"statecode": "MP",
 			"statepatientnumber": "",
 			"statuschangedate": "03/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -68189,7 +68189,7 @@
 			"detectedstate": "Madhya Pradesh",
 			"estimatedonsetdate": "",
 			"gender": "",
-			"nationality": "",
+			"nationality": "India",
 			"notes": "Relative of Dubai-returned couple",
 			"patientnumber": "3100",
 			"source1": "https://twitter.com/JansamparkMP/status/1246116249026715649",
@@ -68198,7 +68198,7 @@
 			"statecode": "MP",
 			"statepatientnumber": "",
 			"statuschangedate": "03/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -68211,7 +68211,7 @@
 			"detectedstate": "Madhya Pradesh",
 			"estimatedonsetdate": "",
 			"gender": "",
-			"nationality": "",
+			"nationality": "India",
 			"notes": "Relative of Dubai-returned couple",
 			"patientnumber": "3101",
 			"source1": "https://twitter.com/JansamparkMP/status/1246116249026715649",
@@ -68220,7 +68220,7 @@
 			"statecode": "MP",
 			"statepatientnumber": "",
 			"statuschangedate": "03/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -68233,7 +68233,7 @@
 			"detectedstate": "Madhya Pradesh",
 			"estimatedonsetdate": "",
 			"gender": "",
-			"nationality": "",
+			"nationality": "India",
 			"notes": "Relative of Dubai-returned couple",
 			"patientnumber": "3102",
 			"source1": "https://twitter.com/JansamparkMP/status/1246116249026715649",
@@ -68242,7 +68242,7 @@
 			"statecode": "MP",
 			"statepatientnumber": "",
 			"statuschangedate": "03/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -68255,7 +68255,7 @@
 			"detectedstate": "Madhya Pradesh",
 			"estimatedonsetdate": "",
 			"gender": "",
-			"nationality": "",
+			"nationality": "India",
 			"notes": "Relative of Dubai-returned couple",
 			"patientnumber": "3103",
 			"source1": "https://twitter.com/JansamparkMP/status/1246116249026715649",
@@ -68264,7 +68264,7 @@
 			"statecode": "MP",
 			"statepatientnumber": "",
 			"statuschangedate": "03/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -70301,7 +70301,7 @@
 			"detectedstate": "Gujarat",
 			"estimatedonsetdate": "",
 			"gender": "",
-			"nationality": "",
+			"nationality": "India",
 			"notes": "Local Transmission",
 			"patientnumber": "3196",
 			"source1": "",
@@ -70310,7 +70310,7 @@
 			"statecode": "GJ",
 			"statepatientnumber": "",
 			"statuschangedate": "04/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -70323,7 +70323,7 @@
 			"detectedstate": "Gujarat",
 			"estimatedonsetdate": "",
 			"gender": "",
-			"nationality": "",
+			"nationality": "India",
 			"notes": "Local Transmission",
 			"patientnumber": "3197",
 			"source1": "",
@@ -70332,7 +70332,7 @@
 			"statecode": "GJ",
 			"statepatientnumber": "",
 			"statuschangedate": "04/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -70345,7 +70345,7 @@
 			"detectedstate": "Gujarat",
 			"estimatedonsetdate": "",
 			"gender": "",
-			"nationality": "",
+			"nationality": "India",
 			"notes": "Local Transmission",
 			"patientnumber": "3198",
 			"source1": "",
@@ -70354,7 +70354,7 @@
 			"statecode": "GJ",
 			"statepatientnumber": "",
 			"statuschangedate": "04/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -70367,7 +70367,7 @@
 			"detectedstate": "Gujarat",
 			"estimatedonsetdate": "",
 			"gender": "",
-			"nationality": "",
+			"nationality": "India",
 			"notes": "Local Transmission",
 			"patientnumber": "3199",
 			"source1": "",
@@ -70376,7 +70376,7 @@
 			"statecode": "GJ",
 			"statepatientnumber": "",
 			"statuschangedate": "04/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -70389,7 +70389,7 @@
 			"detectedstate": "Gujarat",
 			"estimatedonsetdate": "",
 			"gender": "",
-			"nationality": "",
+			"nationality": "India",
 			"notes": "Local Transmission",
 			"patientnumber": "3200",
 			"source1": "",
@@ -70398,7 +70398,7 @@
 			"statecode": "GJ",
 			"statepatientnumber": "",
 			"statuschangedate": "04/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -70411,7 +70411,7 @@
 			"detectedstate": "Gujarat",
 			"estimatedonsetdate": "",
 			"gender": "",
-			"nationality": "",
+			"nationality": "India",
 			"notes": "Local Transmission",
 			"patientnumber": "3201",
 			"source1": "",
@@ -70420,7 +70420,7 @@
 			"statecode": "GJ",
 			"statepatientnumber": "",
 			"statuschangedate": "04/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -70433,7 +70433,7 @@
 			"detectedstate": "Gujarat",
 			"estimatedonsetdate": "",
 			"gender": "",
-			"nationality": "",
+			"nationality": "India",
 			"notes": "Local Transmission",
 			"patientnumber": "3202",
 			"source1": "",
@@ -70442,7 +70442,7 @@
 			"statecode": "GJ",
 			"statepatientnumber": "",
 			"statuschangedate": "04/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -70455,7 +70455,7 @@
 			"detectedstate": "Gujarat",
 			"estimatedonsetdate": "",
 			"gender": "",
-			"nationality": "",
+			"nationality": "India",
 			"notes": "Local Transmission",
 			"patientnumber": "3203",
 			"source1": "",
@@ -70464,7 +70464,7 @@
 			"statecode": "GJ",
 			"statepatientnumber": "",
 			"statuschangedate": "04/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -70477,7 +70477,7 @@
 			"detectedstate": "Gujarat",
 			"estimatedonsetdate": "",
 			"gender": "",
-			"nationality": "",
+			"nationality": "India",
 			"notes": "Local Transmission",
 			"patientnumber": "3204",
 			"source1": "",
@@ -70486,7 +70486,7 @@
 			"statecode": "GJ",
 			"statepatientnumber": "",
 			"statuschangedate": "04/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -70521,7 +70521,7 @@
 			"detectedstate": "Punjab",
 			"estimatedonsetdate": "",
 			"gender": "",
-			"nationality": "",
+			"nationality": "India",
 			"notes": "Organized Medical camp with participation of NRIs",
 			"patientnumber": "3206",
 			"source1": "https://twitter.com/kbssidhu1961/status/1246432643794612225",
@@ -70530,7 +70530,7 @@
 			"statecode": "PB",
 			"statepatientnumber": "",
 			"statuschangedate": "04/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -71212,7 +71212,7 @@
 			"statecode": "KA",
 			"statepatientnumber": "KA-P134",
 			"statuschangedate": "04/04/2020",
-			"typeoftransmission": "TBD"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "19",
@@ -71234,7 +71234,7 @@
 			"statecode": "KA",
 			"statepatientnumber": "KA-P135",
 			"statuschangedate": "04/04/2020",
-			"typeoftransmission": "TBD"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "39",
@@ -71256,7 +71256,7 @@
 			"statecode": "KA",
 			"statepatientnumber": "KA-P136",
 			"statuschangedate": "04/04/2020",
-			"typeoftransmission": "TBD"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "39",
@@ -71300,7 +71300,7 @@
 			"statecode": "KA",
 			"statepatientnumber": "KA-P138",
 			"statuschangedate": "04/04/2020",
-			"typeoftransmission": "TBD"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "40",
@@ -72743,7 +72743,7 @@
 			"detectedstate": "Jammu and Kashmir",
 			"estimatedonsetdate": "",
 			"gender": "",
-			"nationality": "",
+			"nationality": "India",
 			"notes": "",
 			"patientnumber": "3307",
 			"source1": "https://twitter.com/diprjk/status/1246412229072670721",
@@ -72765,7 +72765,7 @@
 			"detectedstate": "Jammu and Kashmir",
 			"estimatedonsetdate": "",
 			"gender": "",
-			"nationality": "",
+			"nationality": "India",
 			"notes": "",
 			"patientnumber": "3308",
 			"source1": "https://twitter.com/diprjk/status/1246412229072670721",
@@ -72787,7 +72787,7 @@
 			"detectedstate": "Jammu and Kashmir",
 			"estimatedonsetdate": "",
 			"gender": "",
-			"nationality": "",
+			"nationality": "India",
 			"notes": "",
 			"patientnumber": "3309",
 			"source1": "https://twitter.com/diprjk/status/1246412229072670721",
@@ -72809,7 +72809,7 @@
 			"detectedstate": "Jammu and Kashmir",
 			"estimatedonsetdate": "",
 			"gender": "",
-			"nationality": "",
+			"nationality": "India",
 			"notes": "",
 			"patientnumber": "3310",
 			"source1": "https://twitter.com/diprjk/status/1246412229072670721",
@@ -72831,7 +72831,7 @@
 			"detectedstate": "Jammu and Kashmir",
 			"estimatedonsetdate": "",
 			"gender": "",
-			"nationality": "",
+			"nationality": "India",
 			"notes": "",
 			"patientnumber": "3311",
 			"source1": "https://twitter.com/diprjk/status/1246412229072670721",
@@ -72853,7 +72853,7 @@
 			"detectedstate": "Jammu and Kashmir",
 			"estimatedonsetdate": "",
 			"gender": "",
-			"nationality": "",
+			"nationality": "India",
 			"notes": "",
 			"patientnumber": "3312",
 			"source1": "https://twitter.com/diprjk/status/1246412229072670721",
@@ -72875,7 +72875,7 @@
 			"detectedstate": "Jammu and Kashmir",
 			"estimatedonsetdate": "",
 			"gender": "",
-			"nationality": "",
+			"nationality": "India",
 			"notes": "",
 			"patientnumber": "3313",
 			"source1": "https://twitter.com/diprjk/status/1246412229072670721",
@@ -72897,7 +72897,7 @@
 			"detectedstate": "Jammu and Kashmir",
 			"estimatedonsetdate": "",
 			"gender": "",
-			"nationality": "",
+			"nationality": "India",
 			"notes": "",
 			"patientnumber": "3314",
 			"source1": "https://twitter.com/diprjk/status/1246412229072670721",
@@ -72919,7 +72919,7 @@
 			"detectedstate": "Jammu and Kashmir",
 			"estimatedonsetdate": "",
 			"gender": "",
-			"nationality": "",
+			"nationality": "India",
 			"notes": "",
 			"patientnumber": "3315",
 			"source1": "https://twitter.com/diprjk/status/1246412229072670721",
@@ -72941,7 +72941,7 @@
 			"detectedstate": "Jammu and Kashmir",
 			"estimatedonsetdate": "",
 			"gender": "",
-			"nationality": "",
+			"nationality": "India",
 			"notes": "",
 			"patientnumber": "3316",
 			"source1": "https://twitter.com/diprjk/status/1246412229072670721",
@@ -72963,7 +72963,7 @@
 			"detectedstate": "Jammu and Kashmir",
 			"estimatedonsetdate": "",
 			"gender": "",
-			"nationality": "",
+			"nationality": "India",
 			"notes": "",
 			"patientnumber": "3317",
 			"source1": "https://twitter.com/diprjk/status/1246412229072670721",
@@ -72985,7 +72985,7 @@
 			"detectedstate": "Jammu and Kashmir",
 			"estimatedonsetdate": "",
 			"gender": "",
-			"nationality": "",
+			"nationality": "India",
 			"notes": "",
 			"patientnumber": "3318",
 			"source1": "https://twitter.com/diprjk/status/1246412229072670721",
@@ -73007,7 +73007,7 @@
 			"detectedstate": "Jammu and Kashmir",
 			"estimatedonsetdate": "",
 			"gender": "",
-			"nationality": "",
+			"nationality": "India",
 			"notes": "",
 			"patientnumber": "3319",
 			"source1": "https://twitter.com/diprjk/status/1246412229072670721",
@@ -73029,7 +73029,7 @@
 			"detectedstate": "Jammu and Kashmir",
 			"estimatedonsetdate": "",
 			"gender": "",
-			"nationality": "",
+			"nationality": "India",
 			"notes": "",
 			"patientnumber": "3320",
 			"source1": "https://twitter.com/diprjk/status/1246412229072670721",
@@ -74349,7 +74349,7 @@
 			"detectedstate": "Tamil Nadu",
 			"estimatedonsetdate": "",
 			"gender": "F",
-			"nationality": "",
+			"nationality": "India",
 			"notes": "Contact of Positive Patient",
 			"patientnumber": "3380",
 			"source1": "https://twitter.com/ANI/status/1246418320057708545",
@@ -74358,7 +74358,7 @@
 			"statecode": "TN",
 			"statepatientnumber": "TN-P412",
 			"statuschangedate": "04/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -74371,7 +74371,7 @@
 			"detectedstate": "Tamil Nadu",
 			"estimatedonsetdate": "",
 			"gender": "M",
-			"nationality": "",
+			"nationality": "India",
 			"notes": "Contact of Positive Patient",
 			"patientnumber": "3381",
 			"source1": "https://twitter.com/ANI/status/1246418320057708545",
@@ -74380,7 +74380,7 @@
 			"statecode": "TN",
 			"statepatientnumber": "TN-P413",
 			"statuschangedate": "04/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -74723,7 +74723,7 @@
 			"detectedstate": "Tamil Nadu",
 			"estimatedonsetdate": "",
 			"gender": "F",
-			"nationality": "",
+			"nationality": "India",
 			"notes": "Contact of Positive Patient",
 			"patientnumber": "3397",
 			"source1": "https://twitter.com/ANI/status/1246418320057708545",
@@ -74732,7 +74732,7 @@
 			"statecode": "TN",
 			"statepatientnumber": "TN-P429",
 			"statuschangedate": "04/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -74745,7 +74745,7 @@
 			"detectedstate": "Tamil Nadu",
 			"estimatedonsetdate": "",
 			"gender": "M",
-			"nationality": "",
+			"nationality": "India",
 			"notes": "Contact of Positive Patient",
 			"patientnumber": "3398",
 			"source1": "https://twitter.com/ANI/status/1246418320057708545",
@@ -74754,7 +74754,7 @@
 			"statecode": "TN",
 			"statepatientnumber": "TN-P430",
 			"statuschangedate": "04/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -74811,7 +74811,7 @@
 			"detectedstate": "Tamil Nadu",
 			"estimatedonsetdate": "",
 			"gender": "F",
-			"nationality": "",
+			"nationality": "India",
 			"notes": "Contact of Positive Patient",
 			"patientnumber": "3401",
 			"source1": "https://twitter.com/ANI/status/1246418320057708545",
@@ -74820,7 +74820,7 @@
 			"statecode": "TN",
 			"statepatientnumber": "TN-P433",
 			"statuschangedate": "04/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -75986,7 +75986,7 @@
 			"statecode": "KL",
 			"statepatientnumber": "",
 			"statuschangedate": "04/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -76008,7 +76008,7 @@
 			"statecode": "KL",
 			"statepatientnumber": "",
 			"statuschangedate": "04/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -76052,7 +76052,7 @@
 			"statecode": "KL",
 			"statepatientnumber": "",
 			"statuschangedate": "04/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "",
@@ -76074,7 +76074,7 @@
 			"statecode": "KL",
 			"statepatientnumber": "",
 			"statuschangedate": "04/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "",
@@ -76096,7 +76096,7 @@
 			"statecode": "KL",
 			"statepatientnumber": "",
 			"statuschangedate": "04/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "",
@@ -76615,7 +76615,7 @@
 			"detectedstate": "Punjab",
 			"estimatedonsetdate": "",
 			"gender": "",
-			"nationality": "",
+			"nationality": "India",
 			"notes": "Contact of Positive case",
 			"patientnumber": "3483",
 			"source1": "https://twitter.com/kbssidhu1961/status/1246432643794612225",
@@ -76624,7 +76624,7 @@
 			"statecode": "PB",
 			"statepatientnumber": "",
 			"statuschangedate": "04/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -76637,7 +76637,7 @@
 			"detectedstate": "Punjab",
 			"estimatedonsetdate": "",
 			"gender": "",
-			"nationality": "",
+			"nationality": "India",
 			"notes": "Contact of Positive case",
 			"patientnumber": "3484",
 			"source1": "https://twitter.com/kbssidhu1961/status/1246432643794612225",
@@ -76646,7 +76646,7 @@
 			"statecode": "PB",
 			"statepatientnumber": "",
 			"statuschangedate": "04/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -76659,7 +76659,7 @@
 			"detectedstate": "Punjab",
 			"estimatedonsetdate": "",
 			"gender": "",
-			"nationality": "",
+			"nationality": "India",
 			"notes": "Contact of Positive case",
 			"patientnumber": "3485",
 			"source1": "https://twitter.com/kbssidhu1961/status/1246432643794612225",
@@ -76668,7 +76668,7 @@
 			"statecode": "PB",
 			"statepatientnumber": "",
 			"statuschangedate": "04/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -76681,7 +76681,7 @@
 			"detectedstate": "Punjab",
 			"estimatedonsetdate": "",
 			"gender": "",
-			"nationality": "",
+			"nationality": "India",
 			"notes": "Contact of Positive case",
 			"patientnumber": "3486",
 			"source1": "https://twitter.com/kbssidhu1961/status/1246432643794612225",
@@ -76690,7 +76690,7 @@
 			"statecode": "PB",
 			"statepatientnumber": "",
 			"statuschangedate": "04/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -76703,7 +76703,7 @@
 			"detectedstate": "Punjab",
 			"estimatedonsetdate": "",
 			"gender": "",
-			"nationality": "",
+			"nationality": "India",
 			"notes": "Contact of Positive case",
 			"patientnumber": "3487",
 			"source1": "https://twitter.com/kbssidhu1961/status/1246432643794612225",
@@ -76712,7 +76712,7 @@
 			"statecode": "PB",
 			"statepatientnumber": "",
 			"statuschangedate": "04/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -76725,7 +76725,7 @@
 			"detectedstate": "Punjab",
 			"estimatedonsetdate": "",
 			"gender": "",
-			"nationality": "",
+			"nationality": "India",
 			"notes": "Contact of Positive case",
 			"patientnumber": "3488",
 			"source1": "https://twitter.com/kbssidhu1961/status/1246432643794612225",
@@ -76734,7 +76734,7 @@
 			"statecode": "PB",
 			"statepatientnumber": "",
 			"statuschangedate": "04/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "75",
@@ -76822,7 +76822,7 @@
 			"statecode": "GJ",
 			"statepatientnumber": "",
 			"statuschangedate": "04/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -76844,7 +76844,7 @@
 			"statecode": "GJ",
 			"statepatientnumber": "",
 			"statuschangedate": "04/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "61",
@@ -76866,7 +76866,7 @@
 			"statecode": "GJ",
 			"statepatientnumber": "",
 			"statuschangedate": "04/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -81719,7 +81719,7 @@
 			"detectedstate": "Gujarat",
 			"estimatedonsetdate": "",
 			"gender": "M",
-			"nationality": "",
+			"nationality": "India",
 			"notes": "Local Transmission",
 			"patientnumber": "3715",
 			"source1": "https://gujcovid19.gujarat.gov.in/",
@@ -81728,7 +81728,7 @@
 			"statecode": "GJ",
 			"statepatientnumber": "",
 			"statuschangedate": "05/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "55",
@@ -81741,7 +81741,7 @@
 			"detectedstate": "Gujarat",
 			"estimatedonsetdate": "",
 			"gender": "M",
-			"nationality": "",
+			"nationality": "India",
 			"notes": "Local Transmission",
 			"patientnumber": "3716",
 			"source1": "https://gujcovid19.gujarat.gov.in/",
@@ -81750,7 +81750,7 @@
 			"statecode": "GJ",
 			"statepatientnumber": "",
 			"statuschangedate": "05/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "75",
@@ -81763,7 +81763,7 @@
 			"detectedstate": "Gujarat",
 			"estimatedonsetdate": "",
 			"gender": "F",
-			"nationality": "",
+			"nationality": "India",
 			"notes": "Local Transmission",
 			"patientnumber": "3717",
 			"source1": "https://gujcovid19.gujarat.gov.in/",
@@ -81772,7 +81772,7 @@
 			"statecode": "GJ",
 			"statepatientnumber": "",
 			"statuschangedate": "05/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "34",
@@ -81785,7 +81785,7 @@
 			"detectedstate": "Gujarat",
 			"estimatedonsetdate": "",
 			"gender": "F",
-			"nationality": "",
+			"nationality": "India",
 			"notes": "Local Transmission",
 			"patientnumber": "3718",
 			"source1": "https://gujcovid19.gujarat.gov.in/",
@@ -81794,7 +81794,7 @@
 			"statecode": "GJ",
 			"statepatientnumber": "",
 			"statuschangedate": "05/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "26",
@@ -81807,7 +81807,7 @@
 			"detectedstate": "Gujarat",
 			"estimatedonsetdate": "",
 			"gender": "M",
-			"nationality": "",
+			"nationality": "India",
 			"notes": "Local Transmission",
 			"patientnumber": "3719",
 			"source1": "https://gujcovid19.gujarat.gov.in/",
@@ -81816,7 +81816,7 @@
 			"statecode": "GJ",
 			"statepatientnumber": "",
 			"statuschangedate": "05/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "60",
@@ -81851,7 +81851,7 @@
 			"detectedstate": "Gujarat",
 			"estimatedonsetdate": "",
 			"gender": "M",
-			"nationality": "",
+			"nationality": "India",
 			"notes": "Local Transmission",
 			"patientnumber": "3721",
 			"source1": "https://gujcovid19.gujarat.gov.in/",
@@ -81860,7 +81860,7 @@
 			"statecode": "GJ",
 			"statepatientnumber": "",
 			"statuschangedate": "05/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "40",
@@ -81873,7 +81873,7 @@
 			"detectedstate": "Gujarat",
 			"estimatedonsetdate": "",
 			"gender": "F",
-			"nationality": "",
+			"nationality": "India",
 			"notes": "Local Transmission",
 			"patientnumber": "3722",
 			"source1": "https://gujcovid19.gujarat.gov.in/",
@@ -81882,7 +81882,7 @@
 			"statecode": "GJ",
 			"statepatientnumber": "",
 			"statuschangedate": "05/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "34",
@@ -81895,7 +81895,7 @@
 			"detectedstate": "Gujarat",
 			"estimatedonsetdate": "",
 			"gender": "M",
-			"nationality": "",
+			"nationality": "India",
 			"notes": "Local Transmission",
 			"patientnumber": "3723",
 			"source1": "https://gujcovid19.gujarat.gov.in/",
@@ -81904,7 +81904,7 @@
 			"statecode": "GJ",
 			"statepatientnumber": "",
 			"statuschangedate": "05/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -81926,7 +81926,7 @@
 			"statecode": "JH",
 			"statepatientnumber": "",
 			"statuschangedate": "05/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "",
@@ -83325,7 +83325,7 @@
 			"detectedstate": "Odisha",
 			"estimatedonsetdate": "",
 			"gender": "M",
-			"nationality": "",
+			"nationality": "India",
 			"notes": "Travelled from Australia",
 			"patientnumber": "3788",
 			"source1": "https://twitter.com/HFWOdisha/status/1246740631159889921",
@@ -83334,7 +83334,7 @@
 			"statecode": "OR",
 			"statepatientnumber": "",
 			"statuschangedate": "05/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "29",
@@ -83523,7 +83523,7 @@
 			"detectedstate": "Punjab",
 			"estimatedonsetdate": "",
 			"gender": "M",
-			"nationality": "",
+			"nationality": "India",
 			"notes": "No travel history; owns bakery",
 			"patientnumber": "3797",
 			"source1": "https://twitter.com/ANI/status/1246726356756357120",
@@ -83532,7 +83532,7 @@
 			"statecode": "PB",
 			"statepatientnumber": "",
 			"statuschangedate": "05/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -83545,7 +83545,7 @@
 			"detectedstate": "Jammu and Kashmir",
 			"estimatedonsetdate": "",
 			"gender": "",
-			"nationality": "",
+			"nationality": "India",
 			"notes": "In Kashmir, details awaited",
 			"patientnumber": "3798",
 			"source1": "https://twitter.com/PTI_News/status/1246745573945819137",
@@ -83567,7 +83567,7 @@
 			"detectedstate": "Jammu and Kashmir",
 			"estimatedonsetdate": "",
 			"gender": "",
-			"nationality": "",
+			"nationality": "India",
 			"notes": "In Kashmir, details awaited",
 			"patientnumber": "3799",
 			"source1": "https://twitter.com/PTI_News/status/1246745573945819137",
@@ -83589,7 +83589,7 @@
 			"detectedstate": "Jammu and Kashmir",
 			"estimatedonsetdate": "",
 			"gender": "",
-			"nationality": "",
+			"nationality": "India",
 			"notes": "In Kashmir, details awaited",
 			"patientnumber": "3800",
 			"source1": "https://twitter.com/PTI_News/status/1246745573945819137",
@@ -83611,7 +83611,7 @@
 			"detectedstate": "Jammu and Kashmir",
 			"estimatedonsetdate": "",
 			"gender": "",
-			"nationality": "",
+			"nationality": "India",
 			"notes": "In Kashmir, details awaited",
 			"patientnumber": "3801",
 			"source1": "https://twitter.com/PTI_News/status/1246745573945819137",
@@ -83633,7 +83633,7 @@
 			"detectedstate": "Jammu and Kashmir",
 			"estimatedonsetdate": "",
 			"gender": "",
-			"nationality": "",
+			"nationality": "India",
 			"notes": "In Kashmir, details awaited",
 			"patientnumber": "3802",
 			"source1": "https://twitter.com/PTI_News/status/1246745573945819137",
@@ -83655,7 +83655,7 @@
 			"detectedstate": "Jammu and Kashmir",
 			"estimatedonsetdate": "",
 			"gender": "",
-			"nationality": "",
+			"nationality": "India",
 			"notes": "In Kashmir, details awaited",
 			"patientnumber": "3803",
 			"source1": "https://twitter.com/PTI_News/status/1246745573945819137",
@@ -83677,7 +83677,7 @@
 			"detectedstate": "Jammu and Kashmir",
 			"estimatedonsetdate": "",
 			"gender": "",
-			"nationality": "",
+			"nationality": "India",
 			"notes": "In Kashmir, details awaited",
 			"patientnumber": "3804",
 			"source1": "https://twitter.com/PTI_News/status/1246745573945819137",
@@ -83699,7 +83699,7 @@
 			"detectedstate": "Jammu and Kashmir",
 			"estimatedonsetdate": "",
 			"gender": "",
-			"nationality": "",
+			"nationality": "India",
 			"notes": "In Kashmir, details awaited",
 			"patientnumber": "3805",
 			"source1": "https://twitter.com/PTI_News/status/1246745573945819137",
@@ -83721,7 +83721,7 @@
 			"detectedstate": "Jammu and Kashmir",
 			"estimatedonsetdate": "",
 			"gender": "",
-			"nationality": "",
+			"nationality": "India",
 			"notes": "In Kashmir, details awaited",
 			"patientnumber": "3806",
 			"source1": "https://twitter.com/PTI_News/status/1246745573945819137",
@@ -83743,7 +83743,7 @@
 			"detectedstate": "Jammu and Kashmir",
 			"estimatedonsetdate": "",
 			"gender": "",
-			"nationality": "",
+			"nationality": "India",
 			"notes": "In Kashmir, details awaited",
 			"patientnumber": "3807",
 			"source1": "https://twitter.com/PTI_News/status/1246745573945819137",
@@ -83765,7 +83765,7 @@
 			"detectedstate": "Jammu and Kashmir",
 			"estimatedonsetdate": "",
 			"gender": "",
-			"nationality": "",
+			"nationality": "India",
 			"notes": "In Kashmir, details awaited",
 			"patientnumber": "3808",
 			"source1": "https://twitter.com/PTI_News/status/1246745573945819137",
@@ -83787,7 +83787,7 @@
 			"detectedstate": "Jammu and Kashmir",
 			"estimatedonsetdate": "",
 			"gender": "",
-			"nationality": "",
+			"nationality": "India",
 			"notes": "In Kashmir, details awaited",
 			"patientnumber": "3809",
 			"source1": "https://twitter.com/PTI_News/status/1246745573945819137",
@@ -83809,7 +83809,7 @@
 			"detectedstate": "Jammu and Kashmir",
 			"estimatedonsetdate": "",
 			"gender": "",
-			"nationality": "",
+			"nationality": "India",
 			"notes": "In Kashmir, details awaited",
 			"patientnumber": "3810",
 			"source1": "https://twitter.com/PTI_News/status/1246745573945819137",
@@ -83831,7 +83831,7 @@
 			"detectedstate": "Jammu and Kashmir",
 			"estimatedonsetdate": "",
 			"gender": "",
-			"nationality": "",
+			"nationality": "India",
 			"notes": "In Kashmir, details awaited",
 			"patientnumber": "3811",
 			"source1": "https://twitter.com/PTI_News/status/1246745573945819137",
