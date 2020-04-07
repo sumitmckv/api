@@ -1453,10 +1453,10 @@
   "Punjab": {
     "districtData": {
       "Amritsar": {
-        "confirmed": 9,
+        "confirmed": 10,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Shahid Bhagat Singh Nagar": {
@@ -1467,10 +1467,10 @@
         }
       },
       "S.A.S. Nagar": {
-        "confirmed": 19,
+        "confirmed": 26,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 7
         }
       },
       "Hoshiarpur": {
@@ -1488,10 +1488,10 @@
         }
       },
       "Ludhiana": {
-        "confirmed": 7,
+        "confirmed": 6,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 0
         }
       },
       "Patiala": {
@@ -1509,17 +1509,17 @@
         }
       },
       "Mansa": {
-        "confirmed": 3,
+        "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Pathankot": {
-        "confirmed": 1,
+        "confirmed": 7,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 6
         }
       },
       "Faridkot": {
@@ -1556,23 +1556,16 @@
         "delta": {
           "confirmed": 4
         }
-      },
-      "Unknown": {
-        "confirmed": 15,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 15
-        }
       }
     }
   },
   "Andhra Pradesh": {
     "districtData": {
       "S.P.S. Nellore": {
-        "confirmed": 42,
+        "confirmed": 43,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Prakasam": {
@@ -1611,10 +1604,10 @@
         }
       },
       "Guntur": {
-        "confirmed": 37,
+        "confirmed": 41,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 5
+          "confirmed": 9
         }
       },
       "Kurnool": {
@@ -1639,17 +1632,10 @@
         }
       },
       "Y.S.R.": {
-        "confirmed": 27,
+        "confirmed": 28,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
-        }
-      },
-      "Unknown": {
-        "confirmed": 6,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 6
+          "confirmed": 1
         }
       }
     }
