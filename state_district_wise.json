@@ -1668,10 +1668,10 @@
   "Odisha": {
     "districtData": {
       "Khordha": {
-        "confirmed": 32,
+        "confirmed": 33,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Bhadrak": {
@@ -2384,7 +2384,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 110,
+        "confirmed": 109,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
