@@ -238,10 +238,10 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 268,
+        "confirmed": 298,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 40
         }
       },
       {
@@ -1653,7 +1653,7 @@
         }
       },
       {
-        "district": "Saharsa",
+        "district": "Satna",
         "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
@@ -2780,7 +2780,7 @@
     "districtData": [
       {
         "district": "Unknown",
-        "confirmed": 217,
+        "confirmed": 187,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
