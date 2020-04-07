@@ -512,10 +512,10 @@
       },
       {
         "district": "Gurugram",
-        "confirmed": 18,
+        "confirmed": 20,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       {
@@ -592,10 +592,10 @@
       },
       {
         "district": "Nuh",
-        "confirmed": 30,
+        "confirmed": 37,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 16
+          "confirmed": 23
         }
       },
       {
@@ -631,11 +631,11 @@
         }
       },
       {
-        "district": "Unknown",
-        "confirmed": 10,
+        "district": "Jind",
+        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       }
     ]
@@ -2458,10 +2458,10 @@
       },
       {
         "district": "Siwan",
-        "confirmed": 6,
+        "confirmed": 8,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       {
@@ -2772,7 +2772,7 @@
     "districtData": [
       {
         "district": "Unknown",
-        "confirmed": 70,
+        "confirmed": 68,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0

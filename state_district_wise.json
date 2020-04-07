@@ -445,10 +445,10 @@
         }
       },
       "Gurugram": {
-        "confirmed": 18,
+        "confirmed": 20,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Faridabad": {
@@ -515,10 +515,10 @@
         }
       },
       "Nuh": {
-        "confirmed": 30,
+        "confirmed": 37,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 16
+          "confirmed": 23
         }
       },
       "Karnal": {
@@ -549,11 +549,11 @@
           "confirmed": 0
         }
       },
-      "Unknown": {
-        "confirmed": 10,
+      "Jind": {
+        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       }
     }
@@ -2141,10 +2141,10 @@
         }
       },
       "Siwan": {
-        "confirmed": 6,
+        "confirmed": 8,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Nalanda": {
@@ -2412,7 +2412,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 70,
+        "confirmed": 68,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
