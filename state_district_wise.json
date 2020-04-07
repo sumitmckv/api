@@ -206,7 +206,7 @@
         }
       },
       "Unknown": {
-        "confirmed": 258,
+        "confirmed": 268,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1288,10 +1288,10 @@
         }
       },
       "Mumbai": {
-        "confirmed": 638,
+        "confirmed": 642,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 112
+          "confirmed": 116
         }
       },
       "Nagpur": {
@@ -1309,10 +1309,10 @@
         }
       },
       "Ahmadnagar": {
-        "confirmed": 29,
+        "confirmed": 26,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 6
+          "confirmed": 3
         }
       },
       "Yavatmal": {
@@ -1442,13 +1442,6 @@
         }
       },
       "Saharsa": {
-        "confirmed": 1,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 1
-        }
-      },
-      "Unknown": {
         "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
@@ -2426,7 +2419,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 227,
+        "confirmed": 217,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0

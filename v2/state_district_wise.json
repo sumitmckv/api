@@ -238,7 +238,7 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 258,
+        "confirmed": 268,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1478,10 +1478,10 @@
       },
       {
         "district": "Mumbai",
-        "confirmed": 638,
+        "confirmed": 642,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 112
+          "confirmed": 116
         }
       },
       {
@@ -1502,10 +1502,10 @@
       },
       {
         "district": "Ahmadnagar",
-        "confirmed": 29,
+        "confirmed": 26,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 6
+          "confirmed": 3
         }
       },
       {
@@ -1654,14 +1654,6 @@
       },
       {
         "district": "Saharsa",
-        "confirmed": 1,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 1
-        }
-      },
-      {
-        "district": "Unknown",
         "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
@@ -2788,7 +2780,7 @@
     "districtData": [
       {
         "district": "Unknown",
-        "confirmed": 227,
+        "confirmed": 217,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
