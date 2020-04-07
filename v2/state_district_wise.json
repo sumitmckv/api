@@ -206,7 +206,7 @@
       },
       {
         "district": "Karimnagar",
-        "confirmed": 3,
+        "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -230,7 +230,7 @@
       },
       {
         "district": "Medchal Malkajgiri",
-        "confirmed": 1,
+        "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -238,7 +238,7 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 298,
+        "confirmed": 271,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 40
@@ -270,7 +270,7 @@
       },
       {
         "district": "Nirmal",
-        "confirmed": 1,
+        "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -278,7 +278,7 @@
       },
       {
         "district": "Nizamabad",
-        "confirmed": 1,
+        "confirmed": 8,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -286,7 +286,7 @@
       },
       {
         "district": "Peddapalli",
-        "confirmed": 1,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -295,6 +295,30 @@
       {
         "district": "Sangareddy",
         "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      {
+        "district": "Jagitial",
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      {
+        "district": "Jogulamba Gadwal",
+        "confirmed": 8,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      {
+        "district": "Mahabubnagar",
+        "confirmed": 3,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
