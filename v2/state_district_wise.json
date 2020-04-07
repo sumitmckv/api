@@ -2232,6 +2232,14 @@
         "delta": {
           "confirmed": 0
         }
+      },
+      {
+        "district": "Unknown",
+        "confirmed": 19,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
       }
     ]
   },
@@ -2653,6 +2661,14 @@
         "delta": {
           "confirmed": 0
         }
+      },
+      {
+        "district": "Dhubri",
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
+        }
       }
     ]
   },
@@ -2700,7 +2716,7 @@
     "districtData": [
       {
         "district": "Unknown",
-        "confirmed": 212,
+        "confirmed": 192,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
