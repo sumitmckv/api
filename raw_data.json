@@ -12604,7 +12604,7 @@
 			"statecode": "MP",
 			"statepatientnumber": "",
 			"statuschangedate": "25/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -14144,7 +14144,7 @@
 			"statecode": "UP",
 			"statepatientnumber": "",
 			"statuschangedate": "25/03/2020",
-			"typeoftransmission": "TBD"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -14166,7 +14166,7 @@
 			"statecode": "UP",
 			"statepatientnumber": "",
 			"statuschangedate": "25/03/2020",
-			"typeoftransmission": "TBD"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -16740,7 +16740,7 @@
 			"statecode": "UP",
 			"statepatientnumber": "UP-GBN-18",
 			"statuschangedate": "27/03/2020",
-			"typeoftransmission": "TBD"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "38",
@@ -16762,7 +16762,7 @@
 			"statecode": "UP",
 			"statepatientnumber": "UP-GBN-19",
 			"statuschangedate": "27/03/2020",
-			"typeoftransmission": "TBD"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "30",
@@ -16784,7 +16784,7 @@
 			"statecode": "UP",
 			"statepatientnumber": "UP-GBN-20",
 			"statuschangedate": "27/03/2020",
-			"typeoftransmission": "TBD"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -20436,7 +20436,7 @@
 			"statecode": "UP",
 			"statepatientnumber": "UP-GBN-21",
 			"statuschangedate": "28/03/2020",
-			"typeoftransmission": "TBD"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "35",
@@ -20458,7 +20458,7 @@
 			"statecode": "UP",
 			"statepatientnumber": "UP-GBN-24",
 			"statuschangedate": "28/03/2020",
-			"typeoftransmission": "TBD"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "63",
@@ -20480,7 +20480,7 @@
 			"statecode": "UP",
 			"statepatientnumber": "UP-GBN-25",
 			"statuschangedate": "28/03/2020",
-			"typeoftransmission": "TBD"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "18",
@@ -20502,7 +20502,7 @@
 			"statecode": "UP",
 			"statepatientnumber": "UP-GBN-26",
 			"statuschangedate": "28/03/2020",
-			"typeoftransmission": "TBD"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "33",
@@ -20524,7 +20524,7 @@
 			"statecode": "UP",
 			"statepatientnumber": "UP-GBN-15",
 			"statuschangedate": "28/03/2020",
-			"typeoftransmission": "TBD"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -21030,7 +21030,7 @@
 			"statecode": "AN",
 			"statepatientnumber": "",
 			"statuschangedate": "28/03/2020",
-			"typeoftransmission": "TBD"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -21052,7 +21052,7 @@
 			"statecode": "AN",
 			"statepatientnumber": "",
 			"statuschangedate": "28/03/2020",
-			"typeoftransmission": "TBD"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -21536,7 +21536,7 @@
 			"statecode": "UP",
 			"statepatientnumber": "UP-GBN-16",
 			"statuschangedate": "28/03/2020",
-			"typeoftransmission": "TBD"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "36",
@@ -21558,7 +21558,7 @@
 			"statecode": "UP",
 			"statepatientnumber": "UP-GBN-17",
 			"statuschangedate": "28/03/2020",
-			"typeoftransmission": "TBD"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "52",
@@ -21580,7 +21580,7 @@
 			"statecode": "UP",
 			"statepatientnumber": "UP-GBN-23",
 			"statuschangedate": "28/03/2020",
-			"typeoftransmission": "TBD"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "31",
@@ -23054,7 +23054,7 @@
 			"statecode": "UP",
 			"statepatientnumber": "UP-GBN-22",
 			"statuschangedate": "29/03/2020",
-			"typeoftransmission": "TBD"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "35",
@@ -25782,7 +25782,7 @@
 			"statecode": "AP",
 			"statepatientnumber": "AP-P23",
 			"statuschangedate": "30/03/2020",
-			"typeoftransmission": "TBD"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "72",
@@ -25804,7 +25804,7 @@
 			"statecode": "AP",
 			"statepatientnumber": "AP-P22",
 			"statuschangedate": "30/03/2020",
-			"typeoftransmission": "TBD"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "25",
@@ -27784,7 +27784,7 @@
 			"statecode": "KL",
 			"statepatientnumber": "",
 			"statuschangedate": "30/03/2020",
-			"typeoftransmission": "TBD"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -28158,7 +28158,7 @@
 			"statecode": "UP",
 			"statepatientnumber": "",
 			"statuschangedate": "30/03/2020",
-			"typeoftransmission": "TBD"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -28950,7 +28950,7 @@
 			"statecode": "KA",
 			"statepatientnumber": "KA-P89",
 			"statuschangedate": "30/03/2020",
-			"typeoftransmission": "TBD"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "48",
@@ -28972,7 +28972,7 @@
 			"statecode": "KA",
 			"statepatientnumber": "KA-P90",
 			"statuschangedate": "30/03/2020",
-			"typeoftransmission": "TBD"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "26",
@@ -28994,7 +28994,7 @@
 			"statecode": "KA",
 			"statepatientnumber": "KA-P91",
 			"statuschangedate": "30/03/2020",
-			"typeoftransmission": "TBD"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -29632,7 +29632,7 @@
 			"statecode": "CT",
 			"statepatientnumber": "",
 			"statuschangedate": "30/03/2020",
-			"typeoftransmission": "TBD"
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "",
@@ -29764,7 +29764,7 @@
 			"statecode": "RJ",
 			"statepatientnumber": "",
 			"statuschangedate": "31/03/2020",
-			"typeoftransmission": "TBD"
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "17",
@@ -29786,7 +29786,7 @@
 			"statecode": "RJ",
 			"statepatientnumber": "",
 			"statuschangedate": "31/03/2020",
-			"typeoftransmission": "TBD"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "65",
@@ -29808,7 +29808,7 @@
 			"statecode": "RJ",
 			"statepatientnumber": "",
 			"statuschangedate": "31/03/2020",
-			"typeoftransmission": "TBD"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "60",
@@ -29852,7 +29852,7 @@
 			"statecode": "UP",
 			"statepatientnumber": "",
 			"statuschangedate": "31/03/2020",
-			"typeoftransmission": "TBD"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -29874,7 +29874,7 @@
 			"statecode": "UP",
 			"statepatientnumber": "",
 			"statuschangedate": "31/03/2020",
-			"typeoftransmission": "TBD"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -29896,7 +29896,7 @@
 			"statecode": "UP",
 			"statepatientnumber": "",
 			"statuschangedate": "31/03/2020",
-			"typeoftransmission": "TBD"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -29918,7 +29918,7 @@
 			"statecode": "UP",
 			"statepatientnumber": "",
 			"statuschangedate": "31/03/2020",
-			"typeoftransmission": "TBD"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -29940,7 +29940,7 @@
 			"statecode": "UP",
 			"statepatientnumber": "",
 			"statuschangedate": "31/03/2020",
-			"typeoftransmission": "TBD"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "35",
@@ -29962,7 +29962,7 @@
 			"statecode": "BR",
 			"statepatientnumber": "",
 			"statuschangedate": "31/03/2020",
-			"typeoftransmission": "TBD"
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "55",
@@ -30556,7 +30556,7 @@
 			"statecode": "TN",
 			"statepatientnumber": "TN-P68",
 			"statuschangedate": "31/03/2020",
-			"typeoftransmission": "TBD"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "28",
@@ -30578,7 +30578,7 @@
 			"statecode": "TN",
 			"statepatientnumber": "TN-P69",
 			"statuschangedate": "31/03/2020",
-			"typeoftransmission": "TBD"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -30600,7 +30600,7 @@
 			"statecode": "TN",
 			"statepatientnumber": "TN-P70",
 			"statuschangedate": "31/03/2020",
-			"typeoftransmission": "TBD"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -30622,7 +30622,7 @@
 			"statecode": "TN",
 			"statepatientnumber": "TN-P71",
 			"statuschangedate": "31/03/2020",
-			"typeoftransmission": "TBD"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -30644,7 +30644,7 @@
 			"statecode": "TN",
 			"statepatientnumber": "TN-P72",
 			"statuschangedate": "31/03/2020",
-			"typeoftransmission": "TBD"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -30666,7 +30666,7 @@
 			"statecode": "TN",
 			"statepatientnumber": "TN-P73",
 			"statuschangedate": "31/03/2020",
-			"typeoftransmission": "TBD"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -30688,7 +30688,7 @@
 			"statecode": "TN",
 			"statepatientnumber": "TN-P74",
 			"statuschangedate": "31/03/2020",
-			"typeoftransmission": "TBD"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -31722,7 +31722,7 @@
 			"statecode": "JH",
 			"statepatientnumber": "",
 			"statuschangedate": "31/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "TBD"
 		},
 		{
 			"agebracket": "",
@@ -31744,7 +31744,7 @@
 			"statecode": "HR",
 			"statepatientnumber": "",
 			"statuschangedate": "31/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "TBD"
 		},
 		{
 			"agebracket": "",
@@ -31766,7 +31766,7 @@
 			"statecode": "HR",
 			"statepatientnumber": "",
 			"statuschangedate": "31/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -31788,7 +31788,7 @@
 			"statecode": "HR",
 			"statepatientnumber": "",
 			"statuschangedate": "31/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "56",
@@ -31810,7 +31810,7 @@
 			"statecode": "KL",
 			"statepatientnumber": "",
 			"statuschangedate": "31/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "23",
@@ -31832,7 +31832,7 @@
 			"statecode": "KL",
 			"statepatientnumber": "",
 			"statuschangedate": "31/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -31942,7 +31942,7 @@
 			"statecode": "KL",
 			"statepatientnumber": "",
 			"statuschangedate": "31/03/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "52",
@@ -33152,7 +33152,7 @@
 			"statecode": "MH",
 			"statepatientnumber": "",
 			"statuschangedate": "31/03/2020",
-			"typeoftransmission": "TBD"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -33174,7 +33174,7 @@
 			"statecode": "MH",
 			"statepatientnumber": "",
 			"statuschangedate": "31/03/2020",
-			"typeoftransmission": "TBD"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -33196,7 +33196,7 @@
 			"statecode": "MH",
 			"statepatientnumber": "",
 			"statuschangedate": "31/03/2020",
-			"typeoftransmission": "TBD"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -34428,7 +34428,7 @@
 			"statecode": "TN",
 			"statepatientnumber": "TN-P79",
 			"statuschangedate": "31/03/2020",
-			"typeoftransmission": "TBD"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -35616,7 +35616,7 @@
 			"statecode": "UP",
 			"statepatientnumber": "",
 			"statuschangedate": "31/03/2020",
-			"typeoftransmission": "TBD"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -36540,7 +36540,7 @@
 			"statecode": "GJ",
 			"statepatientnumber": "",
 			"statuschangedate": "01/04/2020",
-			"typeoftransmission": "TBD"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "18",
@@ -36562,7 +36562,7 @@
 			"statecode": "GJ",
 			"statepatientnumber": "",
 			"statuschangedate": "01/04/2020",
-			"typeoftransmission": "TBD"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "45",
@@ -36584,7 +36584,7 @@
 			"statecode": "GJ",
 			"statepatientnumber": "",
 			"statuschangedate": "01/04/2020",
-			"typeoftransmission": "TBD"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "65",
@@ -36606,7 +36606,7 @@
 			"statecode": "GJ",
 			"statepatientnumber": "",
 			"statuschangedate": "01/04/2020",
-			"typeoftransmission": "TBD"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "68",
@@ -36628,7 +36628,7 @@
 			"statecode": "GJ",
 			"statepatientnumber": "",
 			"statuschangedate": "01/04/2020",
-			"typeoftransmission": "TBD"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "54",
@@ -36650,7 +36650,7 @@
 			"statecode": "GJ",
 			"statepatientnumber": "",
 			"statuschangedate": "01/04/2020",
-			"typeoftransmission": "TBD"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "58",
@@ -36672,7 +36672,7 @@
 			"statecode": "GJ",
 			"statepatientnumber": "",
 			"statuschangedate": "01/04/2020",
-			"typeoftransmission": "TBD"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "67",
@@ -36694,7 +36694,7 @@
 			"statecode": "GJ",
 			"statepatientnumber": "",
 			"statuschangedate": "01/04/2020",
-			"typeoftransmission": "TBD"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "40",
@@ -37706,7 +37706,7 @@
 			"statecode": "PB",
 			"statepatientnumber": "",
 			"statuschangedate": "01/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "24",
@@ -38256,7 +38256,7 @@
 			"statecode": "DL",
 			"statepatientnumber": "",
 			"statuschangedate": "01/04/2020",
-			"typeoftransmission": "TBD"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -38278,7 +38278,7 @@
 			"statecode": "DL",
 			"statepatientnumber": "",
 			"statuschangedate": "01/04/2020",
-			"typeoftransmission": "TBD"
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "",
@@ -41490,7 +41490,7 @@
 			"statecode": "KL",
 			"statepatientnumber": "",
 			"statuschangedate": "01/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "30",
@@ -41512,7 +41512,7 @@
 			"statecode": "KL",
 			"statepatientnumber": "",
 			"statuschangedate": "01/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "",
@@ -41578,7 +41578,7 @@
 			"statecode": "KL",
 			"statepatientnumber": "",
 			"statuschangedate": "01/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "36",
@@ -41600,7 +41600,7 @@
 			"statecode": "KL",
 			"statepatientnumber": "",
 			"statuschangedate": "01/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "",
@@ -44262,7 +44262,7 @@
 			"statecode": "CH",
 			"statepatientnumber": "",
 			"statuschangedate": "01/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "60",
@@ -44306,7 +44306,7 @@
 			"statecode": "UP",
 			"statepatientnumber": "",
 			"statuschangedate": "01/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -45450,7 +45450,7 @@
 			"statecode": "RJ",
 			"statepatientnumber": "",
 			"statuschangedate": "02/04/2020",
-			"typeoftransmission": "TBD"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -45472,7 +45472,7 @@
 			"statecode": "RJ",
 			"statepatientnumber": "",
 			"statuschangedate": "02/04/2020",
-			"typeoftransmission": "TBD"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -45494,7 +45494,7 @@
 			"statecode": "RJ",
 			"statepatientnumber": "",
 			"statuschangedate": "02/04/2020",
-			"typeoftransmission": "TBD"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -45516,7 +45516,7 @@
 			"statecode": "RJ",
 			"statepatientnumber": "",
 			"statuschangedate": "02/04/2020",
-			"typeoftransmission": "TBD"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -45538,7 +45538,7 @@
 			"statecode": "RJ",
 			"statepatientnumber": "",
 			"statuschangedate": "02/04/2020",
-			"typeoftransmission": "TBD"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -45560,7 +45560,7 @@
 			"statecode": "RJ",
 			"statepatientnumber": "",
 			"statuschangedate": "02/04/2020",
-			"typeoftransmission": "TBD"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -45582,7 +45582,7 @@
 			"statecode": "RJ",
 			"statepatientnumber": "",
 			"statuschangedate": "02/04/2020",
-			"typeoftransmission": "TBD"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -46088,7 +46088,7 @@
 			"statecode": "MH",
 			"statepatientnumber": "",
 			"statuschangedate": "02/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -46154,7 +46154,7 @@
 			"statecode": "PB",
 			"statepatientnumber": "",
 			"statuschangedate": "02/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -52732,7 +52732,7 @@
 			"statecode": "CH",
 			"statepatientnumber": "",
 			"statuschangedate": "02/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -52798,7 +52798,7 @@
 			"statecode": "JH",
 			"statepatientnumber": "",
 			"statuschangedate": "02/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -56450,7 +56450,7 @@
 			"statecode": "RJ",
 			"statepatientnumber": "",
 			"statuschangedate": "03/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -56472,7 +56472,7 @@
 			"statecode": "GA",
 			"statepatientnumber": "",
 			"statuschangedate": "03/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "",
