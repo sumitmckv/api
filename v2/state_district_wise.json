@@ -459,10 +459,10 @@
       },
       {
         "district": "Banswara",
-        "confirmed": 6,
+        "confirmed": 9,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 4
+          "confirmed": 7
         }
       },
       {
@@ -2772,7 +2772,7 @@
     "districtData": [
       {
         "district": "Unknown",
-        "confirmed": 68,
+        "confirmed": 65,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0

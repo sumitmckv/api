@@ -399,10 +399,10 @@
         }
       },
       "Banswara": {
-        "confirmed": 6,
+        "confirmed": 9,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 4
+          "confirmed": 7
         }
       },
       "Karauli": {
@@ -2412,7 +2412,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 68,
+        "confirmed": 65,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
