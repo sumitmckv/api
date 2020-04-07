@@ -2772,7 +2772,7 @@
     "districtData": [
       {
         "district": "Unknown",
-        "confirmed": 65,
+        "confirmed": 364,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
