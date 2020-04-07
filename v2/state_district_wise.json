@@ -1478,10 +1478,10 @@
       },
       {
         "district": "Mumbai",
-        "confirmed": 590,
+        "confirmed": 638,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 64
+          "confirmed": 112
         }
       },
       {
@@ -1653,15 +1653,15 @@
         }
       },
       {
-        "district": "Unknown",
-        "confirmed": 49,
+        "district": "Saharsa",
+        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 49
+          "confirmed": 1
         }
       },
       {
-        "district": "Saharsa",
+        "district": "Unknown",
         "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
