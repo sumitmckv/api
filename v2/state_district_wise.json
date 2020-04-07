@@ -315,10 +315,10 @@
       },
       {
         "district": "Jaipur",
-        "confirmed": 103,
+        "confirmed": 106,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 3
+          "confirmed": 6
         }
       },
       {
@@ -435,18 +435,18 @@
       },
       {
         "district": "Bharatpur",
-        "confirmed": 5,
+        "confirmed": 8,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       {
         "district": "Bikaner",
-        "confirmed": 11,
+        "confirmed": 14,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       {
@@ -483,10 +483,10 @@
       },
       {
         "district": "Jaisalmer",
-        "confirmed": 8,
+        "confirmed": 14,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 7
+          "confirmed": 13
         }
       },
       {
@@ -2772,7 +2772,7 @@
     "districtData": [
       {
         "district": "Unknown",
-        "confirmed": 152,
+        "confirmed": 137,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
