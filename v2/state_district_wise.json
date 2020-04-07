@@ -2437,7 +2437,15 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 2,
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      {
+        "district": "Sheopur",
+        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 1

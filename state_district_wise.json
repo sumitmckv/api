@@ -2123,7 +2123,14 @@
         }
       },
       "Unknown": {
-        "confirmed": 2,
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      "Sheopur": {
+        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 1
