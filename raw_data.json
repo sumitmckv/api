@@ -46264,7 +46264,7 @@
 			"statecode": "KA",
 			"statepatientnumber": "KA-P114",
 			"statuschangedate": "02/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "30",
@@ -46286,7 +46286,7 @@
 			"statecode": "KA",
 			"statepatientnumber": "KA-P115",
 			"statuschangedate": "02/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "41",
@@ -46308,7 +46308,7 @@
 			"statecode": "KA",
 			"statepatientnumber": "KA-P116",
 			"statuschangedate": "02/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "66",
@@ -46330,7 +46330,7 @@
 			"statecode": "KA",
 			"statepatientnumber": "KA-P117",
 			"statuschangedate": "02/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "59",
@@ -46352,7 +46352,7 @@
 			"statecode": "KA",
 			"statepatientnumber": "KA-P118",
 			"statuschangedate": "02/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "39",
@@ -46374,7 +46374,7 @@
 			"statecode": "KA",
 			"statepatientnumber": "KA-P119",
 			"statuschangedate": "02/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "60",
@@ -46396,7 +46396,7 @@
 			"statecode": "KA",
 			"statepatientnumber": "KA-P120",
 			"statuschangedate": "02/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "63",
@@ -46418,7 +46418,7 @@
 			"statecode": "KA",
 			"statepatientnumber": "KA-P121",
 			"statuschangedate": "02/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "73",
@@ -46440,7 +46440,7 @@
 			"statecode": "KA",
 			"statepatientnumber": "KA-P122",
 			"statuschangedate": "02/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "45",
@@ -46462,7 +46462,7 @@
 			"statecode": "KA",
 			"statepatientnumber": "KA-P123",
 			"statuschangedate": "02/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "60",
@@ -46484,7 +46484,7 @@
 			"statecode": "KA",
 			"statepatientnumber": "KA-P124",
 			"statuschangedate": "02/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -54602,7 +54602,7 @@
 			"statecode": "KA",
 			"statepatientnumber": "KA-P111",
 			"statuschangedate": "02/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "22",
@@ -54624,7 +54624,7 @@
 			"statecode": "KA",
 			"statepatientnumber": "KA-P112",
 			"statuschangedate": "02/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "14",
@@ -54646,7 +54646,7 @@
 			"statecode": "KA",
 			"statepatientnumber": "KA-P113",
 			"statuschangedate": "02/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -56912,7 +56912,7 @@
 			"statecode": "KA",
 			"statepatientnumber": "KA-P125",
 			"statuschangedate": "03/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "TBD"
 		},
 		{
 			"agebracket": "",
@@ -63578,7 +63578,7 @@
 			"statecode": "KA",
 			"statepatientnumber": "KA-P126",
 			"statuschangedate": "03/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "26",
@@ -63600,7 +63600,7 @@
 			"statecode": "KA",
 			"statepatientnumber": "KA-P127",
 			"statuschangedate": "03/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "20",
@@ -63622,7 +63622,7 @@
 			"statecode": "KA",
 			"statepatientnumber": "KA-P128",
 			"statuschangedate": "03/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -71102,7 +71102,7 @@
 			"statecode": "KA",
 			"statepatientnumber": "KA-P129",
 			"statuschangedate": "04/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "57",
@@ -71124,7 +71124,7 @@
 			"statecode": "KA",
 			"statepatientnumber": "KA-P130",
 			"statuschangedate": "04/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "43",
@@ -71146,7 +71146,7 @@
 			"statecode": "KA",
 			"statepatientnumber": "KA-P131",
 			"statuschangedate": "04/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "78",
@@ -71168,7 +71168,7 @@
 			"statecode": "KA",
 			"statepatientnumber": "KA-P132",
 			"statuschangedate": "04/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "60",
@@ -71190,7 +71190,7 @@
 			"statecode": "KA",
 			"statepatientnumber": "KA-P133-K-Q",
 			"statuschangedate": "04/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "38",
@@ -71212,7 +71212,7 @@
 			"statecode": "KA",
 			"statepatientnumber": "KA-P134",
 			"statuschangedate": "04/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "TBD"
 		},
 		{
 			"agebracket": "19",
@@ -71234,7 +71234,7 @@
 			"statecode": "KA",
 			"statepatientnumber": "KA-P135",
 			"statuschangedate": "04/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "TBD"
 		},
 		{
 			"agebracket": "39",
@@ -71256,7 +71256,7 @@
 			"statecode": "KA",
 			"statepatientnumber": "KA-P136",
 			"statuschangedate": "04/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "TBD"
 		},
 		{
 			"agebracket": "39",
@@ -71278,7 +71278,7 @@
 			"statecode": "KA",
 			"statepatientnumber": "KA-P137",
 			"statuschangedate": "04/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "TBD"
 		},
 		{
 			"agebracket": "54",
@@ -71300,7 +71300,7 @@
 			"statecode": "KA",
 			"statepatientnumber": "KA-P138",
 			"statuschangedate": "04/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "TBD"
 		},
 		{
 			"agebracket": "40",
@@ -71322,7 +71322,7 @@
 			"statecode": "KA",
 			"statepatientnumber": "KA-P139",
 			"statuschangedate": "04/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "TBD"
 		},
 		{
 			"agebracket": "34",
@@ -71344,7 +71344,7 @@
 			"statecode": "KA",
 			"statepatientnumber": "KA-P140",
 			"statuschangedate": "04/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "47",
@@ -71366,7 +71366,7 @@
 			"statecode": "KA",
 			"statepatientnumber": "KA-P141",
 			"statuschangedate": "04/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "TBD"
 		},
 		{
 			"agebracket": "63",
@@ -71388,7 +71388,7 @@
 			"statecode": "KA",
 			"statepatientnumber": "KA-P142",
 			"statuschangedate": "04/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "43",
@@ -71410,7 +71410,7 @@
 			"statecode": "KA",
 			"statepatientnumber": "KA-P143",
 			"statuschangedate": "04/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "52",
@@ -71432,7 +71432,7 @@
 			"statecode": "KA",
 			"statepatientnumber": "KA-P144",
 			"statuschangedate": "04/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -82071,7 +82071,7 @@
 			"detectedstate": "Karnataka",
 			"estimatedonsetdate": "",
 			"gender": "M",
-			"nationality": "",
+			"nationality": "India",
 			"notes": "Husband, P3732; Travelled from Dubai",
 			"patientnumber": "3731",
 			"source1": "https://twitter.com/ANI/status/1246784571036667904",
@@ -82080,7 +82080,7 @@
 			"statecode": "KA",
 			"statepatientnumber": "KA-P145",
 			"statuschangedate": "05/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "62",
@@ -82093,7 +82093,7 @@
 			"detectedstate": "Karnataka",
 			"estimatedonsetdate": "",
 			"gender": "F",
-			"nationality": "",
+			"nationality": "India",
 			"notes": "Wife, P3731; Travelled from Dubai",
 			"patientnumber": "3732",
 			"source1": "https://twitter.com/ANI/status/1246784571036667904",
@@ -82102,7 +82102,7 @@
 			"statecode": "KA",
 			"statepatientnumber": "KA-P146",
 			"statuschangedate": "05/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "",
@@ -84293,7 +84293,7 @@
 			"detectedstate": "Karnataka",
 			"estimatedonsetdate": "",
 			"gender": "F",
-			"nationality": "",
+			"nationality": "India",
 			"notes": "Attended Delhi Religious Conference",
 			"patientnumber": "3832",
 			"source1": "https://twitter.com/ANI/status/1246784571036667904",
@@ -84302,7 +84302,7 @@
 			"statecode": "KA",
 			"statepatientnumber": "KA-P147",
 			"statuschangedate": "05/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "40",
@@ -84315,7 +84315,7 @@
 			"detectedstate": "Karnataka",
 			"estimatedonsetdate": "",
 			"gender": "M",
-			"nationality": "",
+			"nationality": "India",
 			"notes": "Attended Delhi Religious Conference",
 			"patientnumber": "3833",
 			"source1": "https://twitter.com/ANI/status/1246784571036667904",
@@ -84324,7 +84324,7 @@
 			"statecode": "KA",
 			"statepatientnumber": "KA-P148",
 			"statuschangedate": "05/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "67",
@@ -84337,7 +84337,7 @@
 			"detectedstate": "Karnataka",
 			"estimatedonsetdate": "",
 			"gender": "F",
-			"nationality": "",
+			"nationality": "India",
 			"notes": "Attended Delhi Religious Conference",
 			"patientnumber": "3834",
 			"source1": "https://twitter.com/ANI/status/1246784571036667904",
@@ -84346,7 +84346,7 @@
 			"statecode": "KA",
 			"statepatientnumber": "KA-P149",
 			"statuschangedate": "05/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "41",
@@ -84359,7 +84359,7 @@
 			"detectedstate": "Karnataka",
 			"estimatedonsetdate": "",
 			"gender": "F",
-			"nationality": "",
+			"nationality": "India",
 			"notes": "Attended Delhi Religious Conference",
 			"patientnumber": "3835",
 			"source1": "https://twitter.com/ANI/status/1246784571036667904",
@@ -84368,7 +84368,7 @@
 			"statecode": "KA",
 			"statepatientnumber": "KA-P150",
 			"statuschangedate": "05/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "41",
@@ -84381,7 +84381,7 @@
 			"detectedstate": "Karnataka",
 			"estimatedonsetdate": "",
 			"gender": "M",
-			"nationality": "",
+			"nationality": "India",
 			"notes": "Attended Delhi Religious Conference",
 			"patientnumber": "3836",
 			"source1": "https://twitter.com/ANI/status/1246784571036667904",
@@ -84390,7 +84390,7 @@
 			"statecode": "KA",
 			"statepatientnumber": "KA-P151",
 			"statuschangedate": "05/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -95975,7 +95975,7 @@
 			"detectedstate": "Karnataka",
 			"estimatedonsetdate": "",
 			"gender": "M",
-			"nationality": "",
+			"nationality": "India",
 			"notes": "Primary contact of P43 and P44(Son)",
 			"patientnumber": "4363",
 			"source1": "https://twitter.com/DHFWKA/status/1247083936267882499",
@@ -95984,7 +95984,7 @@
 			"statecode": "KA",
 			"statepatientnumber": "KA-P152",
 			"statuschangedate": "06/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "62",
@@ -95997,7 +95997,7 @@
 			"detectedstate": "Karnataka",
 			"estimatedonsetdate": "",
 			"gender": "F",
-			"nationality": "",
+			"nationality": "India",
 			"notes": "Travelled from Germany and Contact of P106 and P133",
 			"patientnumber": "4364",
 			"source1": "https://twitter.com/DHFWKA/status/1247083936267882499",
@@ -96006,7 +96006,7 @@
 			"statecode": "KA",
 			"statepatientnumber": "KA-P153",
 			"statuschangedate": "06/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "20",
@@ -96019,7 +96019,7 @@
 			"detectedstate": "Karnataka",
 			"estimatedonsetdate": "",
 			"gender": "M",
-			"nationality": "",
+			"nationality": "India",
 			"notes": "Contact of P104(Brother)",
 			"patientnumber": "4365",
 			"source1": "https://twitter.com/DHFWKA/status/1247083936267882499",
@@ -96028,7 +96028,7 @@
 			"statecode": "KA",
 			"statepatientnumber": "KA-P154",
 			"statuschangedate": "06/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "37",
@@ -96041,7 +96041,7 @@
 			"detectedstate": "Karnataka",
 			"estimatedonsetdate": "",
 			"gender": "M",
-			"nationality": "",
+			"nationality": "India",
 			"notes": "Travelled from Delhi",
 			"patientnumber": "4366",
 			"source1": "https://twitter.com/DHFWKA/status/1247083936267882499",
@@ -96050,7 +96050,7 @@
 			"statecode": "KA",
 			"statepatientnumber": "KA-P155",
 			"statuschangedate": "06/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "TBD"
 		},
 		{
 			"agebracket": "57",
@@ -96063,7 +96063,7 @@
 			"detectedstate": "Karnataka",
 			"estimatedonsetdate": "",
 			"gender": "M",
-			"nationality": "",
+			"nationality": "India",
 			"notes": "Travelled from Delhi",
 			"patientnumber": "4367",
 			"source1": "https://twitter.com/DHFWKA/status/1247083936267882499",
@@ -96072,7 +96072,7 @@
 			"statecode": "KA",
 			"statepatientnumber": "KA-P156",
 			"statuschangedate": "06/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "TBD"
 		},
 		{
 			"agebracket": "22",
@@ -96085,7 +96085,7 @@
 			"detectedstate": "Karnataka",
 			"estimatedonsetdate": "",
 			"gender": "M",
-			"nationality": "",
+			"nationality": "India",
 			"notes": "Travelled from Delhi",
 			"patientnumber": "4368",
 			"source1": "https://twitter.com/DHFWKA/status/1247083936267882499",
@@ -96094,7 +96094,7 @@
 			"statecode": "KA",
 			"statepatientnumber": "KA-P157",
 			"statuschangedate": "06/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "TBD"
 		},
 		{
 			"agebracket": "26",
@@ -96107,7 +96107,7 @@
 			"detectedstate": "Karnataka",
 			"estimatedonsetdate": "",
 			"gender": "M",
-			"nationality": "",
+			"nationality": "India",
 			"notes": "Details yet to recieve",
 			"patientnumber": "4369",
 			"source1": "https://twitter.com/DHFWKA/status/1247083936267882499",
@@ -96116,7 +96116,7 @@
 			"statecode": "KA",
 			"statepatientnumber": "KA-P158",
 			"statuschangedate": "06/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "TBD"
 		},
 		{
 			"agebracket": "33",
@@ -96129,7 +96129,7 @@
 			"detectedstate": "Karnataka",
 			"estimatedonsetdate": "",
 			"gender": "F",
-			"nationality": "",
+			"nationality": "India",
 			"notes": "Pharmacy worker as P52",
 			"patientnumber": "4370",
 			"source1": "https://twitter.com/DHFWKA/status/1247083936267882499",
@@ -96138,7 +96138,7 @@
 			"statecode": "KA",
 			"statepatientnumber": "KA-P159",
 			"statuschangedate": "06/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "35",
@@ -96151,7 +96151,7 @@
 			"detectedstate": "Karnataka",
 			"estimatedonsetdate": "",
 			"gender": "M",
-			"nationality": "",
+			"nationality": "India",
 			"notes": "Travelled from Dubai",
 			"patientnumber": "4371",
 			"source1": "https://twitter.com/DHFWKA/status/1247083936267882499",
@@ -96160,7 +96160,7 @@
 			"statecode": "KA",
 			"statepatientnumber": "KA-P160",
 			"statuschangedate": "06/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "54",
@@ -96173,7 +96173,7 @@
 			"detectedstate": "Karnataka",
 			"estimatedonsetdate": "",
 			"gender": "F",
-			"nationality": "",
+			"nationality": "India",
 			"notes": "Contact of P125 - Wife",
 			"patientnumber": "4372",
 			"source1": "https://twitter.com/DHFWKA/status/1247083936267882499",
@@ -96182,7 +96182,7 @@
 			"statecode": "KA",
 			"statepatientnumber": "KA-P161",
 			"statuschangedate": "06/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "58",
@@ -96195,7 +96195,7 @@
 			"detectedstate": "Karnataka",
 			"estimatedonsetdate": "",
 			"gender": "M",
-			"nationality": "",
+			"nationality": "India",
 			"notes": "Contact of P125 - Brother",
 			"patientnumber": "4373",
 			"source1": "https://twitter.com/DHFWKA/status/1247083936267882499",
@@ -96204,7 +96204,7 @@
 			"statecode": "KA",
 			"statepatientnumber": "KA-P162",
 			"statuschangedate": "06/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "43",
@@ -96217,7 +96217,7 @@
 			"detectedstate": "Karnataka",
 			"estimatedonsetdate": "",
 			"gender": "M",
-			"nationality": "",
+			"nationality": "India",
 			"notes": "Attended Delhi Religious Conference",
 			"patientnumber": "4374",
 			"source1": "https://twitter.com/DHFWKA/status/1247083936267882499",
@@ -96226,7 +96226,7 @@
 			"statecode": "KA",
 			"statepatientnumber": "KA-P163",
 			"statuschangedate": "06/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
