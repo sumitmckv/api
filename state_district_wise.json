@@ -1467,10 +1467,10 @@
         }
       },
       "Ludhiana": {
-        "confirmed": 6,
+        "confirmed": 7,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Patiala": {
@@ -1527,6 +1527,13 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      "Unknown": {
+        "confirmed": 10,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 10
         }
       }
     }
@@ -2384,7 +2391,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 109,
+        "confirmed": 98,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
