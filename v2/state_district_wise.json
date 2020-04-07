@@ -238,10 +238,10 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 238,
+        "confirmed": 228,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 10
+          "confirmed": 0
         }
       },
       {
@@ -278,10 +278,10 @@
       },
       {
         "district": "Nizamabad",
-        "confirmed": 8,
+        "confirmed": 18,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 10
         }
       },
       {
