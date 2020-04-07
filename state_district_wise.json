@@ -206,10 +206,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 241,
+        "confirmed": 238,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 13
+          "confirmed": 10
         }
       },
       "Warangal Urban": {
@@ -276,10 +276,10 @@
         }
       },
       "Mahabubnagar": {
-        "confirmed": 3,
+        "confirmed": 6,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       "Suryapet": {
