@@ -85459,7 +85459,7 @@
 			"detectedstate": "Tamil Nadu",
 			"estimatedonsetdate": "",
 			"gender": "F",
-			"nationality": "",
+			"nationality": "India",
 			"notes": "Contact of Patient, ID Unknown",
 			"patientnumber": "3885",
 			"source1": "State Bulletin: 05 Apr Evening",
@@ -85468,7 +85468,7 @@
 			"statecode": "TN",
 			"statepatientnumber": "TN-P534",
 			"statuschangedate": "05/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -85525,7 +85525,7 @@
 			"detectedstate": "Tamil Nadu",
 			"estimatedonsetdate": "",
 			"gender": "F",
-			"nationality": "",
+			"nationality": "India",
 			"notes": "Contact of Patient, ID Unknown",
 			"patientnumber": "3888",
 			"source1": "State Bulletin: 05 Apr Evening",
@@ -85534,7 +85534,7 @@
 			"statecode": "TN",
 			"statepatientnumber": "TN-P537",
 			"statuschangedate": "05/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -85789,7 +85789,7 @@
 			"detectedstate": "Tamil Nadu",
 			"estimatedonsetdate": "",
 			"gender": "M",
-			"nationality": "",
+			"nationality": "India",
 			"notes": "Contact of Patient, ID Unknown",
 			"patientnumber": "3900",
 			"source1": "State Bulletin: 05 Apr Evening",
@@ -85798,7 +85798,7 @@
 			"statecode": "TN",
 			"statepatientnumber": "TN-P549",
 			"statuschangedate": "05/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -85811,7 +85811,7 @@
 			"detectedstate": "Tamil Nadu",
 			"estimatedonsetdate": "",
 			"gender": "F",
-			"nationality": "",
+			"nationality": "India",
 			"notes": "Contact of Patient, ID Unknown",
 			"patientnumber": "3901",
 			"source1": "State Bulletin: 05 Apr Evening",
@@ -85820,7 +85820,7 @@
 			"statecode": "TN",
 			"statepatientnumber": "TN-P550",
 			"statuschangedate": "05/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -94545,7 +94545,7 @@
 			"detectedstate": "Jharkhand",
 			"estimatedonsetdate": "",
 			"gender": "F",
-			"nationality": "",
+			"nationality": "India",
 			"notes": "Contact of 1st JH Patient",
 			"patientnumber": "4298",
 			"source1": "https://twitter.com/ANI/status/1247015579703054341",
@@ -94554,7 +94554,7 @@
 			"statecode": "JH",
 			"statepatientnumber": "",
 			"statuschangedate": "06/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -95293,7 +95293,7 @@
 			"detectedstate": "Gujarat",
 			"estimatedonsetdate": "",
 			"gender": "M",
-			"nationality": "",
+			"nationality": "India",
 			"notes": "Local Transmission",
 			"patientnumber": "4332",
 			"source1": "https://twitter.com/ANI/status/1247034346101334016",
@@ -95302,7 +95302,7 @@
 			"statecode": "GJ",
 			"statepatientnumber": "",
 			"statuschangedate": "06/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "37",
@@ -95315,7 +95315,7 @@
 			"detectedstate": "Gujarat",
 			"estimatedonsetdate": "",
 			"gender": "M",
-			"nationality": "",
+			"nationality": "India",
 			"notes": "Local Transmission",
 			"patientnumber": "4333",
 			"source1": "https://twitter.com/ANI/status/1247034346101334016",
@@ -95324,7 +95324,7 @@
 			"statecode": "GJ",
 			"statepatientnumber": "",
 			"statuschangedate": "06/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "39",
@@ -95337,7 +95337,7 @@
 			"detectedstate": "Gujarat",
 			"estimatedonsetdate": "",
 			"gender": "M",
-			"nationality": "",
+			"nationality": "India",
 			"notes": "Local Transmission",
 			"patientnumber": "4334",
 			"source1": "https://twitter.com/ANI/status/1247034346101334016",
@@ -95346,7 +95346,7 @@
 			"statecode": "GJ",
 			"statepatientnumber": "",
 			"statuschangedate": "06/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "37",
@@ -95359,7 +95359,7 @@
 			"detectedstate": "Gujarat",
 			"estimatedonsetdate": "",
 			"gender": "M",
-			"nationality": "",
+			"nationality": "India",
 			"notes": "Visited Delhi",
 			"patientnumber": "4335",
 			"source1": "https://twitter.com/ANI/status/1247034346101334016",
@@ -95368,7 +95368,7 @@
 			"statecode": "GJ",
 			"statepatientnumber": "",
 			"statuschangedate": "06/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "32",
@@ -95390,7 +95390,7 @@
 			"statecode": "GJ",
 			"statepatientnumber": "",
 			"statuschangedate": "06/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "35",
@@ -95412,7 +95412,7 @@
 			"statecode": "GJ",
 			"statepatientnumber": "",
 			"statuschangedate": "06/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "24",
@@ -95434,7 +95434,7 @@
 			"statecode": "GJ",
 			"statepatientnumber": "",
 			"statuschangedate": "06/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "38",
@@ -95456,7 +95456,7 @@
 			"statecode": "GJ",
 			"statepatientnumber": "",
 			"statuschangedate": "06/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "38",
@@ -95478,7 +95478,7 @@
 			"statecode": "GJ",
 			"statepatientnumber": "",
 			"statuschangedate": "06/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "16",
@@ -95500,7 +95500,7 @@
 			"statecode": "GJ",
 			"statepatientnumber": "",
 			"statuschangedate": "06/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "60",
@@ -95522,7 +95522,7 @@
 			"statecode": "GJ",
 			"statepatientnumber": "",
 			"statuschangedate": "06/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "51",
@@ -95544,7 +95544,7 @@
 			"statecode": "GJ",
 			"statepatientnumber": "",
 			"statuschangedate": "06/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "47",
@@ -95566,7 +95566,7 @@
 			"statecode": "GJ",
 			"statepatientnumber": "",
 			"statuschangedate": "06/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "52",
@@ -95588,7 +95588,7 @@
 			"statecode": "GJ",
 			"statepatientnumber": "",
 			"statuschangedate": "06/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "27",
@@ -95610,7 +95610,7 @@
 			"statecode": "GJ",
 			"statepatientnumber": "",
 			"statuschangedate": "06/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "15",
@@ -95632,7 +95632,7 @@
 			"statecode": "GJ",
 			"statepatientnumber": "",
 			"statuschangedate": "06/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -96050,7 +96050,7 @@
 			"statecode": "KA",
 			"statepatientnumber": "KA-P155",
 			"statuschangedate": "06/04/2020",
-			"typeoftransmission": "TBD"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "57",
@@ -96072,7 +96072,7 @@
 			"statecode": "KA",
 			"statepatientnumber": "KA-P156",
 			"statuschangedate": "06/04/2020",
-			"typeoftransmission": "TBD"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "22",
@@ -96094,7 +96094,7 @@
 			"statecode": "KA",
 			"statepatientnumber": "KA-P157",
 			"statuschangedate": "06/04/2020",
-			"typeoftransmission": "TBD"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "26",
@@ -97678,7 +97678,7 @@
 			"statecode": "TN",
 			"statepatientnumber": "TN-P572",
 			"statuschangedate": "06/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -97700,7 +97700,7 @@
 			"statecode": "TN",
 			"statepatientnumber": "TN-P573",
 			"statuschangedate": "06/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -97722,7 +97722,7 @@
 			"statecode": "TN",
 			"statepatientnumber": "TN-P574",
 			"statuschangedate": "06/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -97744,7 +97744,7 @@
 			"statecode": "TN",
 			"statepatientnumber": "TN-P575",
 			"statuschangedate": "06/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -97766,7 +97766,7 @@
 			"statecode": "TN",
 			"statepatientnumber": "TN-P576",
 			"statuschangedate": "06/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -97788,7 +97788,7 @@
 			"statecode": "TN",
 			"statepatientnumber": "TN-P577",
 			"statuschangedate": "06/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -97810,7 +97810,7 @@
 			"statecode": "TN",
 			"statepatientnumber": "TN-P578",
 			"statuschangedate": "06/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -97832,7 +97832,7 @@
 			"statecode": "TN",
 			"statepatientnumber": "TN-P579",
 			"statuschangedate": "06/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -97854,7 +97854,7 @@
 			"statecode": "TN",
 			"statepatientnumber": "TN-P580",
 			"statuschangedate": "06/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -98316,7 +98316,7 @@
 			"statecode": "TN",
 			"statepatientnumber": "TN-P601",
 			"statuschangedate": "06/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -98426,7 +98426,7 @@
 			"statecode": "TN",
 			"statepatientnumber": "TN-P606",
 			"statuschangedate": "06/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -98448,7 +98448,7 @@
 			"statecode": "TN",
 			"statepatientnumber": "TN-P607",
 			"statuschangedate": "06/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -98470,7 +98470,7 @@
 			"statecode": "TN",
 			"statepatientnumber": "TN-P608",
 			"statuschangedate": "06/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -98558,7 +98558,7 @@
 			"statecode": "TN",
 			"statepatientnumber": "TN-P612",
 			"statuschangedate": "06/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -98580,7 +98580,7 @@
 			"statecode": "TN",
 			"statepatientnumber": "TN-P613",
 			"statuschangedate": "06/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -98778,7 +98778,7 @@
 			"statecode": "KL",
 			"statepatientnumber": "",
 			"statuschangedate": "06/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -98800,7 +98800,7 @@
 			"statecode": "KL",
 			"statepatientnumber": "",
 			"statuschangedate": "06/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -98822,7 +98822,7 @@
 			"statecode": "KL",
 			"statepatientnumber": "",
 			"statuschangedate": "06/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -98844,7 +98844,7 @@
 			"statecode": "KL",
 			"statepatientnumber": "",
 			"statuschangedate": "06/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -98866,7 +98866,7 @@
 			"statecode": "KL",
 			"statepatientnumber": "",
 			"statuschangedate": "06/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -98888,7 +98888,7 @@
 			"statecode": "KL",
 			"statepatientnumber": "",
 			"statuschangedate": "06/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -99042,7 +99042,7 @@
 			"statecode": "KL",
 			"statepatientnumber": "",
 			"statuschangedate": "06/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
