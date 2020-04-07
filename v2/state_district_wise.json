@@ -1297,18 +1297,18 @@
     "districtData": [
       {
         "district": "Bengaluru",
-        "confirmed": 55,
+        "confirmed": 58,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       {
         "district": "Kalaburagi",
-        "confirmed": 5,
+        "confirmed": 7,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       {
@@ -1409,10 +1409,10 @@
       },
       {
         "district": "Bagalkote",
-        "confirmed": 3,
+        "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       {
@@ -1425,10 +1425,26 @@
       },
       {
         "district": "Bengaluru Rural",
-        "confirmed": 2,
+        "confirmed": 3,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
+        }
+      },
+      {
+        "district": "Gadag",
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
+        }
+      },
+      {
+        "district": "Mandya",
+        "confirmed": 3,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 3
         }
       }
     ]
@@ -2044,10 +2060,10 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 53,
+        "confirmed": 64,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 11
         }
       }
     ]
@@ -2724,7 +2740,7 @@
     "districtData": [
       {
         "district": "Unknown",
-        "confirmed": 156,
+        "confirmed": 133,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
