@@ -1478,10 +1478,10 @@
       },
       {
         "district": "Mumbai",
-        "confirmed": 536,
+        "confirmed": 590,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 10
+          "confirmed": 64
         }
       },
       {
@@ -2772,7 +2772,7 @@
     "districtData": [
       {
         "district": "Unknown",
-        "confirmed": 364,
+        "confirmed": 310,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
