@@ -2163,26 +2163,26 @@
     "districtData": [
       {
         "district": "Rajkot",
-        "confirmed": 10,
+        "confirmed": 11,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
         "district": "Surat",
-        "confirmed": 19,
+        "confirmed": 22,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       {
         "district": "Ahmadabad",
-        "confirmed": 77,
+        "confirmed": 83,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 13
+          "confirmed": 19
         }
       },
       {
@@ -2772,7 +2772,7 @@
     "districtData": [
       {
         "district": "Unknown",
-        "confirmed": 310,
+        "confirmed": 300,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
