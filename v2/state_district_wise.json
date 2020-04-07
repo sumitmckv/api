@@ -2352,7 +2352,7 @@
       },
       {
         "district": "Una",
-        "confirmed": 3,
+        "confirmed": 12,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2360,7 +2360,7 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 21,
+        "confirmed": 12,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
