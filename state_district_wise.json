@@ -1260,10 +1260,10 @@
         }
       },
       "Mumbai": {
-        "confirmed": 530,
+        "confirmed": 536,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 4
+          "confirmed": 10
         }
       },
       "Nagpur": {
@@ -1404,13 +1404,6 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
-        }
-      },
-      "Unknown": {
-        "confirmed": 6,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 6
         }
       }
     }
@@ -1997,10 +1990,10 @@
         }
       },
       "Bhopal": {
-        "confirmed": 61,
+        "confirmed": 73,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 12
         }
       },
       "Indore": {
@@ -2370,7 +2363,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 168,
+        "confirmed": 156,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0

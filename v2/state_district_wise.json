@@ -1446,10 +1446,10 @@
       },
       {
         "district": "Mumbai",
-        "confirmed": 530,
+        "confirmed": 536,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 4
+          "confirmed": 10
         }
       },
       {
@@ -1610,14 +1610,6 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
-        }
-      },
-      {
-        "district": "Unknown",
-        "confirmed": 6,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 6
         }
       }
     ]
@@ -2293,10 +2285,10 @@
       },
       {
         "district": "Bhopal",
-        "confirmed": 61,
+        "confirmed": 73,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 12
         }
       },
       {
@@ -2724,7 +2716,7 @@
     "districtData": [
       {
         "district": "Unknown",
-        "confirmed": 168,
+        "confirmed": 156,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
