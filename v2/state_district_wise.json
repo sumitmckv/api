@@ -1848,10 +1848,10 @@
       },
       {
         "district": "Guntur",
-        "confirmed": 33,
+        "confirmed": 37,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 5
         }
       },
       {
@@ -1884,6 +1884,14 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      {
+        "district": "Unknown",
+        "confirmed": 6,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 6
         }
       }
     ]
@@ -2780,7 +2788,7 @@
     "districtData": [
       {
         "district": "Unknown",
-        "confirmed": 162,
+        "confirmed": 152,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0

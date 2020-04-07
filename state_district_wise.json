@@ -1611,10 +1611,10 @@
         }
       },
       "Guntur": {
-        "confirmed": 33,
+        "confirmed": 37,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 5
         }
       },
       "Kurnool": {
@@ -1643,6 +1643,13 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      "Unknown": {
+        "confirmed": 6,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 6
         }
       }
     }
@@ -2419,7 +2426,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 162,
+        "confirmed": 152,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
