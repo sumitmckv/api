@@ -16,7 +16,7 @@
 			"question": "What are your sources? How is the data gathered for this project?"
 		},
 		{
-			"answer": "MoHFW updates the data at a scheduled time. However, we update them based on state press bulletins, official handles and reliable news channels which could be more recent.",
+			"answer": "MoHFW updates the data at a scheduled time. However, we update them based on state press bulletins, official (CM, Health M) handles, PBI, Press Trust of India, ANI reports. These are generally more recent.",
 			"qno": "4",
 			"question": "Why does covid19india.org have more positive count than MoH?"
 		},
