@@ -629,6 +629,14 @@
         "delta": {
           "confirmed": 0
         }
+      },
+      {
+        "district": "Unknown",
+        "confirmed": 10,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
       }
     ]
   },
@@ -959,10 +967,10 @@
       },
       {
         "district": "Chennai",
-        "confirmed": 113,
+        "confirmed": 152,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 39
         }
       },
       {
@@ -975,10 +983,10 @@
       },
       {
         "district": "Coimbatore",
-        "confirmed": 63,
+        "confirmed": 64,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -991,10 +999,10 @@
       },
       {
         "district": "Tiruppur",
-        "confirmed": 8,
+        "confirmed": 20,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 13
         }
       },
       {
@@ -1143,10 +1151,10 @@
       },
       {
         "district": "Ranipet",
-        "confirmed": 24,
+        "confirmed": 26,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       {
@@ -1211,14 +1219,6 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
-        }
-      },
-      {
-        "district": "Unknown",
-        "confirmed": 54,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 54
         }
       }
     ]
@@ -2772,7 +2772,7 @@
     "districtData": [
       {
         "district": "Unknown",
-        "confirmed": 80,
+        "confirmed": 70,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
