@@ -206,10 +206,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 228,
+        "confirmed": 277,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 49
         }
       },
       "Warangal Urban": {
@@ -1591,6 +1591,13 @@
         "delta": {
           "confirmed": 0
         }
+      },
+      "Unknown": {
+        "confirmed": 5,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 5
+        }
       }
     }
   },
@@ -2461,7 +2468,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 455,
+        "confirmed": 401,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
