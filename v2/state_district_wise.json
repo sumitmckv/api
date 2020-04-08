@@ -7,7 +7,7 @@
         "confirmed": 13,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 0
         }
       },
       {
@@ -15,7 +15,7 @@
         "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 2
+          "confirmed": 0
         }
       },
       {
@@ -23,7 +23,7 @@
         "confirmed": 157,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 0
         }
       },
       {
@@ -31,7 +31,7 @@
         "confirmed": 16,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 0
         }
       },
       {
@@ -39,7 +39,7 @@
         "confirmed": 58,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 4
+          "confirmed": 0
         }
       },
       {
@@ -188,7 +188,7 @@
         "confirmed": 625,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 93
+          "confirmed": 0
         }
       }
     ]
@@ -241,7 +241,7 @@
         "confirmed": 277,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 49
+          "confirmed": 0
         }
       },
       {
@@ -350,7 +350,7 @@
         "confirmed": 129,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 23
+          "confirmed": 0
         }
       },
       {
@@ -358,7 +358,7 @@
         "confirmed": 24,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 0
         }
       },
       {
@@ -374,7 +374,7 @@
         "confirmed": 31,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 0
         }
       },
       {
@@ -478,7 +478,7 @@
         "confirmed": 20,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 6
+          "confirmed": 0
         }
       },
       {
@@ -494,7 +494,7 @@
         "confirmed": 10,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 0
         }
       },
       {
@@ -502,7 +502,7 @@
         "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 0
         }
       },
       {
@@ -526,7 +526,7 @@
         "confirmed": 15,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 5
+          "confirmed": 0
         }
       },
       {
@@ -534,7 +534,7 @@
         "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 2
+          "confirmed": 0
         }
       }
     ]
@@ -555,7 +555,7 @@
         "confirmed": 32,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 12
+          "confirmed": 0
         }
       },
       {
@@ -563,7 +563,7 @@
         "confirmed": 28,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 7
+          "confirmed": 0
         }
       },
       {
@@ -587,7 +587,7 @@
         "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 0
         }
       },
       {
@@ -595,7 +595,7 @@
         "confirmed": 28,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 2
+          "confirmed": 0
         }
       },
       {
@@ -635,7 +635,7 @@
         "confirmed": 38,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 0
         }
       },
       {
@@ -683,7 +683,7 @@
         "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 0
         }
       }
     ]
@@ -696,7 +696,7 @@
         "confirmed": 64,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 2
+          "confirmed": 0
         }
       },
       {
@@ -704,7 +704,7 @@
         "confirmed": 27,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 4
+          "confirmed": 0
         }
       },
       {
@@ -712,7 +712,7 @@
         "confirmed": 29,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 5
+          "confirmed": 0
         }
       },
       {
@@ -744,7 +744,7 @@
         "confirmed": 9,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 2
+          "confirmed": 0
         }
       },
       {
@@ -768,7 +768,7 @@
         "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 0
         }
       },
       {
@@ -776,7 +776,7 @@
         "confirmed": 3,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 0
         }
       },
       {
@@ -792,7 +792,7 @@
         "confirmed": 35,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 2
+          "confirmed": 0
         }
       },
       {
@@ -808,7 +808,7 @@
         "confirmed": 8,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 3
+          "confirmed": 0
         }
       },
       {
@@ -856,7 +856,7 @@
         "confirmed": 14,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 0
         }
       },
       {
@@ -960,7 +960,7 @@
         "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 0
         }
       },
       {
@@ -984,7 +984,7 @@
         "confirmed": 10,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 2
+          "confirmed": 0
         }
       },
       {
@@ -992,7 +992,7 @@
         "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 5
+          "confirmed": 0
         }
       }
     ]
@@ -1034,7 +1034,7 @@
         "confirmed": 159,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 7
+          "confirmed": 0
         }
       },
       {
@@ -1058,7 +1058,7 @@
         "confirmed": 42,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 4
+          "confirmed": 0
         }
       },
       {
@@ -1066,7 +1066,7 @@
         "confirmed": 22,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 2
+          "confirmed": 0
         }
       },
       {
@@ -1082,7 +1082,7 @@
         "confirmed": 13,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 0
         }
       },
       {
@@ -1090,7 +1090,7 @@
         "confirmed": 7,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 0
         }
       },
       {
@@ -1098,7 +1098,7 @@
         "confirmed": 37,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 6
+          "confirmed": 0
         }
       },
       {
@@ -1146,7 +1146,7 @@
         "confirmed": 24,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 4
+          "confirmed": 0
         }
       },
       {
@@ -1154,7 +1154,7 @@
         "confirmed": 33,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 5
+          "confirmed": 0
         }
       },
       {
@@ -1178,7 +1178,7 @@
         "confirmed": 40,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 16
+          "confirmed": 0
         }
       },
       {
@@ -1186,7 +1186,7 @@
         "confirmed": 46,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 0
         }
       },
       {
@@ -1234,7 +1234,7 @@
         "confirmed": 13,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 0
         }
       },
       {
@@ -1295,7 +1295,7 @@
         "confirmed": 19,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 3
+          "confirmed": 0
         }
       },
       {
@@ -1319,7 +1319,7 @@
         "confirmed": 82,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 19
+          "confirmed": 0
         }
       },
       {
@@ -1367,7 +1367,7 @@
         "confirmed": 20,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 11
+          "confirmed": 0
         }
       }
     ]
@@ -1380,7 +1380,7 @@
         "confirmed": 59,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 0
         }
       },
       {
@@ -1388,7 +1388,7 @@
         "confirmed": 9,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 2
+          "confirmed": 0
         }
       },
       {
@@ -1404,7 +1404,7 @@
         "confirmed": 11,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 0
         }
       },
       {
@@ -1428,7 +1428,7 @@
         "confirmed": 10,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 0
         }
       },
       {
@@ -1524,7 +1524,7 @@
         "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 0
         }
       }
     ]
@@ -1545,7 +1545,7 @@
         "confirmed": 702,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 60
+          "confirmed": 0
         }
       },
       {
@@ -1721,7 +1721,7 @@
         "confirmed": 57,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 57
+          "confirmed": 0
         }
       }
     ]
@@ -1750,7 +1750,7 @@
         "confirmed": 30,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 4
+          "confirmed": 0
         }
       },
       {
@@ -1766,7 +1766,7 @@
         "confirmed": 8,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 2
+          "confirmed": 0
         }
       },
       {
@@ -1814,7 +1814,7 @@
         "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 0
         }
       },
       {
@@ -1859,7 +1859,7 @@
         "confirmed": 49,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 6
+          "confirmed": 0
         }
       },
       {
@@ -1867,7 +1867,7 @@
         "confirmed": 27,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 3
+          "confirmed": 0
         }
       },
       {
@@ -1891,7 +1891,7 @@
         "confirmed": 35,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 6
+          "confirmed": 0
         }
       },
       {
@@ -1899,7 +1899,7 @@
         "confirmed": 20,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 3
+          "confirmed": 0
         }
       },
       {
@@ -1907,7 +1907,7 @@
         "confirmed": 49,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 8
+          "confirmed": 0
         }
       },
       {
@@ -1923,7 +1923,7 @@
         "confirmed": 13,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 7
+          "confirmed": 0
         }
       },
       {
@@ -1931,7 +1931,7 @@
         "confirmed": 22,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 0
         }
       },
       {
@@ -1984,7 +1984,7 @@
         "confirmed": 3,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 2
+          "confirmed": 0
         }
       },
       {
@@ -2000,7 +2000,7 @@
         "confirmed": 6,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 2
+          "confirmed": 0
         }
       }
     ]
@@ -2159,7 +2159,7 @@
         "confirmed": 72,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 8
+          "confirmed": 0
         }
       }
     ]
@@ -2238,7 +2238,7 @@
         "confirmed": 23,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 0
         }
       },
       {
@@ -2254,7 +2254,7 @@
         "confirmed": 18,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 6
+          "confirmed": 0
         }
       },
       {
@@ -2286,7 +2286,7 @@
         "confirmed": 18,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 4
+          "confirmed": 0
         }
       },
       {
@@ -2512,7 +2512,7 @@
         "confirmed": 51,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 51
+          "confirmed": 0
         }
       }
     ]
@@ -2605,7 +2605,7 @@
         "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 0
         }
       }
     ]
@@ -2689,7 +2689,7 @@
         "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 0
         }
       }
     ]
