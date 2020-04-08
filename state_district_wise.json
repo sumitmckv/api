@@ -1330,10 +1330,10 @@
         }
       },
       "Mumbai": {
-        "confirmed": 642,
+        "confirmed": 702,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 60
         }
       },
       "Nagpur": {
@@ -1484,10 +1484,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 60,
+        "confirmed": 57,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 60
+          "confirmed": 57
         }
       }
     }
@@ -2468,7 +2468,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 341,
+        "confirmed": 284,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
