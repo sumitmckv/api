@@ -729,7 +729,7 @@
         }
       },
       "Azamgarh": {
-        "confirmed": 3,
+        "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -841,7 +841,7 @@
         }
       },
       "Unknown": {
-        "confirmed": 4,
+        "confirmed": 3,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1133,10 +1133,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 63,
+        "confirmed": 82,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 19
         }
       },
       "Rajouri": {
@@ -2468,7 +2468,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 360,
+        "confirmed": 341,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
