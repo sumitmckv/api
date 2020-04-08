@@ -76742,20 +76742,20 @@
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Deceased",
 			"dateannounced": "04/04/2020",
-			"detectedcity": "",
+			"detectedcity": "Sujjanpur",
 			"detecteddistrict": "Pathankot",
 			"detectedstate": "Punjab",
 			"estimatedonsetdate": "",
-			"gender": "",
+			"gender": "F",
 			"nationality": "",
 			"notes": "",
 			"patientnumber": "3489",
 			"source1": "https://twitter.com/kbssidhu1961/status/1246432643794612225",
-			"source2": "https://twitter.com/kbssidhu1961/status/1247559376933535748",
+			"source2": "https://twitter.com/kbssidhu1961/status/1246835208013238272",
 			"source3": "",
 			"statecode": "PB",
 			"statepatientnumber": "",
-			"statuschangedate": "04/04/2020",
+			"statuschangedate": "05/04/2020",
 			"typeoftransmission": ""
 		},
 		{
@@ -83997,7 +83997,7 @@
 			"typeoftransmission": ""
 		},
 		{
-			"agebracket": "",
+			"agebracket": "42",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
@@ -84006,17 +84006,17 @@
 			"detecteddistrict": "Barnala",
 			"detectedstate": "Punjab",
 			"estimatedonsetdate": "",
-			"gender": "",
-			"nationality": "",
-			"notes": "Details awaited",
+			"gender": "F",
+			"nationality": "India",
+			"notes": "No travel history.",
 			"patientnumber": "3819",
 			"source1": "https://twitter.com/ANI/status/1246763972671483906",
-			"source2": "",
+			"source2": "https://twitter.com/kbssidhu1961/status/1246820821038821376",
 			"source3": "",
 			"statecode": "PB",
 			"statepatientnumber": "",
 			"statuschangedate": "05/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -100199,7 +100199,7 @@
 			"detectedstate": "Punjab",
 			"estimatedonsetdate": "",
 			"gender": "F",
-			"nationality": "",
+			"nationality": "India",
 			"notes": "Contacts of a Ludiana positive patient",
 			"patientnumber": "4555",
 			"source1": "State Bulletin, 6th Apr",
@@ -100208,12 +100208,12 @@
 			"statecode": "PB",
 			"statepatientnumber": "",
 			"statuschangedate": "06/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "55",
 			"backupnotes": "",
-			"contractedfromwhichpatientsuspected": "",
+			"contractedfromwhichpatientsuspected": "P4555",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "06/04/2020",
 			"detectedcity": "",
@@ -100221,7 +100221,7 @@
 			"detectedstate": "Punjab",
 			"estimatedonsetdate": "",
 			"gender": "F",
-			"nationality": "P4555",
+			"nationality": "India",
 			"notes": "Contacts of a Ludiana positive patient",
 			"patientnumber": "4556",
 			"source1": "State Bulletin, 6th Apr",
@@ -100230,7 +100230,7 @@
 			"statecode": "PB",
 			"statepatientnumber": "",
 			"statuschangedate": "06/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
