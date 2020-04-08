@@ -122079,7 +122079,7 @@
 			"typeoftransmission": ""
 		},
 		{
-			"agebracket": "",
+			"agebracket": "55",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
@@ -122088,17 +122088,17 @@
 			"detecteddistrict": "Kasaragod",
 			"detectedstate": "Kerala",
 			"estimatedonsetdate": "",
-			"gender": "",
-			"nationality": "",
-			"notes": "Details awaited",
+			"gender": "M",
+			"nationality": "India",
+			"notes": "Travelled from Dubai",
 			"patientnumber": "5550",
 			"source1": "http://dhs.kerala.gov.in/wp-content/uploads/2020/04/Daily-Bulletin-HFWD-English-April-8.pdf",
 			"source2": "https://twitter.com/ANI/status/1247868764676182016",
-			"source3": "",
+			"source3": "https://www.facebook.com/permalink.php?story_fbid=161528281983675&id=100507158085788",
 			"statecode": "KL",
 			"statepatientnumber": "",
 			"statuschangedate": "08/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "",
