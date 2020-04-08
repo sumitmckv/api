@@ -347,10 +347,10 @@
       },
       {
         "district": "Jaipur",
-        "confirmed": 106,
+        "confirmed": 109,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       {
@@ -475,10 +475,10 @@
       },
       {
         "district": "Bikaner",
-        "confirmed": 14,
+        "confirmed": 15,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -491,10 +491,10 @@
       },
       {
         "district": "Banswara",
-        "confirmed": 9,
+        "confirmed": 10,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -2828,7 +2828,7 @@
     "districtData": [
       {
         "district": "Unknown",
-        "confirmed": 48,
+        "confirmed": 43,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
