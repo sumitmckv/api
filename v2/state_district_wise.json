@@ -1518,10 +1518,10 @@
     "districtData": [
       {
         "district": "Pune",
-        "confirmed": 195,
+        "confirmed": 159,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 36
+          "confirmed": 0
         }
       },
       {
@@ -1542,10 +1542,10 @@
       },
       {
         "district": "Thane",
-        "confirmed": 91,
+        "confirmed": 87,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 4
+          "confirmed": 0
         }
       },
       {
@@ -1638,10 +1638,10 @@
       },
       {
         "district": "Buldana",
-        "confirmed": 8,
+        "confirmed": 7,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 0
         }
       },
       {
@@ -1702,18 +1702,10 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 15,
+        "confirmed": 57,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 15
-        }
-      },
-      {
-        "district": "Akola",
-        "confirmed": 1,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 1
+          "confirmed": 57
         }
       }
     ]
