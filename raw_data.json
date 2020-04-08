@@ -4998,7 +4998,7 @@
 			"agebracket": "",
 			"backupnotes": "UK Tourist",
 			"contractedfromwhichpatientsuspected": "P108",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "20/03/2020",
 			"detectedcity": "Kochi",
 			"detecteddistrict": "Ernakulam",
@@ -5013,7 +5013,7 @@
 			"source3": "",
 			"statecode": "KL",
 			"statepatientnumber": "",
-			"statuschangedate": "20/03/2020",
+			"statuschangedate": "07/04/2020",
 			"typeoftransmission": "Imported"
 		},
 		{
@@ -5372,7 +5372,7 @@
 			"agebracket": "",
 			"backupnotes": "Palakkad native, returned from UK",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "20/03/2020",
 			"detectedcity": "Kochi",
 			"detecteddistrict": "Ernakulam",
@@ -5387,7 +5387,7 @@
 			"source3": "http://dhs.kerala.gov.in/wp-content/uploads/2020/03/bule_20032020.pdf",
 			"statecode": "KL",
 			"statepatientnumber": "",
-			"statuschangedate": "20/03/2020",
+			"statuschangedate": "07/04/2020",
 			"typeoftransmission": "Imported"
 		},
 		{
