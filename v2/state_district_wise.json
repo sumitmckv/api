@@ -1590,7 +1590,7 @@
       },
       {
         "district": "Satara",
-        "confirmed": 5,
+        "confirmed": 6,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1694,14 +1694,6 @@
       },
       {
         "district": "Jalna",
-        "confirmed": 1,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      {
-        "district": "Satna",
         "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
