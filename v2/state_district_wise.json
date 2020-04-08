@@ -1268,10 +1268,10 @@
     "districtData": [
       {
         "district": "Jammu",
-        "confirmed": 16,
+        "confirmed": 19,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       {
@@ -1340,10 +1340,10 @@
       },
       {
         "district": "Kashmir",
-        "confirmed": 9,
+        "confirmed": 20,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 11
         }
       }
     ]
@@ -2828,7 +2828,7 @@
     "districtData": [
       {
         "district": "Unknown",
-        "confirmed": 527,
+        "confirmed": 513,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
