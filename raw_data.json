@@ -62855,7 +62855,7 @@
 			"typeoftransmission": ""
 		},
 		{
-			"agebracket": "",
+			"agebracket": "69",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
@@ -62864,17 +62864,17 @@
 			"detecteddistrict": "Ludhiana",
 			"detectedstate": "Punjab",
 			"estimatedonsetdate": "",
-			"gender": "",
-			"nationality": "",
-			"notes": "Details awaited",
+			"gender": "F",
+			"nationality": "India",
+			"notes": "Travelled to Mohali",
 			"patientnumber": "2858",
 			"source1": "https://twitter.com/ANI/status/1246035820521361408",
-			"source2": "",
+			"source2": "https://twitter.com/kbssidhu1961/status/1245994669512617984",
 			"source3": "",
 			"statecode": "PB",
 			"statepatientnumber": "",
 			"statuschangedate": "03/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -76724,7 +76724,7 @@
 			"detecteddistrict": "Jalandhar",
 			"detectedstate": "Punjab",
 			"estimatedonsetdate": "",
-			"gender": "",
+			"gender": "F",
 			"nationality": "India",
 			"notes": "Contact of Positive case",
 			"patientnumber": "3488",
