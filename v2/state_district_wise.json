@@ -2211,10 +2211,10 @@
       },
       {
         "district": "Surat",
-        "confirmed": 22,
+        "confirmed": 23,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -2227,10 +2227,10 @@
       },
       {
         "district": "Vadodara",
-        "confirmed": 12,
+        "confirmed": 13,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -2259,10 +2259,10 @@
       },
       {
         "district": "Bhavnagar",
-        "confirmed": 14,
+        "confirmed": 16,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       {
@@ -2828,10 +2828,10 @@
     "districtData": [
       {
         "district": "Unknown",
-        "confirmed": 43,
+        "confirmed": 39,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       }
     ]
