@@ -1787,10 +1787,10 @@
       },
       {
         "district": "Faridkot",
-        "confirmed": 1,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -2828,7 +2828,7 @@
     "districtData": [
       {
         "district": "Unknown",
-        "confirmed": 528,
+        "confirmed": 527,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
