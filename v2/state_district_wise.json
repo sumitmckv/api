@@ -347,18 +347,18 @@
       },
       {
         "district": "Jaipur",
-        "confirmed": 118,
+        "confirmed": 129,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 12
+          "confirmed": 23
         }
       },
       {
         "district": "Jhunjhunu",
-        "confirmed": 23,
+        "confirmed": 24,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -499,10 +499,10 @@
       },
       {
         "district": "Karauli",
-        "confirmed": 1,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -523,18 +523,18 @@
       },
       {
         "district": "Kota",
-        "confirmed": 10,
+        "confirmed": 15,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 5
         }
       },
       {
-        "district": "Unknown",
-        "confirmed": 20,
+        "district": "Jhalawar",
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 20
+          "confirmed": 2
         }
       }
     ]
