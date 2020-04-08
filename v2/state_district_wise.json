@@ -741,10 +741,10 @@
       },
       {
         "district": "Kanpur Nagar",
-        "confirmed": 10,
+        "confirmed": 8,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 2
+          "confirmed": 0
         }
       },
       {
@@ -781,10 +781,10 @@
       },
       {
         "district": "Meerut",
-        "confirmed": 33,
+        "confirmed": 35,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       {
