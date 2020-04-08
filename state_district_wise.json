@@ -1323,10 +1323,10 @@
   "Maharashtra": {
     "districtData": {
       "Pune": {
-        "confirmed": 159,
+        "confirmed": 195,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 36
         }
       },
       "Mumbai": {
@@ -1344,10 +1344,10 @@
         }
       },
       "Thane": {
-        "confirmed": 87,
+        "confirmed": 91,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 4
         }
       },
       "Ahmadnagar": {
@@ -1428,10 +1428,10 @@
         }
       },
       "Buldana": {
-        "confirmed": 7,
+        "confirmed": 8,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Nashik": {
@@ -1484,10 +1484,17 @@
         }
       },
       "Unknown": {
-        "confirmed": 57,
+        "confirmed": 15,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 57
+          "confirmed": 15
+        }
+      },
+      "Akola": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
         }
       }
     }
@@ -1611,10 +1618,10 @@
         }
       },
       "Prakasam": {
-        "confirmed": 24,
+        "confirmed": 27,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       "Visakhapatnam": {
@@ -1646,10 +1653,10 @@
         }
       },
       "Guntur": {
-        "confirmed": 41,
+        "confirmed": 49,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 8
         }
       },
       "Kurnool": {
@@ -1660,17 +1667,17 @@
         }
       },
       "Anantapur": {
-        "confirmed": 6,
+        "confirmed": 13,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 7
         }
       },
       "West Godavari": {
-        "confirmed": 21,
+        "confirmed": 22,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Y.S.R.": {
@@ -2468,7 +2475,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 284,
+        "confirmed": 265,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
