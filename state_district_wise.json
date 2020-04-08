@@ -2265,6 +2265,13 @@
         "delta": {
           "confirmed": 0
         }
+      },
+      "Nawada": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
+        }
       }
     }
   },
@@ -2489,7 +2496,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 185,
+        "confirmed": 184,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0

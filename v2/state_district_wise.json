@@ -2599,6 +2599,14 @@
         "delta": {
           "confirmed": 0
         }
+      },
+      {
+        "district": "Nawada",
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
+        }
       }
     ]
   },
@@ -2860,7 +2868,7 @@
     "districtData": [
       {
         "district": "Unknown",
-        "confirmed": 185,
+        "confirmed": 184,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
