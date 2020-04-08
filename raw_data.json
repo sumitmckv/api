@@ -104617,7 +104617,7 @@
 			"currentstatus": "Hospitalized",
 			"dateannounced": "06/04/2020",
 			"detectedcity": "",
-			"detecteddistrict": "",
+			"detecteddistrict": "Other Region*",
 			"detectedstate": "Madhya Pradesh",
 			"estimatedonsetdate": "",
 			"gender": "",
@@ -105655,7 +105655,7 @@
 			"detectedstate": "Assam",
 			"estimatedonsetdate": "",
 			"gender": "",
-			"nationality": "",
+			"nationality": "India",
 			"notes": "Travelled to Delhi",
 			"patientnumber": "4803",
 			"source1": "https://twitter.com/himantabiswa/status/1247373089974808578",
@@ -108383,7 +108383,7 @@
 			"detectedstate": "Kerala",
 			"estimatedonsetdate": "",
 			"gender": "",
-			"nationality": "",
+			"nationality": "India",
 			"notes": "Contact transmission, Details awaited",
 			"patientnumber": "4927",
 			"source1": "https://twitter.com/ANI/status/1247507049216270340",
@@ -108392,7 +108392,7 @@
 			"statecode": "KL",
 			"statepatientnumber": "",
 			"statuschangedate": "07/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -108405,7 +108405,7 @@
 			"detectedstate": "Kerala",
 			"estimatedonsetdate": "",
 			"gender": "",
-			"nationality": "",
+			"nationality": "India",
 			"notes": "Contact transmission, Details awaited",
 			"patientnumber": "4928",
 			"source1": "https://twitter.com/ANI/status/1247507049216270340",
@@ -108414,7 +108414,7 @@
 			"statecode": "KL",
 			"statepatientnumber": "",
 			"statuschangedate": "07/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -108427,7 +108427,7 @@
 			"detectedstate": "Kerala",
 			"estimatedonsetdate": "",
 			"gender": "",
-			"nationality": "",
+			"nationality": "India",
 			"notes": "Travelled from Dubai",
 			"patientnumber": "4929",
 			"source1": "https://twitter.com/ANI/status/1247507049216270340",
@@ -108436,7 +108436,7 @@
 			"statecode": "KL",
 			"statepatientnumber": "",
 			"statuschangedate": "07/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "",
@@ -108449,7 +108449,7 @@
 			"detectedstate": "Kerala",
 			"estimatedonsetdate": "",
 			"gender": "",
-			"nationality": "",
+			"nationality": "India",
 			"notes": "Travelled from Dubai",
 			"patientnumber": "4930",
 			"source1": "https://twitter.com/ANI/status/1247507049216270340",
@@ -108458,7 +108458,7 @@
 			"statecode": "KL",
 			"statepatientnumber": "",
 			"statuschangedate": "07/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "",
@@ -110671,7 +110671,7 @@
 			"detectedstate": "Bihar",
 			"estimatedonsetdate": "",
 			"gender": "F",
-			"nationality": "",
+			"nationality": "India",
 			"notes": "Travelle from Middle East on 21/3/2020",
 			"patientnumber": "5031",
 			"source1": "https://twitter.com/sanjayjavin/status/1247489842964910083",
@@ -110680,7 +110680,7 @@
 			"statecode": "BR",
 			"statepatientnumber": "",
 			"statuschangedate": "07/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "22",
@@ -110693,7 +110693,7 @@
 			"detectedstate": "Bihar",
 			"estimatedonsetdate": "",
 			"gender": "F",
-			"nationality": "",
+			"nationality": "India",
 			"notes": "Travelle from Middle East on 21/3/2020",
 			"patientnumber": "5032",
 			"source1": "https://twitter.com/sanjayjavin/status/1247489842964910083",
@@ -110702,7 +110702,7 @@
 			"statecode": "BR",
 			"statepatientnumber": "",
 			"statuschangedate": "07/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "",
@@ -111978,7 +111978,7 @@
 			"statecode": "GJ",
 			"statepatientnumber": "",
 			"statuschangedate": "07/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "27",
@@ -112000,7 +112000,7 @@
 			"statecode": "GJ",
 			"statepatientnumber": "",
 			"statuschangedate": "07/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "46",
@@ -112022,7 +112022,7 @@
 			"statecode": "GJ",
 			"statepatientnumber": "",
 			"statuschangedate": "07/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "28",
@@ -112044,7 +112044,7 @@
 			"statecode": "GJ",
 			"statepatientnumber": "",
 			"statuschangedate": "07/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "51",
@@ -112066,7 +112066,7 @@
 			"statecode": "GJ",
 			"statepatientnumber": "",
 			"statuschangedate": "07/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "27",
@@ -112088,7 +112088,7 @@
 			"statecode": "GJ",
 			"statepatientnumber": "",
 			"statuschangedate": "07/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "67",
@@ -112110,7 +112110,7 @@
 			"statecode": "GJ",
 			"statepatientnumber": "",
 			"statuschangedate": "07/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "40",
@@ -112132,7 +112132,7 @@
 			"statecode": "GJ",
 			"statepatientnumber": "",
 			"statuschangedate": "07/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "42",
@@ -112154,7 +112154,7 @@
 			"statecode": "GJ",
 			"statepatientnumber": "",
 			"statuschangedate": "07/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "40",
@@ -112176,7 +112176,7 @@
 			"statecode": "GJ",
 			"statepatientnumber": "",
 			"statuschangedate": "07/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
