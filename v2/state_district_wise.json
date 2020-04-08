@@ -685,7 +685,7 @@
     "districtData": [
       {
         "district": "Agra",
-        "confirmed": 61,
+        "confirmed": 64,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 2
@@ -701,7 +701,7 @@
       },
       {
         "district": "Lucknow",
-        "confirmed": 28,
+        "confirmed": 29,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 5
@@ -709,7 +709,7 @@
       },
       {
         "district": "Gautam Buddha Nagar",
-        "confirmed": 61,
+        "confirmed": 58,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -717,7 +717,7 @@
       },
       {
         "district": "Kheri",
-        "confirmed": 5,
+        "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -741,7 +741,7 @@
       },
       {
         "district": "Kanpur Nagar",
-        "confirmed": 18,
+        "confirmed": 10,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 2
@@ -781,7 +781,7 @@
       },
       {
         "district": "Meerut",
-        "confirmed": 25,
+        "confirmed": 33,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -932,6 +932,22 @@
         }
       },
       {
+        "district": "Mathura",
+        "confirmed": 2,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      {
+        "district": "Budaun",
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      {
         "district": "Kaushambi",
         "confirmed": 2,
         "lastupdatedtime": "",
@@ -961,14 +977,6 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 2
-        }
-      },
-      {
-        "district": "Unknown",
-        "confirmed": 3,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
         }
       },
       {
