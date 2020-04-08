@@ -473,10 +473,10 @@
         }
       },
       "Gurugram": {
-        "confirmed": 20,
+        "confirmed": 32,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 12
         }
       },
       "Faridabad": {
@@ -1502,10 +1502,10 @@
         }
       },
       "S.A.S. Nagar": {
-        "confirmed": 26,
+        "confirmed": 30,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 4
         }
       },
       "Hoshiarpur": {
@@ -1516,10 +1516,10 @@
         }
       },
       "Jalandhar": {
-        "confirmed": 7,
+        "confirmed": 8,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 2
         }
       },
       "Ludhiana": {
@@ -1590,13 +1590,6 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
-        }
-      },
-      "Unknown": {
-        "confirmed": 5,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 5
         }
       }
     }
@@ -2468,7 +2461,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 401,
+        "confirmed": 389,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
