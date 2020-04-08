@@ -2235,10 +2235,10 @@
       },
       {
         "district": "Vadodara",
-        "confirmed": 13,
+        "confirmed": 18,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 6
         }
       },
       {
@@ -2267,10 +2267,10 @@
       },
       {
         "district": "Bhavnagar",
-        "confirmed": 16,
+        "confirmed": 18,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 2
+          "confirmed": 4
         }
       },
       {
@@ -2836,7 +2836,7 @@
     "districtData": [
       {
         "district": "Unknown",
-        "confirmed": 265,
+        "confirmed": 258,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
