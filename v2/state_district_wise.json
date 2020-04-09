@@ -2570,10 +2570,10 @@
       },
       {
         "district": "Siwan",
-        "confirmed": 14,
+        "confirmed": 19,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 4
+          "confirmed": 9
         }
       },
       {
@@ -2900,7 +2900,7 @@
     "districtData": [
       {
         "district": "Unknown",
-        "confirmed": 28,
+        "confirmed": 23,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
