@@ -1763,10 +1763,10 @@
       },
       {
         "district": "S.A.S. Nagar",
-        "confirmed": 36,
+        "confirmed": 37,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 6
+          "confirmed": 7
         }
       },
       {
@@ -1787,10 +1787,10 @@
       },
       {
         "district": "Ludhiana",
-        "confirmed": 8,
+        "confirmed": 10,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 2
+          "confirmed": 4
         }
       },
       {
@@ -1811,10 +1811,10 @@
       },
       {
         "district": "Mansa",
-        "confirmed": 5,
+        "confirmed": 11,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 6
         }
       },
       {
@@ -1835,10 +1835,10 @@
       },
       {
         "district": "Barnala",
-        "confirmed": 1,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -1866,11 +1866,27 @@
         }
       },
       {
-        "district": "Unknown",
-        "confirmed": 13,
+        "district": "Sri Muktsar Sahib",
+        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
+        }
+      },
+      {
+        "district": "Sangrur",
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
+        }
+      },
+      {
+        "district": "Unknown",
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
         }
       }
     ]

@@ -1537,10 +1537,10 @@
         }
       },
       "S.A.S. Nagar": {
-        "confirmed": 36,
+        "confirmed": 37,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 6
+          "confirmed": 7
         }
       },
       "Hoshiarpur": {
@@ -1558,10 +1558,10 @@
         }
       },
       "Ludhiana": {
-        "confirmed": 8,
+        "confirmed": 10,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 2
+          "confirmed": 4
         }
       },
       "Patiala": {
@@ -1579,10 +1579,10 @@
         }
       },
       "Mansa": {
-        "confirmed": 5,
+        "confirmed": 11,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 6
         }
       },
       "Pathankot": {
@@ -1600,10 +1600,10 @@
         }
       },
       "Barnala": {
-        "confirmed": 1,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Fatehgarh Sahib": {
@@ -1627,11 +1627,25 @@
           "confirmed": 0
         }
       },
-      "Unknown": {
-        "confirmed": 13,
+      "Sri Muktsar Sahib": {
+        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
+        }
+      },
+      "Sangrur": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
+        }
+      },
+      "Unknown": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
         }
       }
     }
