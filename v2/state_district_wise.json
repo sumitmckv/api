@@ -1063,18 +1063,18 @@
       },
       {
         "district": "Tirunelveli",
-        "confirmed": 42,
+        "confirmed": 58,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 16
         }
       },
       {
         "district": "Tiruppur",
-        "confirmed": 22,
+        "confirmed": 26,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 4
         }
       },
       {
@@ -1087,18 +1087,18 @@
       },
       {
         "district": "Salem",
-        "confirmed": 13,
+        "confirmed": 14,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
         "district": "Vellore",
-        "confirmed": 7,
+        "confirmed": 12,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 5
         }
       },
       {
@@ -1175,18 +1175,18 @@
       },
       {
         "district": "Thoothukkudi",
-        "confirmed": 17,
+        "confirmed": 22,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 5
         }
       },
       {
         "district": "Theni",
-        "confirmed": 40,
+        "confirmed": 41,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -1199,10 +1199,10 @@
       },
       {
         "district": "Sivaganga",
-        "confirmed": 5,
+        "confirmed": 6,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -1215,10 +1215,10 @@
       },
       {
         "district": "Thiruvarur",
-        "confirmed": 12,
+        "confirmed": 13,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -1294,11 +1294,19 @@
         }
       },
       {
-        "district": "Unknown",
-        "confirmed": 40,
+        "district": "Tenkasi",
+        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 40
+          "confirmed": 1
+        }
+      },
+      {
+        "district": "Thirupathur",
+        "confirmed": 5,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 5
         }
       }
     ]
