@@ -717,7 +717,7 @@
       },
       {
         "district": "Ghaziabad",
-        "confirmed": 29,
+        "confirmed": 25,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 2
@@ -949,7 +949,7 @@
       },
       {
         "district": "Auraiya",
-        "confirmed": 1,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1004,16 +1004,8 @@
         }
       },
       {
-        "district": "Rampur",
-        "confirmed": 5,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      {
         "district": "Muzaffarnagar",
-        "confirmed": 4,
+        "confirmed": 6,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 4
@@ -1021,10 +1013,18 @@
       },
       {
         "district": "Amroha",
-        "confirmed": 1,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 1
+        }
+      },
+      {
+        "district": "Rampur",
+        "confirmed": 5,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
         }
       }
     ]
