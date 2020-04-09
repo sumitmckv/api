@@ -1344,10 +1344,10 @@
   "Maharashtra": {
     "districtData": {
       "Pune": {
-        "confirmed": 199,
+        "confirmed": 200,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 2
+          "confirmed": 3
         }
       },
       "Mumbai": {
@@ -1505,10 +1505,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 12,
+        "confirmed": 11,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 12
+          "confirmed": 11
         }
       }
     }

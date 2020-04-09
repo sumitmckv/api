@@ -1542,10 +1542,10 @@
     "districtData": [
       {
         "district": "Pune",
-        "confirmed": 199,
+        "confirmed": 200,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 2
+          "confirmed": 3
         }
       },
       {
@@ -1726,10 +1726,10 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 12,
+        "confirmed": 11,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 12
+          "confirmed": 11
         }
       }
     ]
