@@ -1954,17 +1954,17 @@
         }
       },
       "Surat": {
-        "confirmed": 23,
+        "confirmed": 25,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Ahmadabad": {
-        "confirmed": 83,
+        "confirmed": 133,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 50
         }
       },
       "Vadodara": {
@@ -2031,10 +2031,10 @@
         }
       },
       "Chota Udaipur": {
-        "confirmed": 1,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Jamnagar": {
@@ -2052,10 +2052,10 @@
         }
       },
       "Anand": {
-        "confirmed": 1,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Sabar Kantha": {
@@ -2063,6 +2063,13 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      "Dahod": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
         }
       }
     }
@@ -2274,10 +2281,10 @@
         }
       },
       "Begusarai": {
-        "confirmed": 3,
+        "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Saran": {
@@ -2524,7 +2531,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 23,
+        "confirmed": 58,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0

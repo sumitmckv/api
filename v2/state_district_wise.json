@@ -2243,18 +2243,18 @@
       },
       {
         "district": "Surat",
-        "confirmed": 23,
+        "confirmed": 25,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       {
         "district": "Ahmadabad",
-        "confirmed": 83,
+        "confirmed": 133,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 50
         }
       },
       {
@@ -2331,10 +2331,10 @@
       },
       {
         "district": "Chota Udaipur",
-        "confirmed": 1,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -2355,10 +2355,10 @@
       },
       {
         "district": "Anand",
-        "confirmed": 1,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -2367,6 +2367,14 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      {
+        "district": "Dahod",
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
         }
       }
     ]
@@ -2610,10 +2618,10 @@
       },
       {
         "district": "Begusarai",
-        "confirmed": 3,
+        "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       {
@@ -2900,7 +2908,7 @@
     "districtData": [
       {
         "district": "Unknown",
-        "confirmed": 23,
+        "confirmed": 58,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
