@@ -113,6 +113,14 @@
         "delta": {
           "confirmed": 0
         }
+      },
+      {
+        "district": "Unknown",
+        "confirmed": 3,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 3
+        }
       }
     ]
   },
@@ -584,10 +592,10 @@
       },
       {
         "district": "Panchkula",
-        "confirmed": 2,
+        "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       {
@@ -2916,7 +2924,7 @@
     "districtData": [
       {
         "district": "Unknown",
-        "confirmed": 357,
+        "confirmed": 352,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
