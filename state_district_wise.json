@@ -905,17 +905,17 @@
         }
       },
       "Chennai": {
-        "confirmed": 159,
+        "confirmed": 166,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 7
         }
       },
       "Erode": {
-        "confirmed": 27,
+        "confirmed": 53,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 26
         }
       },
       "Coimbatore": {
@@ -940,10 +940,10 @@
         }
       },
       "Madurai": {
-        "confirmed": 24,
+        "confirmed": 25,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Salem": {
@@ -968,10 +968,10 @@
         }
       },
       "Chengalpattu": {
-        "confirmed": 20,
+        "confirmed": 24,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 4
         }
       },
       "Thanjavur": {
@@ -1010,17 +1010,17 @@
         }
       },
       "Namakkal": {
-        "confirmed": 33,
+        "confirmed": 41,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 8
         }
       },
       "Kanniyakumari": {
-        "confirmed": 6,
+        "confirmed": 14,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 8
         }
       },
       "Thoothukkudi": {
@@ -1087,10 +1087,10 @@
         }
       },
       "Nagapattinam": {
-        "confirmed": 11,
+        "confirmed": 12,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Cuddalore": {
@@ -1101,10 +1101,10 @@
         }
       },
       "Kallakurichi": {
-        "confirmed": 2,
+        "confirmed": 3,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Perambalur": {
@@ -1129,10 +1129,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 96,
+        "confirmed": 40,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 96
+          "confirmed": 40
         }
       }
     }
