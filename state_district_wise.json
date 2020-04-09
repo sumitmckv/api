@@ -301,10 +301,10 @@
         }
       },
       "Jaipur": {
-        "confirmed": 129,
+        "confirmed": 140,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 11
         }
       },
       "Jhunjhunu": {
@@ -322,10 +322,10 @@
         }
       },
       "Jodhpur": {
-        "confirmed": 32,
+        "confirmed": 34,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 3
         }
       },
       "Pali": {
@@ -371,10 +371,10 @@
         }
       },
       "Evacuees": {
-        "confirmed": 36,
+        "confirmed": 40,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 4
         }
       },
       "Alwar": {
@@ -1547,7 +1547,7 @@
         "confirmed": 11,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       "Ludhiana": {
@@ -2538,7 +2538,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 413,
+        "confirmed": 396,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
