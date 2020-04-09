@@ -308,10 +308,10 @@
         }
       },
       "Jhunjhunu": {
-        "confirmed": 24,
+        "confirmed": 31,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 7
         }
       },
       "Bhilwara": {
@@ -385,10 +385,10 @@
         }
       },
       "Tonk": {
-        "confirmed": 20,
+        "confirmed": 27,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 7
         }
       },
       "Dhaulpur": {
@@ -427,10 +427,10 @@
         }
       },
       "Banswara": {
-        "confirmed": 10,
+        "confirmed": 12,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Karauli": {
@@ -448,10 +448,10 @@
         }
       },
       "Jaisalmer": {
-        "confirmed": 14,
+        "confirmed": 19,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 5
         }
       },
       "Kota": {
@@ -462,10 +462,24 @@
         }
       },
       "Jhalawar": {
-        "confirmed": 2,
+        "confirmed": 9,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 7
+        }
+      },
+      "Barmer": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
+        }
+      },
+      "Unknown": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
         }
       }
     }
@@ -1929,14 +1943,7 @@
         }
       },
       "Korba": {
-        "confirmed": 2,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      "Unknown": {
-        "confirmed": 1,
+        "confirmed": 3,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 1
@@ -2510,7 +2517,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 66,
+        "confirmed": 36,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
