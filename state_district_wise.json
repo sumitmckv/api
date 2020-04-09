@@ -1344,7 +1344,7 @@
   "Maharashtra": {
     "districtData": {
       "Pune": {
-        "confirmed": 159,
+        "confirmed": 197,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1365,14 +1365,14 @@
         }
       },
       "Thane": {
-        "confirmed": 87,
+        "confirmed": 92,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       },
       "Ahmadnagar": {
-        "confirmed": 26,
+        "confirmed": 28,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1499,13 +1499,6 @@
       },
       "Jalna": {
         "confirmed": 1,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      "Unknown": {
-        "confirmed": 45,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0

@@ -1542,7 +1542,7 @@
     "districtData": [
       {
         "district": "Pune",
-        "confirmed": 159,
+        "confirmed": 197,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1566,7 +1566,7 @@
       },
       {
         "district": "Thane",
-        "confirmed": 87,
+        "confirmed": 92,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1574,7 +1574,7 @@
       },
       {
         "district": "Ahmadnagar",
-        "confirmed": 26,
+        "confirmed": 28,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1719,14 +1719,6 @@
       {
         "district": "Jalna",
         "confirmed": 1,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      {
-        "district": "Unknown",
-        "confirmed": 45,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
