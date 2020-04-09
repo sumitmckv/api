@@ -2699,10 +2699,10 @@
     "districtData": [
       {
         "district": "Ranchi",
-        "confirmed": 6,
+        "confirmed": 7,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 4
+          "confirmed": 5
         }
       },
       {
@@ -2715,10 +2715,10 @@
       },
       {
         "district": "Bokaro",
-        "confirmed": 2,
+        "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 4
         }
       }
     ]
@@ -2868,7 +2868,7 @@
     "districtData": [
       {
         "district": "Unknown",
-        "confirmed": 80,
+        "confirmed": 76,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
