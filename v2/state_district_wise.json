@@ -20,10 +20,10 @@
       },
       {
         "district": "Kasaragod",
-        "confirmed": 157,
+        "confirmed": 161,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 4
         }
       },
       {
@@ -36,10 +36,10 @@
       },
       {
         "district": "Kannur",
-        "confirmed": 58,
+        "confirmed": 62,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 4
         }
       },
       {
@@ -60,10 +60,10 @@
       },
       {
         "district": "Thiruvananthapuram",
-        "confirmed": 13,
+        "confirmed": 14,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -108,18 +108,18 @@
       },
       {
         "district": "Kollam",
-        "confirmed": 8,
+        "confirmed": 9,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
         "district": "Unknown",
-        "confirmed": 3,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 3
+          "confirmed": 2
         }
       }
     ]
@@ -1299,6 +1299,14 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      {
+        "district": "Unknown",
+        "confirmed": 96,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 96
         }
       }
     ]
@@ -2924,7 +2932,7 @@
     "districtData": [
       {
         "district": "Unknown",
-        "confirmed": 352,
+        "confirmed": 247,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
