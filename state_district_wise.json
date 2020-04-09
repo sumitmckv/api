@@ -757,17 +757,17 @@
         }
       },
       "Saharanpur": {
-        "confirmed": 14,
+        "confirmed": 20,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 6
         }
       },
       "Pratapgarh": {
-        "confirmed": 3,
+        "confirmed": 6,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       "Hapur": {
@@ -882,11 +882,18 @@
           "confirmed": 0
         }
       },
-      "Unknown": {
-        "confirmed": 14,
+      "Muzaffarnagar": {
+        "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 14
+          "confirmed": 4
+        }
+      },
+      "Amroha": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
         }
       }
     }
@@ -1533,10 +1540,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 59,
+        "confirmed": 77,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 59
+          "confirmed": 77
         }
       }
     }
@@ -2256,10 +2263,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 101,
+        "confirmed": 115,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 50
+          "confirmed": 64
         }
       },
       "Khandwa": {
@@ -2580,10 +2587,10 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 121,
+        "confirmed": 89,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 17
+          "confirmed": 0
         }
       }
     }

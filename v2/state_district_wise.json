@@ -869,18 +869,18 @@
       },
       {
         "district": "Saharanpur",
-        "confirmed": 14,
+        "confirmed": 20,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 6
         }
       },
       {
         "district": "Pratapgarh",
-        "confirmed": 3,
+        "confirmed": 6,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       {
@@ -1012,11 +1012,19 @@
         }
       },
       {
-        "district": "Unknown",
-        "confirmed": 14,
+        "district": "Muzaffarnagar",
+        "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 14
+          "confirmed": 4
+        }
+      },
+      {
+        "district": "Amroha",
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
         }
       }
     ]
@@ -1758,10 +1766,10 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 59,
+        "confirmed": 77,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 59
+          "confirmed": 77
         }
       }
     ]
@@ -2589,10 +2597,10 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 101,
+        "confirmed": 115,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 50
+          "confirmed": 64
         }
       },
       {
@@ -2964,10 +2972,10 @@
     "districtData": [
       {
         "district": "Unknown",
-        "confirmed": 121,
+        "confirmed": 89,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 17
+          "confirmed": 0
         }
       }
     ]
