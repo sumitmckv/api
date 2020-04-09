@@ -2275,34 +2275,34 @@
     "districtData": [
       {
         "district": "Rajkot",
-        "confirmed": 11,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      {
-        "district": "Surat",
-        "confirmed": 25,
+        "confirmed": 13,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 2
         }
       },
       {
-        "district": "Ahmadabad",
-        "confirmed": 133,
+        "district": "Surat",
+        "confirmed": 24,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 50
+          "confirmed": 1
+        }
+      },
+      {
+        "district": "Ahmadabad",
+        "confirmed": 142,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 59
         }
       },
       {
         "district": "Vadodara",
-        "confirmed": 18,
+        "confirmed": 22,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 4
         }
       },
       {
@@ -2363,10 +2363,10 @@
       },
       {
         "district": "Patan",
-        "confirmed": 5,
+        "confirmed": 12,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 7
         }
       },
       {
@@ -2415,14 +2415,6 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 1
-        }
-      },
-      {
-        "district": "Unknown",
-        "confirmed": 21,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 21
         }
       }
     ]
