@@ -65,10 +65,10 @@
         }
       },
       "Malappuram": {
-        "confirmed": 16,
+        "confirmed": 18,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Kozhikode": {
@@ -97,13 +97,6 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 1
-        }
-      },
-      "Unknown": {
-        "confirmed": 2,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 2
         }
       }
     }
