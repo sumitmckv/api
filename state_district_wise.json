@@ -578,10 +578,10 @@
         }
       },
       "Kaithal": {
-        "confirmed": 1,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Charki Dadri": {
@@ -1759,10 +1759,10 @@
   "Odisha": {
     "districtData": {
       "Khordha": {
-        "confirmed": 34,
+        "confirmed": 35,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Bhadrak": {
@@ -1805,6 +1805,13 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      "Dhenkanal": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
         }
       }
     }
@@ -2531,7 +2538,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 429,
+        "confirmed": 426,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0

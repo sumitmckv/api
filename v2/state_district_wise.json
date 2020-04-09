@@ -664,10 +664,10 @@
       },
       {
         "district": "Kaithal",
-        "confirmed": 1,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -2018,10 +2018,10 @@
     "districtData": [
       {
         "district": "Khordha",
-        "confirmed": 34,
+        "confirmed": 35,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -2070,6 +2070,14 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      {
+        "district": "Dhenkanal",
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
         }
       }
     ]
@@ -2908,7 +2916,7 @@
     "districtData": [
       {
         "district": "Unknown",
-        "confirmed": 429,
+        "confirmed": 426,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
