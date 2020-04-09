@@ -2509,7 +2509,7 @@
       },
       {
         "district": "Ujjain",
-        "confirmed": 13,
+        "confirmed": 15,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2541,7 +2541,7 @@
       },
       {
         "district": "Morena",
-        "confirmed": 12,
+        "confirmed": 13,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2557,7 +2557,7 @@
       },
       {
         "district": "Barwani",
-        "confirmed": 3,
+        "confirmed": 12,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2597,7 +2597,7 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 84,
+        "confirmed": 72,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0

@@ -2186,7 +2186,7 @@
         }
       },
       "Ujjain": {
-        "confirmed": 13,
+        "confirmed": 15,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2214,7 +2214,7 @@
         }
       },
       "Morena": {
-        "confirmed": 12,
+        "confirmed": 13,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2228,7 +2228,7 @@
         }
       },
       "Barwani": {
-        "confirmed": 3,
+        "confirmed": 12,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2263,7 +2263,7 @@
         }
       },
       "Unknown": {
-        "confirmed": 84,
+        "confirmed": 72,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
