@@ -2172,14 +2172,14 @@
         }
       },
       "Bhopal": {
-        "confirmed": 85,
+        "confirmed": 94,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       },
       "Indore": {
-        "confirmed": 151,
+        "confirmed": 173,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2263,7 +2263,7 @@
         }
       },
       "Unknown": {
-        "confirmed": 115,
+        "confirmed": 84,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
