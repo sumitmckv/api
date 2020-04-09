@@ -1385,10 +1385,10 @@
     "districtData": [
       {
         "district": "Bengaluru",
-        "confirmed": 59,
+        "confirmed": 61,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       {
@@ -1409,18 +1409,18 @@
       },
       {
         "district": "Chikkaballapura",
-        "confirmed": 11,
+        "confirmed": 12,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
         "district": "Mysuru",
-        "confirmed": 35,
+        "confirmed": 37,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       {
@@ -1497,18 +1497,18 @@
       },
       {
         "district": "Bagalkote",
-        "confirmed": 5,
+        "confirmed": 8,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       {
         "district": "Belagavi",
-        "confirmed": 7,
+        "confirmed": 8,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -1529,10 +1529,10 @@
       },
       {
         "district": "Mandya",
-        "confirmed": 4,
+        "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       }
     ]
@@ -2916,7 +2916,7 @@
     "districtData": [
       {
         "district": "Unknown",
-        "confirmed": 426,
+        "confirmed": 416,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
