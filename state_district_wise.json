@@ -1674,7 +1674,7 @@
   "Andhra Pradesh": {
     "districtData": {
       "S.P.S. Nellore": {
-        "confirmed": 49,
+        "confirmed": 48,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1723,17 +1723,17 @@
         }
       },
       "Kurnool": {
-        "confirmed": 74,
+        "confirmed": 75,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       },
       "Anantapur": {
-        "confirmed": 13,
+        "confirmed": 15,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "West Godavari": {
@@ -2594,7 +2594,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 43,
+        "confirmed": 41,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
