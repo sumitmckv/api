@@ -1582,7 +1582,7 @@
     "districtData": [
       {
         "district": "Pune",
-        "confirmed": 200,
+        "confirmed": 197,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1606,7 +1606,7 @@
       },
       {
         "district": "Thane",
-        "confirmed": 93,
+        "confirmed": 92,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1622,7 +1622,7 @@
       },
       {
         "district": "Yavatmal",
-        "confirmed": 5,
+        "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1630,7 +1630,7 @@
       },
       {
         "district": "Aurangabad",
-        "confirmed": 16,
+        "confirmed": 13,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1766,7 +1766,7 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 77,
+        "confirmed": 85,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2509,10 +2509,10 @@
       },
       {
         "district": "Bhopal",
-        "confirmed": 95,
+        "confirmed": 94,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 0
         }
       },
       {
@@ -2988,7 +2988,7 @@
     "districtData": [
       {
         "district": "Unknown",
-        "confirmed": 62,
+        "confirmed": 63,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0

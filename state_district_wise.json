@@ -1379,7 +1379,7 @@
   "Maharashtra": {
     "districtData": {
       "Pune": {
-        "confirmed": 200,
+        "confirmed": 197,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1400,7 +1400,7 @@
         }
       },
       "Thane": {
-        "confirmed": 93,
+        "confirmed": 92,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1414,14 +1414,14 @@
         }
       },
       "Yavatmal": {
-        "confirmed": 5,
+        "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       },
       "Aurangabad": {
-        "confirmed": 16,
+        "confirmed": 13,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1540,7 +1540,7 @@
         }
       },
       "Unknown": {
-        "confirmed": 77,
+        "confirmed": 85,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2186,10 +2186,10 @@
         }
       },
       "Bhopal": {
-        "confirmed": 95,
+        "confirmed": 94,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 0
         }
       },
       "Indore": {
@@ -2601,7 +2601,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 62,
+        "confirmed": 63,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
