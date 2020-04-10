@@ -536,10 +536,10 @@
         }
       },
       "Ambala": {
-        "confirmed": 6,
+        "confirmed": 7,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 3
+          "confirmed": 4
         }
       },
       "Sirsa": {
@@ -1986,6 +1986,13 @@
         "delta": {
           "confirmed": 0
         }
+      },
+      "Unknown": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
+        }
       }
     }
   },
@@ -2636,7 +2643,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 89,
+        "confirmed": 87,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
