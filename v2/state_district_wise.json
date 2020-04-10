@@ -1827,10 +1827,10 @@
       },
       {
         "district": "S.A.S. Nagar",
-        "confirmed": 37,
+        "confirmed": 48,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 11
         }
       },
       {
@@ -1843,10 +1843,10 @@
       },
       {
         "district": "Jalandhar",
-        "confirmed": 11,
+        "confirmed": 12,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -1883,10 +1883,10 @@
       },
       {
         "district": "Pathankot",
-        "confirmed": 7,
+        "confirmed": 15,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 8
         }
       },
       {
@@ -1939,10 +1939,10 @@
       },
       {
         "district": "Sangrur",
-        "confirmed": 1,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       }
     ]
@@ -3036,7 +3036,7 @@
     "districtData": [
       {
         "district": "Unknown",
-        "confirmed": 152,
+        "confirmed": 131,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
