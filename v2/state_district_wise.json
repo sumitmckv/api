@@ -1766,7 +1766,7 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 29,
+        "confirmed": 21,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1774,6 +1774,14 @@
       },
       {
         "district": "Akola",
+        "confirmed": 8,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      {
+        "district": "Other States",
         "confirmed": 8,
         "lastupdatedtime": "",
         "delta": {
