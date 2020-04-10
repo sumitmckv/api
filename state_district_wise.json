@@ -2207,7 +2207,7 @@
         }
       },
       "Indore": {
-        "confirmed": 173,
+        "confirmed": 221,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2249,7 +2249,7 @@
         }
       },
       "Khargone": {
-        "confirmed": 4,
+        "confirmed": 12,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2290,13 +2290,6 @@
           "confirmed": 0
         }
       },
-      "Unknown": {
-        "confirmed": 72,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
       "Khandwa": {
         "confirmed": 5,
         "lastupdatedtime": "",
@@ -2306,6 +2299,13 @@
       },
       "Dhar": {
         "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      "Unknown": {
+        "confirmed": 16,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0

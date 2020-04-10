@@ -2533,7 +2533,7 @@
       },
       {
         "district": "Indore",
-        "confirmed": 173,
+        "confirmed": 221,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2581,7 +2581,7 @@
       },
       {
         "district": "Khargone",
-        "confirmed": 4,
+        "confirmed": 12,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2628,14 +2628,6 @@
         }
       },
       {
-        "district": "Unknown",
-        "confirmed": 72,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      {
         "district": "Khandwa",
         "confirmed": 5,
         "lastupdatedtime": "",
@@ -2646,6 +2638,14 @@
       {
         "district": "Dhar",
         "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      {
+        "district": "Unknown",
+        "confirmed": 16,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
