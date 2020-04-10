@@ -592,18 +592,18 @@
       },
       {
         "district": "Panchkula",
-        "confirmed": 4,
+        "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
         "district": "Sonipat",
-        "confirmed": 2,
+        "confirmed": 3,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -616,10 +616,10 @@
       },
       {
         "district": "Ambala",
-        "confirmed": 3,
+        "confirmed": 6,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       {
@@ -3004,7 +3004,7 @@
     "districtData": [
       {
         "district": "Unknown",
-        "confirmed": 63,
+        "confirmed": 58,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
