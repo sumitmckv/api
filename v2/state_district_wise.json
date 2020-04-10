@@ -1590,7 +1590,7 @@
       },
       {
         "district": "Mumbai",
-        "confirmed": 876,
+        "confirmed": 874,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1606,7 +1606,7 @@
       },
       {
         "district": "Thane",
-        "confirmed": 114,
+        "confirmed": 113,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1639,6 +1639,14 @@
       {
         "district": "Ratnagiri",
         "confirmed": 4,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      {
+        "district": "Palghar",
+        "confirmed": 6,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1759,14 +1767,6 @@
       {
         "district": "Jalna",
         "confirmed": 1,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      {
-        "district": "Palghar",
-        "confirmed": 3,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
