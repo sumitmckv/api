@@ -1582,7 +1582,7 @@
     "districtData": [
       {
         "district": "Pune",
-        "confirmed": 214,
+        "confirmed": 212,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1678,7 +1678,7 @@
       },
       {
         "district": "Kolhapur",
-        "confirmed": 2,
+        "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1766,7 +1766,15 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 38,
+        "confirmed": 29,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      {
+        "district": "Akola",
+        "confirmed": 8,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
