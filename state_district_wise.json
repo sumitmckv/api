@@ -301,10 +301,10 @@
         }
       },
       "Jaipur": {
-        "confirmed": 222,
+        "confirmed": 221,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 54
+          "confirmed": 53
         }
       },
       "Jhunjhunu": {
@@ -2657,7 +2657,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 158,
+        "confirmed": 159,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
