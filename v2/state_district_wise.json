@@ -1071,26 +1071,26 @@
       },
       {
         "district": "Chennai",
-        "confirmed": 166,
+        "confirmed": 175,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 9
         }
       },
       {
         "district": "Erode",
-        "confirmed": 53,
+        "confirmed": 55,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       {
         "district": "Coimbatore",
-        "confirmed": 64,
+        "confirmed": 90,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 26
         }
       },
       {
@@ -1143,10 +1143,10 @@
       },
       {
         "district": "Chengalpattu",
-        "confirmed": 24,
+        "confirmed": 36,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 12
         }
       },
       {
@@ -1175,18 +1175,18 @@
       },
       {
         "district": "Tiruvannamalai",
-        "confirmed": 5,
+        "confirmed": 6,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
         "district": "Viluppuram",
-        "confirmed": 24,
+        "confirmed": 27,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       {
@@ -1199,18 +1199,18 @@
       },
       {
         "district": "Kanniyakumari",
-        "confirmed": 14,
+        "confirmed": 15,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
         "district": "Thoothukkudi",
-        "confirmed": 22,
+        "confirmed": 24,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       {
@@ -1223,10 +1223,10 @@
       },
       {
         "district": "Dindigul",
-        "confirmed": 46,
+        "confirmed": 54,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 8
         }
       },
       {
@@ -1255,10 +1255,10 @@
       },
       {
         "district": "Ranipet",
-        "confirmed": 26,
+        "confirmed": 35,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 9
         }
       },
       {
@@ -1287,10 +1287,10 @@
       },
       {
         "district": "Cuddalore",
-        "confirmed": 13,
+        "confirmed": 14,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -1311,10 +1311,10 @@
       },
       {
         "district": "The Nilgiris",
-        "confirmed": 4,
+        "confirmed": 7,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       {
@@ -1339,14 +1339,6 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
-        }
-      },
-      {
-        "district": "Unknown",
-        "confirmed": 77,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 77
         }
       }
     ]
