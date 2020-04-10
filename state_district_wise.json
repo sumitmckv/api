@@ -322,10 +322,10 @@
         }
       },
       "Jodhpur": {
-        "confirmed": 34,
+        "confirmed": 42,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 8
         }
       },
       "Pali": {
@@ -371,10 +371,10 @@
         }
       },
       "Evacuees": {
-        "confirmed": 40,
+        "confirmed": 48,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 8
         }
       },
       "Alwar": {
@@ -480,13 +480,6 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
-        }
-      },
-      "Unknown": {
-        "confirmed": 16,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 16
         }
       }
     }
@@ -1196,10 +1189,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 108,
+        "confirmed": 131,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 23
         }
       },
       "Rajouri": {
@@ -2636,7 +2629,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 17,
+        "confirmed": 112,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0

@@ -371,10 +371,10 @@
       },
       {
         "district": "Jodhpur",
-        "confirmed": 34,
+        "confirmed": 42,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 8
         }
       },
       {
@@ -427,10 +427,10 @@
       },
       {
         "district": "Evacuees",
-        "confirmed": 40,
+        "confirmed": 48,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 8
         }
       },
       {
@@ -551,14 +551,6 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
-        }
-      },
-      {
-        "district": "Unknown",
-        "confirmed": 16,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 16
         }
       }
     ]
@@ -1372,10 +1364,10 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 108,
+        "confirmed": 131,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 23
         }
       },
       {
@@ -3028,7 +3020,7 @@
     "districtData": [
       {
         "district": "Unknown",
-        "confirmed": 17,
+        "confirmed": 112,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
