@@ -1944,10 +1944,10 @@
       },
       {
         "district": "Prakasam",
-        "confirmed": 38,
+        "confirmed": 40,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       {
@@ -1960,10 +1960,10 @@
       },
       {
         "district": "East Godavari",
-        "confirmed": 12,
+        "confirmed": 17,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 5
         }
       },
       {
@@ -1984,18 +1984,18 @@
       },
       {
         "district": "Guntur",
-        "confirmed": 51,
+        "confirmed": 58,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 7
         }
       },
       {
         "district": "Kurnool",
-        "confirmed": 75,
+        "confirmed": 77,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       {
@@ -2471,6 +2471,14 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 4
+        }
+      },
+      {
+        "district": "Unknown",
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
         }
       }
     ]
@@ -3044,7 +3052,7 @@
     "districtData": [
       {
         "district": "Unknown",
-        "confirmed": 88,
+        "confirmed": 71,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0

@@ -1695,10 +1695,10 @@
         }
       },
       "Prakasam": {
-        "confirmed": 38,
+        "confirmed": 40,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Visakhapatnam": {
@@ -1709,10 +1709,10 @@
         }
       },
       "East Godavari": {
-        "confirmed": 12,
+        "confirmed": 17,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 5
         }
       },
       "Krishna": {
@@ -1730,17 +1730,17 @@
         }
       },
       "Guntur": {
-        "confirmed": 51,
+        "confirmed": 58,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 7
         }
       },
       "Kurnool": {
-        "confirmed": 75,
+        "confirmed": 77,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Anantapur": {
@@ -2154,6 +2154,13 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 4
+        }
+      },
+      "Unknown": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
         }
       }
     }
@@ -2650,7 +2657,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 88,
+        "confirmed": 71,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
