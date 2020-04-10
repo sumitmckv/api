@@ -1606,7 +1606,7 @@
       },
       {
         "district": "Nagpur",
-        "confirmed": 20,
+        "confirmed": 19,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1614,7 +1614,7 @@
       },
       {
         "district": "Thane",
-        "confirmed": 104,
+        "confirmed": 112,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1622,7 +1622,7 @@
       },
       {
         "district": "Ahmadnagar",
-        "confirmed": 28,
+        "confirmed": 25,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1774,7 +1774,7 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 8,
+        "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2589,18 +2589,18 @@
       },
       {
         "district": "Khargone",
-        "confirmed": 12,
+        "confirmed": 14,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       {
         "district": "Barwani",
-        "confirmed": 12,
+        "confirmed": 14,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       {
@@ -2613,10 +2613,10 @@
       },
       {
         "district": "Vidisha",
-        "confirmed": 2,
+        "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       {
@@ -2676,11 +2676,27 @@
         }
       },
       {
-        "district": "Unknown",
-        "confirmed": 40,
+        "district": "Sagar",
+        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 40
+          "confirmed": 1
+        }
+      },
+      {
+        "district": "Shajapur",
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
+        }
+      },
+      {
+        "district": "Unknown",
+        "confirmed": 32,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 32
         }
       }
     ]
