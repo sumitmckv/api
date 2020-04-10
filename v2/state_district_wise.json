@@ -2323,10 +2323,10 @@
       },
       {
         "district": "Ahmadabad",
-        "confirmed": 142,
+        "confirmed": 153,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 11
         }
       },
       {
@@ -2363,10 +2363,10 @@
       },
       {
         "district": "Bhavnagar",
-        "confirmed": 18,
+        "confirmed": 20,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       {
@@ -2447,6 +2447,22 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      {
+        "district": "Bharuch",
+        "confirmed": 4,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 4
+        }
+      },
+      {
+        "district": "Unknown",
+        "confirmed": 29,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 29
         }
       }
     ]
@@ -2980,7 +2996,7 @@
     "districtData": [
       {
         "district": "Unknown",
-        "confirmed": 41,
+        "confirmed": 64,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0

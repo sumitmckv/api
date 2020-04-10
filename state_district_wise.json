@@ -2024,10 +2024,10 @@
         }
       },
       "Ahmadabad": {
-        "confirmed": 142,
+        "confirmed": 153,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 11
         }
       },
       "Vadodara": {
@@ -2059,10 +2059,10 @@
         }
       },
       "Bhavnagar": {
-        "confirmed": 18,
+        "confirmed": 20,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Porbandar": {
@@ -2133,6 +2133,20 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      "Bharuch": {
+        "confirmed": 4,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 4
+        }
+      },
+      "Unknown": {
+        "confirmed": 29,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 29
         }
       }
     }
@@ -2594,7 +2608,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 41,
+        "confirmed": 64,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
