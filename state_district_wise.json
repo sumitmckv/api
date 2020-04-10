@@ -1981,14 +1981,7 @@
   "Chandigarh": {
     "districtData": {
       "Chandigarh": {
-        "confirmed": 18,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      "Unknown": {
-        "confirmed": 1,
+        "confirmed": 19,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 1

@@ -2273,15 +2273,7 @@
     "districtData": [
       {
         "district": "Chandigarh",
-        "confirmed": 18,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      {
-        "district": "Unknown",
-        "confirmed": 1,
+        "confirmed": 19,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 1
