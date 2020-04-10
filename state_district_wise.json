@@ -481,6 +481,13 @@
         "delta": {
           "confirmed": 0
         }
+      },
+      "Unknown": {
+        "confirmed": 26,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 26
+        }
       }
     }
   },
@@ -2309,10 +2316,10 @@
         }
       },
       "Siwan": {
-        "confirmed": 27,
+        "confirmed": 29,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Nalanda": {
@@ -2594,7 +2601,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 71,
+        "confirmed": 43,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
