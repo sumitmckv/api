@@ -347,10 +347,10 @@
       },
       {
         "district": "Jaipur",
-        "confirmed": 168,
+        "confirmed": 183,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 15
         }
       },
       {
@@ -551,6 +551,14 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      {
+        "district": "Unknown",
+        "confirmed": 16,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 16
         }
       }
     ]
@@ -3020,10 +3028,10 @@
     "districtData": [
       {
         "district": "Unknown",
-        "confirmed": 48,
+        "confirmed": 17,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 8
+          "confirmed": 0
         }
       }
     ]
