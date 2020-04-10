@@ -206,10 +206,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 295,
+        "confirmed": 311,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 16
         }
       },
       "Warangal Urban": {
@@ -2031,24 +2031,24 @@
         }
       },
       "Surat": {
-        "confirmed": 24,
+        "confirmed": 27,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       "Ahmadabad": {
-        "confirmed": 153,
+        "confirmed": 197,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 11
+          "confirmed": 55
         }
       },
       "Vadodara": {
-        "confirmed": 39,
+        "confirmed": 59,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 17
+          "confirmed": 37
         }
       },
       "Gandhinagar": {
@@ -2150,17 +2150,10 @@
         }
       },
       "Bharuch": {
-        "confirmed": 4,
+        "confirmed": 7,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 4
-        }
-      },
-      "Unknown": {
-        "confirmed": 1,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 1
+          "confirmed": 7
         }
       }
     }
@@ -2657,7 +2650,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 71,
+        "confirmed": 343,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
