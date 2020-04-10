@@ -1582,7 +1582,7 @@
     "districtData": [
       {
         "district": "Pune",
-        "confirmed": 197,
+        "confirmed": 214,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1590,7 +1590,7 @@
       },
       {
         "district": "Mumbai",
-        "confirmed": 857,
+        "confirmed": 876,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1606,7 +1606,7 @@
       },
       {
         "district": "Thane",
-        "confirmed": 92,
+        "confirmed": 94,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1622,7 +1622,7 @@
       },
       {
         "district": "Yavatmal",
-        "confirmed": 4,
+        "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1630,7 +1630,7 @@
       },
       {
         "district": "Aurangabad",
-        "confirmed": 13,
+        "confirmed": 17,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1638,7 +1638,7 @@
       },
       {
         "district": "Ratnagiri",
-        "confirmed": 3,
+        "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1702,7 +1702,7 @@
       },
       {
         "district": "Buldana",
-        "confirmed": 7,
+        "confirmed": 10,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1766,7 +1766,7 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 85,
+        "confirmed": 38,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
