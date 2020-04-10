@@ -1013,26 +1013,18 @@
       },
       {
         "district": "Amroha",
-        "confirmed": 2,
+        "confirmed": 7,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 5
         }
       },
       {
         "district": "Rampur",
-        "confirmed": 5,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      {
-        "district": "Unknown",
         "confirmed": 6,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 6
+          "confirmed": 1
         }
       }
     ]
@@ -1694,7 +1686,7 @@
       },
       {
         "district": "Other States*",
-        "confirmed": 10,
+        "confirmed": 8,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1774,7 +1766,7 @@
       },
       {
         "district": "Palghar",
-        "confirmed": 2,
+        "confirmed": 3,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1790,7 +1782,7 @@
       },
       {
         "district": "Akola",
-        "confirmed": 8,
+        "confirmed": 9,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -3038,7 +3030,7 @@
         }
       },
       {
-        "district": "Unknown",
+        "district": "North Tripura",
         "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
