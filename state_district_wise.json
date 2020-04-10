@@ -1386,7 +1386,7 @@
   "Maharashtra": {
     "districtData": {
       "Pune": {
-        "confirmed": 212,
+        "confirmed": 206,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1407,7 +1407,7 @@
         }
       },
       "Thane": {
-        "confirmed": 94,
+        "confirmed": 104,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1476,8 +1476,8 @@
           "confirmed": 0
         }
       },
-      "Gujarat*": {
-        "confirmed": 2,
+      "Other States*": {
+        "confirmed": 10,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1498,7 +1498,7 @@
         }
       },
       "Nashik": {
-        "confirmed": 2,
+        "confirmed": 7,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1526,7 +1526,7 @@
         }
       },
       "Amravati": {
-        "confirmed": 1,
+        "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1547,20 +1547,20 @@
         }
       },
       "Unknown": {
-        "confirmed": 21,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      "Akola": {
         "confirmed": 8,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       },
-      "Other States": {
+      "Bid": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      "Akola": {
         "confirmed": 8,
         "lastupdatedtime": "",
         "delta": {
@@ -2331,6 +2331,13 @@
         "delta": {
           "confirmed": 0
         }
+      },
+      "Unknown": {
+        "confirmed": 40,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 40
+        }
       }
     }
   },
@@ -2636,7 +2643,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 129,
+        "confirmed": 89,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
