@@ -1477,7 +1477,7 @@
         }
       },
       "Buldana": {
-        "confirmed": 11,
+        "confirmed": 13,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1540,7 +1540,7 @@
         }
       },
       "Akola": {
-        "confirmed": 9,
+        "confirmed": 12,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1553,8 +1553,8 @@
           "confirmed": 0
         }
       },
-      "Unknown": {
-        "confirmed": 6,
+      "Other States": {
+        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
