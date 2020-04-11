@@ -1409,7 +1409,7 @@
     "districtData": [
       {
         "district": "Bengaluru",
-        "confirmed": 67,
+        "confirmed": 68,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 1
@@ -2268,10 +2268,10 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 89,
+        "confirmed": 99,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 10
         }
       }
     ]
@@ -3068,7 +3068,7 @@
     "districtData": [
       {
         "district": "Unknown",
-        "confirmed": 70,
+        "confirmed": 59,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
