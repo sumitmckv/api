@@ -1590,7 +1590,7 @@
       },
       {
         "district": "Nagpur",
-        "confirmed": 19,
+        "confirmed": 25,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1783,14 +1783,6 @@
       {
         "district": "Bid",
         "confirmed": 1,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      {
-        "district": "Nagaur",
-        "confirmed": 6,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2770,10 +2762,10 @@
       },
       {
         "district": "Begusarai",
-        "confirmed": 5,
+        "confirmed": 7,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       {
@@ -2794,10 +2786,10 @@
       },
       {
         "district": "Nawada",
-        "confirmed": 2,
+        "confirmed": 3,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 2
         }
       }
     ]
@@ -3084,7 +3076,7 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 169,
+        "confirmed": 166,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
