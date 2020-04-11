@@ -1582,7 +1582,7 @@
       },
       {
         "district": "Mumbai",
-        "confirmed": 1003,
+        "confirmed": 1000,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1646,7 +1646,7 @@
       },
       {
         "district": "Palghar",
-        "confirmed": 8,
+        "confirmed": 11,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
