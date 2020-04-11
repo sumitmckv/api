@@ -1574,7 +1574,7 @@
     "districtData": [
       {
         "district": "Pune",
-        "confirmed": 248,
+        "confirmed": 240,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1582,7 +1582,7 @@
       },
       {
         "district": "Mumbai",
-        "confirmed": 1000,
+        "confirmed": 1008,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
