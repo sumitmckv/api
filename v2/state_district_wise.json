@@ -1417,10 +1417,10 @@
     "districtData": [
       {
         "district": "Bengaluru",
-        "confirmed": 66,
+        "confirmed": 67,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -1449,10 +1449,10 @@
       },
       {
         "district": "Mysuru",
-        "confirmed": 42,
+        "confirmed": 47,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 5
         }
       },
       {
@@ -1521,10 +1521,10 @@
       },
       {
         "district": "Bidar",
-        "confirmed": 10,
+        "confirmed": 11,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -3052,7 +3052,7 @@
     "districtData": [
       {
         "district": "Unknown",
-        "confirmed": 80,
+        "confirmed": 73,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
