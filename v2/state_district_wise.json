@@ -36,7 +36,7 @@
       },
       {
         "district": "Kannur",
-        "confirmed": 71,
+        "confirmed": 70,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 7
@@ -3066,6 +3066,14 @@
   {
     "state": "Unknown",
     "districtData": [
+      {
+        "district": "Kannur",
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
       {
         "district": "Unknown",
         "confirmed": 4,

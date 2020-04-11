@@ -30,7 +30,7 @@
         }
       },
       "Kannur": {
-        "confirmed": 71,
+        "confirmed": 70,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 7
@@ -2670,6 +2670,13 @@
   },
   "Unknown": {
     "districtData": {
+      "Kannur": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
       "Unknown": {
         "confirmed": 4,
         "lastupdatedtime": "",
