@@ -2323,7 +2323,7 @@
     "districtData": [
       {
         "district": "Rajkot",
-        "confirmed": 14,
+        "confirmed": 18,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2411,7 +2411,7 @@
       },
       {
         "district": "Patan",
-        "confirmed": 18,
+        "confirmed": 14,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
