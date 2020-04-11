@@ -1055,7 +1055,7 @@
       },
       {
         "district": "Chennai",
-        "confirmed": 175,
+        "confirmed": 174,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1102,6 +1102,14 @@
         }
       },
       {
+        "district": "Chengalpattu",
+        "confirmed": 37,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      {
         "district": "Salem",
         "confirmed": 14,
         "lastupdatedtime": "",
@@ -1111,14 +1119,6 @@
       },
       {
         "district": "Ranipet",
-        "confirmed": 36,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      {
-        "district": "Chengalpattu",
         "confirmed": 36,
         "lastupdatedtime": "",
         "delta": {

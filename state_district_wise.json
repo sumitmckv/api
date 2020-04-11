@@ -919,7 +919,7 @@
         }
       },
       "Chennai": {
-        "confirmed": 175,
+        "confirmed": 174,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -960,6 +960,13 @@
           "confirmed": 0
         }
       },
+      "Chengalpattu": {
+        "confirmed": 37,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
       "Salem": {
         "confirmed": 14,
         "lastupdatedtime": "",
@@ -968,13 +975,6 @@
         }
       },
       "Ranipet": {
-        "confirmed": 36,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      "Chengalpattu": {
         "confirmed": 36,
         "lastupdatedtime": "",
         "delta": {
