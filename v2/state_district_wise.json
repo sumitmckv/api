@@ -1566,7 +1566,7 @@
     "districtData": [
       {
         "district": "Pune",
-        "confirmed": 206,
+        "confirmed": 248,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1574,7 +1574,7 @@
       },
       {
         "district": "Mumbai",
-        "confirmed": 873,
+        "confirmed": 1005,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1590,7 +1590,7 @@
       },
       {
         "district": "Thane",
-        "confirmed": 114,
+        "confirmed": 136,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1622,7 +1622,7 @@
       },
       {
         "district": "Ratnagiri",
-        "confirmed": 4,
+        "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1630,7 +1630,7 @@
       },
       {
         "district": "Palghar",
-        "confirmed": 6,
+        "confirmed": 7,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1773,8 +1773,16 @@
         }
       },
       {
+        "district": "Nagaur",
+        "confirmed": 6,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      {
         "district": "Unknown",
-        "confirmed": 210,
+        "confirmed": 6,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
