@@ -2497,17 +2497,17 @@
   "Jharkhand": {
     "districtData": {
       "Ranchi": {
-        "confirmed": 7,
+        "confirmed": 8,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Hazaribagh": {
-        "confirmed": 1,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Bokaro": {
@@ -2515,6 +2515,13 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      "Kodarma": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
         }
       }
     }
@@ -2650,7 +2657,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 85,
+        "confirmed": 82,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0

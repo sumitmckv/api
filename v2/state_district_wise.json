@@ -2867,18 +2867,18 @@
     "districtData": [
       {
         "district": "Ranchi",
-        "confirmed": 7,
+        "confirmed": 8,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
         "district": "Hazaribagh",
-        "confirmed": 1,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -2887,6 +2887,14 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      {
+        "district": "Kodarma",
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
         }
       }
     ]
@@ -3044,7 +3052,7 @@
     "districtData": [
       {
         "district": "Unknown",
-        "confirmed": 85,
+        "confirmed": 82,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
