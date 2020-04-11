@@ -1154,10 +1154,10 @@
   "Jammu and Kashmir": {
     "districtData": {
       "Jammu": {
-        "confirmed": 19,
+        "confirmed": 24,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 5
         }
       },
       "Srinagar": {
@@ -1175,10 +1175,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 148,
+        "confirmed": 131,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 17
+          "confirmed": 0
         }
       },
       "Rajouri": {
@@ -1217,10 +1217,10 @@
         }
       },
       "Kashmir": {
-        "confirmed": 20,
+        "confirmed": 32,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 12
         }
       }
     }
@@ -2428,10 +2428,10 @@
         }
       },
       "Nawada": {
-        "confirmed": 1,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       }
     }
@@ -2671,7 +2671,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 174,
+        "confirmed": 173,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0

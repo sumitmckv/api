@@ -1324,10 +1324,10 @@
     "districtData": [
       {
         "district": "Jammu",
-        "confirmed": 19,
+        "confirmed": 24,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 5
         }
       },
       {
@@ -1348,10 +1348,10 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 148,
+        "confirmed": 131,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 17
+          "confirmed": 0
         }
       },
       {
@@ -1396,10 +1396,10 @@
       },
       {
         "district": "Kashmir",
-        "confirmed": 20,
+        "confirmed": 32,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 12
         }
       }
     ]
@@ -2786,10 +2786,10 @@
       },
       {
         "district": "Nawada",
-        "confirmed": 1,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       }
     ]
@@ -3068,7 +3068,7 @@
     "districtData": [
       {
         "district": "Unknown",
-        "confirmed": 174,
+        "confirmed": 173,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
