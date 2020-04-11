@@ -791,8 +791,15 @@
           "confirmed": 0
         }
       },
+      "Hathras": {
+        "confirmed": 2,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
       "Hatras": {
-        "confirmed": 4,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -919,7 +926,7 @@
         }
       },
       "Chennai": {
-        "confirmed": 173,
+        "confirmed": 172,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -961,7 +968,7 @@
         }
       },
       "Chengalpattu": {
-        "confirmed": 38,
+        "confirmed": 39,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
