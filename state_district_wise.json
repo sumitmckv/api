@@ -1400,7 +1400,7 @@
         }
       },
       "Thane": {
-        "confirmed": 116,
+        "confirmed": 119,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1553,13 +1553,6 @@
           "confirmed": 0
         }
       },
-      "Unknown": {
-        "confirmed": 190,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 187
-        }
-      },
       "Bid": {
         "confirmed": 1,
         "lastupdatedtime": "",
@@ -1572,6 +1565,13 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      "Unknown": {
+        "confirmed": 187,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 187
         }
       }
     }

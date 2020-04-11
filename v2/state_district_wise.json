@@ -1606,7 +1606,7 @@
       },
       {
         "district": "Thane",
-        "confirmed": 116,
+        "confirmed": 119,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1781,14 +1781,6 @@
         }
       },
       {
-        "district": "Unknown",
-        "confirmed": 190,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 187
-        }
-      },
-      {
         "district": "Bid",
         "confirmed": 1,
         "lastupdatedtime": "",
@@ -1802,6 +1794,14 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      {
+        "district": "Unknown",
+        "confirmed": 187,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 187
         }
       }
     ]
