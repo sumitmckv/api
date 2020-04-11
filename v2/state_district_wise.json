@@ -1063,7 +1063,7 @@
       },
       {
         "district": "Erode",
-        "confirmed": 55,
+        "confirmed": 59,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1071,7 +1071,7 @@
       },
       {
         "district": "Coimbatore",
-        "confirmed": 90,
+        "confirmed": 86,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
