@@ -1400,7 +1400,7 @@
         }
       },
       "Thane": {
-        "confirmed": 125,
+        "confirmed": 115,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1435,7 +1435,7 @@
         }
       },
       "Palghar": {
-        "confirmed": 17,
+        "confirmed": 16,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1546,15 +1546,22 @@
           "confirmed": 0
         }
       },
-      "Bid": {
-        "confirmed": 1,
+      "Akola": {
+        "confirmed": 13,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       },
-      "Akola": {
-        "confirmed": 12,
+      "Unknown": {
+        "confirmed": 197,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 187
+        }
+      },
+      "Bid": {
+        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1565,13 +1572,6 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
-        }
-      },
-      "Unknown": {
-        "confirmed": 187,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 187
         }
       }
     }
