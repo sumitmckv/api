@@ -1574,7 +1574,7 @@
       },
       {
         "district": "Mumbai",
-        "confirmed": 1005,
+        "confirmed": 1006,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1589,16 +1589,16 @@
         }
       },
       {
-        "district": "Thane",
-        "confirmed": 136,
+        "district": "Ahmadnagar",
+        "confirmed": 25,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       },
       {
-        "district": "Ahmadnagar",
-        "confirmed": 25,
+        "district": "Thane",
+        "confirmed": 135,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
