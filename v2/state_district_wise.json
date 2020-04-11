@@ -1574,18 +1574,18 @@
     "districtData": [
       {
         "district": "Pune",
-        "confirmed": 248,
+        "confirmed": 257,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 9
         }
       },
       {
         "district": "Mumbai",
-        "confirmed": 1008,
+        "confirmed": 1146,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 138
         }
       },
       {
@@ -1598,26 +1598,26 @@
       },
       {
         "district": "Ahmadnagar",
-        "confirmed": 25,
+        "confirmed": 26,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
         "district": "Thane",
-        "confirmed": 119,
+        "confirmed": 143,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 24
         }
       },
       {
         "district": "Raigarh",
-        "confirmed": 6,
+        "confirmed": 7,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -1630,10 +1630,10 @@
       },
       {
         "district": "Aurangabad",
-        "confirmed": 17,
+        "confirmed": 19,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       {
@@ -1646,10 +1646,10 @@
       },
       {
         "district": "Palghar",
-        "confirmed": 15,
+        "confirmed": 18,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       {
@@ -1686,10 +1686,10 @@
       },
       {
         "district": "Kolhapur",
-        "confirmed": 5,
+        "confirmed": 6,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -1718,10 +1718,10 @@
       },
       {
         "district": "Nashik",
-        "confirmed": 7,
+        "confirmed": 14,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 7
         }
       },
       {
@@ -1789,11 +1789,11 @@
         }
       },
       {
-        "district": "Unknown",
-        "confirmed": 187,
+        "district": "Dhule",
+        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 187
+          "confirmed": 1
         }
       }
     ]
