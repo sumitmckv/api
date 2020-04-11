@@ -1574,7 +1574,7 @@
     "districtData": [
       {
         "district": "Pune",
-        "confirmed": 240,
+        "confirmed": 248,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1646,7 +1646,7 @@
       },
       {
         "district": "Palghar",
-        "confirmed": 16,
+        "confirmed": 15,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1774,7 +1774,7 @@
       },
       {
         "district": "Akola",
-        "confirmed": 13,
+        "confirmed": 12,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1782,7 +1782,7 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 197,
+        "confirmed": 191,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 187

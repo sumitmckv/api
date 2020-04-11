@@ -1372,7 +1372,7 @@
   "Maharashtra": {
     "districtData": {
       "Pune": {
-        "confirmed": 240,
+        "confirmed": 248,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1435,7 +1435,7 @@
         }
       },
       "Palghar": {
-        "confirmed": 16,
+        "confirmed": 15,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1547,14 +1547,14 @@
         }
       },
       "Akola": {
-        "confirmed": 13,
+        "confirmed": 12,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       },
       "Unknown": {
-        "confirmed": 197,
+        "confirmed": 191,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 187
