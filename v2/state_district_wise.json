@@ -909,15 +909,7 @@
       },
       {
         "district": "Hathras",
-        "confirmed": 2,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      {
-        "district": "Hatras",
-        "confirmed": 2,
+        "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1231,7 +1223,7 @@
       },
       {
         "district": "Tirupathur",
-        "confirmed": 11,
+        "confirmed": 16,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1320,14 +1312,6 @@
       {
         "district": "Tenkasi",
         "confirmed": 1,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      {
-        "district": "Thirupathur",
-        "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0

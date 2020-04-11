@@ -792,14 +792,7 @@
         }
       },
       "Hathras": {
-        "confirmed": 2,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      "Hatras": {
-        "confirmed": 2,
+        "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1073,7 +1066,7 @@
         }
       },
       "Tirupathur": {
-        "confirmed": 11,
+        "confirmed": 16,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1151,13 +1144,6 @@
       },
       "Tenkasi": {
         "confirmed": 1,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      "Thirupathur": {
-        "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
