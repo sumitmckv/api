@@ -1574,7 +1574,7 @@
       },
       {
         "district": "Mumbai",
-        "confirmed": 1006,
+        "confirmed": 1004,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1598,7 +1598,15 @@
       },
       {
         "district": "Thane",
-        "confirmed": 135,
+        "confirmed": 136,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      {
+        "district": "Raigarh",
+        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
