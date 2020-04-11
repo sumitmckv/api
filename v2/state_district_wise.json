@@ -20,10 +20,10 @@
       },
       {
         "district": "Kasaragod",
-        "confirmed": 164,
+        "confirmed": 166,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       {
@@ -36,10 +36,10 @@
       },
       {
         "district": "Kannur",
-        "confirmed": 64,
+        "confirmed": 71,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 7
         }
       },
       {
@@ -84,10 +84,10 @@
       },
       {
         "district": "Kozhikode",
-        "confirmed": 12,
+        "confirmed": 13,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -112,14 +112,6 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
-        }
-      },
-      {
-        "district": "Unknown",
-        "confirmed": 10,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 10
         }
       }
     ]
@@ -2520,10 +2512,10 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 14,
+        "confirmed": 16,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 2
+          "confirmed": 4
         }
       },
       {
@@ -3076,10 +3068,10 @@
     "districtData": [
       {
         "district": "Unknown",
-        "confirmed": 163,
+        "confirmed": 161,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 2
+          "confirmed": 0
         }
       }
     ]
