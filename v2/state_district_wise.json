@@ -1063,7 +1063,7 @@
       },
       {
         "district": "Erode",
-        "confirmed": 59,
+        "confirmed": 60,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1110,16 +1110,8 @@
         }
       },
       {
-        "district": "Vellore",
-        "confirmed": 12,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      {
-        "district": "Tiruchirappalli",
-        "confirmed": 37,
+        "district": "Ranipet",
+        "confirmed": 36,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1135,6 +1127,14 @@
       },
       {
         "district": "Thanjavur",
+        "confirmed": 11,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      {
+        "district": "Vellore",
         "confirmed": 11,
         "lastupdatedtime": "",
         "delta": {
@@ -1238,14 +1238,6 @@
         }
       },
       {
-        "district": "Ranipet",
-        "confirmed": 35,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      {
         "district": "Ramanathapuram",
         "confirmed": 2,
         "lastupdatedtime": "",
@@ -1288,6 +1280,14 @@
       {
         "district": "Perambalur",
         "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      {
+        "district": "Tiruchirappalli",
+        "confirmed": 36,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
