@@ -1055,10 +1055,10 @@
       },
       {
         "district": "Chennai",
-        "confirmed": 172,
+        "confirmed": 182,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 10
         }
       },
       {
@@ -1071,10 +1071,10 @@
       },
       {
         "district": "Coimbatore",
-        "confirmed": 86,
+        "confirmed": 97,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 11
         }
       },
       {
@@ -1103,10 +1103,10 @@
       },
       {
         "district": "Chengalpattu",
-        "confirmed": 39,
+        "confirmed": 40,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -1159,10 +1159,10 @@
       },
       {
         "district": "Tiruvannamalai",
-        "confirmed": 6,
+        "confirmed": 7,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -1207,10 +1207,10 @@
       },
       {
         "district": "Dindigul",
-        "confirmed": 54,
+        "confirmed": 55,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -1247,26 +1247,26 @@
       },
       {
         "district": "Thiruvallur",
-        "confirmed": 13,
+        "confirmed": 29,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 16
         }
       },
       {
         "district": "Nagapattinam",
-        "confirmed": 12,
+        "confirmed": 24,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 12
         }
       },
       {
         "district": "Cuddalore",
-        "confirmed": 14,
+        "confirmed": 15,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -1287,18 +1287,18 @@
       },
       {
         "district": "Tiruchirappalli",
-        "confirmed": 36,
+        "confirmed": 39,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       {
         "district": "The Nilgiris",
-        "confirmed": 7,
+        "confirmed": 9,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       {
@@ -1315,14 +1315,6 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
-        }
-      },
-      {
-        "district": "Unknown",
-        "confirmed": 58,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 58
         }
       }
     ]
