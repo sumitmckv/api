@@ -1606,7 +1606,7 @@
       },
       {
         "district": "Thane",
-        "confirmed": 115,
+        "confirmed": 116,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1782,7 +1782,7 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 191,
+        "confirmed": 190,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 187
