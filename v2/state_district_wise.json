@@ -1183,26 +1183,26 @@
       },
       {
         "district": "Chennai",
-        "confirmed": 182,
+        "confirmed": 200,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 18
         }
       },
       {
         "district": "Erode",
-        "confirmed": 60,
+        "confirmed": 64,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 4
         }
       },
       {
         "district": "Coimbatore",
-        "confirmed": 97,
+        "confirmed": 119,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 22
         }
       },
       {
@@ -1215,10 +1215,10 @@
       },
       {
         "district": "Tiruppur",
-        "confirmed": 26,
+        "confirmed": 61,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 35
         }
       },
       {
@@ -1231,26 +1231,26 @@
       },
       {
         "district": "Chengalpattu",
-        "confirmed": 40,
+        "confirmed": 42,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       {
         "district": "Salem",
-        "confirmed": 14,
+        "confirmed": 18,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 4
         }
       },
       {
         "district": "Ranipet",
-        "confirmed": 36,
+        "confirmed": 38,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       {
@@ -1263,10 +1263,10 @@
       },
       {
         "district": "Vellore",
-        "confirmed": 11,
+        "confirmed": 12,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -1279,10 +1279,10 @@
       },
       {
         "district": "Karur",
-        "confirmed": 22,
+        "confirmed": 25,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       {
@@ -1303,10 +1303,10 @@
       },
       {
         "district": "Namakkal",
-        "confirmed": 41,
+        "confirmed": 45,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 4
         }
       },
       {
@@ -1335,10 +1335,10 @@
       },
       {
         "district": "Dindigul",
-        "confirmed": 55,
+        "confirmed": 56,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -1375,10 +1375,10 @@
       },
       {
         "district": "Thiruvallur",
-        "confirmed": 29,
+        "confirmed": 30,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -1391,10 +1391,10 @@
       },
       {
         "district": "Cuddalore",
-        "confirmed": 15,
+        "confirmed": 19,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 4
         }
       },
       {
@@ -1415,10 +1415,10 @@
       },
       {
         "district": "Tiruchirappalli",
-        "confirmed": 39,
+        "confirmed": 43,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 4
         }
       },
       {
@@ -1439,18 +1439,10 @@
       },
       {
         "district": "Tenkasi",
-        "confirmed": 1,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
-        }
-      },
-      {
-        "district": "Unknown",
-        "confirmed": 106,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 106
+          "confirmed": 1
         }
       }
     ]
