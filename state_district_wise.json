@@ -23,17 +23,17 @@
         }
       },
       "Pathanamthitta": {
-        "confirmed": 16,
+        "confirmed": 17,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Kannur": {
-        "confirmed": 70,
+        "confirmed": 71,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Ernakulam": {
@@ -2811,7 +2811,7 @@
         }
       },
       "Unknown": {
-        "confirmed": 114,
+        "confirmed": 112,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0

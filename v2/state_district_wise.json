@@ -28,18 +28,18 @@
       },
       {
         "district": "Pathanamthitta",
-        "confirmed": 16,
+        "confirmed": 17,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
         "district": "Kannur",
-        "confirmed": 70,
+        "confirmed": 71,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -3228,7 +3228,7 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 114,
+        "confirmed": 112,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
