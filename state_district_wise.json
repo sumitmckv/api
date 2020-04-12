@@ -178,7 +178,7 @@
         }
       },
       "Karimnagar": {
-        "confirmed": 4,
+        "confirmed": 18,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -199,14 +199,35 @@
         }
       },
       "Medchal Malkajgiri": {
-        "confirmed": 4,
+        "confirmed": 23,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       },
       "Unknown": {
-        "confirmed": 301,
+        "confirmed": 254,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      "Medak": {
+        "confirmed": 5,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      "Mahabubnagar": {
+        "confirmed": 10,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      "Mahabubabad": {
+        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -275,15 +296,22 @@
           "confirmed": 0
         }
       },
-      "Mahabubnagar": {
-        "confirmed": 6,
+      "Suryapet": {
+        "confirmed": 3,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       },
-      "Suryapet": {
-        "confirmed": 3,
+      "Nagarkurnool": {
+        "confirmed": 2,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      "Mulugu": {
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
