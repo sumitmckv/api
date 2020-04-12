@@ -2549,7 +2549,7 @@
       },
       {
         "district": "Bhopal",
-        "confirmed": 116,
+        "confirmed": 131,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2557,7 +2557,7 @@
       },
       {
         "district": "Indore",
-        "confirmed": 235,
+        "confirmed": 281,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2629,7 +2629,7 @@
       },
       {
         "district": "Vidisha",
-        "confirmed": 4,
+        "confirmed": 13,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2645,7 +2645,7 @@
       },
       {
         "district": "Sheopur",
-        "confirmed": 1,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2653,7 +2653,7 @@
       },
       {
         "district": "Khandwa",
-        "confirmed": 5,
+        "confirmed": 6,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2669,7 +2669,7 @@
       },
       {
         "district": "Hoshangabad",
-        "confirmed": 6,
+        "confirmed": 10,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2708,8 +2708,16 @@
         }
       },
       {
-        "district": "Unknown",
-        "confirmed": 78,
+        "district": "Ratlam",
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      {
+        "district": "Mandsaur",
+        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0

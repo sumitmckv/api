@@ -2221,14 +2221,14 @@
         }
       },
       "Bhopal": {
-        "confirmed": 116,
+        "confirmed": 131,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       },
       "Indore": {
-        "confirmed": 235,
+        "confirmed": 281,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2291,7 +2291,7 @@
         }
       },
       "Vidisha": {
-        "confirmed": 4,
+        "confirmed": 13,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2305,14 +2305,14 @@
         }
       },
       "Sheopur": {
-        "confirmed": 1,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       },
       "Khandwa": {
-        "confirmed": 5,
+        "confirmed": 6,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2326,7 +2326,7 @@
         }
       },
       "Hoshangabad": {
-        "confirmed": 6,
+        "confirmed": 10,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2360,8 +2360,15 @@
           "confirmed": 0
         }
       },
-      "Unknown": {
-        "confirmed": 78,
+      "Ratlam": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      "Mandsaur": {
+        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
