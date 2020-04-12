@@ -1002,10 +1002,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 28,
+        "confirmed": 31,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 28
+          "confirmed": 31
         }
       }
     }
@@ -1322,10 +1322,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 7,
+        "confirmed": 8,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 2
         }
       },
       "Udhampur": {
@@ -2861,6 +2861,13 @@
     "districtData": {
       "Kannur": {
         "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      "Unknown": {
+        "confirmed": 198,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
