@@ -1529,10 +1529,10 @@
       },
       {
         "district": "Belagavi",
-        "confirmed": 11,
+        "confirmed": 14,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 4
         }
       },
       {
@@ -3076,10 +3076,10 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 147,
+        "confirmed": 144,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 2
+          "confirmed": 0
         }
       }
     ]
