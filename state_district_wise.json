@@ -1977,10 +1977,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 99,
+        "confirmed": 107,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 8
         }
       }
     }
@@ -2699,7 +2699,7 @@
         }
       },
       "Unknown": {
-        "confirmed": 144,
+        "confirmed": 136,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
