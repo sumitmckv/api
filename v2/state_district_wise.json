@@ -1465,7 +1465,7 @@
       },
       {
         "district": "Uttara Kannada",
-        "confirmed": 10,
+        "confirmed": 9,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1473,7 +1473,7 @@
       },
       {
         "district": "Dakshina Kannada",
-        "confirmed": 10,
+        "confirmed": 11,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1488,8 +1488,8 @@
         }
       },
       {
-        "district": "Chitradurga",
-        "confirmed": 1,
+        "district": "Davanagere",
+        "confirmed": 3,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1497,14 +1497,6 @@
       },
       {
         "district": "Tumakuru",
-        "confirmed": 2,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      {
-        "district": "Davanagere",
         "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
