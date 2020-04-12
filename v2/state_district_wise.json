@@ -1484,7 +1484,7 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 77,
+        "confirmed": 68,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1500,7 +1500,7 @@
       },
       {
         "district": "Badgam",
-        "confirmed": 2,
+        "confirmed": 11,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2003,10 +2003,10 @@
       },
       {
         "district": "S.A.S. Nagar",
-        "confirmed": 50,
+        "confirmed": 53,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       {
@@ -2019,10 +2019,10 @@
       },
       {
         "district": "Jalandhar",
-        "confirmed": 15,
+        "confirmed": 22,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 7
         }
       },
       {
@@ -2067,10 +2067,10 @@
       },
       {
         "district": "Faridkot",
-        "confirmed": 2,
+        "confirmed": 3,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -2091,10 +2091,10 @@
       },
       {
         "district": "Kapurthala",
-        "confirmed": 1,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -3284,7 +3284,7 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 97,
+        "confirmed": 85,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0

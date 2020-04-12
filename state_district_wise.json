@@ -1294,7 +1294,7 @@
         }
       },
       "Unknown": {
-        "confirmed": 77,
+        "confirmed": 68,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1308,7 +1308,7 @@
         }
       },
       "Badgam": {
-        "confirmed": 2,
+        "confirmed": 11,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1747,10 +1747,10 @@
         }
       },
       "S.A.S. Nagar": {
-        "confirmed": 50,
+        "confirmed": 53,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       "Hoshiarpur": {
@@ -1761,10 +1761,10 @@
         }
       },
       "Jalandhar": {
-        "confirmed": 15,
+        "confirmed": 22,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 7
         }
       },
       "Ludhiana": {
@@ -1803,10 +1803,10 @@
         }
       },
       "Faridkot": {
-        "confirmed": 2,
+        "confirmed": 3,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Barnala": {
@@ -1824,10 +1824,10 @@
         }
       },
       "Kapurthala": {
-        "confirmed": 1,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Moga": {
@@ -2860,7 +2860,7 @@
         }
       },
       "Unknown": {
-        "confirmed": 97,
+        "confirmed": 85,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
