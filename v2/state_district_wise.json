@@ -1417,7 +1417,7 @@
     "districtData": [
       {
         "district": "Bengaluru",
-        "confirmed": 70,
+        "confirmed": 72,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1434,14 +1434,6 @@
       {
         "district": "Kodagu",
         "confirmed": 1,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      {
-        "district": "Chikkaballapura",
-        "confirmed": 11,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1473,7 +1465,15 @@
       },
       {
         "district": "Dakshina Kannada",
-        "confirmed": 11,
+        "confirmed": 12,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      {
+        "district": "Chikkaballapura",
+        "confirmed": 9,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1481,7 +1481,7 @@
       },
       {
         "district": "Udupi",
-        "confirmed": 4,
+        "confirmed": 3,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
