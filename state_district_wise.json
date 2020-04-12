@@ -171,7 +171,7 @@
   "Telangana": {
     "districtData": {
       "Hyderabad": {
-        "confirmed": 104,
+        "confirmed": 183,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -206,13 +206,13 @@
         }
       },
       "Unknown": {
-        "confirmed": 125,
+        "confirmed": 46,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       },
-      "Siricilla": {
+      "Rajanna Sircilla": {
         "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
