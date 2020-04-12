@@ -2853,10 +2853,21 @@
         }
       },
       "Unknown": {
-        "confirmed": 73,
+        "confirmed": 72,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      }
+    }
+  },
+  "Nagaland": {
+    "districtData": {
+      "Unknown": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
         }
       }
     }

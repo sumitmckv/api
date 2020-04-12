@@ -3276,10 +3276,23 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 73,
+        "confirmed": 72,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      }
+    ]
+  },
+  {
+    "state": "Nagaland",
+    "districtData": [
+      {
+        "district": "Unknown",
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
         }
       }
     ]
