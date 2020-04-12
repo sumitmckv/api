@@ -1990,7 +1990,7 @@
   "Odisha": {
     "districtData": {
       "Khordha": {
-        "confirmed": 40,
+        "confirmed": 41,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2047,13 +2047,6 @@
       },
       "Sundargarh": {
         "confirmed": 2,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      "Bhubaneswar": {
-        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0

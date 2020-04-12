@@ -2282,7 +2282,7 @@
     "districtData": [
       {
         "district": "Khordha",
-        "confirmed": 40,
+        "confirmed": 41,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2347,14 +2347,6 @@
       {
         "district": "Sundargarh",
         "confirmed": 2,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      {
-        "district": "Bhubaneswar",
-        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
