@@ -2066,10 +2066,10 @@
         }
       },
       "Ahmadabad": {
-        "confirmed": 243,
+        "confirmed": 266,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 23
         }
       },
       "Vadodara": {
@@ -2157,10 +2157,10 @@
         }
       },
       "Anand": {
-        "confirmed": 5,
+        "confirmed": 7,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Sabar Kantha": {
@@ -2700,13 +2700,6 @@
     "districtData": {
       "Kannur": {
         "confirmed": 1,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      "Unknown": {
-        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0

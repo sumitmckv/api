@@ -2371,10 +2371,10 @@
       },
       {
         "district": "Ahmadabad",
-        "confirmed": 243,
+        "confirmed": 266,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 23
         }
       },
       {
@@ -2475,10 +2475,10 @@
       },
       {
         "district": "Anand",
-        "confirmed": 5,
+        "confirmed": 7,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       {
@@ -3101,14 +3101,6 @@
       {
         "district": "Kannur",
         "confirmed": 1,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      {
-        "district": "Unknown",
-        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
