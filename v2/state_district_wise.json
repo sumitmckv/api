@@ -1436,10 +1436,10 @@
     "districtData": [
       {
         "district": "Jammu",
-        "confirmed": 24,
+        "confirmed": 28,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 4
         }
       },
       {
@@ -1508,10 +1508,10 @@
       },
       {
         "district": "Kashmir",
-        "confirmed": 32,
+        "confirmed": 49,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 17
         }
       },
       {
@@ -2210,7 +2210,7 @@
     "districtData": [
       {
         "district": "Khordha",
-        "confirmed": 39,
+        "confirmed": 40,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2266,14 +2266,6 @@
       },
       {
         "district": "Dhenkanal",
-        "confirmed": 1,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      {
-        "district": "Unknown",
         "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
@@ -3228,7 +3220,7 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 112,
+        "confirmed": 91,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
