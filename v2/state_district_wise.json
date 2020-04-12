@@ -214,7 +214,7 @@
       },
       {
         "district": "Bhadradri Kothagudem",
-        "confirmed": 3,
+        "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -238,7 +238,7 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 327,
+        "confirmed": 315,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -262,7 +262,7 @@
       },
       {
         "district": "Adilabad",
-        "confirmed": 2,
+        "confirmed": 10,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -302,7 +302,7 @@
       },
       {
         "district": "Jagitial",
-        "confirmed": 1,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -331,6 +331,22 @@
         "delta": {
           "confirmed": 0
         }
+      },
+      {
+        "district": "Jangaon",
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      {
+        "district": "Jangoan",
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
       }
     ]
   },
@@ -347,10 +363,10 @@
       },
       {
         "district": "Jaipur",
-        "confirmed": 317,
+        "confirmed": 336,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 16
+          "confirmed": 35
         }
       },
       {
@@ -443,10 +459,10 @@
       },
       {
         "district": "Tonk",
-        "confirmed": 47,
+        "confirmed": 58,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 11
         }
       },
       {
@@ -507,10 +523,10 @@
       },
       {
         "district": "Nagaur",
-        "confirmed": 1,
+        "confirmed": 6,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 5
         }
       },
       {
@@ -523,10 +539,10 @@
       },
       {
         "district": "Kota",
-        "confirmed": 33,
+        "confirmed": 40,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 7
         }
       },
       {
@@ -554,11 +570,11 @@
         }
       },
       {
-        "district": "Unknown",
-        "confirmed": 44,
+        "district": "Evacuees*",
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 44
+          "confirmed": 2
         }
       }
     ]
