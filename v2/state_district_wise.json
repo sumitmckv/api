@@ -821,10 +821,10 @@
     "districtData": [
       {
         "district": "Agra",
-        "confirmed": 92,
+        "confirmed": 104,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 12
         }
       },
       {
@@ -861,10 +861,10 @@
       },
       {
         "district": "Moradabad",
-        "confirmed": 1,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -901,10 +901,10 @@
       },
       {
         "district": "Baghpat",
-        "confirmed": 5,
+        "confirmed": 7,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       {
@@ -917,10 +917,10 @@
       },
       {
         "district": "Meerut",
-        "confirmed": 48,
+        "confirmed": 51,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       {
@@ -1149,10 +1149,10 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 31,
+        "confirmed": 13,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 31
+          "confirmed": 13
         }
       }
     ]
