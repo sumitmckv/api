@@ -192,7 +192,7 @@
         }
       },
       "Ranga Reddy": {
-        "confirmed": 3,
+        "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -206,7 +206,14 @@
         }
       },
       "Unknown": {
-        "confirmed": 254,
+        "confirmed": 198,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      "Nizamabad": {
+        "confirmed": 49,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -255,14 +262,7 @@
         }
       },
       "Nirmal": {
-        "confirmed": 4,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      "Nizamabad": {
-        "confirmed": 18,
+        "confirmed": 15,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -298,6 +298,13 @@
       },
       "Suryapet": {
         "confirmed": 3,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      "Nalgonda": {
+        "confirmed": 12,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0

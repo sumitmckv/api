@@ -222,7 +222,7 @@
       },
       {
         "district": "Ranga Reddy",
-        "confirmed": 3,
+        "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -238,7 +238,15 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 254,
+        "confirmed": 198,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      {
+        "district": "Nizamabad",
+        "confirmed": 49,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -294,15 +302,7 @@
       },
       {
         "district": "Nirmal",
-        "confirmed": 4,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      {
-        "district": "Nizamabad",
-        "confirmed": 18,
+        "confirmed": 15,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -343,6 +343,14 @@
       {
         "district": "Suryapet",
         "confirmed": 3,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      {
+        "district": "Nalgonda",
+        "confirmed": 12,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
