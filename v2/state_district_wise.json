@@ -1417,7 +1417,7 @@
     "districtData": [
       {
         "district": "Bengaluru",
-        "confirmed": 72,
+        "confirmed": 73,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1537,7 +1537,7 @@
       },
       {
         "district": "Bengaluru Rural",
-        "confirmed": 5,
+        "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
