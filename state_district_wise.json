@@ -1235,17 +1235,17 @@
   "Karnataka": {
     "districtData": {
       "Bengaluru": {
-        "confirmed": 73,
+        "confirmed": 76,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       "Kalaburagi": {
-        "confirmed": 10,
+        "confirmed": 12,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Kodagu": {
@@ -1256,10 +1256,10 @@
         }
       },
       "Mysuru": {
-        "confirmed": 47,
+        "confirmed": 48,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Dharwad": {
@@ -1333,10 +1333,10 @@
         }
       },
       "Belagavi": {
-        "confirmed": 10,
+        "confirmed": 11,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Bengaluru Rural": {
@@ -1360,7 +1360,7 @@
           "confirmed": 0
         }
       },
-      "Unknown": {
+      "Vijayapura": {
         "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
@@ -1776,7 +1776,7 @@
   "Uttarakhand": {
     "districtData": {
       "Dehradun": {
-        "confirmed": 14,
+        "confirmed": 18,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1797,7 +1797,7 @@
         }
       },
       "Nainital": {
-        "confirmed": 6,
+        "confirmed": 8,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1812,13 +1812,6 @@
       },
       "Almora": {
         "confirmed": 1,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      "Unknown": {
-        "confirmed": 6,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2685,10 +2678,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 154,
+        "confirmed": 147,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       }
     }
