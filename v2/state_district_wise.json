@@ -1434,7 +1434,7 @@
         "confirmed": 106,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 106
         }
       }
     ]
@@ -1545,10 +1545,10 @@
       },
       {
         "district": "Kalaburagi",
-        "confirmed": 12,
+        "confirmed": 13,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 2
+          "confirmed": 3
         }
       },
       {
@@ -1681,10 +1681,10 @@
       },
       {
         "district": "Vijayapura",
-        "confirmed": 1,
+        "confirmed": 6,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 6
         }
       }
     ]
@@ -3221,6 +3221,14 @@
       {
         "district": "Kannur",
         "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      {
+        "district": "Unknown",
+        "confirmed": 113,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
