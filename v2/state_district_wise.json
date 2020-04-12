@@ -222,7 +222,7 @@
       },
       {
         "district": "Ranga Reddy",
-        "confirmed": 5,
+        "confirmed": 34,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -238,7 +238,63 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 198,
+        "confirmed": 125,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      {
+        "district": "Siricilla",
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      {
+        "district": "Khammam",
+        "confirmed": 2,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      {
+        "district": "Warangal Urban",
+        "confirmed": 24,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      {
+        "district": "Vikarabad",
+        "confirmed": 8,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      {
+        "district": "Suryapet",
+        "confirmed": 9,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      {
+        "district": "Siddipet",
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      {
+        "district": "Sangareddy",
+        "confirmed": 7,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -277,22 +333,6 @@
         }
       },
       {
-        "district": "Warangal Urban",
-        "confirmed": 2,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      {
-        "district": "Vikarabad",
-        "confirmed": 2,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      {
         "district": "Adilabad",
         "confirmed": 10,
         "lastupdatedtime": "",
@@ -317,14 +357,6 @@
         }
       },
       {
-        "district": "Sangareddy",
-        "confirmed": 1,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      {
         "district": "Jagitial",
         "confirmed": 2,
         "lastupdatedtime": "",
@@ -335,14 +367,6 @@
       {
         "district": "Jogulamba Gadwal",
         "confirmed": 19,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      {
-        "district": "Suryapet",
-        "confirmed": 3,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
