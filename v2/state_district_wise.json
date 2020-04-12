@@ -347,10 +347,10 @@
       },
       {
         "district": "Jaipur",
-        "confirmed": 316,
+        "confirmed": 317,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 15
+          "confirmed": 16
         }
       },
       {
@@ -546,11 +546,19 @@
         }
       },
       {
-        "district": "Unknown",
+        "district": "Hanumangarh",
         "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 2
+        }
+      },
+      {
+        "district": "Unknown",
+        "confirmed": 44,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 44
         }
       }
     ]
@@ -3116,10 +3124,10 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 189,
+        "confirmed": 144,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 45
+          "confirmed": 0
         }
       }
     ]
