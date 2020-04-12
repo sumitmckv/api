@@ -1452,7 +1452,7 @@
     "districtData": [
       {
         "district": "Jammu",
-        "confirmed": 26,
+        "confirmed": 21,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 2
@@ -1460,7 +1460,7 @@
       },
       {
         "district": "Srinagar",
-        "confirmed": 17,
+        "confirmed": 24,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1468,7 +1468,7 @@
       },
       {
         "district": "Bandipore",
-        "confirmed": 10,
+        "confirmed": 25,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 1
@@ -1476,7 +1476,7 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 68,
+        "confirmed": 30,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1500,7 +1500,7 @@
       },
       {
         "district": "Baramula",
-        "confirmed": 5,
+        "confirmed": 36,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 4
@@ -1508,7 +1508,7 @@
       },
       {
         "district": "Shupiyan",
-        "confirmed": 14,
+        "confirmed": 15,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1524,7 +1524,7 @@
       },
       {
         "district": "Kashmir",
-        "confirmed": 32,
+        "confirmed": 20,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1576,6 +1576,14 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 1
+        }
+      },
+      {
+        "district": "Budaun",
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
         }
       }
     ]
