@@ -238,7 +238,7 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 315,
+        "confirmed": 301,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -310,7 +310,7 @@
       },
       {
         "district": "Jogulamba Gadwal",
-        "confirmed": 17,
+        "confirmed": 19,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -333,8 +333,16 @@
         }
       },
       {
-        "district": "Jangaon",
-        "confirmed": 1,
+        "district": "Kamareddy",
+        "confirmed": 10,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      {
+        "district": "Jayashankar",
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -342,7 +350,7 @@
       },
       {
         "district": "Jangoan",
-        "confirmed": 1,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0

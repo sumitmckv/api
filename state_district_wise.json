@@ -206,7 +206,7 @@
         }
       },
       "Unknown": {
-        "confirmed": 315,
+        "confirmed": 301,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -269,7 +269,7 @@
         }
       },
       "Jogulamba Gadwal": {
-        "confirmed": 17,
+        "confirmed": 19,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -289,15 +289,22 @@
           "confirmed": 0
         }
       },
-      "Jangaon": {
-        "confirmed": 1,
+      "Kamareddy": {
+        "confirmed": 10,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      "Jayashankar": {
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       },
       "Jangoan": {
-        "confirmed": 1,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
