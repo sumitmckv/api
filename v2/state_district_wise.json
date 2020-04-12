@@ -1460,7 +1460,7 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 131,
+        "confirmed": 128,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1509,6 +1509,14 @@
       {
         "district": "Kashmir",
         "confirmed": 32,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      {
+        "district": "Samba",
+        "confirmed": 3,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2677,10 +2685,10 @@
       },
       {
         "district": "Indore",
-        "confirmed": 281,
+        "confirmed": 311,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 30
         }
       },
       {
@@ -3220,7 +3228,7 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 144,
+        "confirmed": 114,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
