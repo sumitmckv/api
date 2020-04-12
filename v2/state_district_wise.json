@@ -347,10 +347,10 @@
       },
       {
         "district": "Jaipur",
-        "confirmed": 301,
+        "confirmed": 316,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 15
         }
       },
       {
@@ -371,10 +371,10 @@
       },
       {
         "district": "Jodhpur",
-        "confirmed": 43,
+        "confirmed": 51,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 8
         }
       },
       {
@@ -387,10 +387,10 @@
       },
       {
         "district": "Sikar",
-        "confirmed": 1,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -411,10 +411,10 @@
       },
       {
         "district": "Churu",
-        "confirmed": 11,
+        "confirmed": 12,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -475,10 +475,10 @@
       },
       {
         "district": "Bikaner",
-        "confirmed": 26,
+        "confirmed": 34,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 8
         }
       },
       {
@@ -491,10 +491,10 @@
       },
       {
         "district": "Banswara",
-        "confirmed": 37,
+        "confirmed": 52,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 15
         }
       },
       {
@@ -515,10 +515,10 @@
       },
       {
         "district": "Jaisalmer",
-        "confirmed": 28,
+        "confirmed": 29,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -547,10 +547,10 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 38,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 2
         }
       }
     ]
@@ -2565,10 +2565,10 @@
       },
       {
         "district": "Bhopal",
-        "confirmed": 131,
+        "confirmed": 134,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       {
@@ -3116,10 +3116,10 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 205,
+        "confirmed": 189,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 45
         }
       }
     ]
