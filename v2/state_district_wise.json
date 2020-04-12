@@ -2616,7 +2616,7 @@
     "districtData": [
       {
         "district": "Kangra",
-        "confirmed": 3,
+        "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2624,15 +2624,23 @@
       },
       {
         "district": "Una",
-        "confirmed": 12,
+        "confirmed": 14,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       },
       {
-        "district": "Unknown",
-        "confirmed": 16,
+        "district": "Solan",
+        "confirmed": 9,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      {
+        "district": "Chamba",
+        "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
