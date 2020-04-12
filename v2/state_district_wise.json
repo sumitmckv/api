@@ -1417,7 +1417,7 @@
     "districtData": [
       {
         "district": "Bengaluru",
-        "confirmed": 69,
+        "confirmed": 70,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1497,7 +1497,7 @@
       },
       {
         "district": "Tumakuru",
-        "confirmed": 2,
+        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0

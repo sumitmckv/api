@@ -1235,7 +1235,7 @@
   "Karnataka": {
     "districtData": {
       "Bengaluru": {
-        "confirmed": 69,
+        "confirmed": 70,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1305,7 +1305,7 @@
         }
       },
       "Tumakuru": {
-        "confirmed": 2,
+        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
