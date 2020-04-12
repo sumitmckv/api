@@ -1266,10 +1266,10 @@
   "Jammu and Kashmir": {
     "districtData": {
       "Jammu": {
-        "confirmed": 28,
+        "confirmed": 26,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 4
+          "confirmed": 2
         }
       },
       "Srinagar": {
@@ -1280,10 +1280,10 @@
         }
       },
       "Bandipore": {
-        "confirmed": 9,
+        "confirmed": 10,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Unknown": {
@@ -1308,10 +1308,10 @@
         }
       },
       "Baramula": {
-        "confirmed": 1,
+        "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 4
         }
       },
       "Shupiyan": {
@@ -1322,17 +1322,17 @@
         }
       },
       "Udhampur": {
-        "confirmed": 18,
+        "confirmed": 19,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Kashmir": {
-        "confirmed": 49,
+        "confirmed": 32,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 17
+          "confirmed": 0
         }
       },
       "Pulwama": {
@@ -1343,24 +1343,24 @@
         }
       },
       "Kupwara": {
-        "confirmed": 15,
+        "confirmed": 23,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 8
         }
       },
       "Ganderbal": {
-        "confirmed": 2,
+        "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       "Kulgam": {
-        "confirmed": 3,
+        "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Kishtwar": {
@@ -1371,10 +1371,10 @@
         }
       },
       "Samba": {
-        "confirmed": 3,
+        "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       }
     }
