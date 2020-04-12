@@ -1417,7 +1417,7 @@
     "districtData": [
       {
         "district": "Bengaluru",
-        "confirmed": 68,
+        "confirmed": 69,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1441,7 +1441,7 @@
       },
       {
         "district": "Chikkaballapura",
-        "confirmed": 12,
+        "confirmed": 11,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
