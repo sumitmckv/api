@@ -2547,18 +2547,18 @@
       },
       {
         "district": "Ahmadabad",
-        "confirmed": 266,
+        "confirmed": 282,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 23
+          "confirmed": 39
         }
       },
       {
         "district": "Vadodara",
-        "confirmed": 95,
+        "confirmed": 101,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 6
         }
       },
       {
@@ -2651,10 +2651,10 @@
       },
       {
         "district": "Anand",
-        "confirmed": 7,
+        "confirmed": 8,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 2
+          "confirmed": 3
         }
       },
       {
@@ -3292,7 +3292,7 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 42,
+        "confirmed": 19,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
