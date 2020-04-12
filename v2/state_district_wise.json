@@ -1468,7 +1468,7 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 128,
+        "confirmed": 112,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1508,7 +1508,7 @@
       },
       {
         "district": "Udhampur",
-        "confirmed": 3,
+        "confirmed": 18,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1520,6 +1520,14 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 17
+        }
+      },
+      {
+        "district": "Kishtwar",
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
         }
       },
       {

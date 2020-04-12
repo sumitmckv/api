@@ -1280,7 +1280,7 @@
         }
       },
       "Unknown": {
-        "confirmed": 128,
+        "confirmed": 112,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1315,7 +1315,7 @@
         }
       },
       "Udhampur": {
-        "confirmed": 3,
+        "confirmed": 18,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1326,6 +1326,13 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 17
+        }
+      },
+      "Kishtwar": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
         }
       },
       "Samba": {
