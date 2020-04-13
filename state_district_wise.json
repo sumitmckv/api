@@ -1059,10 +1059,10 @@
         }
       },
       "Tiruppur": {
-        "confirmed": 61,
+        "confirmed": 79,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 18
         }
       },
       "Madurai": {
@@ -1101,17 +1101,17 @@
         }
       },
       "Vellore": {
-        "confirmed": 12,
+        "confirmed": 16,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 4
         }
       },
       "Virudhunagar": {
-        "confirmed": 11,
+        "confirmed": 17,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 6
         }
       },
       "Karur": {
@@ -1122,10 +1122,10 @@
         }
       },
       "Tiruvannamalai": {
-        "confirmed": 7,
+        "confirmed": 8,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Viluppuram": {
@@ -1150,10 +1150,10 @@
         }
       },
       "Thoothukkudi": {
-        "confirmed": 24,
+        "confirmed": 26,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Theni": {
@@ -1171,38 +1171,38 @@
         }
       },
       "Sivaganga": {
-        "confirmed": 6,
+        "confirmed": 10,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 4
         }
       },
       "Tirupathur": {
-        "confirmed": 16,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      "Thiruvarur": {
-        "confirmed": 13,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      "Ramanathapuram": {
-        "confirmed": 3,
+        "confirmed": 17,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 1
         }
       },
-      "Thiruvallur": {
-        "confirmed": 30,
+      "Thiruvarur": {
+        "confirmed": 16,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
+        }
+      },
+      "Ramanathapuram": {
+        "confirmed": 5,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 3
+        }
+      },
+      "Thiruvallur": {
+        "confirmed": 34,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 4
         }
       },
       "Nagapattinam": {
@@ -1259,13 +1259,6 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
-        }
-      },
-      "Unknown": {
-        "confirmed": 45,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 45
         }
       }
     }

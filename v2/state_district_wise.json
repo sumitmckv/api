@@ -1215,10 +1215,10 @@
       },
       {
         "district": "Tiruppur",
-        "confirmed": 61,
+        "confirmed": 79,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 18
         }
       },
       {
@@ -1263,18 +1263,18 @@
       },
       {
         "district": "Vellore",
-        "confirmed": 12,
+        "confirmed": 16,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 4
         }
       },
       {
         "district": "Virudhunagar",
-        "confirmed": 11,
+        "confirmed": 17,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 6
         }
       },
       {
@@ -1287,10 +1287,10 @@
       },
       {
         "district": "Tiruvannamalai",
-        "confirmed": 7,
+        "confirmed": 8,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -1319,10 +1319,10 @@
       },
       {
         "district": "Thoothukkudi",
-        "confirmed": 24,
+        "confirmed": 26,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       {
@@ -1343,42 +1343,42 @@
       },
       {
         "district": "Sivaganga",
-        "confirmed": 6,
+        "confirmed": 10,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 4
         }
       },
       {
         "district": "Tirupathur",
-        "confirmed": 16,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      {
-        "district": "Thiruvarur",
-        "confirmed": 13,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      {
-        "district": "Ramanathapuram",
-        "confirmed": 3,
+        "confirmed": 17,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 1
         }
       },
       {
-        "district": "Thiruvallur",
-        "confirmed": 30,
+        "district": "Thiruvarur",
+        "confirmed": 16,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
+        }
+      },
+      {
+        "district": "Ramanathapuram",
+        "confirmed": 5,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 3
+        }
+      },
+      {
+        "district": "Thiruvallur",
+        "confirmed": 34,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 4
         }
       },
       {
@@ -1443,14 +1443,6 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
-        }
-      },
-      {
-        "district": "Unknown",
-        "confirmed": 45,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 45
         }
       }
     ]
