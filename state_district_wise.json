@@ -160,10 +160,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 1110,
+        "confirmed": 1466,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 356
         }
       }
     }
@@ -1729,10 +1729,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 250,
+        "confirmed": 270,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 234
+          "confirmed": 270
         }
       }
     }
@@ -2561,10 +2561,10 @@
         }
       },
       "Nalanda": {
-        "confirmed": 2,
+        "confirmed": 3,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Lakhisarai": {
