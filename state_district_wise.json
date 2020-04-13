@@ -30,10 +30,10 @@
         }
       },
       "Kannur": {
-        "confirmed": 71,
+        "confirmed": 73,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Ernakulam": {
@@ -79,10 +79,10 @@
         }
       },
       "Palakkad": {
-        "confirmed": 7,
+        "confirmed": 8,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Wayanad": {
@@ -1740,10 +1740,10 @@
         }
       },
       "S.A.S. Nagar": {
-        "confirmed": 53,
+        "confirmed": 54,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Hoshiarpur": {
@@ -1761,10 +1761,10 @@
         }
       },
       "Ludhiana": {
-        "confirmed": 10,
+        "confirmed": 11,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Patiala": {
@@ -1789,10 +1789,10 @@
         }
       },
       "Pathankot": {
-        "confirmed": 16,
+        "confirmed": 18,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Faridkot": {
@@ -1842,6 +1842,13 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      "Unknown": {
+        "confirmed": 2,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 2
         }
       }
     }
@@ -2846,7 +2853,7 @@
         }
       },
       "Unknown": {
-        "confirmed": 138,
+        "confirmed": 129,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0

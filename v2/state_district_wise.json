@@ -36,10 +36,10 @@
       },
       {
         "district": "Kannur",
-        "confirmed": 71,
+        "confirmed": 73,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       {
@@ -92,10 +92,10 @@
       },
       {
         "district": "Palakkad",
-        "confirmed": 7,
+        "confirmed": 8,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -1995,10 +1995,10 @@
       },
       {
         "district": "S.A.S. Nagar",
-        "confirmed": 53,
+        "confirmed": 54,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -2019,10 +2019,10 @@
       },
       {
         "district": "Ludhiana",
-        "confirmed": 10,
+        "confirmed": 11,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -2051,10 +2051,10 @@
       },
       {
         "district": "Pathankot",
-        "confirmed": 16,
+        "confirmed": 18,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       {
@@ -2111,6 +2111,14 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      {
+        "district": "Unknown",
+        "confirmed": 2,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 2
         }
       }
     ]
@@ -3268,7 +3276,7 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 138,
+        "confirmed": 129,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
