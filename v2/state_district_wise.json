@@ -238,10 +238,10 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 60,
+        "confirmed": 65,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 5
         }
       },
       {
@@ -3284,10 +3284,10 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 295,
+        "confirmed": 290,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 295
+          "confirmed": 290
         }
       }
     ]
