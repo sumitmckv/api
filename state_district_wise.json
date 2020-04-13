@@ -2513,6 +2513,13 @@
         "delta": {
           "confirmed": 0
         }
+      },
+      "Unknown": {
+        "confirmed": 52,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 52
+        }
       }
     }
   },
@@ -2839,7 +2846,7 @@
         }
       },
       "Unknown": {
-        "confirmed": 23,
+        "confirmed": 234,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
