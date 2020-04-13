@@ -2354,31 +2354,31 @@
   "Madhya Pradesh": {
     "districtData": {
       "Jabalpur": {
-        "confirmed": 9,
+        "confirmed": 10,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Bhopal": {
-        "confirmed": 134,
+        "confirmed": 142,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 8
         }
       },
       "Indore": {
-        "confirmed": 311,
+        "confirmed": 328,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 17
         }
       },
       "Ujjain": {
-        "confirmed": 15,
+        "confirmed": 24,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 9
         }
       },
       "Gwalior": {
@@ -2403,17 +2403,17 @@
         }
       },
       "Morena": {
-        "confirmed": 13,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      "Khargone": {
         "confirmed": 14,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
+        }
+      },
+      "Khargone": {
+        "confirmed": 17,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 3
         }
       },
       "Barwani": {
@@ -2466,10 +2466,10 @@
         }
       },
       "Hoshangabad": {
-        "confirmed": 10,
+        "confirmed": 15,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 5
         }
       },
       "Raisen": {
@@ -2515,10 +2515,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 52,
+        "confirmed": 8,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 52
+          "confirmed": 8
         }
       }
     }
@@ -2679,10 +2679,10 @@
   "Jharkhand": {
     "districtData": {
       "Ranchi": {
-        "confirmed": 8,
+        "confirmed": 11,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       "Hazaribagh": {
@@ -2693,10 +2693,10 @@
         }
       },
       "Bokaro": {
-        "confirmed": 8,
+        "confirmed": 9,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Kodarma": {
@@ -2704,6 +2704,13 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      "Giridih": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
         }
       }
     }
@@ -2846,7 +2853,7 @@
         }
       },
       "Unknown": {
-        "confirmed": 200,
+        "confirmed": 195,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
