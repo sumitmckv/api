@@ -1842,10 +1842,10 @@
   "Andhra Pradesh": {
     "districtData": {
       "S.P.S. Nellore": {
-        "confirmed": 52,
+        "confirmed": 56,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 4
         }
       },
       "Prakasam": {
@@ -1884,10 +1884,10 @@
         }
       },
       "Guntur": {
-        "confirmed": 90,
+        "confirmed": 93,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 8
+          "confirmed": 11
         }
       },
       "Kurnool": {
@@ -2839,7 +2839,7 @@
         }
       },
       "Unknown": {
-        "confirmed": 30,
+        "confirmed": 23,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
