@@ -2523,26 +2523,26 @@
       },
       {
         "district": "Surat",
-        "confirmed": 28,
+        "confirmed": 33,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 5
         }
       },
       {
         "district": "Ahmadabad",
-        "confirmed": 282,
+        "confirmed": 295,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 13
         }
       },
       {
         "district": "Vadodara",
-        "confirmed": 101,
+        "confirmed": 102,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -2635,10 +2635,10 @@
       },
       {
         "district": "Anand",
-        "confirmed": 8,
+        "confirmed": 9,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -2666,11 +2666,11 @@
         }
       },
       {
-        "district": "Unknown",
-        "confirmed": 22,
+        "district": "Banas Kantha",
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       }
     ]
@@ -3277,6 +3277,14 @@
       {
         "district": "Kannur",
         "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      {
+        "district": "Unknown",
+        "confirmed": 44,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
