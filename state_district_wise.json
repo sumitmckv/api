@@ -1260,6 +1260,13 @@
         "delta": {
           "confirmed": 0
         }
+      },
+      "Unknown": {
+        "confirmed": 98,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 98
+        }
       }
     }
   },
@@ -1754,10 +1761,10 @@
         }
       },
       "Jalandhar": {
-        "confirmed": 22,
+        "confirmed": 24,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Ludhiana": {
@@ -1842,13 +1849,6 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
-        }
-      },
-      "Unknown": {
-        "confirmed": 2,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 2
         }
       }
     }
@@ -2853,7 +2853,7 @@
         }
       },
       "Unknown": {
-        "confirmed": 129,
+        "confirmed": 31,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
