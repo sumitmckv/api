@@ -627,10 +627,10 @@
         }
       },
       "Sirsa": {
-        "confirmed": 3,
+        "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Hisar": {
@@ -2839,7 +2839,7 @@
         }
       },
       "Unknown": {
-        "confirmed": 196,
+        "confirmed": 195,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
