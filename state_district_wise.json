@@ -378,10 +378,10 @@
         }
       },
       "Jaipur": {
-        "confirmed": 361,
+        "confirmed": 370,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 20
+          "confirmed": 29
         }
       },
       "Jhunjhunu": {
@@ -504,10 +504,10 @@
         }
       },
       "Banswara": {
-        "confirmed": 53,
+        "confirmed": 59,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 7
         }
       },
       "Karauli": {
@@ -525,17 +525,17 @@
         }
       },
       "Jaisalmer": {
-        "confirmed": 29,
+        "confirmed": 31,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Kota": {
-        "confirmed": 40,
+        "confirmed": 49,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 9
         }
       },
       "Jhalawar": {
@@ -564,13 +564,6 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
-        }
-      },
-      "Unknown": {
-        "confirmed": 26,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 26
         }
       }
     }
@@ -722,10 +715,10 @@
   "Uttar Pradesh": {
     "districtData": {
       "Agra": {
-        "confirmed": 104,
+        "confirmed": 139,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 35
         }
       },
       "Ghaziabad": {
@@ -736,17 +729,17 @@
         }
       },
       "Lucknow": {
-        "confirmed": 29,
+        "confirmed": 33,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 4
         }
       },
       "Gautam Buddha Nagar": {
-        "confirmed": 62,
+        "confirmed": 66,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 4
         }
       },
       "Kheri": {
@@ -2852,8 +2845,15 @@
           "confirmed": 0
         }
       },
+      "Meerut": {
+        "confirmed": 5,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 5
+        }
+      },
       "Unknown": {
-        "confirmed": 143,
+        "confirmed": 95,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
