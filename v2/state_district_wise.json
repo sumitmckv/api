@@ -1750,7 +1750,7 @@
     "districtData": [
       {
         "district": "Pune",
-        "confirmed": 261,
+        "confirmed": 263,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1758,7 +1758,7 @@
       },
       {
         "district": "Mumbai",
-        "confirmed": 1259,
+        "confirmed": 1297,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1782,7 +1782,7 @@
       },
       {
         "district": "Thane",
-        "confirmed": 145,
+        "confirmed": 182,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1974,7 +1974,7 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 101,
+        "confirmed": 24,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
