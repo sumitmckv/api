@@ -2213,6 +2213,14 @@
         "delta": {
           "confirmed": 0
         }
+      },
+      {
+        "district": "Unknown",
+        "confirmed": 34,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 34
+        }
       }
     ]
   },
@@ -3293,14 +3301,6 @@
       {
         "district": "Kannur",
         "confirmed": 1,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      {
-        "district": "Unknown",
-        "confirmed": 34,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
