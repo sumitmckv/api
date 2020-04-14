@@ -160,10 +160,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 1466,
+        "confirmed": 1517,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 51
         }
       }
     }
@@ -2569,6 +2569,13 @@
         "delta": {
           "confirmed": 0
         }
+      },
+      "Unknown": {
+        "confirmed": 127,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
       }
     }
   },
@@ -2903,13 +2910,6 @@
     "districtData": {
       "Kannur": {
         "confirmed": 1,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      "Unknown": {
-        "confirmed": 58,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
