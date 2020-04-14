@@ -2555,18 +2555,18 @@
       },
       {
         "district": "Ahmadabad",
-        "confirmed": 351,
+        "confirmed": 373,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 31
+          "confirmed": 53
         }
       },
       {
         "district": "Vadodara",
-        "confirmed": 107,
+        "confirmed": 113,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 6
         }
       },
       {
@@ -2595,10 +2595,10 @@
       },
       {
         "district": "Bhavnagar",
-        "confirmed": 24,
+        "confirmed": 26,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 3
         }
       },
       {
@@ -2635,10 +2635,10 @@
       },
       {
         "district": "Chota Udaipur",
-        "confirmed": 3,
+        "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       {
@@ -2659,10 +2659,10 @@
       },
       {
         "district": "Anand",
-        "confirmed": 9,
+        "confirmed": 10,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -3316,7 +3316,7 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 99,
+        "confirmed": 66,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
