@@ -1727,6 +1727,13 @@
         "delta": {
           "confirmed": 0
         }
+      },
+      "Unknown": {
+        "confirmed": 121,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 121
+        }
       }
     }
   },
@@ -2199,10 +2206,10 @@
         }
       },
       "Surat": {
-        "confirmed": 33,
+        "confirmed": 42,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 9
         }
       },
       "Ahmadabad": {
@@ -2220,10 +2227,10 @@
         }
       },
       "Gandhinagar": {
-        "confirmed": 15,
+        "confirmed": 16,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Kachchh": {
@@ -2311,10 +2318,10 @@
         }
       },
       "Dahod": {
-        "confirmed": 1,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Bharuch": {
@@ -2331,11 +2338,11 @@
           "confirmed": 0
         }
       },
-      "Unknown": {
-        "confirmed": 13,
+      "Mehsana ": {
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 13
+          "confirmed": 2
         }
       }
     }
@@ -2868,6 +2875,13 @@
     "districtData": {
       "Kannur": {
         "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      "Unknown": {
+        "confirmed": 298,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0

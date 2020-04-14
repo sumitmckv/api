@@ -1979,6 +1979,14 @@
         "delta": {
           "confirmed": 0
         }
+      },
+      {
+        "district": "Unknown",
+        "confirmed": 121,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 121
+        }
       }
     ]
   },
@@ -2523,10 +2531,10 @@
       },
       {
         "district": "Surat",
-        "confirmed": 33,
+        "confirmed": 42,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 9
         }
       },
       {
@@ -2547,10 +2555,10 @@
       },
       {
         "district": "Gandhinagar",
-        "confirmed": 15,
+        "confirmed": 16,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -2651,10 +2659,10 @@
       },
       {
         "district": "Dahod",
-        "confirmed": 1,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -2674,11 +2682,11 @@
         }
       },
       {
-        "district": "Unknown",
-        "confirmed": 13,
+        "district": "Mehsana ",
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 13
+          "confirmed": 2
         }
       }
     ]
@@ -3293,6 +3301,14 @@
       {
         "district": "Kannur",
         "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      {
+        "district": "Unknown",
+        "confirmed": 298,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
