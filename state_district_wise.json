@@ -1547,7 +1547,7 @@
         }
       },
       "Ahmadnagar": {
-        "confirmed": 26,
+        "confirmed": 27,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1729,7 +1729,7 @@
         }
       },
       "Unknown": {
-        "confirmed": 270,
+        "confirmed": 269,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2753,7 +2753,7 @@
         }
       },
       "Goalpara": {
-        "confirmed": 3,
+        "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2861,6 +2861,13 @@
     "districtData": {
       "Kannur": {
         "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      "Unknown": {
+        "confirmed": 14,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
