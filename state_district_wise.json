@@ -2424,10 +2424,10 @@
         }
       },
       "Indore": {
-        "confirmed": 328,
+        "confirmed": 416,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 88
         }
       },
       "Ujjain": {
@@ -2571,10 +2571,17 @@
         }
       },
       "Unknown": {
-        "confirmed": 127,
+        "confirmed": 38,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 38
+        }
+      },
+      "Tikamgarh": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
         }
       }
     }

@@ -2781,10 +2781,10 @@
       },
       {
         "district": "Indore",
-        "confirmed": 328,
+        "confirmed": 416,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 88
         }
       },
       {
@@ -2949,10 +2949,18 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 127,
+        "confirmed": 38,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 38
+        }
+      },
+      {
+        "district": "Tikamgarh",
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
         }
       }
     ]
