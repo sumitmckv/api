@@ -2027,10 +2027,10 @@
       },
       {
         "district": "S.A.S. Nagar",
-        "confirmed": 54,
+        "confirmed": 56,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       {
@@ -2043,10 +2043,10 @@
       },
       {
         "district": "Jalandhar",
-        "confirmed": 24,
+        "confirmed": 25,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -2083,10 +2083,10 @@
       },
       {
         "district": "Pathankot",
-        "confirmed": 18,
+        "confirmed": 22,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 4
         }
       },
       {
@@ -2143,6 +2143,14 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      {
+        "district": "Gurdaspur",
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
         }
       }
     ]
@@ -3316,7 +3324,7 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 117,
+        "confirmed": 109,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
