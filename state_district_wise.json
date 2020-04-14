@@ -2206,10 +2206,10 @@
         }
       },
       "Ahmadabad": {
-        "confirmed": 320,
+        "confirmed": 351,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 31
         }
       },
       "Vadodara": {
@@ -2241,10 +2241,10 @@
         }
       },
       "Bhavnagar": {
-        "confirmed": 23,
+        "confirmed": 24,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Porbandar": {
@@ -2332,10 +2332,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 45,
+        "confirmed": 13,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 45
+          "confirmed": 13
         }
       }
     }
