@@ -1287,24 +1287,24 @@
   "Jammu and Kashmir": {
     "districtData": {
       "Jammu": {
-        "confirmed": 21,
+        "confirmed": 23,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Srinagar": {
-        "confirmed": 69,
+        "confirmed": 72,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       "Bandipore": {
-        "confirmed": 51,
+        "confirmed": 53,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Rajouri": {
@@ -1392,10 +1392,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 8,
+        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 8
+          "confirmed": 1
         }
       }
     }

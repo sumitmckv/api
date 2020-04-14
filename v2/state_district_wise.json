@@ -1476,26 +1476,26 @@
     "districtData": [
       {
         "district": "Jammu",
-        "confirmed": 21,
+        "confirmed": 23,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       {
         "district": "Srinagar",
-        "confirmed": 69,
+        "confirmed": 72,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       {
         "district": "Bandipore",
-        "confirmed": 51,
+        "confirmed": 53,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       {
@@ -1596,10 +1596,10 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 8,
+        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 8
+          "confirmed": 1
         }
       }
     ]
