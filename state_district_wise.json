@@ -1016,7 +1016,7 @@
         }
       },
       "Unknown": {
-        "confirmed": 99,
+        "confirmed": 100,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 99
@@ -2754,6 +2754,13 @@
         "delta": {
           "confirmed": 0
         }
+      },
+      "Unknown": {
+        "confirmed": 3,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 3
+        }
       }
     }
   },
@@ -2895,7 +2902,7 @@
         }
       },
       "Unknown": {
-        "confirmed": 64,
+        "confirmed": 60,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
