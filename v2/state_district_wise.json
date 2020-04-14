@@ -901,26 +901,26 @@
       },
       {
         "district": "Baghpat",
-        "confirmed": 8,
+        "confirmed": 14,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 7
         }
       },
       {
         "district": "Shamli",
-        "confirmed": 17,
+        "confirmed": 22,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 5
         }
       },
       {
         "district": "Meerut",
-        "confirmed": 56,
+        "confirmed": 61,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 5
         }
       },
       {
@@ -981,10 +981,10 @@
       },
       {
         "district": "Saharanpur",
-        "confirmed": 39,
+        "confirmed": 53,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 14
         }
       },
       {
@@ -997,10 +997,10 @@
       },
       {
         "district": "Hapur",
-        "confirmed": 6,
+        "confirmed": 9,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       {
@@ -1013,10 +1013,10 @@
       },
       {
         "district": "Banda",
-        "confirmed": 2,
+        "confirmed": 3,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -1061,10 +1061,10 @@
       },
       {
         "district": "Auraiya",
-        "confirmed": 8,
+        "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 5
+          "confirmed": 2
         }
       },
       {
@@ -1109,10 +1109,10 @@
       },
       {
         "district": "Sitapur",
-        "confirmed": 10,
+        "confirmed": 13,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       {
@@ -1125,10 +1125,10 @@
       },
       {
         "district": "Amroha",
-        "confirmed": 7,
+        "confirmed": 9,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       {
@@ -1164,11 +1164,19 @@
         }
       },
       {
-        "district": "Unknown",
-        "confirmed": 50,
+        "district": "Bijapur",
+        "confirmed": 8,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 50
+          "confirmed": 8
+        }
+      },
+      {
+        "district": "Sambhal",
+        "confirmed": 6,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 6
         }
       }
     ]
