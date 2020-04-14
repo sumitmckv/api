@@ -1593,18 +1593,18 @@
     "districtData": [
       {
         "district": "Bengaluru",
-        "confirmed": 77,
+        "confirmed": 79,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       {
         "district": "Kalaburagi",
-        "confirmed": 13,
+        "confirmed": 16,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       {
@@ -1649,10 +1649,10 @@
       },
       {
         "district": "Chikkaballapura",
-        "confirmed": 9,
+        "confirmed": 10,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -1697,18 +1697,18 @@
       },
       {
         "district": "Bagalkote",
-        "confirmed": 9,
+        "confirmed": 12,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       {
         "district": "Belagavi",
-        "confirmed": 17,
+        "confirmed": 18,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -1737,10 +1737,10 @@
       },
       {
         "district": "Vijayapura",
-        "confirmed": 6,
+        "confirmed": 7,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       }
     ]
@@ -3308,7 +3308,7 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 298,
+        "confirmed": 287,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
