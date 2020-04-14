@@ -1750,7 +1750,7 @@
     "districtData": [
       {
         "district": "Pune",
-        "confirmed": 266,
+        "confirmed": 308,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1758,7 +1758,7 @@
       },
       {
         "district": "Mumbai",
-        "confirmed": 1357,
+        "confirmed": 1540,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1766,7 +1766,7 @@
       },
       {
         "district": "Nagpur",
-        "confirmed": 28,
+        "confirmed": 39,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1782,7 +1782,7 @@
       },
       {
         "district": "Thane",
-        "confirmed": 190,
+        "confirmed": 206,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1790,7 +1790,7 @@
       },
       {
         "district": "Raigarh",
-        "confirmed": 12,
+        "confirmed": 14,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1798,7 +1798,7 @@
       },
       {
         "district": "Yavatmal",
-        "confirmed": 4,
+        "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1806,7 +1806,7 @@
       },
       {
         "district": "Aurangabad",
-        "confirmed": 19,
+        "confirmed": 23,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1822,7 +1822,7 @@
       },
       {
         "district": "Palghar",
-        "confirmed": 28,
+        "confirmed": 30,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1886,7 +1886,7 @@
       },
       {
         "district": "Buldana",
-        "confirmed": 13,
+        "confirmed": 17,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1894,7 +1894,7 @@
       },
       {
         "district": "Nashik",
-        "confirmed": 30,
+        "confirmed": 33,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1966,7 +1966,7 @@
       },
       {
         "district": "Dhule",
-        "confirmed": 1,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1975,14 +1975,6 @@
       {
         "district": "Solapur",
         "confirmed": 1,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      {
-        "district": "Unknown",
-        "confirmed": 269,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
