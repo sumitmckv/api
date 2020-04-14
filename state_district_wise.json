@@ -1933,10 +1933,10 @@
         }
       },
       "Guntur": {
-        "confirmed": 109,
+        "confirmed": 114,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 16
+          "confirmed": 21
         }
       },
       "Kurnool": {
@@ -1947,10 +1947,10 @@
         }
       },
       "Anantapur": {
-        "confirmed": 17,
+        "confirmed": 20,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 2
+          "confirmed": 5
         }
       },
       "West Godavari": {
@@ -1961,10 +1961,10 @@
         }
       },
       "Y.S.R.": {
-        "confirmed": 30,
+        "confirmed": 32,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       }
     }
@@ -2923,7 +2923,7 @@
         }
       },
       "Unknown": {
-        "confirmed": 476,
+        "confirmed": 466,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
