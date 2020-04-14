@@ -2200,7 +2200,7 @@
       },
       {
         "district": "Kurnool",
-        "confirmed": 91,
+        "confirmed": 88,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 7
@@ -2216,7 +2216,7 @@
       },
       {
         "district": "West Godavari",
-        "confirmed": 23,
+        "confirmed": 26,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2290,10 +2290,10 @@
     "districtData": [
       {
         "district": "Khordha",
-        "confirmed": 42,
+        "confirmed": 46,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 4
         }
       },
       {
@@ -3308,7 +3308,7 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 162,
+        "confirmed": 158,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0

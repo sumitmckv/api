@@ -1919,7 +1919,7 @@
         }
       },
       "Kurnool": {
-        "confirmed": 91,
+        "confirmed": 88,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 7
@@ -1933,7 +1933,7 @@
         }
       },
       "West Godavari": {
-        "confirmed": 23,
+        "confirmed": 26,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1997,10 +1997,10 @@
   "Odisha": {
     "districtData": {
       "Khordha": {
-        "confirmed": 42,
+        "confirmed": 46,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 4
         }
       },
       "Bhadrak": {
@@ -2881,7 +2881,7 @@
         }
       },
       "Unknown": {
-        "confirmed": 162,
+        "confirmed": 158,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
