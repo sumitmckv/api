@@ -1617,10 +1617,10 @@
     "districtData": [
       {
         "district": "Bengaluru",
-        "confirmed": 79,
+        "confirmed": 80,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 2
+          "confirmed": 3
         }
       },
       {
@@ -1657,10 +1657,10 @@
       },
       {
         "district": "Uttara Kannada",
-        "confirmed": 9,
+        "confirmed": 10,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -3324,7 +3324,7 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 101,
+        "confirmed": 99,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
