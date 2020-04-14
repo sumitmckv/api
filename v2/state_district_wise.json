@@ -821,10 +821,10 @@
     "districtData": [
       {
         "district": "Agra",
-        "confirmed": 139,
+        "confirmed": 143,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 4
         }
       },
       {
@@ -837,18 +837,18 @@
       },
       {
         "district": "Lucknow",
-        "confirmed": 33,
+        "confirmed": 41,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 8
         }
       },
       {
         "district": "Gautam Buddha Nagar",
-        "confirmed": 66,
+        "confirmed": 82,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 16
         }
       },
       {
@@ -861,10 +861,10 @@
       },
       {
         "district": "Moradabad",
-        "confirmed": 2,
+        "confirmed": 19,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 17
         }
       },
       {
@@ -877,10 +877,10 @@
       },
       {
         "district": "Kanpur Nagar",
-        "confirmed": 9,
+        "confirmed": 10,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -901,10 +901,10 @@
       },
       {
         "district": "Baghpat",
-        "confirmed": 7,
+        "confirmed": 8,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -1061,10 +1061,10 @@
       },
       {
         "district": "Auraiya",
-        "confirmed": 3,
+        "confirmed": 8,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 5
         }
       },
       {
@@ -1165,10 +1165,10 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 100,
+        "confirmed": 50,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 99
+          "confirmed": 50
         }
       }
     ]
@@ -3332,7 +3332,7 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 60,
+        "confirmed": 58,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
