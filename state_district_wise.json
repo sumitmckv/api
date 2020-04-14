@@ -585,10 +585,10 @@
         }
       },
       "Faridabad": {
-        "confirmed": 31,
+        "confirmed": 33,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Panipat": {
@@ -2874,7 +2874,7 @@
         }
       },
       "Unknown": {
-        "confirmed": 263,
+        "confirmed": 261,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
