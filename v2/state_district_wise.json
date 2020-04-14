@@ -2444,10 +2444,10 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 125,
+        "confirmed": 163,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 38
         }
       }
     ]
@@ -3285,6 +3285,14 @@
       {
         "district": "Kannur",
         "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      {
+        "district": "Unknown",
+        "confirmed": 79,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0

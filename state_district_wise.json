@@ -2131,10 +2131,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 125,
+        "confirmed": 163,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 38
         }
       }
     }
@@ -2861,6 +2861,13 @@
     "districtData": {
       "Kannur": {
         "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      "Unknown": {
+        "confirmed": 79,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
