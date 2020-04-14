@@ -209,7 +209,7 @@
         "confirmed": 173,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 52
         }
       },
       "Rajanna Sircilla": {
@@ -2910,6 +2910,13 @@
     "districtData": {
       "Kannur": {
         "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      "Unknown": {
+        "confirmed": 742,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
