@@ -2765,34 +2765,34 @@
     "districtData": [
       {
         "district": "Jabalpur",
-        "confirmed": 10,
+        "confirmed": 12,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       {
         "district": "Bhopal",
-        "confirmed": 142,
+        "confirmed": 158,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 16
         }
       },
       {
         "district": "Indore",
-        "confirmed": 416,
+        "confirmed": 413,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 88
+          "confirmed": 85
         }
       },
       {
         "district": "Ujjain",
-        "confirmed": 24,
+        "confirmed": 26,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       {
@@ -2837,10 +2837,10 @@
       },
       {
         "district": "Barwani",
-        "confirmed": 14,
+        "confirmed": 17,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       {
@@ -2869,26 +2869,26 @@
       },
       {
         "district": "Sheopur",
-        "confirmed": 2,
+        "confirmed": 3,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
         "district": "Khandwa",
-        "confirmed": 6,
+        "confirmed": 16,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 10
         }
       },
       {
         "district": "Dhar",
-        "confirmed": 2,
+        "confirmed": 3,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -2909,10 +2909,10 @@
       },
       {
         "district": "Dewas",
-        "confirmed": 4,
+        "confirmed": 7,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       {
@@ -2925,10 +2925,10 @@
       },
       {
         "district": "Shajapur",
-        "confirmed": 1,
+        "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       {
@@ -2945,14 +2945,6 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
-        }
-      },
-      {
-        "district": "Unknown",
-        "confirmed": 38,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 38
         }
       },
       {
