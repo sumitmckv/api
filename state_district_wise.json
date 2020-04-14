@@ -378,10 +378,10 @@
         }
       },
       "Jaipur": {
-        "confirmed": 370,
+        "confirmed": 418,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 48
         }
       },
       "Jhunjhunu": {
@@ -564,13 +564,6 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
-        }
-      },
-      "Unknown": {
-        "confirmed": 48,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 48
         }
       }
     }
