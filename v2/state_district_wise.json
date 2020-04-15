@@ -2773,7 +2773,7 @@
       },
       {
         "district": "Indore",
-        "confirmed": 413,
+        "confirmed": 411,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2925,7 +2925,7 @@
       },
       {
         "district": "Ratlam",
-        "confirmed": 1,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2933,7 +2933,7 @@
       },
       {
         "district": "Mandsaur",
-        "confirmed": 1,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
