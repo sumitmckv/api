@@ -1547,14 +1547,14 @@
   "Maharashtra": {
     "districtData": {
       "Pune": {
-        "confirmed": 308,
+        "confirmed": 351,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       },
       "Mumbai": {
-        "confirmed": 1540,
+        "confirmed": 1756,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1575,14 +1575,14 @@
         }
       },
       "Thane": {
-        "confirmed": 206,
+        "confirmed": 270,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       },
       "Raigarh": {
-        "confirmed": 14,
+        "confirmed": 15,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1603,7 +1603,7 @@
         }
       },
       "Ratnagiri": {
-        "confirmed": 5,
+        "confirmed": 6,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1652,7 +1652,7 @@
         }
       },
       "Other States*": {
-        "confirmed": 9,
+        "confirmed": 11,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1744,13 +1744,6 @@
       },
       "Solapur": {
         "confirmed": 1,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      "Unknown": {
-        "confirmed": 327,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
