@@ -2006,10 +2006,10 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 117,
+        "confirmed": 232,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 117
+          "confirmed": 232
         }
       }
     ]
@@ -3365,14 +3365,6 @@
       {
         "district": "Kannur",
         "confirmed": 1,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      {
-        "district": "Unknown",
-        "confirmed": 47,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
