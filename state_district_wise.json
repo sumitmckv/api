@@ -2763,7 +2763,7 @@
   "Jharkhand": {
     "districtData": {
       "Ranchi": {
-        "confirmed": 11,
+        "confirmed": 13,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2797,8 +2797,8 @@
           "confirmed": 0
         }
       },
-      "Unknown": {
-        "confirmed": 3,
+      "Simdega": {
+        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0

@@ -3171,7 +3171,7 @@
     "districtData": [
       {
         "district": "Ranchi",
-        "confirmed": 11,
+        "confirmed": 13,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -3210,8 +3210,8 @@
         }
       },
       {
-        "district": "Unknown",
-        "confirmed": 3,
+        "district": "Simdega",
+        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
