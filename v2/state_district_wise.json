@@ -1492,10 +1492,10 @@
     "districtData": [
       {
         "district": "Jammu",
-        "confirmed": 23,
+        "confirmed": 26,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       {
@@ -1508,10 +1508,10 @@
       },
       {
         "district": "Bandipore",
-        "confirmed": 53,
+        "confirmed": 56,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       {
@@ -1532,10 +1532,10 @@
       },
       {
         "district": "Baramula",
-        "confirmed": 40,
+        "confirmed": 42,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       {
@@ -1548,10 +1548,10 @@
       },
       {
         "district": "Udhampur",
-        "confirmed": 19,
+        "confirmed": 20,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -1564,18 +1564,18 @@
       },
       {
         "district": "Kupwara",
-        "confirmed": 23,
+        "confirmed": 25,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       {
         "district": "Ganderbal",
-        "confirmed": 5,
+        "confirmed": 13,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 8
         }
       },
       {
@@ -1608,14 +1608,6 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
-        }
-      },
-      {
-        "district": "Unknown",
-        "confirmed": 19,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 19
         }
       }
     ]
