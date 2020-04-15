@@ -729,7 +729,7 @@
         }
       },
       "Lucknow": {
-        "confirmed": 41,
+        "confirmed": 44,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -932,7 +932,7 @@
         }
       },
       "Mathura": {
-        "confirmed": 7,
+        "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -953,7 +953,7 @@
         }
       },
       "Bijnor": {
-        "confirmed": 1,
+        "confirmed": 9,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1010,13 +1010,6 @@
       },
       "Etawah": {
         "confirmed": 1,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      "Bijapur": {
-        "confirmed": 8,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2220,10 +2213,10 @@
         }
       },
       "Surat": {
-        "confirmed": 42,
+        "confirmed": 48,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 6
         }
       },
       "Ahmadabad": {
@@ -2234,10 +2227,10 @@
         }
       },
       "Vadodara": {
-        "confirmed": 113,
+        "confirmed": 116,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       "Gandhinagar": {
@@ -2283,10 +2276,10 @@
         }
       },
       "Panch Mahals": {
-        "confirmed": 2,
+        "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       "Patan": {
@@ -2359,11 +2352,11 @@
           "confirmed": 1
         }
       },
-      "Unknown": {
-        "confirmed": 13,
+      "Kheda": {
+        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 13
+          "confirmed": 1
         }
       }
     }

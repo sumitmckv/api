@@ -837,7 +837,7 @@
       },
       {
         "district": "Lucknow",
-        "confirmed": 41,
+        "confirmed": 44,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1069,7 +1069,7 @@
       },
       {
         "district": "Mathura",
-        "confirmed": 7,
+        "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1093,7 +1093,7 @@
       },
       {
         "district": "Bijnor",
-        "confirmed": 1,
+        "confirmed": 9,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1158,14 +1158,6 @@
       {
         "district": "Etawah",
         "confirmed": 1,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      {
-        "district": "Bijapur",
-        "confirmed": 8,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2547,10 +2539,10 @@
       },
       {
         "district": "Surat",
-        "confirmed": 42,
+        "confirmed": 48,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 6
         }
       },
       {
@@ -2563,10 +2555,10 @@
       },
       {
         "district": "Vadodara",
-        "confirmed": 113,
+        "confirmed": 116,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       {
@@ -2619,10 +2611,10 @@
       },
       {
         "district": "Panch Mahals",
-        "confirmed": 2,
+        "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       {
@@ -2706,11 +2698,11 @@
         }
       },
       {
-        "district": "Unknown",
-        "confirmed": 13,
+        "district": "Kheda",
+        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 13
+          "confirmed": 1
         }
       }
     ]
