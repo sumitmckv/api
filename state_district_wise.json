@@ -1891,10 +1891,10 @@
   "Andhra Pradesh": {
     "districtData": {
       "S.P.S. Nellore": {
-        "confirmed": 57,
+        "confirmed": 59,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Prakasam": {
@@ -1933,24 +1933,24 @@
         }
       },
       "Guntur": {
-        "confirmed": 118,
+        "confirmed": 122,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 4
+          "confirmed": 8
         }
       },
       "Kurnool": {
-        "confirmed": 96,
+        "confirmed": 109,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 6
+          "confirmed": 19
         }
       },
       "Anantapur": {
-        "confirmed": 20,
+        "confirmed": 21,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "West Godavari": {
@@ -1961,10 +1961,10 @@
         }
       },
       "Y.S.R.": {
-        "confirmed": 33,
+        "confirmed": 36,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       }
     }
@@ -2379,6 +2379,13 @@
         "delta": {
           "confirmed": 1
         }
+      },
+      "Unknown": {
+        "confirmed": 71,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 71
+        }
       }
     }
   },
@@ -2596,6 +2603,13 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      "Unknown": {
+        "confirmed": 197,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 197
         }
       }
     }
@@ -2931,6 +2945,13 @@
     "districtData": {
       "Kannur": {
         "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      "Unknown": {
+        "confirmed": 10,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0

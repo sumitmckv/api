@@ -2168,10 +2168,10 @@
     "districtData": [
       {
         "district": "S.P.S. Nellore",
-        "confirmed": 57,
+        "confirmed": 59,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       {
@@ -2216,26 +2216,26 @@
       },
       {
         "district": "Guntur",
-        "confirmed": 118,
+        "confirmed": 122,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 4
+          "confirmed": 8
         }
       },
       {
         "district": "Kurnool",
-        "confirmed": 96,
+        "confirmed": 109,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 6
+          "confirmed": 19
         }
       },
       {
         "district": "Anantapur",
-        "confirmed": 20,
+        "confirmed": 21,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -2248,10 +2248,10 @@
       },
       {
         "district": "Y.S.R.",
-        "confirmed": 33,
+        "confirmed": 36,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       }
     ]
@@ -2728,6 +2728,14 @@
         "delta": {
           "confirmed": 1
         }
+      },
+      {
+        "district": "Unknown",
+        "confirmed": 71,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 71
+        }
       }
     ]
   },
@@ -2977,6 +2985,14 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      {
+        "district": "Unknown",
+        "confirmed": 197,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 197
         }
       }
     ]
@@ -3365,6 +3381,14 @@
       {
         "district": "Kannur",
         "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      {
+        "district": "Unknown",
+        "confirmed": 10,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
