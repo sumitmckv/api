@@ -36,10 +36,10 @@
       },
       {
         "district": "Kannur",
-        "confirmed": 77,
+        "confirmed": 78,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -112,14 +112,6 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
-        }
-      },
-      {
-        "district": "Unknown",
-        "confirmed": 1,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 1
         }
       }
     ]
@@ -246,7 +238,7 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 173,
+        "confirmed": 170,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -423,6 +415,14 @@
       {
         "district": "Jangoan",
         "confirmed": 2,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      {
+        "district": "Kumuram Bheem Asifabad",
+        "confirmed": 3,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2067,10 +2067,10 @@
       },
       {
         "district": "Patiala",
-        "confirmed": 2,
+        "confirmed": 3,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -2147,10 +2147,10 @@
       },
       {
         "district": "Sangrur",
-        "confirmed": 2,
+        "confirmed": 3,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -3372,7 +3372,7 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 117,
+        "confirmed": 115,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
