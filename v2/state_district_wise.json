@@ -1492,7 +1492,7 @@
       },
       {
         "district": "Srinagar",
-        "confirmed": 72,
+        "confirmed": 73,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1596,14 +1596,6 @@
       },
       {
         "district": "Budaun",
-        "confirmed": 1,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      {
-        "district": "Unknown",
         "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
