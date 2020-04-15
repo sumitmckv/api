@@ -2152,10 +2152,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 163,
+        "confirmed": 186,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 23
         }
       }
     }
@@ -2902,7 +2902,7 @@
         }
       },
       "Unknown": {
-        "confirmed": 466,
+        "confirmed": 443,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
