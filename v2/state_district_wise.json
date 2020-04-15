@@ -1601,10 +1601,10 @@
     "districtData": [
       {
         "district": "Bengaluru",
-        "confirmed": 80,
+        "confirmed": 81,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -1749,6 +1749,14 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      {
+        "district": "Unknown",
+        "confirmed": 16,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 16
         }
       }
     ]
@@ -3039,6 +3047,14 @@
         "delta": {
           "confirmed": 0
         }
+      },
+      {
+        "district": "Unknown",
+        "confirmed": 4,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 4
+        }
       }
     ]
   },
@@ -3340,7 +3356,7 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 378,
+        "confirmed": 357,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
