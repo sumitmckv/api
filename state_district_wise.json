@@ -2227,10 +2227,10 @@
         }
       },
       "Ahmadabad": {
-        "confirmed": 373,
+        "confirmed": 404,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 31
         }
       },
       "Vadodara": {
@@ -2350,6 +2350,20 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      "Botad": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
+        }
+      },
+      "Unknown": {
+        "confirmed": 13,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 13
         }
       }
     }
@@ -2902,7 +2916,7 @@
         }
       },
       "Unknown": {
-        "confirmed": 423,
+        "confirmed": 378,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0

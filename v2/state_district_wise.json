@@ -2555,10 +2555,10 @@
       },
       {
         "district": "Ahmadabad",
-        "confirmed": 373,
+        "confirmed": 404,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 31
         }
       },
       {
@@ -2695,6 +2695,22 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      {
+        "district": "Botad",
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
+        }
+      },
+      {
+        "district": "Unknown",
+        "confirmed": 13,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 13
         }
       }
     ]
@@ -3332,7 +3348,7 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 423,
+        "confirmed": 378,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
