@@ -2522,7 +2522,7 @@
         }
       },
       "Raisen": {
-        "confirmed": 5,
+        "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2557,6 +2557,13 @@
         }
       },
       "Mandsaur": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      "Satna": {
         "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {

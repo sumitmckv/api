@@ -2893,7 +2893,7 @@
       },
       {
         "district": "Raisen",
-        "confirmed": 5,
+        "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2933,6 +2933,14 @@
       },
       {
         "district": "Mandsaur",
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      {
+        "district": "Satna",
         "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
