@@ -1021,6 +1021,13 @@
         "delta": {
           "confirmed": 0
         }
+      },
+      "Unknown": {
+        "confirmed": 67,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 67
+        }
       }
     }
   },
@@ -1494,10 +1501,10 @@
         }
       },
       "Belagavi": {
-        "confirmed": 18,
+        "confirmed": 19,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Bengaluru Rural": {
@@ -1522,17 +1529,10 @@
         }
       },
       "Vijayapura": {
-        "confirmed": 9,
+        "confirmed": 10,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 2
-        }
-      },
-      "Unknown": {
-        "confirmed": 2,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 2
+          "confirmed": 3
         }
       }
     }
@@ -2930,7 +2930,7 @@
         }
       },
       "Unknown": {
-        "confirmed": 191,
+        "confirmed": 124,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
