@@ -1790,7 +1790,7 @@
       },
       {
         "district": "Nagpur",
-        "confirmed": 39,
+        "confirmed": 44,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1846,7 +1846,7 @@
       },
       {
         "district": "Palghar",
-        "confirmed": 30,
+        "confirmed": 34,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1918,7 +1918,7 @@
       },
       {
         "district": "Nashik",
-        "confirmed": 33,
+        "confirmed": 46,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1950,7 +1950,7 @@
       },
       {
         "district": "Amravati",
-        "confirmed": 5,
+        "confirmed": 6,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2006,7 +2006,7 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 350,
+        "confirmed": 327,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
