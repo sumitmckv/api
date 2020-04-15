@@ -1308,10 +1308,10 @@
         }
       },
       "Srinagar": {
-        "confirmed": 73,
+        "confirmed": 76,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       "Bandipore": {
@@ -1406,10 +1406,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 22,
+        "confirmed": 19,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 22
+          "confirmed": 19
         }
       }
     }
