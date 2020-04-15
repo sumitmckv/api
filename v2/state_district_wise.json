@@ -829,10 +829,10 @@
     "districtData": [
       {
         "district": "Agra",
-        "confirmed": 143,
+        "confirmed": 150,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 7
         }
       },
       {
@@ -845,10 +845,10 @@
       },
       {
         "district": "Lucknow",
-        "confirmed": 44,
+        "confirmed": 75,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 31
         }
       },
       {
@@ -869,10 +869,10 @@
       },
       {
         "district": "Moradabad",
-        "confirmed": 19,
+        "confirmed": 21,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       {
@@ -885,10 +885,10 @@
       },
       {
         "district": "Kanpur Nagar",
-        "confirmed": 10,
+        "confirmed": 18,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 8
         }
       },
       {
@@ -925,10 +925,10 @@
       },
       {
         "district": "Meerut",
-        "confirmed": 61,
+        "confirmed": 65,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 4
         }
       },
       {
@@ -941,18 +941,18 @@
       },
       {
         "district": "Bulandshahr",
-        "confirmed": 11,
+        "confirmed": 12,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
         "district": "Basti",
-        "confirmed": 14,
+        "confirmed": 16,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       {
@@ -1005,10 +1005,10 @@
       },
       {
         "district": "Hapur",
-        "confirmed": 9,
+        "confirmed": 15,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 6
         }
       },
       {
@@ -1180,11 +1180,19 @@
         }
       },
       {
-        "district": "Unknown",
-        "confirmed": 75,
+        "district": "Fir",
+        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 75
+          "confirmed": 1
+        }
+      },
+      {
+        "district": "Unknown",
+        "confirmed": 13,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 13
         }
       }
     ]
