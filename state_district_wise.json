@@ -2364,7 +2364,7 @@
         }
       },
       "Una": {
-        "confirmed": 14,
+        "confirmed": 15,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2902,7 +2902,7 @@
         }
       },
       "Unknown": {
-        "confirmed": 443,
+        "confirmed": 442,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
