@@ -680,10 +680,10 @@
       },
       {
         "district": "Panipat",
-        "confirmed": 4,
+        "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -744,10 +744,10 @@
       },
       {
         "district": "Nuh",
-        "confirmed": 45,
+        "confirmed": 48,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       {
@@ -812,6 +812,14 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      {
+        "district": "Unknown",
+        "confirmed": 2,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 2
         }
       }
     ]
@@ -3348,7 +3356,7 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 316,
+        "confirmed": 310,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
