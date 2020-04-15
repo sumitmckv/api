@@ -113,6 +113,14 @@
         "delta": {
           "confirmed": 0
         }
+      },
+      {
+        "district": "Unknown",
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
+        }
       }
     ]
   },
@@ -3364,7 +3372,7 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 124,
+        "confirmed": 117,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -3390,10 +3398,10 @@
     "districtData": [
       {
         "district": "East Khasi Hills",
-        "confirmed": 1,
+        "confirmed": 7,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 6
         }
       }
     ]

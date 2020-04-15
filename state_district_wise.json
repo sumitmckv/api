@@ -98,6 +98,13 @@
         "delta": {
           "confirmed": 0
         }
+      },
+      "Unknown": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
+        }
       }
     }
   },
@@ -2930,7 +2937,7 @@
         }
       },
       "Unknown": {
-        "confirmed": 124,
+        "confirmed": 117,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2952,10 +2959,10 @@
   "Meghalaya": {
     "districtData": {
       "East Khasi Hills": {
-        "confirmed": 1,
+        "confirmed": 7,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 6
         }
       }
     }
