@@ -435,10 +435,10 @@
       },
       {
         "district": "Jaipur",
-        "confirmed": 453,
+        "confirmed": 468,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 15
         }
       },
       {
@@ -459,10 +459,10 @@
       },
       {
         "district": "Jodhpur",
-        "confirmed": 95,
+        "confirmed": 102,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 7
         }
       },
       {
@@ -611,10 +611,10 @@
       },
       {
         "district": "Kota",
-        "confirmed": 57,
+        "confirmed": 64,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 7
         }
       },
       {
@@ -3348,7 +3348,7 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 357,
+        "confirmed": 328,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
