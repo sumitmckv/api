@@ -206,10 +206,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 170,
+        "confirmed": 168,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 6
         }
       },
       "Rajanna Sircilla": {
@@ -220,7 +220,7 @@
         }
       },
       "Khammam": {
-        "confirmed": 2,
+        "confirmed": 7,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -290,7 +290,7 @@
         }
       },
       "Adilabad": {
-        "confirmed": 10,
+        "confirmed": 11,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -346,14 +346,14 @@
         }
       },
       "Kamareddy": {
-        "confirmed": 10,
+        "confirmed": 11,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       },
       "Jayashankar": {
-        "confirmed": 2,
+        "confirmed": 3,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2227,31 +2227,31 @@
   "Gujarat": {
     "districtData": {
       "Rajkot": {
-        "confirmed": 18,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      "Surat": {
-        "confirmed": 48,
+        "confirmed": 24,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 6
         }
       },
-      "Ahmadabad": {
-        "confirmed": 404,
+      "Surat": {
+        "confirmed": 51,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 31
+          "confirmed": 9
+        }
+      },
+      "Ahmadabad": {
+        "confirmed": 450,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 77
         }
       },
       "Vadodara": {
-        "confirmed": 116,
+        "confirmed": 121,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 3
+          "confirmed": 8
         }
       },
       "Gandhinagar": {
@@ -2332,10 +2332,10 @@
         }
       },
       "Anand": {
-        "confirmed": 10,
+        "confirmed": 17,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 7
         }
       },
       "Sabar Kantha": {
@@ -2353,10 +2353,10 @@
         }
       },
       "Bharuch": {
-        "confirmed": 11,
+        "confirmed": 13,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Banas Kantha": {
@@ -2380,11 +2380,11 @@
           "confirmed": 1
         }
       },
-      "Unknown": {
-        "confirmed": 71,
+      "Narmada": {
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 71
+          "confirmed": 2
         }
       }
     }
@@ -2424,6 +2424,13 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      "Unknown": {
+        "confirmed": 2,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 2
         }
       }
     }
@@ -2951,7 +2958,7 @@
         }
       },
       "Unknown": {
-        "confirmed": 10,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0

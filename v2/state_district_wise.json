@@ -238,10 +238,10 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 170,
+        "confirmed": 168,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 6
         }
       },
       {
@@ -254,7 +254,7 @@
       },
       {
         "district": "Khammam",
-        "confirmed": 2,
+        "confirmed": 7,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -334,7 +334,7 @@
       },
       {
         "district": "Adilabad",
-        "confirmed": 10,
+        "confirmed": 11,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -398,7 +398,7 @@
       },
       {
         "district": "Kamareddy",
-        "confirmed": 10,
+        "confirmed": 11,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -406,7 +406,7 @@
       },
       {
         "district": "Jayashankar",
-        "confirmed": 2,
+        "confirmed": 3,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2555,34 +2555,34 @@
     "districtData": [
       {
         "district": "Rajkot",
-        "confirmed": 18,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      {
-        "district": "Surat",
-        "confirmed": 48,
+        "confirmed": 24,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 6
         }
       },
       {
-        "district": "Ahmadabad",
-        "confirmed": 404,
+        "district": "Surat",
+        "confirmed": 51,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 31
+          "confirmed": 9
+        }
+      },
+      {
+        "district": "Ahmadabad",
+        "confirmed": 450,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 77
         }
       },
       {
         "district": "Vadodara",
-        "confirmed": 116,
+        "confirmed": 121,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 3
+          "confirmed": 8
         }
       },
       {
@@ -2675,10 +2675,10 @@
       },
       {
         "district": "Anand",
-        "confirmed": 10,
+        "confirmed": 17,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 7
         }
       },
       {
@@ -2699,10 +2699,10 @@
       },
       {
         "district": "Bharuch",
-        "confirmed": 11,
+        "confirmed": 13,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       {
@@ -2730,11 +2730,11 @@
         }
       },
       {
-        "district": "Unknown",
-        "confirmed": 71,
+        "district": "Narmada",
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 71
+          "confirmed": 2
         }
       }
     ]
@@ -2780,6 +2780,14 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      {
+        "district": "Unknown",
+        "confirmed": 2,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 2
         }
       }
     ]
@@ -3388,7 +3396,7 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 10,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
